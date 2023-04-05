@@ -365,6 +365,10 @@
         <item quantity="other">~%d haftalık bildirim</item>
         <item quantity="one">~%d haftalık bildirim</item>
     </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">Değişiklikler %d saniye içinde uygulanacak</item>
+        <item quantity="one">Değişiklikler %d saniye içinde uygulanacak</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d dakika önce</item>
         <item quantity="one">1 dakika önce</item>
@@ -464,22 +468,6 @@
     <plurals name="ssl_ca_cert_dialog_title">
         <item quantity="other">Sertifikalara güvenin veya sertifikaları kaldırın</item>
         <item quantity="one">Sertifikaya güvenin veya sertifikayı kaldırın</item>
-    </plurals>
-    <plurals name="ssl_ca_cert_info_message">
-        <item quantity="other">"%s yöneticisi iş profiliniz için sertifika yetkilileri yükledi. Yönetici bu sertifikalarla e-postalar, uygulamalar ve güvenli web siteleri de dahil olmak üzere iş ağı etkinliğini izleyebilir
-
-Bu sertifikalar hakkında daha fazla bilgi için yöneticinize başvurun"</item>
-        <item quantity="one">"%s yöneticisi iş profiliniz için bir sertifika yetkilisi yükledi. Yönetici bu sertifikayla e-postalar, uygulamalar ve güvenli web siteleri de dahil olmak üzere iş ağı etkinliğini izleyebilir.
-
-Bu sertifika hakkında daha fazla bilgi edinmek için yöneticinize başvurun"</item>
-    </plurals>
-    <plurals name="ssl_ca_cert_info_message_device_owner">
-        <item quantity="other">"%s yöneticisi cihazınıza sertifika yetkilileri yükledi. Yönetici bu sertifikalarla e-postalar, uygulamalar ve güvenli web siteleri de dahil olmak üzere cihazınızın ağ etkinliğini izleyebilir
-
-Bu sertifikalar hakkında daha fazla bilgi için yöneticinize başvurun"</item>
-        <item quantity="one">"%s yöneticisi cihazınıza bir sertifika yetkilisi yükledi. Yönetici bu sertifikayla e-postalar, uygulamalar ve güvenli web siteleri de dahil olmak üzere cihazınızın ağ etkinliğini izleyebilir
-
-Bu sertifika hakkında daha fazla bilgi edinmek için yöneticinize başvurun"</item>
     </plurals>
     <plurals name="ssl_ca_cert_settings_button">
         <item quantity="other">Sertifikaları kontrol et</item>
@@ -632,27 +620,6 @@ Bu sertifika hakkında daha fazla bilgi edinmek için yöneticinize başvurun"</
     <plurals name="wrong_pin_code">
         <item quantity="other">Yanlış Sim Pin kodu. %d deneme hakkınız kaldı</item>
         <item quantity="one">Yanlış Sim Pin kodu. Cihazınızın kilidini açmak için operatörünüzle bağlantı kurmak zorunda kalmadan önce %d deneme hakkınız kaldı</item>
-    </plurals>
-    <plurals name="zen_mode_bypassing_apps_subtext">
-        <item quantity="other">%1$d uygulamadan gelen bildirimler rahatsız etmeyini geçersiz kılabilir</item>
-        <item quantity="zero">Hiçbir uygulama rahatsız etmeyini geçersiz kılamaz</item>
-        <item quantity="one">1 uygulamadan gelen bildirimler rahatsız etmeyini geçersiz kılabilir</item>
-    </plurals>
-    <plurals name="zen_mode_other_sounds_summary">
-        <item quantity="other">%s kesebilir</item>
-        <item quantity="one">%s kesebilir</item>
-    </plurals>
-    <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">%d otomatik kural açıldı</item>
-        <item quantity="one">1 otomatik kural açıldı</item>
-    </plurals>
-    <plurals name="zen_mode_sound_summary_summary_off_info">
-        <item quantity="other">%d kural otomatik olarak açılabilir</item>
-        <item quantity="one">1 kural otomatik olarak açılabilir</item>
-    </plurals>
-    <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
-        <item quantity="other">%d diğer</item>
-        <item quantity="one">1 diğer</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
         <item quantity="other">%1$d saat için yalnızca alarmlar seçeneğine değiştir (Şu saate kadar: %2$s)</item>

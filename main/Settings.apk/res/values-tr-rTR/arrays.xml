@@ -332,6 +332,7 @@
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
+        <item>192.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
         <item>Sistem seçimini kullan (Varsayılan)</item>
@@ -339,6 +340,7 @@
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
+        <item>192.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Sistem seçimini kullan (Varsayılan)</item>
@@ -354,6 +356,7 @@
         <item>LHDC V1</item>
         <item>İsteğe bağlı kodekleri etkinleştir</item>
         <item>İsteğe bağlı kodekleri devre dışı bırak</item>
+        <item>İsteğe bağlı codec bileşenlerini devre dışı bırakın</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Sistem seçimini kullan (Varsayılan)</item>
@@ -369,6 +372,7 @@
         <item>LHDC V1</item>
         <item>İsteğe bağlı kodekleri etkinleştir</item>
         <item>İsteğe bağlı kodekleri devre dışı bırak</item>
+        <item>İsteğe bağlı codec bileşenlerini devre dışı bırakın</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -381,6 +385,11 @@
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_broadcast_pin_config_titles">
+        <item>Şifrelenmemiş (Güvenlik yok)</item>
+        <item>4 haneli pin (Düşük güvenlik)</item>
+        <item>16 haneli pin (Yüksek güvenlik)</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
         <item>MAP 1.2 (Varsayılan)</item>
@@ -743,14 +752,14 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Ağ zayıf sinyal gücü nedeniyle yavaş</item>
         <item>Taşınıyor</item>
     </string-array>
+    <string-array name="nfc_payment_favor">
+        <item>Herzaman</item>
+        <item>Başka bir ödeme uygulamasının açık olduğu zamanlar hariç</item>
+    </string-array>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Grafik</item>
         <item>Yüzde (Simgenin içinde)</item>
         <item>Yüzde (Simgenin yanında)</item>
-    </string-array>
-    <string-array name="notification_shade_shortcut_entries">
-        <item>Ara</item>
-        <item>Ayarlar</item>
     </string-array>
     <string-array name="notification_style_entries">
         <item>MIUI</item>
@@ -1005,6 +1014,26 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>İzin ver</item>
         <item>Yoksay</item>
     </string-array>
+    <string-array name="switch_to_user_zero_when_docked_timeout_entries">
+        <item>Asla</item>
+        <item>1 dakika sonra</item>
+        <item>5 dakika sonra</item>
+    </string-array>
+    <string-array name="tabs_taptic_detail">
+        <item>Canlı</item>
+        <item>Temel</item>
+        <item>Pop</item>
+    </string-array>
+    <string-array name="tabs_taptic_detail_m2">
+        <item>Canlı</item>
+        <item>Sağlam</item>
+    </string-array>
+    <string-array name="tare_modifiers_subfactors">
+        <item>Şarj oluyor</item>
+        <item>Uyut</item>
+        <item>Güç tasarrufu modu</item>
+        <item>İşlem durumu</item>
+    </string-array>
     <string-array name="time_format_entries">
         <item>12 saat (1:00)</item>
         <item>24 saat (13:00)</item>
@@ -1077,6 +1106,11 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Normal</item>
         <item>Hızlı</item>
         <item>Çok hızlı</item>
+    </string-array>
+    <string-array name="typing_style_entries">
+        <item>Standard</item>
+        <item>Dokunma</item>
+        <item>Doğrudan dokunma</item>
     </string-array>
     <string-array name="uplmn_prefer_network_mode_td_choices">
         <item>GSM</item>
@@ -1197,6 +1231,10 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Hayır</item>
         <item>Evet</item>
     </string-array>
+    <string-array name="wifi_hidden_gbk_entries">
+        <item>Hayır</item>
+        <item>Evet</item>
+    </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
         <item>Statik</item>
@@ -1255,20 +1293,6 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Bağlandı</item>
         <item>Askıya alındı</item>
         <item>Bağlantı kesiliyor</item>
-        <item>Bağlantı kesildi</item>
-        <item>Başarısız</item>
-        <item>Engellendi</item>
-        <item>Kötü bağlantıdan geçici olarak kaçınılıyor</item>
-    </string-array>
-    <string-array name="wifi_status_with_ssid">
-        <item></item>
-        <item>Taranıyor</item>
-        <item>%1$s ağına bağlanılıyor</item>
-        <item>%1$s üzerinde kimlik doğrulanıyor</item>
-        <item>%1$s ağından IP adresi alınıyor</item>
-        <item>%1$s ağına bağlanıldı</item>
-        <item>Askıya alındı</item>
-        <item>%1$s bağlantısı kesiliyor</item>
         <item>Bağlantı kesildi</item>
         <item>Başarısız</item>
         <item>Engellendi</item>
