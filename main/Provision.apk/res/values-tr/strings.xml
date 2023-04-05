@@ -65,12 +65,12 @@
     <string name="calculator_introduction">Hesaplamaları yapmak, birimleri ve para birimlerini dönüştürmek ve ipotek ödemelerinizi tahmin etmek için bu uygulamayı kullanabilirsiniz</string>
     <string name="camera_application_introduction">Fotoğraf ve video çekmek için bu uygulamayı kullanabilirsiniz</string>
     <string name="camera_introduction">Fotoğraf çekmek ve video çekmek için kamerayı kullanabilirsiniz</string>
-	<string name="carousel_cookies_content">Duvar kağıdı döngüsünde resimlere ve hikayelere dokunduğunuzda bunların tam sürümleri tarayıcınızda açılır. Güvenilir üçüncü taraf içerik sağlayıcımız daha sonra ilgi alanlarınıza göre uyarlanmış ek içerik ve reklamlar önerebilir. Bu özelliği etkinleştirmeyi kabul ederseniz %1$s Çerez politikasında açıklandığı gibi tarayıcınıza çerez yerleştireceklerdir. Çerezleri reddederseniz duvar kağıdı döngüsü çalışmaya devam eder ancak içeriği ve önerileri sizinle alakalı olmayabilir. Tercihlerinizi istediğiniz zaman ayarlardan değiştirebilirsiniz</string>
-	<string name="carousel_cookies_subtitle">Çerezler kilit ekranı deneyiminizi kişiselleştirmemize olanak tanır</string>
-	<string name="carousel_cookies_title">Kişiselleştirilmiş içerik ve çerezler</string>
-	<string name="carousel_privacy">Duvar kağıdı döngüsünü kullanmadan önce güvenilir üçüncü taraf hizmet sağlayıcımızın %1$s Gizlilik politikası ve %2$s Kullanıcı sözleşmesi belgelerini okuyun ve kabul edin</string>
-	<string name="carousel_setting">Kilit ekranınızı ayarlayın</string>
-	<string name="carousel_setting_sub">Duvar kağıdı döngüsü cihazınızın kilidini her açtığınızda size yeni hikayeler gösterecek</string>
+    <string name="carousel_cookies_content">Duvar kağıdı döngüsünde resimlere ve hikayelere dokunduğunuzda bunların tam sürümleri tarayıcınızda açılır. Güvenilir üçüncü taraf içerik sağlayıcımız daha sonra ilgi alanlarınıza göre uyarlanmış ek içerik ve reklamlar önerebilir. Bu özelliği etkinleştirmeyi kabul ederseniz %1$s Çerez politikasında açıklandığı gibi tarayıcınıza çerez yerleştireceklerdir. Çerezleri reddederseniz duvar kağıdı döngüsü çalışmaya devam eder ancak içeriği ve önerileri sizinle alakalı olmayabilir. Tercihlerinizi istediğiniz zaman ayarlardan değiştirebilirsiniz</string>
+    <string name="carousel_cookies_subtitle">Çerezler kilit ekranı deneyiminizi kişiselleştirmemize olanak tanır</string>
+    <string name="carousel_cookies_title">Kişiselleştirilmiş içerik ve çerezler</string>
+    <string name="carousel_privacy">Duvar kağıdı döngüsünü kullanmadan önce güvenilir üçüncü taraf hizmet sağlayıcımızın %1$s Gizlilik politikası ve %2$s Kullanıcı sözleşmesi belgelerini okuyun ve kabul edin</string>
+    <string name="carousel_setting">Kilit ekranınızı ayarlayın</string>
+    <string name="carousel_setting_sub">Duvar kağıdı döngüsü cihazınızın kilidini her açtığınızda size yeni hikayeler gösterecek</string>
     <string name="carrier_introduction_china">Size daha iyi hizmet verebilmek için cihazınızda çalışan işlemler cihazınız ve Sim kartınızla ilgili bilgileri periyodik olarak gönderebilir. MIUI sürümü, Android sürümü, cihaz modeli ve temel donanım özellikleri vede yaklaşık konum bilgilerini wifi, mobil veri ağı veya ücretsiz mesaj yoluyla taşıyıcıya gönderir. Taşıyıcı ilgili bilgileri yalnızca hizmetlerin kalitesini iyileştirmek veya özelleştirilmiş hizmetler veya teknolojiler sağlamak için analiz etmeyi taahhüt eder ve ilgili bilgileri sizi kişisel olarak tanımlayan hiçbir biçimde üçüncü taraflara ifşa etmeyecektir. Belirli taşıyıcı beyanı geçerli olacaktır. Bu hizmeti kullanmanın maliyeti konusunda operatörünüze danışın</string>
     <string name="check_box_label">Bu özelliği açarak %1$s Xiaomi bağlantı hizmetleri gizlilik politikasını kabul etmiş olursunuz</string>
     <string name="chinese_day_1">1. gün</string>
@@ -189,7 +189,7 @@
     <string name="disagreement_function">Bu tür izinleri vermeyi kabul etmiyor veya kişisel bilgilerinizi paylaşıp yüklüyorsanız bu özelliği kullanamazsınız. Bu gibi durumlarda bu özelliği kullanmamayı seçebilirsiniz</string>
     <string name="disagreement_location_service">Bu tür izinleri vermeyi kabul etmiyor veya kişisel bilgilerinizi paylaşıp yüklüyorsanız bu hizmeti kullanamazsınız</string>
     <string name="disagreement_location_service_abnormal">Bu izinleri vermeyi kabul etmezseniz konum hizmetlerini kullanamazsınız. Konum servislerini istediğiniz zaman Ayarlar > Gizlilik korumasından açabilir veya kapatabilirsiniz</string>
-    <string name="disagreement_mi_account_abnormal">Bu izinleri vermeyi kabul etmezseniz Mi Hesabı hizmetlerini kullanamazsınız. Mi Hesabı hizmetlerini istediğiniz zaman Ayarlar > Mi hesabından açabilir veya kapatabilirsiniz</string>
+    <string name="disagreement_mi_account_abnormal">Bu izinleri vermeyi kabul etmezseniz Mi hesabı hizmetlerini kullanamazsınız. Mi hesabı hizmetlerini istediğiniz zaman Ayarlar > Mi hesabından açabilir veya kapatabilirsiniz</string>
     <string name="disagreement_service_not_working_properly">Bu izinleri vermeyi kabul etmezseniz bu uygulamayı kullanamazsınız</string>
     <string name="disagreement_terminate_bluetooth">"Bu izinleri vermek istemiyorsanız bluetooth'u kullanamazsınız. Ayarlardan bluetooth'u açıp kapatabilir ve bluetooth cihazları ekleyebilirsiniz"</string>
     <string name="disagreement_terminate_miuidaemon">İzinleri yalnızca ekranı hasar gördüğünde cihazınızdan veri aktarmaya başladığınızda kullanacağız. Bu izinleri vermeyi kabul etmezseniz bu uygulamayı kullanamazsınız</string>
@@ -222,12 +222,57 @@
     <string name="fast_application_introduction">Hızlı uygulama çerçevesi ile hızlı uygulamalarda hizmetler oluşturmanıza ve sunmanıza olanak sağlar</string>
     <string name="fast_pairing_introduction">Mi bağlantı cihazınızın yakındaki Bluetooth cihazlarına bağlanmasına izin verir. Yakındaki cihazları bulabilmek için Mi bağlantının internete bağlanmasına izin verin</string>
     <string name="fmt_chinese_date">N/e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'min'"</string>
+    <string name="fmt_time_minute_second">"m'min' s's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
+    <string name="fmt_time_second">"s's'"</string>
+    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="font_hint_large">Varsayılan</string>
     <string name="font_hint_normal">Büyüt</string>
     <string name="framework_introduction">Mi hizmet çerçevesi, Mi hesabı, Mi itme servisi, Mi istatistikleri ve MIUI BI kullanmanıza izin verir</string>
@@ -258,6 +303,38 @@
     <string name="install_preinstall_app">Uygulamalar yükleniyor</string>
     <string name="intent_filter_verification_service">Amaç filtresi doğrulama hizmeti</string>
     <string name="interconnection_communication_introduction">Xiaomi internet iletişim hizmetleri diğer Xiaomi cihazlarını keşfetmenize, bağlamanıza ve iletişim kurmanıza olanak tanır</string>
+<string name="interconnection_service_summary">"Xiaomi ara bağlantı hizmetleri cihazlarınızın birbirleriyle kablosuz olarak etkileşim kurmasına olanak tanır. Bu hizmetler arasında Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share ve yansıtma yer alır
+Normal bir şekilde çalışabilmek için bu servislerin internete bağlanması ve aşağıdaki izinleri gerektirmesi gerekir:
+* Mi akıllı merkez:
+* Wifi ağını açın ve kapatın
+* Wifi üzerinden öğe aktarımı içindir
+* Ses kaydı
+* Yayınlama veya ekran yansıtma sırasında ses kayıttan yürütmeyi bağlı cihazlara aktarmak içindir
+* Depoya erişimi
+* Dosyaları kablosuz olarak aktarmak ve almak içindir
+* Mi paylaşım:
+* Cihazınızdaki dosyalara ve fotoğraflara erişin ve bunları
+* kablosuz olarak aktarmak ve almak içindir
+* Konum erişimi
+* Öğeleri Wifi ve Bluetooth üzerinden yakındaki cihazlara aktarmak içindir
+* Bluetooth'u açın ve kapatın
+* Yakındaki cihazları bulmak içindir
+* Wifi ağını açın ve kapatın
+* Yakındaki cihazları bulmak ve dosyaları kablosuz olarak aktarmak içindir
+* Yakındaki cihazlara bağlanın
+* Yakındaki cihazları bulmak ve onlara bağlanmak içindir
+* Kadro:
+* Bluetooth'u açın ve kapatın
+* Yakındaki cihazları bulmak içindir
+* Wifi ağını açın ve kapatın
+* Yakındaki cihazları bulmak içindir
+* Konum erişimi
+* Yakındaki cihazlar hakkında bilgi almak içindir
+* Ses kaydı
+* Yayın sırasında ses kayıttan yürütmeyi bağlantıya aktarmak içindir
+Bu tür izinleri vermeyi kabul etmezseniz Xiaomi bağlantı hizmetlerini kullanamazsınız
+Özellikler değişebilir. Yukarıdaki özelliklerden bazıları tüm cihaz modellerinde veya tüm sistem sürümlerinde bulunmayabilir. Uyumluluğu kontrol etmek için MIUI internet sitesine) bakın (www.miui.com"</string>
+     <string name="interconnection_service_title">Xiaomi ara bağlantı hizmetleri</string>
     <string name="item_contents_wwarning">Cihazınız kaybolursa ekran kilidi ayarlamadığınız sürece başkalarının onu kullanmasını ve verilerinize erişmesini engelleyemezsiniz</string>
     <string name="item_facerecognition">Yüz kilidi</string>
     <string name="item_fingerprint">Parmak izi</string>
@@ -265,7 +342,7 @@
     <string name="item_lock_screen_password_only">Ekran kilidi</string>
     <string name="item_return">Ayarla</string>
     <string name="item_skip">Atla</string>
-    <string name="ktlocation_U">(KT servis acentesi)</string>
+    <string name="ktlocation_U">(KT hizmet acentesi)</string>
     <string name="ktposition_header">Konum bilgisini acil durum kurtarma kurumlarıyla paylaş</string>
     <string name="language_picker_other_languages_title">Daha fazla dil</string>
     <string name="language_settings">Dilinizi seçin</string>
@@ -282,6 +359,8 @@
     <string name="midnight">Gece</string>
     <string name="mint_keyboard_oobe_checkbox">Mint klavye gizlilik politikasını okudum ve kabul ettim</string>
     <string name="mint_keyboard_oobe_terms">Mint klavye gizlilik politikası</string>
+    <string name="miui14_global_start_up_slogan" />
+    <string name="miui14_start_up_slogan">Hazır. Sabit durma. Canlı</string>
     <string name="miui_privacy_policy_no_network">İnternet bağlantınız yok. Hizmet koşullarını %s adresinde görüntüleyin</string>
     <string name="miui_provision">İlk kurulum</string>
     <string name="miui_terms_no_network">İnternet bağlantınız yok. Hizmet koşullarını %s adresinde görüntüleyin</string>
@@ -368,6 +447,8 @@
     <string name="navigation_picker_radio_text_virtual_key">Düğmeler</string>
     <string name="next">İleri</string>
     <string name="next_fingerprint">İleri</string>
+    <string name="ng_xiaomi_privacy_policy">https://h5.app.intl.miui.com/gallery/privacy.html?lang=%1$s_%2$s</string>
+    <string name="ng_xiaomi_user_agreement">https://h5.app.intl.miui.com/gallery/eula.html?lang=%1$s_%2$s</string>
     <string name="night">Akşam</string>
     <string name="noon">Öğlen</string>
     <string name="not_set">Ayarlanmadı</string>
@@ -487,13 +568,13 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="permission_read_write_device_store_download_summary">İndirilen içeriği önbelleğe almak, erişmek ve yönetmek içindir</string>
     <string name="permission_read_write_device_store_fast_application_summary">Hızlı uygulamaların dosyalara erişmesine, önbelleğe almasına ve düzenlemesine izin vermek içindir;</string>
     <string name="permission_read_write_file">Cihazınızdaki dosyalara ve fotoğraflara erişin ve kaydedin:</string>
-    <string name="permission_read_write_file_introduction">Cihazınızdaki öğelere erişmek, kaydetmek ve önbelleklemek için</string>
+    <string name="permission_read_write_file_introduction">Cihazınızdaki öğelere erişmek, kaydetmek ve önbelleklemek içindir</string>
     <string name="permission_read_write_phone_store">Öğelere erişmek ve cihaz deposuna kaydetmek içindir;</string>
     <string name="permission_read_write_phone_store_summary">Ana ekran öğelerine erişmek ve bunları kaydetmek içindir;</string>
-    <string name="permission_recorder_file_introduction">Ses kayıtlarına erişmek ve kaydetmek için</string>
+    <string name="permission_recorder_file_introduction">Ses kayıtlarına erişmek ve kaydetmek içindir</string>
     <string name="permission_recording">Aramaları ve sesleri kaydetme:</string>
-    <string name="permission_recording_introduction">Video kaydederken ses kaydetmek için</string>
-    <string name="permission_screen_shoot_introduction">Ekran kayıtlarına erişmek ve kaydetmek için</string>
+    <string name="permission_recording_introduction">Video kaydederken ses kaydetmek içindir</string>
+    <string name="permission_screen_shoot_introduction">Ekran kayıtlarına erişmek ve kaydetmek içindir</string>
     <string name="permission_send_message">Mesaj gönder</string>
     <string name="permission_use_camera">Kameraya erişim</string>
     <string name="permission_use_camera_camera_summary">Fotoğraf çekmek, video kaydetmek ve flaş kullanmak içindir;</string>
@@ -504,11 +585,11 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="permission_use_microphone_camera_summary">Video kaydederken ses kaydetmek içindir;</string>
     <string name="permission_use_microphone_desktop_summary">Kayıt durumunu göstermek içindir</string>
     <string name="permission_use_microphone_fast_application_summary">Hızlı uygulamaların mikrofona erişmesine izin vermek içindir;</string>
-    <string name="permission_user_record_introduction">Ses kaydı için</string>
-    <string name="permission_virusscan_introduction">Virüs taraması yapmak ve cihazınızı optimize etmek için</string>
+    <string name="permission_user_record_introduction">Ses kaydı içindir</string>
+    <string name="permission_virusscan_introduction">Virüs taraması yapmak ve cihazınızı optimize etmek içindir</string>
     <string name="permission_write_device_store">Öğeleri cihaz deposuna kaydedin</string>
     <string name="permission_write_device_store_summary">İndirilen kaynak yapılandırma dosyalarını önbelleğe almak içindir</string>
-    <string name="permission_xunlei_introduction">Xunlei hizmetleri sağlamak amacıyla sistem hesaplarına giriş yapmak ve yönetmek için</string>
+    <string name="permission_xunlei_introduction">Xunlei hizmetleri sağlamak amacıyla sistem hesaplarına giriş yapmak ve yönetmek içindir</string>
     <string name="pm">ÖS</string>
     <string name="poco_agree_terms_other">(POCO başlatıcı gizlilik politikası ve kullanıcı sözleşmesi dahildir)</string>
     <string name="poco_launcher_privacy_policy">POCO başlatıcı gizlilik politikası</string>
@@ -518,7 +599,7 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="pref_title_data_slot">Tercih edilen veri Sim kartı</string>
     <string name="pref_title_voice_slot">Tercih edilen ses Sim kartı</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
-    <string name="privacy_content_one">"Duvar kağıdı döngüsü önerileri güvenilir üçüncü taraf içerik sağlayıcımız olan Taboola tarafından desteklenmektedir. Bu içeriği sağlamak için Taboola'nın, sistem diliniz ve tarayıcı türünüz de dahil olmak üzere cihazınızdaki kişisel olmayan verilere erişmesi ve bunları depolaması gerekir. Taboola'nın toplanan verileri nasıl kullandığını Taboola'nın %1$s Gizlilik politikası ve %2$s Kullanıcı sözleşmesinden öğrenebilirsiniz. Devam etmeden önce bu belgelerde sağlanan hüküm ve koşulları okuyun ve kabul edin. Kabul etmezseniz duvar kağıdı döngüsü hizmetleri devre dışı bırakılacaktır</string>
+    <string name="privacy_content_one">"\"Duvar kağıdı döngüsü önerileri güvenilir üçüncü taraf içerik sağlayıcımız olan Taboola tarafından desteklenmektedir. Bu içeriği sağlamak için Taboola'nın, sistem diliniz ve tarayıcı türünüz de dahil olmak üzere cihazınızdaki kişisel olmayan verilere erişmesi ve bunları depolaması gerekir. Taboola'nın toplanan verileri nasıl kullandığını Taboola'nın %1$s Gizlilik politikası ve %2$s Kullanıcı sözleşmesinden öğrenebilirsiniz. Devam etmeden önce bu belgelerde sağlanan hüküm ve koşulları okuyun ve kabul edin. Kabul etmezseniz duvar kağıdı döngüsü hizmetleri devre dışı bırakılacaktır"</string>
     <string name="privacy_policy">Gizlilik politikası</string>
     <string name="privacy_provision_more">Gizlilik koruması hakkında daha fazla bilgi edinin</string>
     <string name="privacy_provision_summary">Gizlilik hakkında</string>
@@ -638,6 +719,9 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="solar_term_winter_begins">Kış başlıyor</string>
     <string name="solar_term_winter_solstice">Kış gündönümü</string>
     <string name="start_up_slogan">Hoş geldiniz</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suggested_actions_uri">android.resource://com.android.provision/raw/suggested_actions</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_not_set">Ayarlı değil</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Pazar</string>
@@ -645,6 +729,8 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="system_navigation_mode">Sistem gezinme modu</string>
     <string name="systemdesktop_introduction">Ana ekran hizmeti eklentisi size ana ekran sistem kullanıcı arayüzü ve ekran görüntüleri gibi temel özellikler sağlar</string>
     <string name="term_condition_detail">Kilit ekranınıza günlük olarak gönderilen çarpıcı görüntüler ve heyecan verici hikayeler alın. Bu özellik izniniz olmadan verilerinizi kişiselleştirmek için kullanmaz. Bu özelliği kullanmadan önce üçüncü taraf içerik sağlayıcının %1$s Gizlilik politikasını ve %2$s kullanıcı sözleşmesini okuyun ve kabul edin</string>
+    <string name="terms_of_label_period">". "</string>
+    <string name="terms_of_label_separator">", "</string>
     <string name="terms_of_use">Şartlar ve koşullar</string>
     <string name="terms_of_use_label_MSA">MSA</string>
     <string name="terms_of_use_label_Mistore">, Mi mağaza sistemi eklentisi</string>
@@ -777,6 +863,9 @@ Bu özelliği kullanmadan önce Mint klavyesinin gizlilik politikasını kabul e
     <string name="wednesday_shortest">Ç</string>
     <string name="welcome">Hoşgeldiniz</string>
     <string name="withdraw_consent">Onayınızı geri çekerseniz duvar kağıdı döngüsü hizmetleri devre dışı bırakılır</string>
+    <string name="wizard_script_uri">android.resource://com.android.provision/raw/wizard_script</string>
+    <string name="xunlei_company_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/network/%s</string>
+    <string name="xunlei_privacy_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/%s/?theme=light</string>
     <string name="yesterday">Dün</string>
     <string name="zone_picker_title">Zaman dilimini seç</string>
 </resources>

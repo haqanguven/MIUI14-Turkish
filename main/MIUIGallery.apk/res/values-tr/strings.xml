@@ -187,8 +187,8 @@
     <string name="album_quota_fulfiled">Çok fazla sayıda albüm. Bazı albümleri silin ve ardından tekrar deneyin</string>
     <string name="album_rubbish_cant_change_status">Çöp kutusuna taşınan albümler senkronize edilemiyor</string>
     <string name="album_rubbish_clear_all_item_description">Çöp kutusunu temizle</string>
-    <string name="album_rubbish_page_title">Çöp</string>
-    <string name="album_rubbish_tip_title">Gereksiz yedek albümleri</string>
+    <string name="album_rubbish_page_title">Gereksiz albümler</string>
+    <string name="album_rubbish_tip_title">Gereksiz albümler</string>
     <string name="album_scanner">Albüm tarama</string>
     <string name="album_screen_record">Ekran kayıtları</string>
     <string name="album_screen_recorder">Ekran kaydedici</string>

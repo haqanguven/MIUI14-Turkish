@@ -95,7 +95,7 @@
     <string name="access_control_app_is_launching">Uygulama başlatılıyor</string>
     <string name="access_control_failed_need_to_unlock_nofingerprint">Yeni bir parmak izi kullanmak için kilit açma deseninizi çizin</string>
     <string name="access_control_fingerprint_not_identified_msg">Parmak izi okunamadı</string>
-    <string name="access_control_need_password">"%s başarıyla eklendi 
+    <string name="access_control_need_password">"%s başarıyla eklendi \u000d
 "</string>
     <string name="access_control_need_to_unlock_nofingerprint">Uygulama kilidi şifrenizi girin</string>
     <string name="accessibility_gameboosterservice_description">Oyun oynarken gelen WeChat aramalarını sessize almak için etkinleştirin</string>
@@ -136,6 +136,11 @@
     <string name="activity_title_virus_settings">Ayarlar</string>
     <string name="activity_title_white_list">İstisnalar</string>
     <string name="ad_btn_default_text">Daha fazla bilgi edin</string>
+    <string name="ad_click_type_blank_area">空白</string>
+    <string name="ad_click_type_cancel">取消</string>
+    <string name="ad_click_type_content_quality">内容质量</string>
+    <string name="ad_click_type_not_interest">不感兴趣</string>
+    <string name="ad_click_type_often">过于频繁</string>
     <string name="ad_floating_window_title">Kilidi açmak için kayan pencereyi kapatın</string>
     <string name="ad_split_screen_title">Kilidi açmak için bölünmüş ekrandan çıkın</string>
     <string name="ad_text_adx">Reklam</string>
@@ -335,7 +340,6 @@
     <string name="app_behavior_key_camera">Fotoğraf çekme</string>
     <string name="app_behavior_key_location">Konum</string>
     <string name="app_behavior_key_protect">Kişisel bilgileri koru</string>
-    <string name="app_behavior_kill_process">@string/menu_item_force_stop</string>
     <string name="app_behavior_link_start">Tetiklenmiş başlangıç</string>
     <string name="app_behavior_list_load_more">Daha fazla</string>
     <string name="app_behavior_location">%1s konum bilgisi almaya çalıştı</string>
@@ -391,11 +395,18 @@
     <string name="app_behavior_read_clipboard_bg">%1s panodaki öğelere arka planda erişti</string>
     <string name="app_behavior_recognition">%1s form koruma bilgilerinizi almaya çalıştı</string>
     <string name="app_behavior_recognition_single">Bu uygulama etkinlik bilgilerinize erişti</string>
+    <string name="app_behavior_record_cancel">Cancel</string>
+    <string name="app_behavior_record_close">Turn off</string>
+    <string name="app_behavior_record_close_title">Turn off</string>
+    <string name="app_behavior_record_hide_system">Hide system apps</string>
+    <string name="app_behavior_record_open">Turn on</string>
+    <string name="app_behavior_record_open_content_text">App behavior records show what apps do and help you avoid security risks.</string>
     <string name="app_behavior_record_setting_button_title">Sistem hizmetlerinin davranışını göster</string>
     <string name="app_behavior_record_setting_show_system">Sistem hizmetlerinin davranışını göster</string>
     <string name="app_behavior_record_setting_show_system_desc">Temel sistem hizmetlerinin davranışını görüntülemek için açın. Sistemin kararlılığını sağlamak için bu hizmetlerden bazıları kısıtlanamayan gerekli izinleri kullanacaktır</string>
     <string name="app_behavior_record_setting_show_system_title">Sistem hizmetlerinin davranışını göster</string>
     <string name="app_behavior_record_setting_title">Davranış kayıtları</string>
+    <string name="app_behavior_record_show_system">Show system apps</string>
     <string name="app_behavior_search">Ara</string>
     <string name="app_behavior_sensor">%1s sensör verisi almaya çalıştı</string>
     <string name="app_behavior_sensor_single">Bu uygulama sensör verilerine erişti</string>
@@ -534,13 +545,13 @@
     <string name="app_manager_pref_ads">Öneriler</string>
     <string name="app_manager_reset_app_preferences">Uygulama tercihlerini sıfırla</string>
     <string name="app_manager_reset_app_preferences_button">Sıfırla</string>
-    <string name="app_manager_reset_app_preferences_desc">"Aşağıda belirtilen uygulama tercihlerini sıfırlayacaktır: 
- 
-"<li>Devre dışı bırakılan uygulamalar</li>"
-"<li>Devre dışı bırakılan uygulama bildirimleri</li>"
-"<li>İşlemler için varsayılan uygulamalar</li>"
-"<li>Uygulamalar için arka plan veri kısıtlamaları</li>"
- 
+    <string name="app_manager_reset_app_preferences_desc">"Aşağıda belirtilen uygulama tercihlerini sıfırlayacaktır: \u000d
+ \u000d
+\""<li>Devre dışı bırakılan uygulamalar</li>"\"\u000d
+\""<li>Devre dışı bırakılan uygulama bildirimleri</li>"\"\u000d
+\""<li>İşlemler için varsayılan uygulamalar</li>"\"\u000d
+\""<li>Uygulamalar için arka plan veri kısıtlamaları</li>"\"\u000d
+ \u000d
 Herhangi bir uygulama verisi kaybetmezsiniz"</string>
     <string name="app_manager_reset_app_preferences_title">Uygulama tercihleri sıfırlansın mı?</string>
     <string name="app_manager_restricted_settings_title">Kısıtlanmış ayarlara izin ver</string>
@@ -638,11 +649,17 @@ Herhangi bir uygulama verisi kaybetmezsiniz"</string>
     <string name="app_running_tip_dialog_text">Arka planda çalışmasını önlemek için %1$s komutundan çıkın. Bu cihazınızı hızlandıracak ve güç tüketimini azaltacaktır</string>
     <string name="app_running_tip_dialog_title">Uygulamadan çık</string>
     <string name="app_settings_link">Uygulamadaki ek ayarlar</string>
+    <string name="app_source_global_search">全局搜索</string>
+    <string name="app_source_home">桌面</string>
+    <string name="app_source_notification">通知</string>
+    <string name="app_source_other">其他</string>
+    <string name="app_source_settings">设置</string>
+    <string name="app_source_widget">小部件</string>
     <string name="app_statusbar_audio_now">Kayıt</string>
     <string name="app_statusbar_camera_now">Çekim</string>
     <string name="app_statusbar_location_now">Konumlandırma</string>
-    <string name="app_summary">"WeChat/QQ/Michao kırmızı zarf eserini al
-Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
+    <string name="app_summary">"WeChat/QQ/Michao kırmızı zarf eserini al\u000d
+Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın\u000d
 Çin yeni yılı kırmızı zarf faaliyetlerini kaçırmayın"</string>
     <string name="app_usage_never">Hiç kullanılmadı</string>
     <string name="app_usage_recently">Son kullanılanlar</string>
@@ -963,7 +980,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="battery_status_unknown">Bilinmeyen hata</string>
     <string name="battery_temperature_title">Sıcaklık</string>
     <string name="beauty_fc_assistant">Ön kamera asistanı</string>
-    <string name="beauty_fc_assistant_summary">Işık doldurmayı kullanın ve ön kamerayla güzelleştirin</string>
+    <string name="beauty_fc_assistant_summary_common">Use additional features with front camera</string>
     <string name="beauty_fc_auto_brightness">Işık doldurma parlaklığını otomatik olarak ayarlayın</string>
     <string name="beauty_fc_fill_lamp">Işık doldurma</string>
     <string name="beauty_fc_fill_lamp_new">Ön ışık doldurma</string>
@@ -996,8 +1013,8 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="behavior_widget_read_write_external_storage">Erişilen dosyalar</string>
     <string name="best_booster_status">Oyun hızlandırıcı şimdi kullanılabilir</string>
     <string name="best_warning_dialog_button">Biliyorum</string>
-    <string name="best_warning_dialog_message">İpuçları: Xiaomi kırmızı paket asistanını kullandıktan sonra kırmızı paket kapma hızınızı artırır. Ancak elleriniz çok hızlıysa her defasında kırmızı bir zarf alan ilk kişi olacaksınız. <font color="'#e56255'">"\"\"\"\"\"\"\"\"\"\"\"\"\"WeChat'in otomatik olarak kırmızı zarf toplama eklentisini daha sonra kırmızı zarf işlevini kullanımınızı etkilemek için kullanma şansı vardır.\"\"\"\"\"\"\"\"\"\"\"\"\""</font> Bu nedenle bazen ritmi kontrol etmek ve kırmızı zarfı kapmak için elinizi kaldırmak daha iyidir. Kırmızı zarflar iyi olsa da çok açgözlü olmayın~</string>
-    <string name="best_warning_dialog_message1">Xiaomi kırmızı paket asistanını kullandıktan sonra kırmızı paket kapma hızınızı artırır. Ancak eliniz çok hızlıysa her seferinde kırmızı zarfı ilk alan siz olacaksınız.<font color="'#e56255'">"\"\"\"\"\"\"\"\"\"\"\"\"\"WeChat'in otomatik olarak kırmızı zarf toplama eklentisini daha sonra kırmızı zarf işlevini kullanımınızı etkilemek için kullanma şansı vardır.\"\"\"\"\"\"\"\"\"\"\"\"\""</font> Daha sonra kırmızı zarf işlevini kullanımınızı etkiler. Bu nedenle bazen ritmi kontrol etmek ve kırmızı zarfı kapmak için elinizi kaldırmak daha iyidir. Kırmızı zarf iyi olsa da çok açgözlü olmayın~~</string>
+    <string name="best_warning_dialog_message">İpuçları: Xiaomi kırmızı paket asistanını kullandıktan sonra kırmızı paket kapma hızınızı artırır. Ancak elleriniz çok hızlıysa her defasında kırmızı bir zarf alan ilk kişi olacaksınız. <font color="'#e56255'">"\"\"\"\"\"\"\"\"\"\"\"\"\"\"WeChat'in otomatik olarak kırmızı zarf toplama eklentisini daha sonra kırmızı zarf işlevini kullanımınızı etkilemek için kullanma şansı vardır.\"\"\"\"\"\"\"\"\"\"\"\"\"\""</font> Bu nedenle bazen ritmi kontrol etmek ve kırmızı zarfı kapmak için elinizi kaldırmak daha iyidir. Kırmızı zarflar iyi olsa da çok açgözlü olmayın~</string>
+    <string name="best_warning_dialog_message1">Xiaomi kırmızı paket asistanını kullandıktan sonra kırmızı paket kapma hızınızı artırır. Ancak eliniz çok hızlıysa her seferinde kırmızı zarfı ilk alan siz olacaksınız.<font color="'#e56255'">"\"\"\"\"\"\"\"\"\"\"\"\"\"\"WeChat'in otomatik olarak kırmızı zarf toplama eklentisini daha sonra kırmızı zarf işlevini kullanımınızı etkilemek için kullanma şansı vardır.\"\"\"\"\"\"\"\"\"\"\"\"\"\""</font> Daha sonra kırmızı zarf işlevini kullanımınızı etkiler. Bu nedenle bazen ritmi kontrol etmek ve kırmızı zarfı kapmak için elinizi kaldırmak daha iyidir. Kırmızı zarf iyi olsa da çok açgözlü olmayın~~</string>
     <string name="best_warning_dialog_title">İpuçları</string>
     <string name="bg_network_exception_title">Sınırlı arka plan ağ bağlantısı</string>
     <string name="bh_buy_order_fail_tips_text">Bir hata oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
@@ -1036,28 +1053,28 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="bh_purchase_dialog_cilck_to_buy">Satın al</string>
     <string name="bh_purchase_dialog_number_text">"Telefon numarası: "</string>
     <string name="bh_purchase_dialog_tips">Satın alınan ürünler gecikmeli olarak teslim edilebilir</string>
-    <string name="bh_set_phone_dialog_title">"Buraya girdiğiniz telefon numarasının doğru olduğundan emin olun
+    <string name="bh_set_phone_dialog_title">"Buraya girdiğiniz telefon numarasının doğru olduğundan emin olun\u000d
 Telefon numaranızı Ayarlar'dan değiştirebilirsiniz"</string>
-    <string name="bh_set_phone_dialog_title_new">"Kullanabileceğiniz veri planlarını görüntülemek ve satın almak için telefon numaranızı ekleyin
+    <string name="bh_set_phone_dialog_title_new">"Kullanabileceğiniz veri planlarını görüntülemek ve satın almak için telefon numaranızı ekleyin\u000d
 Telefon numaranızı istediğiniz zaman ayarlardan değiştirebilirsiniz"</string>
     <string name="bh_settings_declare">Telif hakkı</string>
     <string name="bh_settings_policy_text">Gizlilik politikası</string>
     <string name="bh_settings_user_agreement">Kullanıcı sözleşmesi</string>
-    <string name="bh_settings_withdrawal_dialog_content_text">"Devam ederseniz Yulore sınırlı gizlilik politikasına verdiğiniz onayı geri çekeceksiniz
+    <string name="bh_settings_withdrawal_dialog_content_text">"Devam ederseniz Yulore sınırlı gizlilik politikasına verdiğiniz onayı geri çekeceksiniz\u000d
 Bundan sonra kişisel bilgilerinizi toplamayı ve kullanmayı durduracağız ve sipariş geçmişinizi kalıcı olarak sileceğiz. Onayınızı geri çekmeden önce tüm işlemlerinizin tamamlandığından emin olun"</string>
-    <string name="bh_settings_withdrawal_dialog_not_content_text">"Görünüşe göre Yulore sınırlı gizlilik politikasına verdiğiniz onayı geri çekmek istiyorsunuz
+    <string name="bh_settings_withdrawal_dialog_not_content_text">"Görünüşe göre Yulore sınırlı gizlilik politikasına verdiğiniz onayı geri çekmek istiyorsunuz\u000d
 Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek için siparişlerinizi kapatmak üzere müşteri desteği ile iletişime geçin"</string>
     <string name="bh_settings_withdrawal_dialog_title">İzni geri al</string>
     <string name="bh_settings_withdrawal_subtitle">Veri kullanımına ilişkin gizlilik politikası onayınızı geri çekin</string>
     <string name="bh_settings_withdrawal_text">İzni geri al</string>
-    <string name="bh_settings_withdrawal_yulore">"Yulore sınırlı gizlilik politikasına ilişkin onayınızı geri çekin"</string>
+    <string name="bh_settings_withdrawal_yulore">Yulore sınırlı gizlilik politikasına ilişkin onayınızı geri çekin</string>
     <string name="bh_settings_yulore_limited_paivacy">Yulore sınırlı gizlilik politikasını görüntüle</string>
     <string name="bh_settings_yulore_limited_user">Yulore sınırlı kullanıcı sözleşmesini görüntüle</string>
     <string name="bh_traffic_product_out_of_stock">Hepsi satıldı</string>
     <string name="bh_withdrawal_yulore_fail">İzin geri alınamadı</string>
     <string name="bh_withdrawal_yulore_success">İzin başarıyla geri alındı</string>
     <string name="bill_arrears_character">Sim %d bakiyesi yetersiz görünüyor. Bağlantıda kalmak için şimdi doldurun</string>
-    <string name="bill_arrears_title">"Sim %d ağa bağlanamıyor"</string>
+    <string name="bill_arrears_title">Sim %d ağa bağlanamıyor</string>
     <string name="bill_limit_notification_text_format">Kart: %1$s | Denge: %2$s CNY</string>
     <string name="bill_limit_notification_title">Yetersiz bakiye</string>
     <string name="bill_remind">Telefon bakiye uyarısı</string>
@@ -1163,6 +1180,9 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="cancal_to_setting_fingerprint">İptal et</string>
     <string name="cancel">İptal et</string>
     <string name="cancel_button">İptal et</string>
+    <string name="card_click_type_close_ad">右上角关闭广告按钮</string>
+    <string name="card_click_type_open_or_download">右下角打开/下载</string>
+    <string name="card_click_type_other">其他区域</string>
     <string name="card_main_applock_action">Aç</string>
     <string name="card_main_applock_summary">Özel öğeleri uygulama kilidiyle koruyun</string>
     <string name="card_main_applock_title">Uygulama kilidi</string>
@@ -1189,7 +1209,6 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="card_main_private_space_summary">İkinci alanı kullanmak iki adet cihaza sahip olmak gibidir</string>
     <string name="card_main_private_space_title">İkinci alan</string>
     <string name="card_main_sectool_title">Araçlar</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">Oluştur</string>
     <string name="card_main_xspace_summary">Dilediğiniz uygulama için çift hesap oluşturun</string>
     <string name="card_main_xspace_title">Çift uygulamalar</string>
@@ -1211,7 +1230,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="cetus_invisible_mode_warn_location">Gizli moddasınız. Konum izinleri askıya alındı</string>
     <string name="cetus_invisible_mode_warn_open">Gizli mod tüm uygulamalar için mikrofon, kamera ve konumla ilgili izinleri askıya alır. Şimdi açılsın mı?</string>
     <string name="cetus_invisible_mode_warn_record_audio">Gizli moddasınız. Mikrofon izinleri askıya alındı</string>
-    <string name="character_counter_content_description">"Karakterler %1$d / %2$d girildi"</string>
+    <string name="character_counter_content_description">Karakterler %1$d / %2$d girildi</string>
     <string name="character_counter_overflowed_content_description">"Karakter sınırı %2$d içinde %1$d'yi aştı"</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="charge_high_temp_warning_dialog_ok">Anladım</string>
@@ -1326,7 +1345,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="cmcc_app_check_dialog_positive">Şimdi yeniden başlat</string>
     <string name="cmcc_app_check_dialog_title">Sistem onarıldı</string>
     <string name="cmd_lucky_float">Salla</string>
-    <string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">00000000000000000000000000000000</string>
     <string name="commonly_used_func_card_title">Ortak özellikler</string>
     <string name="commonly_used_func_edit_too_many_func">Daha fazla öğe eklenemiyor</string>
     <string name="compatible_dialog_content">Bu uygulama 64 bit mimariyle tam olarak uyumlu değil. Bunu kullanmak sistem performansını düşürebilir ve güç tüketimini artırabilir</string>
@@ -1356,6 +1375,11 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="continue_set">Ayarlamaya devam et</string>
     <string name="convenient_mode">Tüm uygulamaların kilitlerini tek seferde aç</string>
     <string name="convenient_summary">Uygulamaların tamamının kilidini açmak için şifreyi bir kez girin</string>
+    <string name="conversation_settings_top">"·Slide out the Conference tools bar during full-screen audio and video calls to access its features.\u000d
+·The type and number of features depends on the device model."</string>
+    <string name="conversation_sider_tips">Use new Conference tools for the best call experience</string>
+    <string name="conversation_summary">Beautify, subtitle transcription, and other features during audio and video calls</string>
+    <string name="conversation_title">Conference tools</string>
     <string name="copy">Kopyala</string>
     <string name="cpu_usage_android_system">Android sistemi</string>
     <string name="cpu_usage_process_run_time_little_time">1 dakikadan az</string>
@@ -1374,6 +1398,19 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="create_table_thirddesktop">CREATE TABLE THIRD_DESKTOP( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, application_name TEXT NOT NULL, type INTEGER NOT NULL );</string>
     <string name="create_table_vaid">CREATE TABLE VAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, vaid TEXT NOT NULL );</string>
     <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT DEFAULT -1, mode INTEGER NOT NULL DEFAULT 0, callType INTEGER NOT NULL DEFAULT 0 );</string>
+    <string name="cs_color_sense">Color temperature</string>
+    <string name="cs_func_toast_headset">Disconnect your headset to be able to use this feature</string>
+    <string name="cs_func_toast_light">Switch to the front camera to be able to use this feature</string>
+    <string name="cs_func_toast_pickup">Switch to a video call to be able to use this feature</string>
+    <string name="cs_pickup_multi_desc">%d degree audio pickup</string>
+    <string name="cs_pickup_multi_title">Multiple participants</string>
+    <string name="cs_pickup_single_desc">Only pick up sound from in front of the screen</string>
+    <string name="cs_pickup_single_title">Single participant</string>
+    <string name="cs_pickup_surround_desc">Uses AI to reduce noise for crisp, clear sound</string>
+    <string name="cs_pickup_surround_title">Microphone noise reduction</string>
+    <string name="cs_title_pickup">Noise reduction</string>
+    <string name="cs_title_smart_subtitle">Subtitle transcription</string>
+    <string name="cs_title_ultraclear">Ultra HD mode</string>
     <string name="cta_HIPS_Perm_Location_Desc">Bulunduğunuz yerle ilgili deprem erken uyarılarını görüntülemek için</string>
     <string name="cta_agree_desc">Hizmetlerimizi kullanabilmek için bu uygulamanın internete bağlanmasına ve yukarıda listelenen izinleri vermesine izin verin</string>
     <string name="cta_close_dialog_cancel">İptal et</string>
@@ -1427,8 +1464,8 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="data_usage_no_total_package_body">Veri limiti ayarlamak için dokunun</string>
     <string name="data_usage_no_total_package_body_dual">%s için veri limiti ayarlanmadı</string>
     <string name="data_usage_no_total_package_title">Veri kullanım limiti ayarla</string>
-    <string name="data_usage_protected_dialog_message">"MIUI ek ücret oluşmasını önlemek için mobil veriyi kapattı
-
+    <string name="data_usage_protected_dialog_message">"MIUI ek ücret oluşmasını önlemek için mobil veriyi kapattı\u000d
+\u000d
 Mobil veriyi tekrar açtığınızda operatörünüz size ek ücretler talep edebilir"</string>
     <string name="data_usage_protected_notify_message">MIUI ek ücret oluşmasını önlemek için mobil veriyi kapattı</string>
     <string name="data_usage_protected_notify_title">Zaten 5 GB mobil veri kullandınız</string>
@@ -1475,7 +1512,7 @@ Mobil veriyi tekrar açtığınızda operatörünüz size ek ücretler talep ede
     <string name="detail_app_button">Uygulama bilgisi</string>
     <string name="details_subtitle">Kullanım ayrıntıları</string>
     <string name="device_manager_apply_step_1">Bu uygulama için cihaz yöneticisi etkinleştirilsin mi?</string>
-    <string name="device_manager_apply_step_2">"Bu uygulama için cihaz yöneticisini etkinleştirmek ile kişisel bilgilerinizin açığa çıkmasına neden olabilir
+    <string name="device_manager_apply_step_2">"Bu uygulama için cihaz yöneticisini etkinleştirmek ile kişisel bilgilerinizin açığa çıkmasına neden olabilir\u000d
 Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanabilir"</string>
     <string name="device_manager_apply_step_3">İlerlemeden önce tüm olası riskleri anladığınızdan emin olun. Bu uygulama için cihaz yöneticisi şimdi başlatılsın mı?</string>
     <string name="dialog_app_roaming_message">%1$s dolaşım sırasında mobil veri kullanamıyor. Uluslararası dolaşımdayken yalnızca istisnalar listesine eklemiş olduğunuz uygulamalar mobil veri kullanabilir</string>
@@ -1509,10 +1546,10 @@ Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanab
     <string name="dialog_roaming_warning_message">Uluslararası veri dolaşımını açtıktan sonra operatör sizi ücretlendirecektir. Açılsın mı?</string>
     <string name="dialog_roaming_warning_ok">Aç</string>
     <string name="dialog_skt_roaming_warning_cancel">Katılmıyorum</string>
-    <string name="dialog_skt_roaming_warning_message">"Veri dolaşımını kullanmak için aşağıdaki koşulları okuyun ve kabul edin. Uluslararası veri dolaşımı ücretleri geçerli olabilir. Veri dolaşım planı olmadan sosyal ağ, e-posta ve hava durumu ile ilgili uygulamalar gibi otomatik güncellenen uygulamalara önemli ücretler uygulanabilir
-  * Veri dolaşımını kullanmayı kabul etmediğinizde, veri dolaşımı devre dışı bırakılacaktır
-  * HD ses desteklenen ağlarda varsayılan olarak kullanılır
-  * 5G veri dolaşımı yalnızca ortak ağlarımızda mevcuttur
+    <string name="dialog_skt_roaming_warning_message">"Veri dolaşımını kullanmak için aşağıdaki koşulları okuyun ve kabul edin. Uluslararası veri dolaşımı ücretleri geçerli olabilir. Veri dolaşım planı olmadan sosyal ağ, e-posta ve hava durumu ile ilgili uygulamalar gibi otomatik güncellenen uygulamalara önemli ücretler uygulanabilir\u000d
+  * Veri dolaşımını kullanmayı kabul etmediğinizde, veri dolaşımı devre dışı bırakılacaktır\u000d
+  * HD ses desteklenen ağlarda varsayılan olarak kullanılır\u000d
+  * 5G veri dolaşımı yalnızca ortak ağlarımızda mevcuttur\u000d
 "</string>
     <string name="dialog_skt_roaming_warning_ok">Kabul et</string>
     <string name="dialog_skt_roaming_warning_title">Veri dolaşımı sözleşmesi</string>
@@ -1548,7 +1585,7 @@ Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanab
     <string name="dlg_keyword_ok">Kaydet</string>
     <string name="dlg_message_not_open_stranger_identify">Bu özelliği etkinleştirmek için Ayarlar > Telefon menüsüne gidin</string>
     <string name="dlg_move_to_white">İstisnalara ekle</string>
-    <string name="dlg_no_block">"Bu numaranın engeli kaldırılsın ve bu numaradan gelen aramalar 
+    <string name="dlg_no_block">"Bu numaranın engeli kaldırılsın ve bu numaradan gelen aramalar \u000d
 arama geçmişine geri yüklensin mi?"</string>
     <string name="dlg_no_block_ok">Engeli kaldır</string>
     <string name="dlg_not_block_call">Seçili numaraların engeli kaldırılsın mı? Numaralar istisnalara eklenecektir. Ancak daha önce engellenen öğeler arama geçmişinde görüntülenmeyecektir</string>
@@ -1680,7 +1717,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="evening">Öğleden sonra</string>
     <string name="every_day">Her gün</string>
     <string name="ew_alert_arrive_location">Sismik dalga %s ulaştı</string>
-    <string name="ew_alert_dial_text">"Acil kişiyi ara
+    <string name="ew_alert_dial_text">"Acil kişiyi ara\u000d
 "</string>
     <string name="ew_alert_earthquake_center_title">Merkez üssü</string>
     <string name="ew_alert_earthquake_distance">Merkezden %s km uzaktasınız</string>
@@ -1691,7 +1728,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="ew_alert_earthquake_feel_normal">Aydınlık</string>
     <string name="ew_alert_earthquake_feel_title">Tahmini yoğunluk</string>
     <string name="ew_alert_earthquake_level_title">Tahmini büyüklük</string>
-    <string name="ew_alert_emergency_text">"Sağlık kartını göster
+    <string name="ew_alert_emergency_text">"Sağlık kartını göster\u000d
 "</string>
     <string name="ew_alert_emergency_text_single">Sağlık kartını göster</string>
     <string name="ew_alert_help_earthquake_title">Sismik dalga geldi</string>
@@ -1748,9 +1785,9 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="ew_get_location">Bul</string>
     <string name="ew_global_default_signature">EEWS BMKG</string>
     <string name="ew_global_service_scope_external_link" />
-    <string name="ew_global_signature">"EEWS BMKG tarafından sağlanan bilgiler
+    <string name="ew_global_signature">"EEWS BMKG tarafından sağlanan bilgiler\u000d
 Xiaomi &amp; ICL"</string>
-    <string name="ew_global_signature_template">"%s tarafından sağlanan bilgiler
+    <string name="ew_global_signature_template">"%s tarafından sağlanan bilgiler\u000d
 Xiaomi &amp; ICL"</string>
     <string name="ew_guide_law_agree">Kabul et</string>
     <string name="ew_guide_law_done">Anladım</string>
@@ -1765,11 +1802,11 @@ Xiaomi &amp; ICL"</string>
     <string name="ew_guide_start_agree">Aç</string>
     <string name="ew_guide_start_find_area">Alanları ara</string>
     <string name="ew_guide_start_warning_range">Şu anda deprem erken uyarısı Chengdu Yüksek Teknoloji Afet Azaltma Enstitüsünün anakara deprem erken uyarı ağının kapsadığı alan için hizmet vermektedir. Spesifik alan bulunabilir</string>
-    <string name="ew_guide_statement_text_new">"Bu sorumluluk reddi deprem uyarı özelliğini etkinleştiren tüm kullanıcılar için geçerlidir. Bu feragatnameyi kabul ederek Xiaomi Inc. ve iştirakleriyle yasal olarak bağlayıcı bir sözleşme yaparsınız. Bu feragatnamenin tüm içeriğini okuduğunuzu ve bu feragatnamenin tüm hüküm ve koşullarını tam olarak anladığınızı ve kabul ettiğinizi onaylıyorsunuz. Aksi takdirde deprem uyarı özelliğini hemen kapatmalısınız
-Xiaomi, ilgili yasa ve yönetmeliklere uygun olarak ilgili kurumlar tarafından kapsanan deprem erken uyarı izleme alanının kapsamına göre size erken uyarı hizmetleri sağlayacaktır. Yani deprem uyarısı özelliğini açtığınızda, belirli alanlar için verilen deprem uyarılarını alabileceksiniz. Ayarlar'da belirli kapsama alanlarını bulabilirsiniz
-Bu özellik size deprem uyarısı işlevi sağlar. Deprem uyarı bilgilerinin Chengdu Yüksek Teknoloji Afet Azaltma Enstitüsü tarafından sağlandığını anlamalısınız. Xiaomi bu kuruluşu denetlemiyor ve üzerinde herhangi bir kontrolü yok
-Xiaomi, deprem uyarı bilgilerinin doğruluğunu, geçerliliğini ve güncelliğini vaat etmez veya garanti etmez, ayrıca deprem uyarı hizmetinin tüm ihtiyaçlarınızı karşılayacağını garanti etmez
-Deprem uyarı bilgilerini almak, cihazınızı mobil ağa bağlı tutmanızı gerektirir. Üçüncü taraf iletişim hattı arızaları, teknik sorunlar, ağ veya terminal ekipman arızaları, sistem dengesizliği ve diğer çeşitli mücbir sebep olayları, deprem uyarı bilgilerini almanızı engelleyebilir. Xiaomi, bu tür olaylardan kaynaklanan kayıplardan sorumlu olmayacaktır
+    <string name="ew_guide_statement_text_new">"Bu sorumluluk reddi deprem uyarı özelliğini etkinleştiren tüm kullanıcılar için geçerlidir. Bu feragatnameyi kabul ederek Xiaomi Inc. ve iştirakleriyle yasal olarak bağlayıcı bir sözleşme yaparsınız. Bu feragatnamenin tüm içeriğini okuduğunuzu ve bu feragatnamenin tüm hüküm ve koşullarını tam olarak anladığınızı ve kabul ettiğinizi onaylıyorsunuz. Aksi takdirde deprem uyarı özelliğini hemen kapatmalısınız\u000d
+Xiaomi, ilgili yasa ve yönetmeliklere uygun olarak ilgili kurumlar tarafından kapsanan deprem erken uyarı izleme alanının kapsamına göre size erken uyarı hizmetleri sağlayacaktır. Yani deprem uyarısı özelliğini açtığınızda, belirli alanlar için verilen deprem uyarılarını alabileceksiniz. Ayarlar'da belirli kapsama alanlarını bulabilirsiniz\u000d
+Bu özellik size deprem uyarısı işlevi sağlar. Deprem uyarı bilgilerinin Chengdu Yüksek Teknoloji Afet Azaltma Enstitüsü tarafından sağlandığını anlamalısınız. Xiaomi bu kuruluşu denetlemiyor ve üzerinde herhangi bir kontrolü yok\u000d
+Xiaomi, deprem uyarı bilgilerinin doğruluğunu, geçerliliğini ve güncelliğini vaat etmez veya garanti etmez, ayrıca deprem uyarı hizmetinin tüm ihtiyaçlarınızı karşılayacağını garanti etmez\u000d
+Deprem uyarı bilgilerini almak, cihazınızı mobil ağa bağlı tutmanızı gerektirir. Üçüncü taraf iletişim hattı arızaları, teknik sorunlar, ağ veya terminal ekipman arızaları, sistem dengesizliği ve diğer çeşitli mücbir sebep olayları, deprem uyarı bilgilerini almanızı engelleyebilir. Xiaomi, bu tür olaylardan kaynaklanan kayıplardan sorumlu olmayacaktır\u000d
 Bu özelliğin yalnızca referans olarak sağlandığını anlamalısınız. Aldığınız uyarı depremin başlamasından birkaç saniye önce gelebilir. Bu özellik tarafından sağlanan bilgilere dayanarak gerçekleştirdiğiniz tüm eylemlerin risklerinden ve sonuçlarından yalnızca siz sorumlusunuz"</string>
     <string name="ew_guide_tips_1">Yaklaşan depremler hakkında bilgilendirilecek ve uyarı sesini duyacaksınız</string>
     <string name="ew_guide_tips_2">Depremde bilgi ve uyarı sesi güncellenecek</string>
@@ -1829,17 +1866,17 @@ Bu özelliğin yalnızca referans olarak sağlandığını anlamalısınız. Ald
     <string name="ew_monitor_privacy_revoke_title">Deprem izleyicisinin gizlilik politikası onayınızı geri çekin</string>
     <string name="ew_monitor_read_privacy"><a href="%1$s">Gizlilik politikasını okudum ve kabul ediyorum</a></string>
     <string name="ew_monitor_share">Arkadaşlarına gönder</string>
-    <string name="ew_monitor_slogan">"Deprem izlemeye katılın ve
+    <string name="ew_monitor_slogan">"Deprem izlemeye katılın ve\u000d
 güvenli bir şehir inşa edin"</string>
     <string name="ew_monitor_summary1">Cep telefonu aynı zamanda bir deprem monitörüdür</string>
     <string name="ew_monitor_summary2">Deprem haberlerini bildirin ve bir izleme ağı kurun</string>
     <string name="ew_monitor_summary3">Daha fazla insanın deprem bilgilerini daha hızlı almasına yardımcı olun</string>
     <string name="ew_monitor_support">Xiaomi ve Chengdu yüksek teknoloji afet azaltma araştırma enstitüsü arasında ortak araştırma ve geliştirme</string>
     <string name="ew_monitor_support_rom">* Bazı Xiaomi veya Redmi telefonlar ve MIUI sürümleri bu işlevi destekler</string>
-    <string name="ew_monitor_thanks_tips">"%s deprem izleme gönüllüsü
+    <string name="ew_monitor_thanks_tips">"%s deprem izleme gönüllüsü\u000d
 olduğunuz için teşekkür ederiz"</string>
     <string name="ew_monitor_title">Deprem izleme gönüllüsü</string>
-    <string name="ew_monitor_title_spilt">"Deprem izleme
+    <string name="ew_monitor_title_spilt">"Deprem izleme\u000d
 gönüllüsü"</string>
     <string name="ew_no_contact_tips">Burada kişi yok</string>
     <string name="ew_not_support_area">Bu alanda uyarılar desteklenmiyor</string>
@@ -1864,7 +1901,7 @@ gönüllüsü"</string>
     <string name="ew_settings_set_level_summary">Şiddetleri %s veya daha yüksek olduğunda depremler hakkında uyarı alın</string>
     <string name="ew_settings_set_level_title">Deprem uyarı eşiğini ayarla</string>
     <string name="ew_signature_default">Chengdu Yüksek Teknoloji Afet Azaltma Araştırma Enstitüsü kıtasal deprem uyarı merkezi</string>
-    <string name="ew_sleep_mode_alert_content">"MIUI deprem erken uyarılarını alabilmeniz için uyku modunu kapatacaktır. Arka plan uygulamaları, NFC, Bluetooth, GPS, mobil veri ve wifi siz uyurken bile normal şekilde çalışacaktır. Deprem uyarısı şimdi açılsın mı?"</string>
+    <string name="ew_sleep_mode_alert_content">MIUI deprem erken uyarılarını alabilmeniz için uyku modunu kapatacaktır. Arka plan uygulamaları, NFC, Bluetooth, GPS, mobil veri ve wifi siz uyurken bile normal şekilde çalışacaktır. Deprem uyarısı şimdi açılsın mı?</string>
     <string name="ew_sleep_mode_alert_title">Deprem uyarısı</string>
     <string name="ew_subscribe_area_title">Eklenen alanları yönetin</string>
     <string name="ew_subscribe_city">Eklenen alanlar</string>
@@ -1892,8 +1929,7 @@ gönüllüsü"</string>
     <string name="exit_dialog_garbage_clean_title">Çöpü temizle</string>
     <string name="exit_dialog_homepage_optimise_message">Cihazınızın performans puanı 80 puandan düşük. Şimdi optimize edilsin mi?</string>
     <string name="exit_dialog_release_memory_positive_button">Kapat</string>
-    <string name="exit_dialog_release_memory_title"><Data>&lt;font color=#0099ff>%d%%&lt;/font> ile cihazınızı hızlandırın</Data></string>
-    <string name="exit_dialog_release_memory_title_new"><Data>Cihazınızı &lt;font color=#0099ff>%s&lt;/font> hızlandırın</Data></string>
+    <string name="exit_dialog_release_memory_title_new">Cihazınızı <font color="#0099ff">%s</font> hızlandırın</string>
     <string name="exit_dialog_release_storage_message">"Cihazınızdaki depolamanın %80'den fazlası dolu. Hiç kullanmadığınız uygulamaları kaldırarak yer açın"</string>
     <string name="exit_dialog_release_storage_message_new">"Cihazınızdaki depolamanın %s'den fazlası dolu. Hiç kullanmadığınız uygulamaları kaldırarak yer açın"</string>
     <string name="exit_dialog_release_storage_positive_button">Boş alan</string>
@@ -1928,7 +1964,6 @@ gönüllüsü"</string>
     <string name="exo_controls_pause_description">Duraklat</string>
     <string name="exo_controls_play_description">Çal</string>
     <string name="exo_controls_playback_speed">Hız</string>
-    <string name="exo_controls_playback_speed_normal">Normal</string>
     <string name="exo_controls_previous_description">Önceki parça</string>
     <string name="exo_controls_repeat_all_description">Tümünü tekrarla</string>
     <string name="exo_controls_repeat_off_description">Hiçbirini tekrarlama</string>
@@ -2169,7 +2204,7 @@ gönüllüsü"</string>
     <string name="free_time_traffic_settings">İndirimli veri limiti</string>
     <string name="free_time_traffic_title">İndirimli veri limitini girin</string>
     <string name="free_traffic_settings">İndirimli veri kullanım ayarları</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Kayan bir pencerede açmak için kenar çubuğundaki bir uygulamaya dokunun
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Kayan bir pencerede açmak için kenar çubuğundaki bir uygulamaya dokunun\u000d
 · Bir uygulamayı kayan bir pencerede açmak için ekranın ortasına veya bölünmüş ekranı kullanmak için yan tarafa sürükleyin"</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cum</string>
@@ -2177,30 +2212,26 @@ gönüllüsü"</string>
     <string name="full_fill_oprator_and_location">Operatör bilgilerinizi ve konumunuzu sağlayın</string>
     <string name="full_fill_sim_location">Önce konumu ayarlayın</string>
     <string name="fully_informed_privacy">Gizlilik bilinci</string>
-    <string name="function_auto_reject_detail">"Bu özellik hakkında:
-1. Oyun oynarken mobil veri hizmeti olmadan Sim karta gelen tüm aramalar otomatik olarak reddedilecektir
-2. Cevapsız aramalarla ilgili bildirimler göreceksiniz ve diğer kişi o anda meşgul olduğunuzu söyleyen bir sesli mesaj duyacaktır
-3. Bu özellik yalnızca Çin'deki mobil operatörler tarafından desteklenmektedir"</string>
-    <string name="function_auto_reject_detail_new">"Bu özellik hakkında:
-%1$d. Oyun oynarken Sim karta mobil veri hizmeti olmadan gelen tüm aramalar otomatik olarak reddedilecektir
-%2$d. Cevapsız aramalar hakkında bildirimler göreceksiniz ve diğer kişi şu anda meşgul olduğunuzu söyleyen bir sesli mesaj duyacaktır
+    <string name="function_auto_reject_detail_new">"Bu özellik hakkında:\u000d
+%1$d. Oyun oynarken Sim karta mobil veri hizmeti olmadan gelen tüm aramalar otomatik olarak reddedilecektir\u000d
+%2$d. Cevapsız aramalar hakkında bildirimler göreceksiniz ve diğer kişi şu anda meşgul olduğunuzu söyleyen bir sesli mesaj duyacaktır\u000d
 %3$d. Bu özellik yalnızca Çin'deki mobil operatörler tarafından desteklenir"</string>
     <string name="function_auto_reject_title">Veri hizmeti olmadan Sim kartlarına yapılan VoLTE aramalarını reddet</string>
     <string name="function_close">Kapat</string>
-    <string name="function_gwsd_detail">"Bu özellik hakkında:
- 1. Veri Sim üzerinden gelen aramalar mobil veri bağlantısını kesmez. Bağlantı yalnızca bir aramayı cevapladığınızda kesilecektir
- 2. Bu özellik açıldığında arayan arama bekletme zil seslerini duymaz. 6 saniye içinde cevap vermezseniz gelen aramaya son verilir
+    <string name="function_gwsd_detail">"Bu özellik hakkında:\u000d
+ 1. Veri Sim üzerinden gelen aramalar mobil veri bağlantısını kesmez. Bağlantı yalnızca bir aramayı cevapladığınızda kesilecektir\u000d
+ 2. Bu özellik açıldığında arayan arama bekletme zil seslerini duymaz. 6 saniye içinde cevap vermezseniz gelen aramaya son verilir\u000d
  3. Bu özellik sadece veri Sim kartlarında çalışır. Birincil Sim ile yapılan aramalar mobil veri bağlantısını keser"</string>
-    <string name="function_gwsd_detail_new">"Bu özellik hakkında:
-  %1$d. Bir veri Sim'inde veya bir VoLTE şebekesine bağlı normal bir Sim kartta mobil veri kullanırken, siz açana kadar bağlantı gelen aramalar tarafından kesilmeyecektir
-  %2$d. Bu özellik açıkken, normal bir SIM kart kullanmıyorsanız diğer kişi geri arama tonlarınızı duyamaz. Gelen aramalar, %3$d-%4$d saniyelik işlem yapılmadığında otomatik olarak reddedilecektir
+    <string name="function_gwsd_detail_new">"Bu özellik hakkında:\u000d
+  %1$d. Bir veri Sim'inde veya bir VoLTE şebekesine bağlı normal bir Sim kartta mobil veri kullanırken, siz açana kadar bağlantı gelen aramalar tarafından kesilmeyecektir\u000d
+  %2$d. Bu özellik açıkken, normal bir SIM kart kullanmıyorsanız diğer kişi geri arama tonlarınızı duyamaz. Gelen aramalar, %3$d-%4$d saniyelik işlem yapılmadığında otomatik olarak reddedilecektir\u000d
   %5$d. Çin Mobile ve Çin Unicom tarafından verilen Veri Sim kartları desteklenir. Çin Mobil, Çin Unicom ve Çin Telecom tarafından verilen normal Sim kartlar desteklenir"</string>
     <string name="function_gwsd_title">Gelen aramaları veri Sim bağlantısını kesmesine izin verme</string>
     <string name="function_oncall_not_close_network">Aramalar için bağlantıyı kes</string>
-    <string name="function_oncall_not_close_network_detail">"Bu özellik hakkında
-  %1$d. Bu özellik, bu cihaz belirli 5G ağlarına bağlıyken oyun oturumları sırasında gelen aramalarla kesintiye uğramadan çevrimiçi kalmanıza olanak tanır
-  %2$d. Sim kartlarınızdan hiçbiri 5G şebekesine bağlı değilse gelen aramalar birincil Sim'iniz tarafından otomatik olarak reddedilecektir
-  %3$d. Bu özellik yalnızca anakara Çin'de desteklenir
+    <string name="function_oncall_not_close_network_detail">"Bu özellik hakkında\u000d
+  %1$d. Bu özellik, bu cihaz belirli 5G ağlarına bağlıyken oyun oturumları sırasında gelen aramalarla kesintiye uğramadan çevrimiçi kalmanıza olanak tanır\u000d
+  %2$d. Sim kartlarınızdan hiçbiri 5G şebekesine bağlı değilse gelen aramalar birincil Sim'iniz tarafından otomatik olarak reddedilecektir\u000d
+  %3$d. Bu özellik yalnızca anakara Çin'de desteklenir\u000d
   %4$d. Bu özellik yalnızca 5G-SA ağlarında çalışır"</string>
     <string name="function_shield_auto_bright">Otomatik parlaklığı kapat</string>
     <string name="function_shield_eye_shield">Okuma modunu kapat</string>
@@ -2332,6 +2363,9 @@ gönüllüsü"</string>
     <string name="gb_advance_settings_vibration_4d">4D titreşim</string>
     <string name="gb_advance_settings_vibration_4d_summary">Titreşimi kullanarak oyun içinde eylemleri gösterin</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Oyundaki öldürmeler sırasında titreşim</string>
+    <string name="gb_already_in_game_list_tips">"This item is already among added games. Can't add it here."</string>
+    <string name="gb_already_in_video_list_tips">"This item is already among added video apps. Can't add it here."</string>
+    <string name="gb_application_not_find">Nothing here yet</string>
     <string name="gb_audition_instruction">Kaydetmek için basılı tut (%1$s-%2$s saniye)</string>
     <string name="gb_audition_play_instruction">En iyi etki için kulaklık kullanın</string>
     <string name="gb_award_noti_message">Ödüller almak için oyun hızlandırıcıda barış için oyun arka plan güncellemelerini açın</string>
@@ -2397,14 +2431,14 @@ gönüllüsü"</string>
     <string name="gb_game_end_toast">Oyunlarınızın önemli anlarını tekrar ziyaret edin</string>
     <string name="gb_game_fill_desc">İçerik bazı durumlarda bozulabilir</string>
     <string name="gb_game_macro_bubble_tips">Komboları deneyin</string>
-    <string name="gb_game_macro_toast_tips">"Komboları deneyin
+    <string name="gb_game_macro_toast_tips">"Komboları deneyin\u000d
 Dizileri kaydedin ve istediğiniz zaman kullanı"</string>
     <string name="gb_game_mode_change_btn_right">Yeniden başlat</string>
     <string name="gb_game_mode_change_message">Değişiklikleri şimdi uygulamak için oyun yeniden başlatılsın mı?</string>
     <string name="gb_game_mode_change_new">Düzenler arasında geçiş yap</string>
     <string name="gb_game_mode_change_title">Oyunu yeniden başlat</string>
     <string name="gb_game_mode_choose_game_area">Aktif alan</string>
-    <string name="gb_game_mode_choose_title">Görüntüleme modunu seçin</string>
+    <string name="gb_game_mode_choose_title_new">Select layout</string>
     <string name="gb_game_mode_empty">Burada henüz oyun yok</string>
     <string name="gb_game_mode_fill">Ekranı doldur</string>
     <string name="gb_game_mode_fill_type">Ekranı doldur</string>
@@ -2459,11 +2493,11 @@ Dizileri kaydedin ve istediğiniz zaman kullanı"</string>
     <string name="gb_performace_tips_button">Değiştir</string>
     <string name="gb_performace_tips_title">Daha iyi bir deneyim için Performans moduna geçin</string>
     <string name="gb_performance_balance">Dengeli mod</string>
-    <string name="gb_performance_balance_tips">"Dengeli mod yenileme hızı ve sıcaklık sınırlarını
+    <string name="gb_performance_balance_tips">"Dengeli mod yenileme hızı ve sıcaklık sınırlarını\u000d
 düşürürken güç tasarrufu sağlar"</string>
     <string name="gb_performance_high">Performans modu</string>
     <string name="gb_performance_mode">Oyun modu</string>
-    <string name="gb_performance_tips">"Performans modu telefon performansını artırabilir
+    <string name="gb_performance_tips">"Performans modu telefon performansını artırabilir\u000d
 Ayrıca güç tüketimini ve ısı üretimini artıracağından uzun süreli kullanım önerilmemektedir"</string>
     <string name="gb_predownload_check">Kartları görüntüle</string>
     <string name="gb_predownload_dialog_cancel">Hayıt</string>
@@ -2471,12 +2505,12 @@ Ayrıca güç tüketimini ve ısı üretimini artıracağından uzun süreli kul
     <string name="gb_predownload_dialog_confirm">Aç</string>
     <string name="gb_predownload_dialog_message_china">Bu oyun için güncellenmiş içerik wifi ağına bağlandıktan ve ekranı kapattıktan sonra bu cihaza otomatik olarak indirilebilir. Böylece yeni sürümü çıkar çıkmaz kullanabileceksiniz. Bu özelliği kullanmadan önce arka plan güncellemeleriyle ilgili %1$s bildirimini okuyun ve kabul edin</string>
     <string name="gb_predownload_dialog_title">Arka plan güncellemeleri artık kullanılabilir</string>
-    <string name="gb_predownload_message">Bu cihazı kullanmadığınızda arka planda King of Glory, Game for Peace ve diğer uyumlu oyunları güncelleyin</string>
+    <string name="gb_predownload_message_new">Update compatible games automatically while not using device</string>
     <string name="gb_predownload_noti_message">%2$1.2f GB güncellenmiş içerik bu cihazda zaten var. Yeni sürüm yayınlanır yayınlanmaz onu kullanabileceksiniz</string>
     <string name="gb_predownload_noti_title">%s arka planda başarıyla güncellendi</string>
     <string name="gb_predownload_receive">Ödül al</string>
-	<string name="gb_predownload_receive_error">Bir ağ hatası oluştu. Tekrar deneyin</string>
-	<string name="gb_predownload_receive_max">Bu cihazda daha fazla ödül alınamıyor</string>
+    <string name="gb_predownload_receive_error">Bir ağ hatası oluştu. Tekrar deneyin</string>
+    <string name="gb_predownload_receive_max">Bu cihazda daha fazla ödül alınamıyor</string>
     <string name="gb_predownload_receive_tips">Ödül almak için arka plan güncellemelerini açın</string>
     <string name="gb_predownload_receiving">Alınıyor</string>
     <string name="gb_predownload_title">Arka plan güncellemeleri</string>
@@ -2568,14 +2602,14 @@ Ayrıca güç tüketimini ve ısı üretimini artıracağından uzun süreli kul
     <string name="gb_voice_changer_setting_realtime_subtitle">Sesinizin gerçek zamanlı olarak nasıl değiştiğini kontrol edin</string>
     <string name="gb_voice_changer_setting_realtime_title">Gerçek zamanlı geri bildirim</string>
     <string name="gb_voice_changer_setting_rights">Hizmet şartları ve gizlilik politikası</string>
-    <string name="gb_voice_changer_toast_window_new_tips">"Ses değiştiriciyi deneyin
+    <string name="gb_voice_changer_toast_window_new_tips">"Ses değiştiriciyi deneyin\u000d
 Farklı karakterler ve özel efektler arasında geçiş yapın"</string>
     <string name="gb_voice_changer_toast_window_open">%s efekti açıldı</string>
     <string name="gb_voice_changer_trial_gender_dialog">Ücretsiz denemeyi başarıyla aldınız. Etkileri ve önerileri buna göre ayarlamak için cinsiyeti seçin</string>
     <string name="gb_voice_changer_trial_gender_dialog_title">Ücretsiz deneme</string>
     <string name="gb_voice_changer_trial_progress_dialog_message">Ücretsiz deneme alınıyor</string>
     <string name="gb_voice_changer_user_status_expired">Abonelik süresi doldu</string>
-    <string name="gb_voice_changer_user_status_get_trial_card_dialog">"%d günlük ücretsiz deneme edinin
+    <string name="gb_voice_changer_user_status_get_trial_card_dialog">"%d günlük ücretsiz deneme edinin\u000d
 ve ses değiştiricimizi keşfedin"</string>
     <string name="gb_voice_changer_user_status_no_login">Mi hesabında oturum açın</string>
     <string name="gb_voice_changer_user_status_remain_time">Son kullanma tarihi: %s</string>
@@ -2583,7 +2617,7 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">Aboneliklerinizin süresi doldu. Avantajlardan yararlanmak için aboneliği şimdi yenileyin</string>
     <string name="gb_voice_changer_user_vip_expired">Süresi doldu</string>
     <string name="gb_voice_changer_user_vip_remain_time">Son kullanma tarihi: %s</string>
-    <string name="gb_wonderful_moment_toast_window_new_pop">"Oyun oturumlarınızın
+    <string name="gb_wonderful_moment_toast_window_new_pop">"Oyun oturumlarınızın\u000d
 önemli anlarını kaydedin"</string>
     <string name="gb_wonderful_video_cancel">İptal et</string>
     <string name="gb_wonderful_video_checkall">Tümünü seç</string>
@@ -2601,6 +2635,8 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gcm_defaultSenderId">436805358632</string>
     <string name="gd_app_edit_done">Bitti</string>
     <string name="gd_app_edit_title_new">Kayan pencere kısayollarını düzenleyin</string>
+    <string name="gd_setting_conversation">Conference tools</string>
+    <string name="gd_setting_conversation_desc">Provides a variety of features for use in full-screen audio and video calls</string>
     <string name="gd_setting_group_custom_gtb_apps">Oyunlar</string>
     <string name="gd_setting_group_custom_settings">Kişiselleştirme</string>
     <string name="gd_setting_group_custom_vtb_apps">Video uygulamaları</string>
@@ -2618,13 +2654,18 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gd_sidebar_edit_quick_title">Kısayollar</string>
     <string name="gd_sidebar_long_press_tips">Cihazı dikey olarak tutarken hareket ettirmek için göstergeye basın ve basılı tutun</string>
     <string name="gd_splite_screen_tips">Bölünmüş ekran kayan pencereleri desteklemiyor</string>
-    <string name="gdpr_msg">"Güvenlik uygulamasının temel özelliklerini kullanabilmek için Xiaomi'nin kişisel verilerinizi toplayacağını kabul etmelisiniz. Güvenlik özellikleri cihazınızda belirtilen temel bilgiler ve diğer bilgileri içerir. "<a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikamıza</a> göz atın</string>
+    <string name="gdpr_msg">"\"Güvenlik uygulamasının temel özelliklerini kullanabilmek için Xiaomi'nin kişisel verilerinizi toplayacağını kabul etmelisiniz. Güvenlik özellikleri cihazınızda belirtilen temel bilgiler ve diğer bilgileri içerir. \""<a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikamıza</a> göz atın</string>
     <string name="ge">Daha</string>
     <string name="get_detail_by_click">Detaylar için tıklayın</string>
     <string name="get_phone_num_fail">Bilinmeyen telefon numarası</string>
     <string name="get_sys_info">Bilgi alınıyor</string>
     <string name="gigabyteShort">GB</string>
     <string name="give_lucky_money">Kırmızı zarf büyük teslimat</string>
+    <string name="global_dock_guide_desc_with_split_screen">"· Tap an app on the sidebar to open it in a floating window.\u000d
+· Drag an app to the center of the screen to open it in a floating window or to the side to use Split screen.\u000d
+· Press and hold the indicator to move the window around."</string>
+    <string name="global_dock_guide_desc_without_split_screen">"· Tap an app on the sidebar to open it in a floating window.\u000d
+· Press and hold the indicator to move the window around."</string>
     <string name="global_satisfaction_notification_button">Oran</string>
     <string name="global_satisfaction_notification_subhead">Bize deneyiminizden bahsedin</string>
     <string name="global_satisfaction_notification_title">Bu cihazı değerlendirin</string>
@@ -2658,8 +2699,6 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gs_autobooster_dialog_message">Xunyou hız artırma kullanıyorsanız belirlenen sayfada oyunları açın</string>
     <string name="gs_call_handsfree">Eller serbest arama yanıtlama</string>
     <string name="gs_call_handsfree_mute">Sessiz mod</string>
-    <string name="gs_dialog_confirm_close_msg">"Kısayol ana ekranınızdan kaldırılacaktır. Geri yüklemek için Güvenlik > Ayarlar'a gidin"</string>
-    <string name="gs_dialog_confirm_close_title">Kapat</string>
     <string name="gs_forbid_autosync">Arka plan senkronizasyonunu sınırla</string>
     <string name="gs_game_ai_record">AI kullanarak kaydey</string>
     <string name="gs_game_disturb_msg">Rahatsız etme</string>
@@ -2692,6 +2731,7 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gtb_brightness_adjust">Parlaklık</string>
     <string name="gtb_brightness_dialog_right_btn">Devam et</string>
     <string name="gtb_brightness_dialog_sub_message">* Bu özelliği ayarlardan açıp kapatabilirsiniz</string>
+    <string name="gtb_casual_guide_toast">Discover even more in Games</string>
     <string name="gtb_content_switch">İçerik önerileri</string>
     <string name="gtb_content_switch_summary">Oyunla ilgili içerik önerileri alın</string>
     <string name="gtb_deep_garbage_cleaning">Derin temizlik yapılıyor</string>
@@ -2746,7 +2786,7 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gtb_spring_festival_back_game">Oyuna dön</string>
     <string name="gtb_spring_festival_egg_obtain_fail">Ağa bağlanılamadı</string>
     <string name="gtb_spring_festival_goto_gameturbo">Görüntüle</string>
-    <string name="gtb_spring_festival_guide">"Yumurta avımıza katılmak için
+    <string name="gtb_spring_festival_guide">"Yumurta avımıza katılmak için\u000d
 manzara moduna geçin"</string>
     <string name="gtb_spring_festival_guide_know">Anladım</string>
     <string name="gtb_spring_festival_push_active_desc">Telefonlar, akıllı cihazlar ve kuponlar kazanın</string>
@@ -2903,6 +2943,7 @@ manzara moduna geçin"</string>
     <string name="keyguard_charging_info_drained_time_format">%1$s %2$s</string>
     <string name="kilobyteShort">KB</string>
     <string name="kilobyte_per_second">K/saniye</string>
+    <string name="label">Label</string>
     <string name="label_callwait">Arama bekletme bildirimi</string>
     <string name="label_mi_stats">Mi analitik</string>
     <string name="last_check_canceled">Önceki tarama işlemi iptal edildi</string>
@@ -2911,8 +2952,8 @@ manzara moduna geçin"</string>
     <string name="legal_workday_invalidate">Pazartesi-Cuma (Tatil bilgileri geçersiz)</string>
     <string name="legal_workday_invalidate_message">Resmi tatil günleri bilgilerini güncellemek için dokunun</string>
     <string name="legal_workday_message">(Tatilleri atla)</string>
-    <string name="leisure_usage_dialog_message">"İndirimli veri kullanım sınırınıza ulaştınız
-
+    <string name="leisure_usage_dialog_message">"İndirimli veri kullanım sınırınıza ulaştınız\u000d
+\u000d
 Mobil veri bağlantısını tekrar kullanmanız durumunda operatörünüz ek ücretler uygulayabilir"</string>
     <string name="leisure_usage_dialog_title">İndirimli veri kullanım sınırını aştınız. Veri bağlantısı kapatıldı</string>
     <string name="limit_speed_by_quota">Sınırsız trafik kullanımında eşik aşılırsa hız düşürülecek</string>
@@ -2981,8 +3022,8 @@ Mobil veri bağlantısını tekrar kullanmanız durumunda operatörünüz ek üc
     <string name="lucky_alarm_open_summary">Açılır pencereye kırmızı zarf aktivitesinin başlamasından 1 dakika önce hatırlatma yapılır ve tüm kırmızı zarf aktivitesi süresi yüzen pencereden görülebilir</string>
     <string name="lucky_alarm_open_title">Kırmızı zarf çalar saat</string>
     <string name="lucky_alarm_sound_title">Olay sesi hatırlatıcısı</string>
-    <string name="lucky_assistant_description">"Mi resmi imalat 
-WeChat/QQ 
+    <string name="lucky_assistant_description">"Mi resmi imalat \u000d
+WeChat/QQ \u000d
 Hatırlatıcıları engellenen grupları desteklemez ve yazılımın rahatsız etme işlevini kaydetmek için bilgisayarı açar"</string>
     <string name="lucky_max_chat_title">"QQ'dan"</string>
     <string name="lucky_money_close">Kapat</string>
@@ -2993,31 +3034,21 @@ Hatırlatıcıları engellenen grupları desteklemez ve yazılımın rahatsız e
     <string name="lucky_sound_warn">Kırmızı zarf sesli uyarı</string>
     <string name="lucky_str_yuan">%s yuan</string>
     <string name="lucky_warning_count_title">"WeChat'den"</string>
-    <string name="m3_ref_typeface_brand_display_regular">sans-serif</string>
     <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
     <string name="m3_ref_typeface_brand_regular">sans-serif</string>
     <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
     <string name="m3_ref_typeface_plain_regular">sans-serif</string>
-    <string name="m3_sys_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
-    <string name="m3_sys_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
     <string name="m3_sys_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="m3_sys_motion_easing_emphasized_accelerate">cubic-bezier(0.3, 0.0, 0.8, 0.2)</string>
+    <string name="m3_sys_motion_easing_emphasized_decelerate">cubic-bezier(0.1, 0.7, 0.1, 1.0)</string>
+    <string name="m3_sys_motion_easing_emphasized_path_data">M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1</string>
+    <string name="m3_sys_motion_easing_legacy">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
+    <string name="m3_sys_motion_easing_legacy_accelerate">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_legacy_decelerate">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
     <string name="m3_sys_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
     <string name="m3_sys_motion_easing_standard">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
-    <string name="m3_sys_typescale_body_large_font">sans-serif</string>
-    <string name="m3_sys_typescale_body_medium_font">sans-serif</string>
-    <string name="m3_sys_typescale_body_small_font">sans-serif</string>
-    <string name="m3_sys_typescale_display_large_font">sans-serif</string>
-    <string name="m3_sys_typescale_display_medium_font">sans-serif</string>
-    <string name="m3_sys_typescale_display_small_font">sans-serif</string>
-    <string name="m3_sys_typescale_headline_large_font">sans-serif</string>
-    <string name="m3_sys_typescale_headline_medium_font">sans-serif</string>
-    <string name="m3_sys_typescale_headline_small_font">sans-serif</string>
-    <string name="m3_sys_typescale_label_large_font">sans-serif-medium</string>
-    <string name="m3_sys_typescale_label_medium_font">sans-serif-medium</string>
-    <string name="m3_sys_typescale_label_small_font">sans-serif-medium</string>
-    <string name="m3_sys_typescale_title_large_font">sans-serif</string>
-    <string name="m3_sys_typescale_title_medium_font">sans-serif-medium</string>
-    <string name="m3_sys_typescale_title_small_font">sans-serif-medium</string>
+    <string name="m3_sys_motion_easing_standard_accelerate">cubic-bezier(0.3, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_standard_decelerate">cubic-bezier(0.0, 0.0, 0.0, 1.0)</string>
     <string name="main_activity_content_summary_root">Root erişimi</string>
     <string name="main_activity_content_summary_update">Sistem güncelleme</string>
     <string name="main_alert_message_no_imsi">Sim kart bulunamadı</string>
@@ -3051,9 +3082,9 @@ Hatırlatıcıları engellenen grupları desteklemez ve yazılımın rahatsız e
     <string name="main_primary_message_traffic_warning">Mobil veri uyarısı</string>
     <string name="main_purchase_tips">İndirim</string>
     <string name="main_tc_over">Başarıyla kalibre edildi</string>
-    <string name="main_tc_send_sms">"Kalibrasyon için
+    <string name="main_tc_send_sms">"Kalibrasyon için\u000d
 Mesaj gönder"</string>
-    <string name="main_tc_wait_result">"Operatörün yanıt vermesi
+    <string name="main_tc_wait_result">"Operatörün yanıt vermesi\u000d
 bekleniyor"</string>
     <string name="main_today_used">Bugün kullanılan</string>
     <string name="main_toolbar_custom_service">Müşteri hizmetleri</string>
@@ -3126,9 +3157,7 @@ bekleniyor"</string>
     <string name="memory_check_content">%s temizlendi</string>
     <string name="memory_clean_memory_size_tip">Önbellek</string>
     <string name="memory_clean_no_need_clean">Her şey yolunda gözüküyor</string>
-    <string name="memory_clean_no_need_clean_1" formatted="false">"%s temizlendi
-Cihazınız şimdi %%%d daha hızlı"</string>
-    <string name="memory_clean_no_need_clean_1_new" formatted="false">"%s temizlendi
+    <string name="memory_clean_no_need_clean_1_new" formatted="false">"%s temizlendi\u000d
 Cihazınız artık %s daha hızlı"</string>
     <string name="memory_clear_unused">Önbelleği temizle (%s)</string>
     <string name="memory_title">Kullanılan: %1$s Toplam: %2$s</string>
@@ -3152,7 +3181,6 @@ Cihazınız artık %s daha hızlı"</string>
     <string name="menu_item_notification_antispam_text_avail">Engelli listesi</string>
     <string name="menu_item_notification_antispam_text_normal">Engelli listesi</string>
     <string name="menu_item_notification_garbage_text">%s</string>
-    <string name="menu_item_notification_optimize_text">%%%d dolu</string>
     <string name="menu_item_notification_optimize_text_new">%s dolu</string>
     <string name="menu_item_notification_power_text">Güç</string>
     <string name="menu_item_notification_title">Bildirim panelinde menüsü</string>
@@ -3180,7 +3208,6 @@ Cihazınız artık %s daha hızlı"</string>
     <string name="menu_summary_networkassistants_3">Yeterli veri kaldı</string>
     <string name="menu_summary_networkassistants_4">Veri tükeniyor</string>
     <string name="menu_summary_optimize_manage">Hafızayı temizle</string>
-    <string name="menu_summary_optimize_manage_1">Cihazınızı %%%d daha hızlandırın</string>
     <string name="menu_summary_optimize_manage_1_new">Cihazınızı %s daha hızlı yapın</string>
     <string name="menu_summary_power_manager">Pil tasarrufu size ücretler arasında daha fazla zaman verir</string>
     <string name="menu_summary_power_manager_1">Pil tamamen şarj oldu</string>
@@ -3256,6 +3283,8 @@ Cihazınız artık %s daha hızlı"</string>
     <string name="mixed_retry_button_text">İptal et</string>
     <string name="mixed_settings_help_how_to_record">Şifre nasıl ayarlanır</string>
     <string name="mm_app_name">Mi Sim</string>
+    <string name="model_type_pad">平板</string>
+    <string name="model_type_phone">手机</string>
     <string name="modify_cellular_type">Planınızı seçmek için dokunun</string>
     <string name="modify_password_mode"><u>Şifre türünü değiştir</u></string>
     <string name="modifypassword">Şifreyi değiştir</string>
@@ -3299,7 +3328,7 @@ Cihazınız artık %s daha hızlı"</string>
     <string name="month_october">Ekim</string>
     <string name="month_october_short">Eki</string>
     <string name="month_october_shortest">Eki</string>
-    <string name="month_package_reminder_character">"Sınırsız veri planlarıyla veri kullanım uyarılarının kullanılması yine de bir veri sınırının ayarlanmasını gerektirir. Bu sınıra ulaşıldığında uyarı alacaksınız"</string>
+    <string name="month_package_reminder_character">Sınırsız veri planlarıyla veri kullanım uyarılarının kullanılması yine de bir veri sınırının ayarlanmasını gerektirir. Bu sınıra ulaşıldığında uyarı alacaksınız</string>
     <string name="month_reminder_warning">Aylık veri sınırı</string>
     <string name="month_reminder_warning_necessary">Aylık veri sınırı (Gereklidir)</string>
     <string name="month_september">Eylül</string>
@@ -3319,7 +3348,6 @@ Cihazınız artık %s daha hızlı"</string>
     <string name="mtrl_picker_a11y_next_month">Gelecek aya geç</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya geç</string>
     <string name="mtrl_picker_announce_current_selection">Şu anki seçim: %1$s</string>
-    <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_confirm">Tamam</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Bir tarih seçin</string>
@@ -3355,8 +3383,8 @@ Cihazınız artık %s daha hızlı"</string>
     <string name="na_open_at_once">Aç</string>
     <string name="na_operator_not_support_correction">Bu operatör ücret ve bakiye sorgulamalarını desteklemiyor</string>
     <string name="na_query_and_correction">Teraziyi kontrol edin ve kalibre edin</string>
-    <string name="na_query_and_correction_msg">"Operatörünüze ücretsiz bir mesaj göndererek hesap bakiyenizi ve mobil veri istatistiklerinizi kontrol edebilir ve kalibre edebilirsiniz. Bu mesajlar şifrelenir
-Bakiye sorgulama mesajları mesajlaşmada saklanmaz ve görüntülenmez
+    <string name="na_query_and_correction_msg">"Operatörünüze ücretsiz bir mesaj göndererek hesap bakiyenizi ve mobil veri istatistiklerinizi kontrol edebilir ve kalibre edebilirsiniz. Bu mesajlar şifrelenir\u000d
+Bakiye sorgulama mesajları mesajlaşmada saklanmaz ve görüntülenmez\u000d
 Veri kullanım istatistiklerini otomatik ayarla seçeneğini istediğiniz zaman kapatabilirsiniz"</string>
     <string name="na_text_checking">"Test ediliyor: "</string>
     <string name="name">İsim</string>
@@ -3389,38 +3417,38 @@ Veri kullanım istatistiklerini otomatik ayarla seçeneğini istediğiniz zaman 
     <string name="network_disable_dialog_content">Onayınızı geri çekebilmeniz için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="network_disable_dialog_content_cn">Onayınızı geri çekebilmeniz için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="network_disable_dialog_title">Ağa bağlanamıyorum</string>
-    <string name="network_mobile_exception_detail">"Cihazınız internete bağlanamıyor:
-
-1. Tarifenizin mobil veri kullanım sınırını aşmadığınızdan emin olun
-
-2. Eğer yeni bir satın alma veya yükleme işlemi yaptıysanız cihazınızı yeniden başlatın ve ardından tekrar deneyin 
-
+    <string name="network_mobile_exception_detail">"Cihazınız internete bağlanamıyor:\u000d
+\u000d
+1. Tarifenizin mobil veri kullanım sınırını aşmadığınızdan emin olun\u000d
+\u000d
+2. Eğer yeni bir satın alma veya yükleme işlemi yaptıysanız cihazınızı yeniden başlatın ve ardından tekrar deneyin \u000d
+\u000d
 3. Mevcut konumunuzda operatörünüzün sinyal gücü zayıf olabilir"</string>
     <string name="network_operator_exception_summary">Sim kart etkinleştirilemedi. Sim kartın doğru yerleştirildiğinden ve operatörünüzün kartınızı etkinleştirdiğinden emin olun</string>
     <string name="network_permission_exception_tips">Ağa bağlanmak için mobil veri kullanılamıyor</string>
     <string name="network_roaming_exception_tips">Dolaşım sırasında mobil veri kullanılarak ağa bağlanılamıyor</string>
-    <string name="network_route_exception_detail">"Bağlanmış olduğunuz yönlendiricide bir sorun olabilir: 
- 
-"<b>1. Halka açık wifi ağ sorunları</b>"
-Eğer halka açık bir wifi ağına bağlandıysanız ağa bağlı olan kullanıcı sayısı ağı yavaşlatıyor veya bağlantı sorunları oluşmasına neden oluyor olabilir. Başka bir ağa bağlanın ve ardından tekrar deneyin 
- 
-"<b>2. İnternet servis sağlayıcısı sorunları</b>"
-İnternet servis sağlayıcısı hesabınızda bir sorun olup olmadığından emin olun 
- 
-"<b>3. Yönlendirici donanım sorunları</b>"
-Yönlendiricinizin yönetici ayarlarını kontrol edin veya yönlendiricinizi yeniden başlatmayı deneyin 
- 
-"<b>4. Diğer yönlendirici sorunları</b>"
-Yönlendiriciniz ile birlikte gelen yönergeleri gözden geçirin ve yönlendiricinizi fabrika ayarlarına geri döndürün 
- 
-"<b>5. Yönlendiricinizin doğru şekilde çalıştığından ve bağlandığından emin olun</b>"
+    <string name="network_route_exception_detail">"Bağlanmış olduğunuz yönlendiricide bir sorun olabilir: \u000d
+ \u000d
+\""<b>1. Halka açık wifi ağ sorunları</b>"\"\u000d
+Eğer halka açık bir wifi ağına bağlandıysanız ağa bağlı olan kullanıcı sayısı ağı yavaşlatıyor veya bağlantı sorunları oluşmasına neden oluyor olabilir. Başka bir ağa bağlanın ve ardından tekrar deneyin \u000d
+ \u000d
+\""<b>2. İnternet servis sağlayıcısı sorunları</b>"\"\u000d
+İnternet servis sağlayıcısı hesabınızda bir sorun olup olmadığından emin olun \u000d
+ \u000d
+\""<b>3. Yönlendirici donanım sorunları</b>"\"\u000d
+Yönlendiricinizin yönetici ayarlarını kontrol edin veya yönlendiricinizi yeniden başlatmayı deneyin \u000d
+ \u000d
+\""<b>4. Diğer yönlendirici sorunları</b>"\"\u000d
+Yönlendiriciniz ile birlikte gelen yönergeleri gözden geçirin ve yönlendiricinizi fabrika ayarlarına geri döndürün \u000d
+ \u000d
+\""<b>5. Yönlendiricinizin doğru şekilde çalıştığından ve bağlandığından emin olun</b>"\"\u000d
 Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu değiştirmeyi deneyin. Eğer ev ağınızda bir sorun olduğundan şüpheleniyorsanız internet servis sağlayıcınızla iletişime geçin"</string>
-    <string name="network_sim_exception_detail">"Sim kartınızda bir sorun olabilir: 
-
-1. Sorunun kartınızdan veya operatörünüzden kaynaklanıp kaynaklanmadığından emin olun. Bir arkadaşınızın Sim kartını kullanarak bağlantının düzgün çalışıp çalışmadığını kontrol edin 
-
-2. Çift Sim kart kullanıyorsanız Sim kartları değiştirerek bağlantının düzgün çalışıp çalışmadığını kontrol edin 
-
+    <string name="network_sim_exception_detail">"Sim kartınızda bir sorun olabilir: \u000d
+\u000d
+1. Sorunun kartınızdan veya operatörünüzden kaynaklanıp kaynaklanmadığından emin olun. Bir arkadaşınızın Sim kartını kullanarak bağlantının düzgün çalışıp çalışmadığını kontrol edin \u000d
+\u000d
+2. Çift Sim kart kullanıyorsanız Sim kartları değiştirerek bağlantının düzgün çalışıp çalışmadığını kontrol edin \u000d
+\u000d
 3. Sim kartınızın veya Sim kart yuvasının zarar görüp görmediğinden emin olun. Sim kartın cihazınızın Sim kart yuvasına doğru takılıp takılmadığını kontrol edin"</string>
     <string name="network_speed_for_apps_close">Durmaya zorla</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">Bu uygulama durmaya zorlansın mı?</string>
@@ -3506,7 +3534,6 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="notification_link_cleaner_3001">Cihazınızı hızlandırmak için WeChat çöp kutusunu temizleyin</string>
     <string name="notification_link_cleaner_3002">WeChat çöp kutusunu temizleyin</string>
     <string name="notification_link_cleaner_4000">QQ çöp kutusunu temizle</string>
-    <string name="notification_link_optimizemanage_1011">%%%d bellek dolu. Şimdi temizle</string>
     <string name="notification_link_optimizemanage_1011_new">%s bellek dolu. Şimdi temizle</string>
     <string name="notification_low_battery_need_charge">Cihazınızı şarj edin</string>
     <string name="notification_low_battery_open_save_mode">Pil tasarrufunu aç</string>
@@ -3523,7 +3550,6 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="notification_masked_subtitle">Uygulama kilidi ile korunan uygulamalardan gelen bildirimleri gizle</string>
     <string name="notification_optimize_button_text">Temizle</string>
     <string name="notification_optimize_message">Hızı artırmak için belleği temizleyin</string>
-    <string name="notification_optimize_title">%%%d bellek dolu</string>
     <string name="notification_optimize_title_new">%s bellek dolu</string>
     <string name="notification_power_consume_issue_summary">Yüksek güç tüketimi</string>
     <string name="notification_power_consume_suggest_summary">Pilden tasarruf etmek için sorunları düzeltin</string>
@@ -3543,6 +3569,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="notify_channel_name_behavior">Davranış geçmişi</string>
     <string name="notify_channel_name_security">Sistem güvenliği</string>
     <string name="notify_channel_optimize">Güvenlik bildirimleri</string>
+    <string name="notify_channel_resident_hide">Security assistant notifications</string>
     <string name="notify_daily_data_usage_body">Veri kullanımını otomatik olarak sınırlandırmak için tarife detaylarınızı ayarlayın</string>
     <string name="notify_daily_limit_body">Veri kullanım limiti ayarlamak için dokunun</string>
     <string name="notify_daily_limit_title">Bu gün %s kullanıldı</string>
@@ -3625,7 +3652,6 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="open_now">Mobil veriyi kullan</string>
     <string name="open_right_now">Kırmızı zarfları derhal tut</string>
     <string name="open_right_now_short">Hemen kap</string>
-    <string name="open_shut_down_password">@string/ew_guide_start_agree</string>
     <string name="open_wlan_title">Bu uygulamanın wifi ağını açıp kapatmasına izin ver</string>
     <string name="operator_location_settings">Taşıyıcıyı ve konumu ayarla</string>
     <string name="operator_location_settings_message">Operatörünüz ve konumunuz tanınamadı. Telefon bakiyesi ve veri kullanımı uyarıları şu anda ayarlanamıyor</string>
@@ -3727,8 +3753,20 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_battery_history_show_imei">İmei:</string>
     <string name="pc_battery_history_total_consumption_title">Toplam güç tüketimi</string>
     <string name="pc_battery_history_usetime_title">Aktif</string>
+    <string name="pc_close_notifi_action">Turn off</string>
     <string name="pc_emergency_call">Acil durum</string>
     <string name="pc_endurance_calculation">Hesaplanıyor</string>
+    <string name="pc_entered_extreme_mode">Hibernation mode is on</string>
+    <string name="pc_entered_extreme_mode_summary">"Your device is out of battery and has entered Hibernation mode. Apps will run in the background and won't send notifications."</string>
+    <string name="pc_extreme_exit_and_power_off">Exit</string>
+    <string name="pc_extreme_mode_bg_toast">"In Hibernation mode, apps will run in the background and won't send notifications"</string>
+    <string name="pc_extreme_mode_entering">Entering Hibernation mode…</string>
+    <string name="pc_extreme_mode_exit_risk_title">Attention</string>
+    <string name="pc_extreme_mode_exit_risk_title_summary">Your device is out of battery. If you exit Hibernation mode, your device will turn off.</string>
+    <string name="pc_extreme_mode_exiting">Exiting Hibernation mode…</string>
+    <string name="pc_extreme_mode_find_charger">Charge your device as soon as possible.</string>
+    <string name="pc_extreme_mode_runtime">Hibernation mode has been on for %1$s %2$s.</string>
+    <string name="pc_extreme_mode_title">Hibernation mode</string>
     <string name="pc_fast_charge_notifi_action_text_off">Durdur</string>
     <string name="pc_fast_charge_notifi_action_text_on">Hızlandır</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">Hatırlatma için pil seviyesi</string>
@@ -3743,14 +3781,18 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_fast_charge_switch_title">Şarj hızını arttır</string>
     <string name="pc_fast_charge_switch_toast_message">Bu cihazı bir sonraki şarj edişinizde değişiklikler uygulanacaktır</string>
     <string name="pc_fast_charge_title">Şarj hızını arttır</string>
+    <string name="pc_going_to_exit_extreme_mode">Exiting Hibernation mode</string>
+    <string name="pc_going_to_exit_extreme_mode_summary">Your device is charging. Hibernation mode is off.</string>
+    <string name="pc_going_to_extreme_mode">Entering Hibernation mode</string>
     <string name="pc_hidemode_normal">Dengeli</string>
     <string name="pc_hidemode_normal_title">Dengeli</string>
     <string name="pc_hidemode_performance">Performas</string>
     <string name="pc_hidemode_performance_title">Performans modu</string>
     <string name="pc_hidemode_power_save">Güç</string>
-	<string name="pc_high_temp_protection_noti_bt_text">Tamam</string>
-	<string name="pc_high_temp_protection_noti_summary">Şu anda bağlantı noktaları, mobil veriler ve konum hizmetleri kullanılamıyor</string>
-	<string name="pc_high_temp_protection_noti_tile">Cihazınız aşırı ısınmış</string>
+    <string name="pc_high_temp_protection_noti_bt_text">Tamam</string>
+    <string name="pc_high_temp_protection_noti_summary">Şu anda bağlantı noktaları, mobil veriler ve konum hizmetleri kullanılamıyor</string>
+    <string name="pc_high_temp_protection_noti_summary2">"Can't use hotspots now"</string>
+    <string name="pc_high_temp_protection_noti_tile">Cihazınız aşırı ısınmış</string>
     <string name="pc_install_manager">USB üzerinden yükleme</string>
     <string name="pc_main_activity_back">Geri</string>
     <string name="pc_main_battery_text_day">%1$sd eklendi. Yaklaşık %2$s gün kaldı</string>
@@ -3804,6 +3846,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permgroupdesc_location">Konum bilgisine erişme</string>
     <string name="permgroupdesc_microphone">Ses kaydı</string>
     <string name="permgroupdesc_phone">Aramalar yapın ve konuşmaları yönetin</string>
+    <string name="permgroupdesc_readmediaimages">Access photos and videos</string>
+    <string name="permgroupdesc_readmediavideo">Access music and audio</string>
     <string name="permgroupdesc_recognition">Sağlık &amp; etkinlik verilerine erişme</string>
     <string name="permgroupdesc_sensors">Vücut sensör verilerine erişme</string>
     <string name="permgroupdesc_sms">Mesaj oku veya gönder</string>
@@ -3843,6 +3887,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permission_instruction_get_accounts">Bu izin uygulamaların cihazınızda depolanan hesapların listesine erişmesine izin verir. Bu liste yüklü uygulamalar tarafından oluşturulan tüm kişisel hesaplarınızın yanı sıra sosyal medya platformlarından ve iletişim araçlarından hesaplarınızı içerebilir</string>
     <string name="permission_instruction_install_shortcuts">Bu izin uygulamaların ana ekran kısayolları oluşturmasına izin verir</string>
     <string name="permission_instruction_install_unknown_source">Bu izin uygulamaların cihazınıza başka uygulamalar yüklemesine izin verir. Kötü amaçlı uygulamalar onayınız olmadan uygulamaları yüklemek için bu izni kullanır</string>
+    <string name="permission_instruction_location">When you grant this permission, apps will use networks or satellite positioning to access your location. You can allow apps that support the feature to access only your approximate location.</string>
     <string name="permission_instruction_media_audio">Bu iznin verilmesi uygulamaların telefonunuzdaki müziğe ve diğer seslere erişmesine izin verir. Lütfen bu kişisel bilgilerin çok önemli olduğunu ve özel bilgilerin gereksiz yere ifşa edilmesini önlemek için uygulamaya bu izni verirken dikkatli olmanız gerektiğini unutmayın</string>
     <string name="permission_instruction_media_files">Bu iznin verilmesi uygulamaların telefonunuzdaki dosyalara ve belgelere erişmesine izin verir. Lütfen bu kişisel bilgilerin çok önemli olduğunu ve özel bilgilerin gereksiz yere ifşa edilmesini önlemek için uygulamaya bu izni verirken dikkatli olmanız gerektiğini unutmayın</string>
     <string name="permission_instruction_modify_audio_settings">Bu izin uygulamaların ses ayarlarını değiştirmesine izin verir. Bu izni vermediğiniz sürece bazı uygulamalarda ses düzeyini ayarlayamayabilirsiniz</string>
@@ -3869,13 +3914,14 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permission_instruction_send_mms">Bu izin uygulamaların multimedya mesajları göndermesine izin verir ve bu da ek ücretlere neden olabilir. Kötü amaçlı uygulamalar izniniz olmadan ücretli mesajlar göndermek için bu izni kullanabilir</string>
     <string name="permission_instruction_send_payment_sms">Bu izin uygulamaların ücretli metin mesajları göndermesine izin verir</string>
     <string name="permission_instruction_send_sms">Bu izin uygulamaların metin mesajları göndermesine izin verir ve bu da ek ücretlere neden olabilir. Kötü amaçlı uygulamalar izniniz olmadan ücretli mesajlar göndermek için bu izni kullanabilir</string>
-	<string name="permission_instruction_shake">Bu izin uygulamaların cihazınızın yönünü ve hareketini izlemesine olanak tanır (Örnek: Sallama, eğme ve döndürme)</string>
+    <string name="permission_instruction_shake">Bu izin uygulamaların cihazınızın yönünü ve hareketini izlemesine olanak tanır (Örnek: Sallama, eğme ve döndürme)</string>
     <string name="permission_instruction_show_locked">Bu izin uygulamaların kilit ekranınızdaki öğeleri görüntülemesine izin verir. Kötü amaçlı uygulamalar size rahatsız edici reklamlar göstermek için bu izni kullanabilir</string>
     <string name="permission_instruction_sociality">Gizliliğinizi korumak için MIUI depolama izinlerine sahip uygulamaların sosyal medya uygulamalarındaki mesajlarınıza erişmesine izin verip vermeyeceğinize karar vermenizi sağlar</string>
     <string name="permission_instruction_storage">Gizliliğinizi korumak için MIUI depolama izinlerine sahip uygulamaların galeriye ve sosyal medya uygulamalarındaki mesajlarınıza erişmesine izin verip vermeyeceğinize karar vermenizi sağlar</string>
     <string name="permission_instruction_touch_pay">Bu izin uygulamaların temassız ödeme yapmasına izin verir</string>
     <string name="permission_instruction_use_sip">Bu izin uygulamaların SIP video hizmetlerini kullanmasına izin verir</string>
     <string name="permission_instruction_vr_assistant">Bu izin uygulamaların VR asistan hizmetlerini kullanmasına izin verir</string>
+    <string name="permission_instruction_wall_paper">Grant this permission to allow apps to change default dynamic wallpaper services and keep running in the background.</string>
     <string name="permission_instruction_write_calllog">Bu izin uygulamaların gelen ve giden aramalarınız hakkında ayrıntılı bilgiler içerebilen arama geçmişini düzenlemesine izin verir. Kötü amaçlı uygulamalar arama geçmişinizi temizlemek veya düzenlemek için bu izni kullanabilir</string>
     <string name="permission_instruction_write_clipboard">Bu izin uygulamaların öğeleri panoya kaydetmesine izin verir. İstenmeyen mesajlar panoyu normal kullanımınızı etkileyebilir</string>
     <string name="permission_instruction_write_contacts">Bu izin uygulamaların cihazınızda depolanan kişi bilgilerini düzenlemesine, eklemesine ve silmesine izin verir. Bu bilgiler, belirli kişilerle aramalar, e-postalar ve diğer yöntemler yoluyla iletişiminizin sıklığını içerebilir. Bu izin uygulamaların kişilerinizi silmesine de izin verir</string>
@@ -3908,6 +3954,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="phone_manage_system_tool_title">Araçlar</string>
     <string name="phone_manager_edit_commonly_used_func_title">Ortak özellikleri düzenle</string>
     <string name="phone_manager_title">Araç kutusu</string>
+    <string name="phone_type_fold">折叠手机</string>
+    <string name="phone_type_normal">普通手机</string>
     <string name="pkg_traffic">Veri kullanım limitini ayarlayın</string>
     <string name="pm">ÖS</string>
     <string name="pm_auto_start_by_other">Başlatma tetiklendi</string>
@@ -4264,6 +4312,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pp_identifier_protection">Kişisel tanımlayıcıları koru</string>
     <string name="pp_interception_net_visit_content_manager">Galeriyi ve sosyal medya uygulamalarını koruyun</string>
     <string name="pp_interception_net_visit_content_manager_detail">Fotoğraflarınıza, videolarınıza ve sohbet geçmişinize erişmesine izin verilen uygulamaları seçin</string>
+    <string name="pp_lab_compact_blur_location">Apps accessing approximate location</string>
+    <string name="pp_lab_compact_blur_location_summary">"Select \"Default\" to use Android's approximate location functionality, or \"All\" to switch to MIUI's."</string>
     <string name="pp_local_msg">Konum bilgisi</string>
     <string name="pp_manage_apps_location_information">Uygulamaların konumunuza erişmesine izin verin</string>
     <string name="pp_manage_track">İzleyicileri izle</string>
@@ -4524,6 +4574,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="privacy_flares_current_detail_mic">Bu uygulama mikrofonu kullanıyor</string>
     <string name="privacy_flares_current_detail_mic_loc">Bu uygulama mikrofonu kullanıyor ve konumunuza erişiyor</string>
     <string name="privacy_flares_current_detail_more">Bu uygulama hassas bir izin kullanıyor</string>
+    <string name="privacy_flares_current_multiple">%s and others</string>
     <string name="privacy_flares_recent">Son işlem</string>
     <string name="privacy_flares_recent_detail_cam">Bu uygulama kamerayı kullandı</string>
     <string name="privacy_flares_recent_detail_cam_loc">Bu uygulama kamerayı kullandı ve konumunuza erişti</string>
@@ -4550,7 +4601,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="privacy_look_all_permission_status">Tüm izinler</string>
     <string name="privacy_look_all_permission_times">Tüm uygulamalar</string>
     <string name="privacy_look_privacy">Gizlilik politikası</string>
-    <string name="privacy_manage_title">Yönet</string>
+    <string name="privacy_manage_title" />
     <string name="privacy_mask_summary">MIUI gerçek kimliğinizi değiştirme, uygulamanın davranışlarınızı ve tercihlerinizi izlemesini önleme ve kişisel gizliliğinizi korumak için üç taraflı uygulamaya sanal kimliği sağlayacaktır (OAID)</string>
     <string name="privacy_mask_title">Sanal kimlik</string>
     <string name="privacy_mode_dialog_title">Misafir modu</string>
@@ -4583,8 +4634,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="privacy_pop_record">Bugün ses kaydedildi</string>
     <string name="privacy_pop_storage">Bugün depolama alanına erişildi</string>
     <string name="privacy_prompt_tc_sms_report_message">Telefon numaranız ve operatör bilgileriniz kullanım verilerinizi güncellemek amacıyla şifrelenecek ve Mi sunucularına yüklenecektir</string>
-    <string name="privacy_prompt_traffic_adjust_message">"Kalibrasyon işlemini başlatmanızdan sonra MIUI ağa bağlanır, operatör bilgilerini, telefon numarasını, İmei ve Mi hesabı bilgilerini Mi sunucularına yükler. Bu işlem operatörünüzün kalibrasyon şablonunu edinmek ve bulunduğunuz konumda veri satın alımının mümkün olup olmadığını öğrenmek amacıyla yapılmaktadır
-
+    <string name="privacy_prompt_traffic_adjust_message">"Kalibrasyon işlemini başlatmanızdan sonra MIUI ağa bağlanır, operatör bilgilerini, telefon numarasını, İmei ve Mi hesabı bilgilerini Mi sunucularına yükler. Bu işlem operatörünüzün kalibrasyon şablonunu edinmek ve bulunduğunuz konumda veri satın alımının mümkün olup olmadığını öğrenmek amacıyla yapılmaktadır\u000d
+\u000d
 Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir metin mesajı gönderecektir"</string>
     <string name="privacy_prompt_upload">Karşıya yükle</string>
     <string name="privacy_protect_summary">Kişisel bilgilerinizi koruyun</string>
@@ -4600,8 +4651,8 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="privacy_recommend_title">Kişiselleştirilmiş öneriler</string>
     <string name="privacy_revoke_category_title">Onayın geri çekilmesi ve hizmetin iptali</string>
     <string name="privacy_revoke_dialog_content">Anahtarı kapatarak güvenlik gizlilik politikasına olan onayınızı geri çekmiş olursunuz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel bilgiler, geçerli yasaların gerektirdiği belirli süre içinde silinecektir. Güvenlik size temel hizmetleri sağlamak için gerekli kişisel bilgileri toplamalıdır. Gizlilik politikasına verdiğiniz izni geri çekmeniz toplanan kişisel bilgilere dayanarak hizmetlerini kabul etmeyi reddetmeniz olarak kabul edilecektir</string>
-    <string name="privacy_revoke_dialog_content_cn">"Devam ederseniz %1$s gizlilik politikasına verdiğiniz izni geri çekeceksiniz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel bilgiler aksi gerekmedikçe yürürlükteki kanun ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir
-%2$s hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığından izninizi geri çekmeniz %3$s hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir
+    <string name="privacy_revoke_dialog_content_cn">"Devam ederseniz %1$s gizlilik politikasına verdiğiniz izni geri çekeceksiniz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel bilgiler aksi gerekmedikçe yürürlükteki kanun ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir\u000d
+%2$s hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığından izninizi geri çekmeniz %3$s hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir\u000d
 İzniniz şimdi geri çekilsin mi?"</string>
     <string name="privacy_revoke_dialog_negetive_text">İptal et</string>
     <string name="privacy_revoke_dialog_positive_text">Geri al</string>
@@ -4863,12 +4914,13 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="scan_installed_games">Yüklü oyunlar kontrol ediliyor</string>
     <string name="scan_open_shut_down_password_content">Cihazınızı yetkisiz erişime karşı koruyun</string>
     <string name="scan_open_shut_down_password_title">Kapatma onayı</string>
+    <string name="scan_status_complete">完成</string>
+    <string name="scan_status_not_complete">未完成</string>
     <string name="scan_status_risk">Riskli</string>
     <string name="scan_status_safe">Güvenli</string>
     <string name="scan_widget_guide_button_text">Araç ekle</string>
     <string name="scan_widget_guide_message">Telefonunuzu daha kullanışlı, daha hızlı ve kapsamlı bir şekilde koruyun</string>
     <string name="scan_widget_guide_title">Yeni araç</string>
-    <string name="scanning_bar_number">%%%d</string>
     <string name="scanning_bar_number_new">%s</string>
     <string name="screen_share_protection_negative_button">Paylaşma</string>
     <string name="screen_share_protection_summary">Şu anda kullandığınız uygulama ekranınızı paylaşırsanız diğer kişilerin görebileceği kişisel bilgilerinizi içerir. Yine de paylaşılsın mı?</string>
@@ -4878,6 +4930,8 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="screen_share_warning_button">Tamam</string>
     <string name="screen_share_warning_summary">Gelen bildirimleriniz paylaşılan ekranda görüntülenmez</string>
     <string name="screen_share_warning_title">Bildirimler görüntülenmeyecek</string>
+    <string name="screen_type_external">外屏</string>
+    <string name="screen_type_internal">内屏</string>
     <string name="screenrecord_not_find">Ekran kaydedicinin en son sürümünü yükleyin ve tekrar deneyin</string>
     <string name="sd_eject">SD kartı çıkarın</string>
     <string name="sd_eject_summary">SD kartı güvenli bir şekilde çıkarmak için bağlantısını kesin</string>
@@ -5479,32 +5533,32 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="storage_clear_cache_large">%s yer açın</string>
     <string name="storage_clear_more_tools">Daha fazla temizlik aracı</string>
     <string name="storage_clear_video">Video önbelleğini temizle</string>
-	<string name="storage_click_apk">Kurulum paketi</string>
-	<string name="storage_click_app">Uygulama ve veriler</string>
-	<string name="storage_click_audio">Ses</string>
-	<string name="storage_click_clean">Çöpü temizle</string>
-	<string name="storage_click_deep_clean">Derin temizlik</string>
-	<string name="storage_click_file">Belge</string>
-	<string name="storage_click_memory_expansion">Bellek genişletme</string>
-	<string name="storage_click_pic">Resim</string>
-	<string name="storage_click_system_data">Sistem verileri</string>
-	<string name="storage_click_system_log">Sistem günlüğü</string>
-	<string name="storage_click_video">Video</string>
+    <string name="storage_click_apk">Kurulum paketi</string>
+    <string name="storage_click_app">Uygulama ve veriler</string>
+    <string name="storage_click_audio">Ses</string>
+    <string name="storage_click_clean">Çöpü temizle</string>
+    <string name="storage_click_deep_clean">Derin temizlik</string>
+    <string name="storage_click_file">Belge</string>
+    <string name="storage_click_memory_expansion">Bellek genişletme</string>
+    <string name="storage_click_pic">Resim</string>
+    <string name="storage_click_system_data">Sistem verileri</string>
+    <string name="storage_click_system_log">Sistem günlüğü</string>
+    <string name="storage_click_video">Video</string>
     <string name="storage_compact_warning">Birden fazla izin durumu ayarlanacak</string>
     <string name="storage_compact_warning_desc">Uygulama tek tek değil, yalnızca fotoğraflar, videolar, ses, dosyalar ve belgeler için erişim izinlerinin aynı anda ayarlanmasını destekler</string>
     <string name="storage_deepclean_entry">Derin temizlik</string>
-    <string name="storage_dialog_unmountable">"Bu ^1 bozuk
-
+    <string name="storage_dialog_unmountable">"Bu ^1 bozuk\u000d
+\u000d
 Bu ^1'i kullanmak için önce ayarlamanız gerekir"</string>
-    <string name="storage_dialog_unmounted">"Bu ^1 güvenle kaldırıldı ancak yine de kullanılabilir
-
+    <string name="storage_dialog_unmounted">"Bu ^1 güvenle kaldırıldı ancak yine de kullanılabilir\u000d
+\u000d
 Bu ^1'i kullanmak için önce onu monte etmeniz gerekir"</string>
-    <string name="storage_dialog_unsupported">"Bu cihaz bunu desteklemiyor ^1
-
+    <string name="storage_dialog_unsupported">"Bu cihaz bunu desteklemiyor ^1\u000d
+\u000d
 Bu ^1 cihazını bu cihazla kullanmak için önce ayarlamanız gerekir"</string>
-	<string name="storage_entry_file">Dosyalar</string>
-	<string name="storage_entry_other">Diğer</string>
-	<string name="storage_entry_setting">Ayar</string>
+    <string name="storage_entry_file">Dosyalar</string>
+    <string name="storage_entry_other">Diğer</string>
+    <string name="storage_entry_setting">Ayar</string>
     <string name="storage_fbo_clear">Donanım düzeyinde birleştir</string>
     <string name="storage_fbo_des">Cep telefonunun uzun süreli kullanımından sonra veri parçalanması meydana gelir. Bu da okuma ve yazma performansının düşmesine ve donmalara neden olabilir. Donanım düzeyi birleştirme özelliği kullanmadığınız zamanlarda telefonunuzu derinlemesine temizleyecek ve birleştirerek telefonunuzun düzgünlüğünü artıracaktır</string>
     <string name="storage_fbo_number_tip">%1$s birleştirme sayısı</string>
@@ -5537,12 +5591,12 @@ Bu ^1 cihazını bu cihazla kullanmak için önce ayarlamanız gerekir"</string>
     <string name="storage_system_memory_expansion">Bellek arttırma</string>
     <string name="storage_system_memory_expansion_tip">"Depolama alanını işgal ederek Ram'i arttırın"</string>
     <string name="storage_system_other_tip">Sistemin normal çalışması için gerekli veriler (Dosya boyutu zamanla değişebilir)</string>
-	<string name="storage_system_other_tip_new">Sistemin çalışması ve yükseltmeleri için gerekli depolama alanını içerir. Bu bölümün boyutu sistem durumuna göre değişiklik gösterecektir</string>
+    <string name="storage_system_other_tip_new">Sistemin çalışması ve yükseltmeleri için gerekli depolama alanını içerir. Bu bölümün boyutu sistem durumuna göre değişiklik gösterecektir</string>
     <string name="storage_unmount_failure">%1$s bağlantısı kaldırılamadı</string>
     <string name="storage_unmount_success">%1$s bağlantısı başarıyla kaldırıldı</string>
     <string name="storage_wizard_format_confirm_v2_action">^1 sıfırla</string>
-    <string name="storage_wizard_format_confirm_v2_body">"^1 uygulamasının uygulamaları, dosyaları ve medyayı depolayacak şekilde biçimlendirilmesi gerekiyor
-
+    <string name="storage_wizard_format_confirm_v2_body">"^1 uygulamasının uygulamaları, dosyaları ve medyayı depolayacak şekilde biçimlendirilmesi gerekiyor\u000d
+\u000d
 Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını önlemek için içeriği başka bir ^3 veya cihaza yedekleyin"</string>
     <string name="storage_wizard_format_confirm_v2_title">^1 şimdi biçimlendirilsin mi?</string>
     <string name="suggest_app_tolock">Öneriler</string>
@@ -5628,7 +5682,6 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="superpower_dialog_button_ok">Tamam</string>
     <string name="superpower_dialog_massage">Ultra pil tasarrufu güç tüketen özelliklerin çoğunu kısıtlar ve temel işlevselliklerin mümkün olduğunca uzun süre kullanılabilmesi için cihazınızın performansını düşürür. Ultra pil tasarrufu açılsın mı?</string>
     <string name="superpower_dialog_title">Ultra pil tasarrufu</string>
-    <string name="superpower_notification_new_title">"%%%d'den az pil kaldı"</string>
     <string name="superpower_notification_new_title_new">"%s'den az pil kaldı"</string>
     <string name="superpower_notification_summary">Ultra pil tasarrufunu aç</string>
     <string name="superpower_notification_time_12">dd MMMM EEEE</string>
@@ -5807,7 +5860,7 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="terminal_privacy_ability_voice_summary">Mi AI sesli komutlar ve akıllı altyazılar</string>
     <string name="terminal_privacy_instruction">Cihaz üzeri gizlilik koruması kişisel bilgilerinizin buluta yüklenmesi yerine bu cihazda tutulmasını sağlayan özellikleri içerir</string>
     <string name="terminal_privacy_summary">Bu cihazda kişisel bilgileri işleyin</string>
-    <string name="terms_and_conditions_content"><Data>"Bu özellik size deprem uyarısı işlevi sağlar. Yaklaşan depremler hakkında sizi bilgilendirecek ve uyarı sesi çalacaktır. Size en yakın sığınağı bulabilecek, acil durum irtibat kişinizi arayacak ve gerekirse sağlık kartınızı gösterebileceksiniz. &lt;br>Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. &lt;br>Bu özelliğin normal bir şekilde çalışabilmesi için kişisel bilgilerinizi toplamak için aşağıdaki izinlere ihtiyacı vardır: &lt;br>• Konum bilgisi: &lt;br>Bulunduğunuz yere erişmek ve doğru deprem uyarıları sağlamak içindir. &lt;br>Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmezseniz bu özelliği kullanamazsınız. Bu gibi durumlarda bu özelliği kapatmayı veya açmamayı seçebilirsiniz. &lt;br>Bu özelliği kullanmadan önce &lt;a href=%s>gizlilik politikamızı&lt;/a>   okumalı ve kabul etmelisiniz"</Data></string>
+    <string name="terms_and_conditions_content">"&lt;Data>\"Bu özellik size deprem uyarısı işlevi sağlar. Yaklaşan depremler hakkında sizi bilgilendirecek ve uyarı sesi çalacaktır. Size en yakın sığınağı bulabilecek, acil durum irtibat kişinizi arayacak ve gerekirse sağlık kartınızı gösterebileceksiniz. &lt;br>Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. &lt;br>Bu özelliğin normal bir şekilde çalışabilmesi için kişisel bilgilerinizi toplamak için aşağıdaki izinlere ihtiyacı vardır: &lt;br>• Konum bilgisi: &lt;br>Bulunduğunuz yere erişmek ve doğru deprem uyarıları sağlamak içindir. &lt;br>Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmezseniz bu özelliği kullanamazsınız. Bu gibi durumlarda bu özelliği kapatmayı veya açmamayı seçebilirsiniz. &lt;br>Bu özelliği kullanmadan önce &lt;a href=%s>gizlilik politikamızı&lt;/a>   okumalı ve kabul etmelisiniz\"&lt;/Data>"</string>
     <string name="tether_custom_dialog_title">Mobil veri sınırı</string>
     <string name="tether_limit_dialog_title">Mobil veri sınırı</string>
     <string name="tether_limit_value_custom">Özel</string>
@@ -5816,12 +5869,12 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="tether_over_limit_dialog_title">Veri kullanım uyarısı</string>
     <string name="tether_over_limit_warning_notify_message">Kişisel bağlantı noktasını kapat</string>
     <string name="tether_over_limit_warning_notify_title">Kişisel bağlantı noktası veri sınırına ulaşıldı</string>
-    <string name="text_alarm_after">"Bu yılki kırmızı zarf etkinliğinin sona erdi
+    <string name="text_alarm_after">"Bu yılki kırmızı zarf etkinliğinin sona erdi\u000d
 Seneye tekrar bir araya gelmek için sabırsızlanıyorum"</string>
-    <string name="text_alarm_before">"Bu yılki kırmızı zarf etkinliği başlamak üzere
+    <string name="text_alarm_before">"Bu yılki kırmızı zarf etkinliği başlamak üzere\u000d
 Zenginlik tanrısı yerinde ve bu yüzden bizi izlemeye devam edin"</string>
-    <string name="text_alarm_close">"Her zaman kırmızı zarf türlerini hatırlatma
-ve kırmızı zarfları asla kaçırmamak için
+    <string name="text_alarm_close">"Her zaman kırmızı zarf türlerini hatırlatma\u000d
+ve kırmızı zarfları asla kaçırmamak için\u000d
 kırmızı zarf alarmını açın"</string>
     <string name="text_all_control_summary">Kırmızı bir zarf algılandığında ekran otomatik olarak yanar</string>
     <string name="text_button">Anladım</string>
@@ -6065,20 +6118,20 @@ kırmızı zarf alarmını açın"</string>
     <string name="traffic_alert_auto_modify_package_summary">Veri paketini operatör verilerini kullanarak otomatik olarak güncelle</string>
     <string name="traffic_calculation">Veri 1 yuan/1GB/gün gibi günlük olarak hesaplanır</string>
     <string name="traffic_config_alert_auto_modify">Veri planını otomatik olarak güncelle</string>
-    <string name="traffic_config_alert_body">"Operatörünüzün hesaplamaları bu sonucu veriyor: %s
-
+    <string name="traffic_config_alert_body">"Operatörünüzün hesaplamaları bu sonucu veriyor: %s\u000d
+\u000d
 Operatörün hesaplaması kullanılsın mı?"</string>
-    <string name="traffic_config_alert_body_extra">"
+    <string name="traffic_config_alert_body_extra">"\u000d
 Bu ay %1$s ek veri satın aldınız. Bu el ile ayarlamış olduğunuz %2$s limitinden farklı"</string>
-    <string name="traffic_config_alert_body_extra_notset">"
+    <string name="traffic_config_alert_body_extra_notset">"\u000d
 Bu ay %s ek veri paketi satın aldınız. Bu miktar el ile girmiş olduğunuz mobil veri limitine yansıtılmamaktadır"</string>
-    <string name="traffic_config_alert_body_leisure">"
+    <string name="traffic_config_alert_body_leisure">"\u000d
 Tarifenizin aylık indirimli veri kullanım limiti %1$s. Bu sizin elle ayarladığınız %2$s limitinden farklı"</string>
-    <string name="traffic_config_alert_body_leisure_notset">"
+    <string name="traffic_config_alert_body_leisure_notset">"\u000d
 Tarifenizin aylık indirimli veri kullanım limiti %1$s. Henüz indirimli veri kullanım limiti ayarlamadınız"</string>
-    <string name="traffic_config_alert_body_normal">"
+    <string name="traffic_config_alert_body_normal">"\u000d
 Tarifenizin aylık yoğun-saat veri kullanım limiti %1$s. Bu sizin elle ayarladığınız %2$s limitinden farklı"</string>
-    <string name="traffic_config_alert_package">"
+    <string name="traffic_config_alert_package">"\u000d
 Kalan ekstra veri"</string>
     <string name="traffic_config_alert_setted">Ayarlar uygulandı</string>
     <string name="traffic_config_alert_title">%s düzeltme</string>
@@ -6089,8 +6142,8 @@ Kalan ekstra veri"</string>
     <string name="traffic_correction_success">Veri kullanım bilgileri güncellendi</string>
     <string name="traffic_correction_success_notify_message">Detayları görüntülemek için dokunun</string>
     <string name="traffic_limit_error_alert_body">Bu aylık kalan veri miktarınız (%1$s). Aylık tarifenizden (%2$s) daha fazla. Tarifeniz değişti mi?</string>
-    <string name="traffic_limit_error_alert_package">"
-
+    <string name="traffic_limit_error_alert_package">"\u000d
+\u000d
 Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="traffic_limit_error_alert_title">Veri kullanım limit hatırlatıcısı: %s</string>
     <string name="traffic_limit_input">Akış uyarı sınırı (İsteğe bağlı)</string>
@@ -6233,8 +6286,9 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="vb_video_effects_dolby_headset">" (Yalnızca kulaklıklar)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos açık</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Genişletilmiş stereo</string>
-	<string name="vb_video_effects_immersion_sound">Sürükleyici ses</string>
-	<string name="vb_video_effects_immersion_sound_summary">Desteklenen ses kulaklıklardan çalındığında kapsayıcı etki ve boşluk hissi yaşayın</string>
+    <string name="vb_video_effects_dolby_tips">"Enhanced dialogue and Expanded stereo won't work when Immersive sound is on"</string>
+    <string name="vb_video_effects_immersion_sound">Sürükleyici ses</string>
+    <string name="vb_video_effects_immersion_sound_summary">Desteklenen ses kulaklıklardan çalındığında kapsayıcı etki ve boşluk hissi yaşayın</string>
     <string name="vb_video_effects_liquid_summary">Videolarda diyalog netliğini geliştirin</string>
     <string name="vb_video_effects_only_headphone">Sadece kulaklıkla çalışır</string>
     <string name="vb_video_effects_setting_black_white">S&amp;B</string>
@@ -6256,28 +6310,23 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="vb_video_effects_settings_stereo">Ses</string>
     <string name="vb_video_effects_some_headphone">Seçilen kulaklık modelleri tarafından desteklenir</string>
     <string name="vb_video_effects_spatial">Kafa hareketini takip edin</string>
-    <string name="vb_video_effects_spatial_summary">"Kafa hareketine göre surround sesi ayarlayın
+    <string name="vb_video_effects_spatial_summary">"Kafa hareketine göre surround sesi ayarlayın\u000d
 * Yalnızca oyun kulaklığı modellerinde desteklenir"</string>
-	<string name="vb_video_effects_spatial_summary_new">Desteklenen ses ve video için gelişmiş alan veya yön duygusunu deneyimleyin vede kafa hareketine göre sürükleyici sesi ayarlayın</string>
+    <string name="vb_video_effects_spatial_summary_new">Desteklenen ses ve video için gelişmiş alan veya yön duygusunu deneyimleyin vede kafa hareketine göre sürükleyici sesi ayarlayın</string>
     <string name="vb_video_effects_srs_premium_sound">Ses</string>
     <string name="vb_video_super_division">Lüks</string>
-    <string name="vb_video_super_division_desc">"≤720p olduğunda otomatik olarak lüks çözünürlük
-
-Bu özelliği kullanmak güç tüketimini artırır
-
-Bu özellik hareket yumuşatma ile çalışmaz
+    <string name="vb_video_super_division_desc">"≤720p olduğunda otomatik olarak lüks çözünürlük\u000d
+\u000d
+Bu özelliği kullanmak güç tüketimini artırır\u000d
+\u000d
+Bu özellik hareket yumuşatma ile çalışmaz\u000d
 Özelliklerden birini açmak diğerini kapatır"</string>
-    <string name="vb_video_super_division_tips">"Yeterince net değil mi?
+    <string name="vb_video_super_division_tips">"Yeterince net değil mi?\u000d
 Çözünürlüğü yükseltmeyi deneyin"</string>
-    <string name="verify_allow">@string/app_behavior_allowed</string>
-    <string name="verify_denied">@string/app_behavior_denied</string>
     <string name="verify_shut_down_password_content">Cihazınız kilitliyken kapalıysa ekran kilidinin onaylanmasını gerektirir</string>
     <string name="verify_shut_down_password_title">Kapatma onayı</string>
-    <string name="verify_sms_cancel">@string/cancel_button</string>
     <string name="verify_sms_ensure_allow">Gönder</string>
     <string name="verify_sms_title">%1$s bir ileti göndermeye çalışıyor</string>
-    <string name="verify_wlan_allow">@string/app_behavior_allowed</string>
-    <string name="verify_wlan_denied">@string/app_behavior_denied</string>
     <string name="video_repeat">Tekrar oynat</string>
     <string name="videobox_hangup_tips_content">Bu özellik ekran kapalıyken uygulamanın arka planda çalışmasını sağlar. Şimdi açılsın mı?</string>
     <string name="videobox_hangup_tips_title">Dikkat</string>
@@ -6485,7 +6534,7 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="widget_cleaner_message">Çöpler temizlenebilir</string>
     <string name="widget_cleaner_size">529</string>
     <string name="widget_cleaner_size_unit">MB</string>
-    <string name="widget_cleaner_text_1">"Telefon
+    <string name="widget_cleaner_text_1">"Telefon\u000d
 temiz"</string>
     <string name="widget_health_message">Telefon çok güvenli. Optimize etmeye devam edin</string>
     <string name="widget_health_size">86</string>

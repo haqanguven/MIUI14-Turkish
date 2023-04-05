@@ -124,7 +124,7 @@
     <string name="add_game_center_to_homescreen">Ana ekran kısayolu eklensin mi?</string>
     <string name="add_new_bookmark">Yer imi ekle</string>
     <string name="add_new_quicklink">Başlangıç sayfasına ekle</string>
-    <string name="add_pwa_to_homescreen">Bu internet sitesi için bir Ana ekran kısayolu eklensin mi?</string>
+    <string name="add_pwa_to_homescreen">Bu internet sitesi için bir ana ekran kısayolu eklensin mi?</string>
     <string name="add_ql_bm_title">Kaydet</string>
     <string name="add_quicklink_to_popular">Başlangıç sayfasına ekle</string>
     <string name="add_quicklinks">Ekle</string>
@@ -556,7 +556,7 @@ Senkronizasyonu durdurmak için kapatın"</string>
     <string name="choose_to_signup">Hayır. Yeni bir hesap oluşturacağım</string>
     <string name="choosertitle_sharevia">Şunu kullanarak paylaş</string>
     <string name="clean_cache">Önbelleği temizle</string>
-    <string name="clear">Clear</string>
+    <string name="clear">Temizle</string>
     <string name="clear_history">Geçmişi temizle</string>
     <string name="clear_most_visited">Yakın tarih</string>
     <string name="clear_result_page_more_content">Daha fazlasını keşfedin</string>
@@ -1187,7 +1187,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="general__download_open_now">Hemen aç</string>
     <string name="general__end_page_add_bookshelf_read">Ücretsiz okuyun</string>
     <string name="general__end_page_book_complete">Bitti</string>
-    <string name="general__end_page_book_off_shelf">Bu öğe artık mevcut değil.</string>
+    <string name="general__end_page_book_off_shelf">Bu öğe artık mevcut değil</string>
     <string name="general__end_page_book_to_be_continue">Sonraki bölüm henüz mevcut değil</string>
     <string name="general__end_page_exchange">Yenile</string>
     <string name="general__end_page_go_store">Daha fazla kitap</string>
@@ -1208,9 +1208,8 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="general__notification_toolbar_serial_update_single">toplam güncelleme %d bölüm</string>
     <string name="general__open_book_permission__desc">"Wonderfic'in kitapları açabilmesi için depolama alanınıza erişmesine izin verin"</string>
     <string name="general__open_third_party_app_tip">failed to open, no application installed</string>
-    <string name="general__personal_about_diaglog_copy_right_description">"\"Tüm uygulama içeriği telif hakkı sahibi tarafından yetkilendirilmiştir. Herhangi bir sorunuz varsa bize harikafic@gmail.com adresinden ulaşın. En kısa sürede size geri döneceğiz\"&lt;/string >\u000d
-    &lt;string name=\"general__personal_about_diaglog_copy_right_title\">Telif hakkı hakkında"</string>
-    <string name="general__personal_about_diaglog_copy_right_title">About copyright</string>
+    <string name="general__personal_about_diaglog_copy_right_description">"Tüm uygulama içeriği telif hakkı sahibi tarafından yetkilendirilir. Herhangi bir sorunuz varsa bizimle wonderfic@gmail.com adresinden iletişime geçin. En kısa sürede size geri döneceğiz"</string>
+    <string name="general__personal_about_diaglog_copy_right_title">Telif hakkı hakkında</string>
     <string name="general__personal_about_item_copy_right">Telif hakkı hakkında</string>
     <string name="general__shared__about">Hakkında</string>
     <string name="general__shared__about_us">Hakkımızda</string>
@@ -1298,7 +1297,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="general__shared_ad_unlock_start_read">Ücretsiz okuyun</string>
     <string name="general__shared_free_time_left">Sınırlı bir süre için ücretsiz</string>
     <string name="general__shortcut_guide_controller__ok">anladım</string>
-    <string name="general__shortcut_permission__desc">"Yetki yönetimi masaüstü kısayolu verin\u000d
+    <string name="general__shortcut_permission__desc">"Yetki yönetimi masaüstü kısayolu verin
   masaüstüne kitap eklemek içindir"</string>
     <string name="general__storage_permission__button">Ayarlar</string>
     <string name="general__storage_permission__desc">"Wonderfic'in öğeleri içe aktarabilmesi için depolama alanınıza erişmesine izin verin"</string>
@@ -2077,8 +2076,8 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="passport_unknow_error">Tanımlanamayan bir hata oluştu</string>
     <string name="passport_unknow_host_network_error">Ağ ayarlarınızı kontrol edin ve yeniden deneyin</string>
     <string name="passport_unknow_network_error">Ağ bağlantısı yok</string>
-    <string name="passport_user_agreement_link">&lt;Data>Xiaomi &lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik politikasını&lt;/a> okudum ve kabul ettim&lt;Data></string>
-    <string name="passport_user_agreement_link_more">"&lt;Data>Şu anlaşmaları okudum ve kabul ettim: Xiaomi'nin &lt;/a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%4$s>Gizlilik politikası&lt;/a>,&lt;a href=%2$s>%3$s&lt;/a>&lt;/Data>"</string>
+    <string name="passport_user_agreement_link">Xiaomi %1$s Kullanıcı sözleşmesi ve %2$s Gizlilik politikasını okudum ve kabul ettim</string>
+    <string name="passport_user_agreement_link_more">"Şu anlaşmaları okudum ve kabul ettim: Xiaomi'nin %1$s Kullanıcı Sözleşmesi ve %4$s Gizlilik politikası %2$s>%3$s"</string>
     <string name="passport_user_id_intro">%1$s için şifre girin</string>
     <string name="passport_v_code_error">Doğrulama kodu yanlış</string>
     <string name="passport_vcode_notification_title">Oturum açma onayınız tamamlanmadı</string>
@@ -2128,9 +2127,9 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="permission_open_location">Öncelikle tarayıcıya ayarlar menüsünden konumunuza erişim izni verin</string>
     <string name="permission_open_mic">Öncelikle tarayıcıya ayarlar menüsünden mikrofona erişim izni verin</string>
     <string name="permission_open_storage">Öncelikle tarayıcıya ayarlar menüsünden dahili depolama alanına erişim izni verin</string>
-    <string name="permission_request_contacts">This feature requires permission to access your contacts to be able to work normally.</string>
+    <string name="permission_request_contacts">Bu özellik, normal şekilde çalışabilmek için kişilerinize erişim izni gerektirir</string>
     <string name="permission_service">Şartlar ve koşullar</string>
-    <string name="permission_sound_toast_message">Ses oynatılıyor…</string>
+    <string name="permission_sound_toast_message">Ses oynatılıyor</string>
     <string name="permission_storage">Depolama</string>
     <string name="permission_to_open">Ayarlar</string>
     <string name="permission_unknown">Bir hata oluştu</string>
@@ -2311,8 +2310,8 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="personal__welfare_details_bonus_item_2">2. 1 bonus = 1 jeton</string>
     <string name="personal__welfare_details_bonus_item_4">4. Hesabınızda bonuslar olduğunda ve ödeme yaptığınızda %1$s süresi daha erken dolan bonuslardan başlayarak bonusları düşecektir. Bonuslarınız bittiğinde jetonlar kullanılacaktır</string>
     <string name="personal__welfare_free_time_left">"Sınırlı teklif: "</string>
-    <string name="personal__welfare_rule_item_1">1. Check-in döngüleri her Pazartesi başlar ve bir hafta sürer.</string>
-    <string name="personal__welfare_rule_item_2">\"2. Ne kadar çok gün check-in yaparsanız o kadar çok bonus kazanırsınız. Bir günü kaçırırsanız döngünün geri kalan günleri için yine de bonus alabilirsiniz</string>
+    <string name="personal__welfare_rule_item_1">1. Check-in döngüleri her Pazartesi başlar ve bir hafta sürer</string>
+    <string name="personal__welfare_rule_item_2">2. Ne kadar çok gün check-in yaparsanız o kadar çok bonus kazanırsınız. Bir günü kaçırırsanız döngünün geri kalan günleri için yine de bonus alabilirsiniz</string>
     <string name="personal__welfare_rule_item_3">3. Check-in her gün gece yarısında başlar</string>
     <string name="personal__welfare_thumbnail_label_free">Ücretsiz</string>
     <string name="personalized_content_services">Kişiselleştirilmiş içerik hizmetlerini içerir</string>
@@ -2356,7 +2355,7 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="pref_auto_update_under_wifi">Wifi kullanarak güncelle</string>
     <string name="pref_automatic_matching_searchengines_title">Sık kullanılan arama motoruna geç</string>
     <string name="pref_check_security_url_summary">İnternet sitesi bağlantı adreslerini güvenliklerini kontrol etmek amacıyla Mi sunucularına gönder</string>
-    <string name="pref_check_security_url_summary_international">Tarayıcıya daha ilgili öneriler almak için, ziyaret ettiğiniz internet sitelerinin bağlantı adreslerine ulaşım izni verin</string>
+    <string name="pref_check_security_url_summary_international">Tarayıcıya daha ilgili öneriler almak için ziyaret ettiğiniz internet sitelerinin bağlantı adreslerine ulaşım izni verin</string>
     <string name="pref_check_security_url_title">Bağlantı adresi güvenlik denetimi</string>
     <string name="pref_check_security_url_title_international">Bağlantı adresini al</string>
     <string name="pref_clear_adblock_statistics">Reklam engelleyici geçmişini temizle</string>
@@ -2532,7 +2531,7 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="privacy_authorize_cannot_revoke_dialog_msg">Bu işlem performans kimliğinizi yüklemeyi gerektirir ama bu gizli modda yapılamaz. Gizli moddan çıkın ve tekrar deneyin</string>
     <string name="privacy_authorize_network_error">İznin geri çekilebilmesi için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="privacy_authorize_revoke">Geri al</string>
-    <string name="privacy_authorize_revoke_dialog_msg">"Yetkiyi geri aldıktan sonra Tarayıcı veri toplamayı durdurur ve tüm ilgili veriler sunuculardan silinir. Bu durum Tarayıcı'yı kullanılamaz hale getirebilir. Yetki yine de kaldırılsın mı?"</string>
+    <string name="privacy_authorize_revoke_dialog_msg">Yetkiyi geri aldıktan sonra tarayıcı veri toplamayı durdurur ve tüm ilgili veriler sunuculardan silinir. Bu durum tarayıcıyı kullanılamaz hale getirebilir. Yetki yine de kaldırılsın mı?</string>
     <string name="privacy_authorize_revoke_dialog_title">Yetki geri alınıyor</string>
     <string name="privacy_authorize_revoke_failed">Yetki geri alınamadı</string>
     <string name="privacy_authorize_revoke_success">Yetki başarıyla geri alındı</string>
@@ -2550,7 +2549,7 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="privacy_improve_performance">Kullanıcı deneyimi programı</string>
     <string name="privacy_improve_performance_desc">"Ürünlerimizi ve hizmetlerimizi geliştirmek için Xiaomi'ye kullanıcı verilerini toplama ve analiz etme izni verin"</string>
     <string name="privacy_message">Tarayıcıyı kullanmadan önce %1$s Kullanıcı Sözleşmesi ve %2$s Gizlilik politikasını kabul etmelisiniz</string>
-    <string name="privacy_message_main_tips_first">"Tarayıcı'nın temel hizmetleri sağlayabilmesi için kişisel bilgilerinizi toplaması gerekmektedir. \"\""<a href="%1$s" style="color:#4086f5"><font color="#4086f5"><font color="#4086f5"><a href="%1$s" style="color:#4086f5"><a href="%1$s" style="color:#4086f5"><font color="#4086f5"><font color="#4086f5"><a href="%1$s" style="color:#4086f5">&lt;a href=\"%1$s\" style=\"c</a>olor:#4086f5\">&lt;font color=\"#4086f5\">&lt;font </font>c</font>olor=\"#4086f5\">&lt;a href=\"%1$</a>s</a>\" style=\"color:#4086f5\">&lt;a href=\"%1$</font>s\" style=\"color:#4086f</font>5\">&lt;font color=\"#4086f</a>"5\">&lt;font color=\"#4086f5\">&lt;a href=\"%1$&lt;/a>&lt;/font>&lt;/font>&lt;/a>\"s\" style=\"color:#4086f5;\">Gizl&lt;/font>&lt;/a>\"ilik Politikamızda&lt;/a>&lt;/font> topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. Tarayıcı'nın Gizlilik Politikası'na verdiğiniz izni her zaman Ayarlar > Gizlilik &amp; Güvenlik menüsünden geri çekebilirsiniz. Tarayıcıyı kullanmadan önce &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Kullanıcı Sözleşmesi&lt;/a>&lt;/font> ve &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Gizlilik Politikası'nı&lt;/a>&lt;/font> okuyun ve kabul edin."</string>
+    <string name="privacy_message_main_tips_first">"Tarayıcının size temel hizmetleri sağlamak için gerekli kişisel bilgileri toplaması gerekir. Topladığımız bilgileri nasıl ele aldığımızı %1$s Gizlilik politikamızda öğrenebilirsiniz. Tarayıcının Gizlilik politikasına verdiğiniz onayı her zaman Ayarlar > Gizlilik ve güvenlik bölümünden geri çekebilirsiniz. Tarayıcıyı kullanmadan önce %2$s Kullanıcı sözleşmemizi ve %1$s Gizlilik politikamızı okuyun ve kabul edin"</string>
     <string name="privacy_message_main_tips_second">"Bu cihazdaki uygulamaları arayabilmek ve hangi uygulamaların yüklü olduğunu bilebilmek için Tarayıcı'nın herhangi bir formda yerel olarak kaydedilmeyen veya yüklenmeyen uygulama kurulum bilgisine erişmesi gerekir."</string>
     <string name="privacy_message_welcome">Tarayıcıya hoş geldiniz! Uygulamamız aşağıdaki hizmetleri sağlamaktadır:</string>
     <string name="privacy_message_welcome_tip_first">- Hızlı ve güvenli internet taraması</string>
@@ -2674,7 +2673,7 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="reading__custom_screen_view__show_reading_status">Güç ve ipuçlarını görüntüleyin</string>
     <string name="reading__custom_screen_view__show_system_bar">Sistem durumunu görüntüle</string>
     <string name="reading__custom_text_color_tab_view__title">Betin</string>
-    <string name="reading__custom_theme_color_view__edit">"Düzenlemek için\u000d
+    <string name="reading__custom_theme_color_view__edit">"Düzenlemek için
 uzun basın"</string>
     <string name="reading__custom_typesetting_view__indent">İlk satır girintisi</string>
     <string name="reading__custom_typesetting_view__lateral_margin">Sol ve sağ kenar boşlukları</string>
@@ -2744,7 +2743,7 @@ uzun basın"</string>
     <string name="reading__reading_menu_view__night">Gece</string>
     <string name="reading__reading_menu_view__pirate_dialog_cancel">Orijinal sayfaya dön</string>
     <string name="reading__reading_menu_view__pirate_dialog_ok">Kullanmaya devam et</string>
-    <string name="reading__reading_menu_view__pirate_dialog_title">"Daha iyi okuma deneyiminiz için\u000d
+    <string name="reading__reading_menu_view__pirate_dialog_title">"Daha iyi okuma deneyiminiz için
 ücretsiz okuma modunu kullanmanızı öneririz"</string>
     <string name="reading__reading_menu_view__purchase">Satın alma</string>
     <string name="reading__reading_menu_view__search">Ara</string>
@@ -2811,7 +2810,7 @@ uzun basın"</string>
     <string name="reading__search_result_nothing">Sonuç bulunamadı</string>
     <string name="reading__search_searching">Arıyor</string>
     <string name="reading__search_text_view__empty_hint">Tam metni ara</string>
-    <string name="reading__search_text_view__nosearch_result">"Maalesef metinde böyle bir anahtar kelime yok\u000d
+    <string name="reading__search_text_view__nosearch_result">"Maalesef metinde böyle bir anahtar kelime yok
 Anahtar kelimenizi değiştirmeyi denediniz mi?"</string>
     <string name="reading__seek_page_view__next_chapter">Sonraki bölüm</string>
     <string name="reading__seek_page_view__prev_chapter">Önceki bölüm</string>
@@ -3227,8 +3226,8 @@ Anahtar kelimenizi değiştirmeyi denediniz mi?"</string>
     <string name="sports_card_match_status_1">Yaklaşan</string>
     <string name="sports_card_match_status_2">Devam ediyor</string>
     <string name="sports_card_match_status_3">Bitti</string>
-    <string name="srl_component_falsify" formatted="false">"%s falsify alanı,\u000d
- Çalışma zamanında sürüklemenin yüksekliğini[%.1fdp] temsil eder\u000d
+    <string name="srl_component_falsify" formatted="false">"%s falsify alanı,
+ Çalışma zamanında sürüklemenin yüksekliğini[%.1fdp] temsil eder
  Hiçbir şey göstermiyor"</string>
     <string name="srl_content_empty">"SmartRefreshLayout'taki içerik görünümü boş. xml düzen dosyasına eklemeyi unutuyor musunuz?"</string>
     <string name="srl_footer_failed">Yükleme başarısız oldu</string>
@@ -3776,14 +3775,14 @@ https://forum.miuitr.info/"</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_close">Kapat</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">İzlemeye devam edin</string>
     <string name="yandex_ads_internal_rewarded_close_verification_text">Reklamı zamanlayıcı sona ermeden kapatırsanız, izlediğiniz için ödüllendirilmeyeceksiniz</string>
-    <string name="yandex_ads_internal_rewarded_close_verification_title">Reklamı Kapat?</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_title">Reklam kapatılsın m?</string>
     <string name="yandex_ads_internal_text_divider">·</string>
     <string name="yandex_ads_internal_text_divider_with_space">·</string>
     <string name="yandex_ads_internal_tools_age_text">3+</string>
     <string name="yandex_ads_internal_tools_app_install_call_to_action_text">Yüklemek</string>
     <string name="yandex_ads_internal_tools_app_install_call_to_action_text_large">"Google Play'den yükle"</string>
-    <string name="yandex_ads_internal_tools_body_text">Огромный выбор авто. Удобный поиск. Авто новые и с пробегом. Ежедневные обновления. Огромный выбор авто. Огромный выбор авто. Удобный поиск. Авто новые и с пробегом. Ежедневные обновления. Огромный выбор авто</string>
-    <string name="yandex_ads_internal_tools_call_to_action_text">Перейти</string>
+    <string name="yandex_ads_internal_tools_body_text">Büyük araba seçimi. Uygun arama. Arabalar yeni ve kullanılmış. Günlük güncellemeler. Büyük araba seçimi. Büyük araba seçimi. Uygun arama. Arabalar yeni ve kullanılmış. Günlük güncellemeler. Büyük araba seçimi</string>
+    <string name="yandex_ads_internal_tools_call_to_action_text">Git</string>
     <string name="yandex_ads_internal_tools_domain_text">domain</string>
     <string name="yandex_ads_internal_tools_price_text">price</string>
     <string name="yandex_ads_internal_tools_rating_text">rating</string>

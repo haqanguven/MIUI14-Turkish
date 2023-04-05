@@ -33,6 +33,10 @@
         <item quantity="other">%d oyun eklendi</item>
         <item quantity="one">%d oyun eklendi</item>
     </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">%d uygulama eklendi</item>
+        <item quantity="one">%d uygulama eklendi</item>
+    </plurals>
     <plurals name="app_behavior_dashboard_title_desc">
         <item quantity="other">%d uygulama</item>
         <item quantity="one">%d uygulama</item>
@@ -210,12 +214,12 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="one">%d saniye geri sar</item>
     </plurals>
     <plurals name="extreme_mode_runtime_hour">
-        <item quantity="other">%s hrs</item>
-        <item quantity="one">%s hr</item>
+        <item quantity="other">%s saat</item>
+        <item quantity="one">%s saat</item>
     </plurals>
     <plurals name="extreme_mode_runtime_minute">
-        <item quantity="other">%s mins</item>
-        <item quantity="one">%s min</item>
+        <item quantity="other">%s dakika</item>
+        <item quantity="one">%s dakika</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">%d uygulama arasında ara</item>
@@ -511,8 +515,8 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="one">"&lt;font color='#ff0000'>%d uygulamanın ağ erişimi kısıtlandı"</item>
     </plurals>
     <plurals name="not_added_apps_count">
-        <item quantity="other">%d apps not added</item>
-        <item quantity="one">%d app not added</item>
+        <item quantity="other">%d uygulama eklenmedi</item>
+        <item quantity="one">%d uygulama eklenmedi</item>
     </plurals>
     <plurals name="notification_antivirus_title">
         <item quantity="other">Güvenlik taraması olmadan %d gün</item>
@@ -599,8 +603,8 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="one">" dakika"</item>
     </plurals>
     <plurals name="pc_extreme_mode_count_down_title">
-        <item quantity="other">Your device is out of battery. Entering Hibernation mode in %1$d seconds.</item>
-        <item quantity="one">Your device is out of battery. Entering Hibernation mode in %1$d second.</item>
+        <item quantity="other">Cihazınızın pili bitmiş. %1$d saniye içinde hazırda bekletme moduna giriliyor</item>
+        <item quantity="one">Cihazınızın pili bitmiş. %1$d saniye içinde hazırda bekletme moduna giriliyor</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s gün</item>
