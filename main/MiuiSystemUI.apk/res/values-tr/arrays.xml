@@ -82,6 +82,9 @@
         <item>Qualcomm® aptX™ ses</item>
         <item>Qualcomm® aptX™ HD ses</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive ses</item>
+        <item>Qualcomm® aptX™ TWS+ ses</item>
+        <item>LC3</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Sistem seçimini kullan (Varsayılan)</item>
@@ -90,6 +93,9 @@
         <item>Qualcomm® aptX™ ses</item>
         <item>Qualcomm® aptX™ HD ses</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive ses</item>
+        <item>Qualcomm® aptX™ TWS+ ses</item>
+        <item>LC3</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -112,6 +118,8 @@
         <item>Devre dışı</item>
         <item>Etkin filtre uygulandı</item>
         <item>Etkin</item>
+        <item>Etkin başlıklar filtrelendi</item>
+        <item>Etkin medya paketleri filtrelendi</item>
     </string-array>
     <string-array name="clock_options">
         <item>Saati, dakikaları ve saniyeleri göster</item>
@@ -253,6 +261,11 @@
         <item>Kapalı</item>
         <item>Açık</item>
     </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
     <string-array name="tile_states_controls">
         <item>Kullanım dışı</item>
         <item>Kapalı</item>
@@ -299,6 +312,16 @@
         <item>Açık</item>
     </string-array>
     <string-array name="tile_states_night">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
         <item>Kullanım dışı</item>
         <item>Kapalı</item>
         <item>Açık</item>
@@ -375,6 +398,12 @@
         <item>Seri</item>
         <item>Çok seri</item>
         <item>En hızlı</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Sola hareket et</item>
+        <item>Aşağı hareket et</item>
+        <item>Sağa hareket et</item>
+        <item>Yukarı hareket et</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Şarj oluyor</item>
