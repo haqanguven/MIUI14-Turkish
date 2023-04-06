@@ -1801,6 +1801,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="id_photo_module_finish">Kimlik kartı eklentisi başarıyla indirildi</string>
     <string name="id_photo_module_loading">Kimlik kartı eklentisi indiriliyor</string>
     <string name="ignore_album">Gösterme</string>
+    <string name="ignore_alert_dialog_title">Bu kişiyi görmezden mi geliyorsunuz?</string>
     <string name="ignore_alert_title">Bu albüm gösterilmesin mi? Yok saydığınız fotoğrafları görüntülemek için sağ üst köşeye dokunun</string>
     <string name="ignore_face">Bu kişiyi yoksay</string>
     <string name="ignore_faces_title">Yoksayıldı</string>
@@ -1884,8 +1885,6 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
     <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
     <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
-    <string name="limit_height">Yükseklik > 0 olmalıdır</string>
-    <string name="limit_width">Genişlik > 0 olmalıdır</string>
     <string name="live_photo">Canlı fotoğraf</string>
     <string name="load_complete">Burada daha fazla öğe yok</string>
     <string name="load_failed">Bilgi yüklenemedi. Yeniden denemek için dokunun</string>
@@ -2138,6 +2137,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimi kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -2286,6 +2286,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="multi_view_tip_sub_title">Görüntülenen öğelerin boyutunu ayarlamak için iki parmağınızı birbirinden ayırın veya birbirine doğru hareket ettirin</string>
     <string name="multi_view_tip_title">Yakınlaştırma ve uzaklaştırma</string>
     <string name="must_pick_file">Bir fotoğraf seçin</string>
+    <string name="my_family">Evim</string>
     <string name="name_split">, </string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="national_day">National Day</string>
@@ -3312,6 +3313,8 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="slim_action_auto_backup_enable_description">Öğeler buluta yükleniyor</string>
     <string name="slim_action_auto_backup_sub_tip">Depolama alanını boşaltın</string>
     <string name="slim_action_auto_backup_tip">Bulutla senkronizasyonu açın</string>
+	<string name="slim_auto_backup_cloud_confirm_detail">Cihazınızdan buluta fotoğraf ve video yükleyebilmek için bulutla senkronizasyonu açın</string>
+	<string name="slim_auto_backup_cloud_confirm_title">Bulut ile senkronize et</string>
     <string name="slim_complete">Tamamlandı</string>
     <string name="slim_complete_action_title">Başarıyla optimize edildi</string>
     <string name="slim_complete_count">"%1$s ve %2$s optimize edildi. "</string>
@@ -3331,6 +3334,9 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="slim_dialog_title">Depolamayı optimize edin</string>
     <string name="slim_exit_dialog_positive">Durdur</string>
     <string name="slim_exit_dialog_title">Optimizasyonu durdur</string>
+	<string name="slim_finish_upgrade_tip"><Data>Buluta daha fazla öğe senkronize etmek için bulut depolama planınızı yükseltin. %1$s şimdi yükseltmek için dokunun</Data></string>
+	<string name="slim_function_summery_first">En iyi duruma getirilmiş fotoğrafları cihazınızda tutun ve orijinal görüntüyü buluta kaydedin</string>
+	<string name="slim_function_summery_second">Geçen %d gün içinde oluşturulan dosyalar cihazınıza kaydedilecek</string>
     <string name="slim_preference_scanning">Fotoğraflar ve videolar analiz ediliyor</string>
     <string name="slim_preference_summery">Orijinal fotoğrafları ve videoları bulutta depolarken yüksek kaliteli daha küçük kopyaları bu cihazda saklayın. Öğeler oluşturulduktan %d gün sonra daha küçük kopyalar orijinal dosyaların yerini alacak</string>
     <string name="slim_preference_title">Depolamayı optimize edin</string>
@@ -3338,7 +3344,12 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="slim_space">boşaltıldı</string>
     <string name="slim_stop">Optimizasyonu durdur</string>
     <string name="slim_stop_v2">Durdur</string>
+	<string name="slim_subtitle_slim_space_prefix">%1$s %2$s yer açın</string>
+	<string name="slim_subtitle_sync_off_no_slimdata">Boş alan tahmini almak için bulutla senkronizasyonu açın</string>
+	<string name="slim_subtitle_sync_on_no_slimdata">Senkronizasyon. Daha sonra tekrar deneyin</string>
+	<string name="slim_subtitle_sync_on_no_slimdata_no_cloudspace">Daha fazla öğe senkronize etmek için bulut depolama planınızı yükseltin</string>
     <string name="slim_success_tip">%s depolama alanı boşaltıldı</string>
+    <string name="slim_upgrade_button">Yükselt</string>
     <string name="slow_motion_enter" />
     <string name="smartisan">Smartisan</string>
     <string name="smartisan_phone">Smartisan</string>
@@ -3862,6 +3873,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="user_alias_self">Kendisi</string>
     <string name="user_avatar_update_title">Profil fotoğrafını değiştir</string>
     <string name="user_avatar_uploading">Bir saniye</string>
+    <string name="user_family">"%1$s'nin evi"</string>
     <string name="user_name_phone_number">Telefon numarası</string>
     <string name="user_notice_identify_summary_format">"Bu hizmeti kullanarak Xiaomi'nin %1$s ve %2$s sözleşmelerini kabul etmiş sayılıyorsunuz"</string>
     <string name="user_notice_title">Şartlar ve koşullar</string>
