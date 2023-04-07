@@ -328,7 +328,7 @@
     <string name="mtrl_picker_a11y_prev_month">Önceki aya geç</string>
     <string name="mtrl_picker_announce_current_selection">Şu anki seçim: %1$s</string>
     <string name="mtrl_picker_cancel">@android:string/cancel</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_confirm">Tamam</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Bir tarih seçin</string>
     <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
@@ -355,7 +355,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Bir gün seçmeye geçmek için dokunun</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_year_selection">Bir yıl seçmeye geçmek için dokunun</string>
-    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="mtrl_timepicker_confirm">Tamam</string>
     <string name="night">Akşam</string>
     <string name="noon">Gün ortası</string>
     <string name="not_set">Ayarlanmadı</string>
@@ -379,8 +379,10 @@ iki kez dokunun"</string>
     <string name="pa_accessibility_picker_home_bigBanner_slected">"%1$s. 
 Başlamak için iki kez dokunun"</string>
     <string name="pa_accessibility_picker_home_maml_slected">"%1$s. %2$s. 
-Ayrıntılar sayfasını görüntülemek için iki kez basın
-Sürüklemek için iki kez basın ve basılı tutun"</string>
+Ayrıntılar sayfasını görüntülemek için iki kez dokunun
+Sürüklemek için iki kez dokunun ve basılı tutun"</string>
+    <string name="pa_accessibility_picker_home_maml_slected_for_pay">"%1$s，%2$s， 
+Ayrıntılar sayfasını görüntülemek için iki kez dokunun"</string>
     <string name="pa_accessibility_picker_home_search">Araç ara</string>
     <string name="pa_accessibility_picker_home_smallBanner_slected">"%1$s. 
 Double tap to start."</string>
@@ -389,7 +391,7 @@ Double tap to start."</string>
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">"%s. 
 Double tap the button below it to replace with another widget."</string>
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">"%s. Yükleme durumu: %3$s. Anahtar düğmesi aşağıdadır
-Geçiş yapmak için iki kez basın"</string>
+Geçiş yapmak için iki kez dokunun"</string>
     <string name="pa_accessibility_picker_home_widget_slected">"%1$s, %2$s, Yükleme durumu: %3$s,
 Ayrıntıları görüntülemek için iki kez dokunun
 Taşımak için iki kez dokunun ve basılı tutun"</string>
@@ -492,7 +494,6 @@ Ekspres teslimatı kurye hizmetlerinin resmi internet sitelerinden de takip edeb
     <string name="pa_express_manual_query_hint">Aramak için sipariş numarasını girin</string>
     <string name="pa_express_manual_select_company">Seç</string>
     <string name="pa_express_manual_select_company_toast">Kurye servisini seçin</string>
-    <string name="pa_express_order_number">Sipariş numarası: %s</string>
     <string name="pa_express_phone_binding_input_verifacation_code">Kodu gir</string>
     <string name="pa_express_phone_binding_next_step">Sonraki</string>
     <string name="pa_express_phone_binding_number">Telefon numarası</string>
@@ -583,7 +584,7 @@ Ekspres teslimatı kurye hizmetlerinin resmi internet sitelerinden de takip edeb
     <string name="pa_font_mi_sans_regular">sans-serif-regular</string>
     <string name="pa_font_mi_type_semi_bold">mitype-semibold</string>
     <string name="pa_get_installed_app_permission_description">Uygulamaları yüklemek ve araç eklemek içindir</string>
-    <string name="pa_guide_dialog_desc">Yeniden düzenlemek için bir araç'a basılı tutun. Daha fazla araç eklemek için artıya dokunun</string>
+    <string name="pa_guide_dialog_desc">"Yeniden düzenlemek için bir araç'a basılı tutun. Daha fazla araç eklemek için artıya dokunun"</string>
     <string name="pa_guide_dialog_sure">Anladım</string>
     <string name="pa_guide_dialog_title">Araç mağazamıza göz atın</string>
     <string name="pa_half_day_time">h:mm</string>
@@ -637,7 +638,7 @@ Ekspres teslimatı kurye hizmetlerinin resmi internet sitelerinden de takip edeb
     <string name="pa_olympic_label">Madalyalar</string>
     <string name="pa_olympic_medal_count">Toplam madalya</string>
     <string name="pa_olympic_medals_description">Olimpiyat madalya sıralamasını kontrol edin</string>
-    <string name="pa_open_personal_assistant_dialog_desc">"Uygulama kasasını kapatırsanız araçları kullanamaz veya ana ekranda sağa kaydırarak bunlara erişemezsiniz. Yine de kapatılsın mı?"</string>
+    <string name="pa_open_personal_assistant_dialog_desc">Uygulama kasasını kapatırsanız araçları kullanamaz veya ana ekranda sağa kaydırarak bunlara erişemezsiniz. Yine de kapatılsın mı?</string>
     <string name="pa_open_personal_assistant_dialog_title">Uygulama kasası kapatılsın mı?</string>
     <string name="pa_operation_switch_summary">En son popüler araçları görüntüleyin</string>
     <string name="pa_operation_switch_title">Popüler promosyonlar</string>
@@ -699,6 +700,14 @@ Ekspres teslimatı kurye hizmetlerinin resmi internet sitelerinden de takip edeb
     <string name="pa_picker_home_request_failed">Ağ hatası</string>
     <string name="pa_picker_home_search_hint">Ara</string>
     <string name="pa_picker_home_title">Araç ekle</string>
+    <string name="pa_picker_image_text_share">Paylaş</string>
+    <string name="pa_picker_image_text_share_content" formatted="false">"\#MIUI araçları# Masaüstünüzü %s MIUI araçları ile süsleyin! %S</string>
+    <string name="pa_picker_image_text_share_copy_url">Bağlantıyı kopyala</string>
+    <string name="pa_picker_image_text_share_more">Dah fazla</string>
+    <string name="pa_picker_image_text_share_wechat_favourite">WeChat Favorites</string>
+    <string name="pa_picker_image_text_share_wechat_session">WeChat</string>
+    <string name="pa_picker_image_text_share_wechat_timeline">WeChat Moments</string>
+    <string name="pa_picker_image_text_share_weibo">Weibo</string>
     <string name="pa_picker_item_retry">Öğeler yüklenemedi. Tekrar deneyin</string>
     <string name="pa_picker_list_app_footer_classic_widget">Klasik araçlar</string>
     <string name="pa_picker_list_app_title">Araçlı uygulamalar</string>
@@ -711,9 +720,18 @@ Ekspres teslimatı kurye hizmetlerinin resmi internet sitelerinden de takip edeb
     <string name="pa_picker_loading">Yükleniyor</string>
     <string name="pa_picker_maml_list_activity_title">Araç ekle</string>
     <string name="pa_picker_no_relevant_content">Sonuç bulunamadı</string>
-    <string name="pa_picker_permission_denied">"Uygulama kasasının araçları gösterebilmesi için
-yükleme durumuna erişmesi gerekir"</string>
-    <string name="pa_picker_purchase_order">Satın alındı</string>
+	<string name="pa_picker_order_go_to_allow_cta">İzin ver</string>
+	<string name="pa_picker_order_go_to_login">Giriş yapın</string>
+	<string name="pa_picker_order_login_xiaomi_account">Bu özelliği kullanabilmek için Xiaomi Hesabınızda oturum açın</string>
+	<string name="pa_picker_order_theme_app_cta_pre">Bu özelliği kullanabilmek için bu uygulamanın internete bağlanmasına izin verin</string>
+	<string name="pa_picker_permission_denied">"Uygulama kasasının araçlarının gösterilebilmesi için
+yükleme bağlantılarını bitirmesi gerekir"</string>
+	<string name="pa_picker_purchase_order">Satın alındı</string>
+	<string name="pa_picker_recommend_add_limit_toast">Daha fazla pencere öğesi eklenemez</string>
+	<string name="pa_picker_recommend_bottom_button_add">Araç ekle</string>
+	<string name="pa_picker_recommend_bottom_button_download_and_add">Araç ekle</string>
+	<string name="pa_picker_recommend_download_tip">Bir pencere öğesi eklediğinizde ilgili uygulama otomatik olarak indirilir</string>
+	<string name="pa_picker_recommend_title">Sizin için önerilir</string>
     <string name="pa_picker_request">Ayarlar</string>
     <string name="pa_picker_retry">Tekrar deneyin</string>
     <string name="pa_picker_search">Ara</string>
@@ -741,6 +759,9 @@ yükleme durumuna erişmesi gerekir"</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">Bu türden daha fazla araç eklenemez</string>
     <string name="pa_picker_toast_count_limit_warning">Başarıyla eklendi. Ana ekranınıza çok fazla araç yerleştirmenin cihazınızı yavaşlatabileceğini unutmayın</string>
     <string name="pa_picker_toast_screen_cell_locked">Ana ekran düzeniniz kilitli. Araç eklenemiyor</string>
+    <string name="pa_picker_widget_select_normal_description">%1$s</string>
+	<string name="pa_picker_widget_select_uninstall_description">%1$s yüklü değil</string>
+	<string name="pa_picker_widget_select_upgrade_description">%1$s güncelleme mevcut</string>
     <string name="pa_privacy_text">Gizlilik</string>
     <string name="pa_read_storage_permission_description">Ana ekran duvar kağıdınızı uygulama arka planı olarak görüntülemek içindir</string>
     <string name="pa_recommend_add_btn">Başlat</string>
@@ -779,7 +800,7 @@ yükleme durumuna erişmesi gerekir"</string>
     <string name="pa_setting_privacy_category_priv">Gizlilik politikası</string>
     <string name="pa_setting_privacy_category_revoke">İznin geri alınması ve hizmetin iptali</string>
     <string name="pa_setting_privacy_logout">Hizmetleri iptal et</string>
-    <string name="pa_setting_privacy_logout_dialog_message">"Devam ederseniz uygulama kasası hizmetlerini iptal edeceksiniz. Bundan sonra uygulama kasası araçlarını göremeyecek veya kullanamayacaksınız. Halihazırda toplanan ve saklanan kişisel bilgiler geçerli yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Yine de hizmetler iptal edilsin mi?"</string>
+    <string name="pa_setting_privacy_logout_dialog_message">Devam ederseniz uygulama kasası hizmetlerini iptal edeceksiniz. Bundan sonra uygulama kasası araçlarını göremeyecek veya kullanamayacaksınız. Halihazırda toplanan ve saklanan kişisel bilgiler geçerli yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Yine de hizmetler iptal edilsin mi?</string>
     <string name="pa_setting_privacy_logout_dialog_title">Uygulama kasası hizmetlerini iptal et</string>
     <string name="pa_setting_privacy_logout_summary">Uygulama kasası hizmetlerini iptal et</string>
     <string name="pa_setting_privacy_perm_desc">İzin ayrıntıları</string>
@@ -797,10 +818,10 @@ yükleme durumuna erişmesi gerekir"</string>
     <string name="pa_setting_privacy_policy_update_exit">Çıkış</string>
     <string name="pa_setting_privacy_policy_update_link">Gizlilik politikası</string>
     <string name="pa_setting_privacy_policy_update_message" formatted="false">"Uygulama kasası gizlilik politikası güncellendi:
-%s devam etmeden önce %s uygulamasının yeni sürümünü okuyun ve kabul edin."</string>
+%s devam etmeden önce %s uygulamasının yeni sürümünü okuyun ve kabul edin"</string>
     <string name="pa_setting_privacy_policy_update_title">Güncellenmiş gizlilik politikası</string>
     <string name="pa_setting_privacy_revoke_cta">İznin geri alınması</string>
-    <string name="pa_setting_privacy_revoke_cta_message">"Devam ederseniz uygulama kasasının gizlilik politikasına verdiğiniz izni geri çekeceksiniz. Halihazırda toplanan ve saklanan kişisel bilgiler aksi gerekmedikçe yürürlükteki kanun ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. uygulama kasası hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığından onayınızı geri çekmeniz uygulama kasası hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir. İzin şimdi geri alınsın mı?"</string>
+    <string name="pa_setting_privacy_revoke_cta_message">Devam ederseniz uygulama kasasının gizlilik politikasına verdiğiniz izni geri çekeceksiniz. Halihazırda toplanan ve saklanan kişisel bilgiler aksi gerekmedikçe yürürlükteki kanun ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. uygulama kasası hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığından onayınızı geri çekmeniz uygulama kasası hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir. İzin şimdi geri alınsın mı?</string>
     <string name="pa_setting_privacy_revoke_cta_negative">On saniye sonra geri çekilebilir</string>
     <string name="pa_setting_privacy_revoke_cta_positive">Geri al</string>
     <string name="pa_setting_privacy_revoke_cta_progress">Geri al (%d saniye)</string>
@@ -824,7 +845,7 @@ yükleme durumuna erişmesi gerekir"</string>
     <string name="pa_shopping_page_product_delete_bar_desc">Ürünleri sil</string>
     <string name="pa_shopping_page_product_delete_error">Bir hata oluştu. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="pa_shopping_page_product_delete_limit">Silme sınırına ulaşıldı ve daha fazla seçilemez</string>
-    <string name="pa_shopping_page_product_item_icon_tag">Önerilen</string>
+    <string name="pa_shopping_page_product_item_icon_tag_new">Şunlar da hoşunuza gidebilir</string>
     <string name="pa_shopping_page_product_jump_setting_error">Bir hata oluştu. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="pa_shopping_page_setting_source_desc">Ürünlerde indirim ve fırsatlardan yararlanın</string>
     <string name="pa_shopping_page_setting_statement">Sorumluluk reddi</string>
@@ -836,12 +857,12 @@ yükleme durumuna erişmesi gerekir"</string>
     <string name="pa_shopping_widget_full_bottom_desc">Tüm ürünler</string>
     <string name="pa_shopping_widget_full_title_desc_new">Kuponlarla sipariş verdiğinizde %s indirim kazanın</string>
     <string name="pa_shopping_widget_no_cta_content_desc">Alışverişi kullanma izni vermek için dokunun</string>
-	<string name="pa_shopping_widget_no_network_content_desc">Ağa bağlanılamadı</string>
-	<string name="pa_shopping_widget_no_privacy_content_desc">Bu özelliği kullanabilmek için alışveriş gizlilik politikasını kabul edin. Görüntülemek için dokunun</string>
-	<string name="pa_shopping_widget_no_privacy_content_main_desc">Alışveriş</string>
-	<string name="pa_shopping_widget_no_privacy_content_sub_desc">En sevdiğiniz e-ticaret platformları için kuponlar ve teklifler almak için bu araca izin verin</string>
-	<string name="pa_shopping_widget_no_setting_content_desc">Ayarlar</string>
-	<string name="pa_shopping_widget_np_privacy_bottom_text">İzin ver</string>
+    <string name="pa_shopping_widget_no_network_content_desc">Ağa bağlanılamadı</string>
+    <string name="pa_shopping_widget_no_privacy_content_desc">Bu özelliği kullanabilmek için alışveriş gizlilik politikasını kabul edin. Görüntülemek için dokunun</string>
+    <string name="pa_shopping_widget_no_privacy_content_main_desc">Alışveriş</string>
+    <string name="pa_shopping_widget_no_privacy_content_sub_desc">En sevdiğiniz e-ticaret platformları için kuponlar ve teklifler almak için bu araca izin verin</string>
+    <string name="pa_shopping_widget_no_setting_content_desc">Ayarlar</string>
+    <string name="pa_shopping_widget_np_privacy_bottom_text">İzin ver</string>
     <string name="pa_shopping_widget_title">Alışveriş</string>
     <string name="pa_shortcut_accessibility_description">Uygulama kasası seçilen üçüncü taraf uygulamalar için kısayollar sağlar. Özelliği kapatırsanız bu kısayollar çalışmaz</string>
     <string name="pa_shortcut_accessibility_service">Uygulama kasası</string>
