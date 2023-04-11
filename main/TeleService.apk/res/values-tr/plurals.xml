@@ -29,20 +29,6 @@
         <item quantity="other">%d dakika önce</item>
         <item quantity="one">1 dakika önce</item>
     </plurals>
-    <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">Telefon %s dakika boyunca Acil durum geri arama modunda olacaktır. Bu moddayken veri bağlantısı kullanan hiçbir uygulama kullanılamayacaktır. Şimdi çıkmak istiyor musunuz?</item>
-        <item quantity="one">Telefon %s dakika boyunca Acil durum geri arama modunda olacaktır. Bu moddayken veri bağlantısı kullanan hiçbir uygulama kullanılamayacaktır. Şimdi çıkmak istiyor musunuz?</item>
-    </plurals>
-    <plurals name="alert_dialog_exit_ecm_without_data_restriction_hint">
-        <item quantity="other">"Telefon %s dakika boyunca acil geri arama modunda kalacak\u000d
-Şimdi çıkmak istiyor musun?"</item>
-        <item quantity="one">"Telefon %s dakika boyunca acil geri arama modunda kalacak\u000d
-Şimdi çıkmak istiyor musun?"</item>
-    </plurals>
-    <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">Seçmiş olduğunuz işlem acil geri arama modunda kullanılamamaktadır. Telefonunuz %s dakika boyunca bu modda kalacaktır. Şimdi çıkmak istiyor musunuz?</item>
-        <item quantity="one">Seçmiş olduğunuz işlem acil geri arama modunda kullanılamamaktadır. Telefonunuz %s dakika boyunca bu modda kalacaktır. Şimdi çıkmak istiyor musunuz?</item>
-    </plurals>
     <plurals name="auto_answer_summary_delay">
         <item quantity="other">gecikme: %s saniye</item>
         <item quantity="one">gecikme: %s saniye</item>
@@ -90,10 +76,6 @@
         <item quantity="other">%d öğe seçildi</item>
         <item quantity="one">%d öğe seçildi</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d yeni bildirim</item>
-        <item quantity="one">%d yeni bildirim</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d dakika önce</item>
         <item quantity="one">1 dakika önce</item>
@@ -103,9 +85,5 @@
 %d deneme kaldı"</item>
         <item quantity="one">"
 %d deneme kaldı"</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d cihaz bağlandı</item>
-        <item quantity="one">%1$d cihaz bağlandı</item>
     </plurals>
 </resources>
