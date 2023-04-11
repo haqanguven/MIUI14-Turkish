@@ -6,7 +6,7 @@
     <string name="mtb_tool_ant_status_get">Ant durumunu al</string>
     <string name="mtb_tool_ant_status_set">Ant durumunu ayarla</string>
     <string name="mtb_tool_ant_tx_rx_mode">Ant test aracı</string>
-    <string name="mtb_tool_ap_hydra_print">AP için Hydra Print</string>
+    <string name="mtb_tool_ap_hydra_print">AP için Hydra yazdır</string>
     <string name="mtb_tool_asdiv_fix">Alt anteni kilitleyin</string>
     <string name="mtb_tool_at_command_beyond_length">"Hata. Komut uzunluğu 300'ün üzerinde"</string>
     <string name="mtb_tool_at_command_path_select_hit">Komut öğesini seçin:</string>
@@ -72,6 +72,7 @@
     <string name="mtb_tool_data_export_success">Verileri dışa aktarıldı</string>
     <string name="mtb_tool_data_exporting">Veri dışa aktarılıyor</string>
     <string name="mtb_tool_data_import_fail">Veriler içe aktarılamadı</string>
+    <string name="mtb_tool_data_import_notify_nvefs_path">The data is imported successfully. Before writing, make sure that the NV/EFS path is accurate!</string>
     <string name="mtb_tool_data_import_success">Veri içe aktarıldı</string>
     <string name="mtb_tool_data_importing">Veri içe aktarılıyor</string>
     <string name="mtb_tool_diag_command_path_select_hit">Lütfen diag komutunu seçin</string>
@@ -124,12 +125,19 @@
     <string name="mtb_tool_getting_expired">Süresi doluyor</string>
     <string name="mtb_tool_getting_wait">Alınıyor. Lütfen bekleyin</string>
     <string name="mtb_tool_gpio_status">GPIO durumu:</string>
-    <string name="mtb_tool_hook_error_response">KANCA hata yanıtı</string>
+    <string name="mtb_tool_handler_instance_null">İŞLEYİCİ boş</string>
+    <string name="mtb_tool_hook_error_response">Kanca hata yanıtı</string>
     <string name="mtb_tool_hook_initing_fail_notify">Kanca başlatılamadı</string>
     <string name="mtb_tool_hook_initing_notify">Kanca başlatılıyor. Lütfen bekleyin</string>
     <string name="mtb_tool_hook_instance_null">Kanca boş</string>
     <string name="mtb_tool_hook_null_response">Kanca boş yanıtı</string>
+    <string name="mtb_tool_hook_oem_product_not_support_notify">OEM projesi bu aracı desteklemiyor</string>
     <string name="mtb_tool_hotswap_times">Çalışırken değiştirilebilir süreleri</string>
+    <string name="mtb_tool_hydra_keep">Hydra tut</string>
+    <string name="mtb_tool_hydra_opt_refresh">Yenile↑</string>
+	<string name="mtb_tool_hydra_sub_feature_state_not_support">"Hydra'nın alt özellik durumunu almayı desteklemiyor"</string>
+	<string name="mtb_tool_hydra_sub_feature_state_return_fail">"Hydra'nın alt özellik durumu alınamadı"</string>
+	<string name="mtb_tool_hydra_switch">Hydra Anahtarı</string>
     <string name="mtb_tool_imei_protect">IMEI koruma</string>
     <string name="mtb_tool_import">İçe aktar</string>
     <string name="mtb_tool_import_doing">İçe aktarılıyor</string>
@@ -147,7 +155,7 @@
     <string name="mtb_tool_mbn_import_from_sd">"SD'nin MBN'sini etkinleştirin"</string>
     <string name="mtb_tool_mbn_import_mbn_name_invalid">İçe aktardığınız MBN türü geçersiz. Lütfen kontrol edin</string>
     <string name="mtb_tool_mbn_list_opt_notify">"Modemdeki tüm MBN bilgilerinin listesi
-	MBN bilgisini göstermek için güncelleye tıklayın. Ayrıca silmek için MBN'yi de seçebilirsiniz"</string>
+\u0009MBN bilgisini göstermek için güncelleye tıklayın. Ayrıca silmek için MBN'yi de seçebilirsiniz"</string>
     <string name="mtb_tool_mbn_no_default_notfiy">Varsayılan MBN yok</string>
     <string name="mtb_tool_mbn_opt_help">"Çalıştırma talimatları:
 1. Bir MBN'yi etkinleştirme adımları:
@@ -157,7 +165,7 @@ Adım 3: Seçilen MBN'yi yüklemek için Etkinleştir düğmesine tıklayın
 2. Kurtarma sistemi varsayılan MBN'si, Varsayılan MBN'yi geri yükle düğmesi tıklanarak elde edilebilir
 3. Mevcut Modeme yüklenen MBN bilgilerini görüntüleyebilir
 İlk satır geçerli modem tarafından yüklenen MBN'nin sistemin varsayılan MBN'si olup olmadığını gösterir. (Bazı ürünler ilgili arayüze entegre edilmemiş olabilir. Bu satırda şunu gösterecektir: Desteklenmiyor)
-İkinci satır modem'de yüklü olan Varsayılan MBN ve Taşıyıcı MBN'nin adını ve sürüm numarasını gösterir. Özel yüklü MBN'miz Taşıyıcı MBN'dir, SUB0 kart 1'dir, SUB1 kart 2'dir"</string>
+İkinci satır modem'de yüklü olan Varsayılan MBN ve taşıyıcı MBN'nin adını ve sürüm numarasını gösterir. Özel yüklü MBN'miz Taşıyıcı MBN'dir, SUB0 kart 1'dir, SUB1 kart 2'dir"</string>
     <string name="mtb_tool_mbn_path_select_hit">"MBN'nin tam yolunu seçin:"</string>
     <string name="mtb_tool_mbn_path_select_notice">Yukarıda bulamıyor musunuz?</string>
     <string name="mtb_tool_mbn_recovery_default">Varsayılan</string>
@@ -167,7 +175,7 @@ Adım 3: Seçilen MBN'yi yüklemek için Etkinleştir düğmesine tıklayın
     <string name="mtb_tool_mcfg_rfs_remote_do">MCFG RFS kumanda yap</string>
     <string name="mtb_tool_mcfg_rfs_remote_wait_notify">MBN güncellemesinin daha fazla zamana ihtiyacı var. MBN durumunu almak için güncelleye tıklayın</string>
     <string name="mtb_tool_mcfg_txt_path_select">SW MBN</string>
-    <string name="mtb_tool_modem">Modem test araçları</string>
+    <string name="mtb_tool_miril_print">MIRIL için ADB baskısı</string>
     <string name="mtb_tool_modem_add">Ekle</string>
     <string name="mtb_tool_modem_at_command">AT komutu:</string>
     <string name="mtb_tool_modem_at_command_input_chinese_characters">Çince karakterler dahil! İzin verilmedi</string>
@@ -226,18 +234,16 @@ Adım 3: Seçilen MBN'yi yüklemek için Etkinleştir düğmesine tıklayın
     <string name="mtb_tool_modem_hydra_check_fail">Hydra kontrolü başarısız oldu</string>
     <string name="mtb_tool_modem_hydra_check_for_cpl_note">"Uyarı: QCOM-CPL'yi birleştirmeden önce Hydra Check'e ihtiyacınız var"</string>
     <string name="mtb_tool_modem_hydra_check_not_support">Hydra kontrolünü desteklemez</string>
+    <string name="mtb_tool_modem_hydra_check_not_support_detail_note">Tanılama günlükleri yükseltilecek</string>
     <string name="mtb_tool_modem_hydra_check_ok">Hydra kontrolü tamam</string>
     <string name="mtb_tool_modem_hydra_config">Hydra Yapılandırma aracı</string>
     <string name="mtb_tool_modem_hydra_debug_get_fail">Hata ayıklama bilgisi alınamadı</string>
     <string name="mtb_tool_modem_hydra_debug_get_not_support">Hata ayıklama bilgisi almayı desteklemiyor</string>
     <string name="mtb_tool_modem_hydra_debug_info_note_view">Hata ayıklama bilgisi çıktı penceresi</string>
     <string name="mtb_tool_modem_hydra_debug_show">Hata ayıklama gösterisi</string>
-    <string name="mtb_tool_modem_info_delete">D</string>
-    <string name="mtb_tool_modem_info_read">R</string>
+    <string name="mtb_tool_modem_hydra_switch_closed">Hidra kapalı</string>
     <string name="mtb_tool_modem_info_reboot">Yeniden başlat</string>
-    <string name="mtb_tool_modem_info_write">W</string>
     <string name="mtb_tool_modem_limit_notify">İşlemlerin bazı bölümleri yasaktır. Kontrol hakları için lütfen Modem personeline başvurun</string>
-    <string name="mtb_tool_modem_mbn_advanced">Gelişmiş</string>
     <string name="mtb_tool_modem_mbn_check">MBN kontrolü</string>
     <string name="mtb_tool_modem_mbn_check_fail">MBN kontrol başarısız oldu</string>
     <string name="mtb_tool_modem_mbn_check_ok">MBN kontrol et</string>
@@ -253,7 +259,7 @@ Adım 3: Seçilen MBN'yi yüklemek için Etkinleştir düğmesine tıklayın
     <string name="mtb_tool_modem_nv_efs_write_check">NV/EFS yazılıyor mu?</string>
     <string name="mtb_tool_modem_nvefs_config_manager">NV/EFS yapılandırma aracı</string>
     <string name="mtb_tool_modem_offline_log">Çevrimdışı günlüğü aç veya kapat</string>
-    <string name="mtb_tool_modem_ramdump_prop">Ramdump Prop:</string>
+    <string name="mtb_tool_modem_ramdump_prop">Ramdump desteği:</string>
     <string name="mtb_tool_modem_recove_default">Varsayılan</string>
     <string name="mtb_tool_modem_recovery_pref_group_notify">Öncelikli grubu kurtaracak mı?</string>
     <string name="mtb_tool_modem_return">Dönüş</string>
@@ -270,7 +276,7 @@ Mevcut MBN yapılandırması için güncelleyi tıklayın"</string>
     <string name="mtb_tool_modem_ssr">"Modem ssr'sini tetikle"</string>
     <string name="mtb_tool_modem_ssr_do">SSR</string>
     <string name="mtb_tool_modem_ssr_notify">Modem alt sistemini yeniden başlatmak için emin misiniz?</string>
-    <string name="mtb_tool_modem_ssr_prop">SSR/DUMP prop:</string>
+    <string name="mtb_tool_modem_ssr_prop">SSR/DUMP desteği:</string>
     <string name="mtb_tool_modem_start_config_data_to_show">Gösterilecek verileri yapılandırmaya başlayın</string>
     <string name="mtb_tool_modem_test_clr">Kodun varsayılan değerini ayarlayın</string>
     <string name="mtb_tool_modem_test_device_value_set">Cihaz durumunu değiştir</string>
@@ -287,11 +293,10 @@ Mevcut MBN yapılandırması için güncelleyi tıklayın"</string>
     <string name="mtb_tool_modem_test_start">Başlat</string>
     <string name="mtb_tool_modem_test_stop">Dur</string>
     <string name="mtb_tool_modem_test_will_set">Test modunu açacak ve görevi yeniden başlatacak</string>
-    <string name="mtb_tool_modem_typeface_add">+</string>
-    <string name="mtb_tool_modem_typeface_reduce">-</string>
     <string name="mtb_tool_modem_user_panel">Kullanıcı paneli</string>
     <string name="mtb_tool_mtk_modem_diag">Modem bağlantı noktası</string>
     <string name="mtb_tool_mtk_modem_dump">Modem dökümünü tetikle</string>
+    <string name="mtb_tool_name">Rueban(MTB)V5.2</string>
     <string name="mtb_tool_no_repeat">Tekrar yok</string>
     <string name="mtb_tool_not_support">Desteklenmez</string>
     <string name="mtb_tool_nr_only">Yalnızca NR</string>
@@ -302,7 +307,7 @@ Mevcut MBN yapılandırması için güncelleyi tıklayın"</string>
     <string name="mtb_tool_nvefs_cloud_config_async_success">Başarı! Sim%1$s (%2$s) bulut veri senkronizasyonu tamamlandı</string>
     <string name="mtb_tool_nvefs_cloud_config_http_get_error">Geçerli bulut verileri algılanmadı veya alınırken bir hata oluştu</string>
     <string name="mtb_tool_nvefs_cloud_config_no_data">Geçerli Sim %1$s(%2$s) ile eşleşen yapılandırma bulunamadı</string>
-    <string name="mtb_tool_nvefs_cloud_config_no_net">"Hata. Ağ bağlı değil"</string>
+    <string name="mtb_tool_nvefs_cloud_config_no_net">Hata. Ağ bağlı değil</string>
     <string name="mtb_tool_nvefs_cloud_config_no_sims">"Hata. Lütfen Sim'leri takın ve tekrar deneyin"</string>
     <string name="mtb_tool_nvefs_cloud_config_opt_too_frequent">Yavaşla. İşlem çok sık</string>
     <string name="mtb_tool_nvefs_sync">NV/EFS senkronize</string>
@@ -310,6 +315,7 @@ Mevcut MBN yapılandırması için güncelleyi tıklayın"</string>
     <string name="mtb_tool_one_key_tool">Bir anahtar kimlik doğrulama aracı</string>
     <string name="mtb_tool_one_key_work_mode">Mevcut test modu</string>
     <string name="mtb_tool_open_file">Dosyayı aç</string>
+    <string name="mtb_tool_opt_advanced">Gelişmiş↓</string>
     <string name="mtb_tool_opt_authenticating">Kimlik doğrulanıyor. Lütfen bekleyin</string>
     <string name="mtb_tool_opt_fail">İşlem başarısız</string>
     <string name="mtb_tool_opt_fail_info_notify">Opsiyon başarısız oldu. Çevrimiçi olmayan mod için telefonu yeniden başlatmanız gerekiyor</string>
@@ -321,9 +327,13 @@ Mevcut MBN yapılandırması için güncelleyi tıklayın"</string>
     <string name="mtb_tool_pos_off">Kapalı</string>
     <string name="mtb_tool_pos_on">Açık</string>
     <string name="mtb_tool_previous_path">Önceki dizin</string>
-    <string name="mtb_tool_recoverying">kurtarılıyor</string>
+    <string name="mtb_tool_qcril_print">QCRIL için ADB baskısı</string>
+    <string name="mtb_tool_recoverying">Kurtarılıyor</string>
     <string name="mtb_tool_rf_ant_device_data_config_manager">Rf ant cihaz veri yapılandırması</string>
     <string name="mtb_tool_rf_ant_device_info_config">RF ant cihaz bilgisi yapılandırması</string>
+	<string name="mtb_tool_rild_bc_print">RILD BC için ADB baskısı</string>
+	<string name="mtb_tool_rild_hook_print">RILD HOOK için ADB baskısı</string>
+	<string name="mtb_tool_rild_prop_print">RILD PROP için ADB baskısı</string>
     <string name="mtb_tool_root_path">Kök yolu</string>
     <string name="mtb_tool_runing">Çalışıyor</string>
     <string name="mtb_tool_sar_info">"Başlangıç durumunda ap tarafının dsi'sini güncelleyecektir"</string>
@@ -342,6 +352,7 @@ Mevcut MBN yapılandırması için güncelleyi tıklayın"</string>
     <string name="mtb_tool_send_at_command_confirm">Komutta gönder:</string>
     <string name="mtb_tool_send_at_command_success">Gönderme başarılı oldu</string>
     <string name="mtb_tool_send_diag_command_confirm">Teşhis komutu gönder:</string>
+    <string name="mtb_tool_setting_done">Set Done</string>
     <string name="mtb_tool_setting_expired">Ayarın süresi doldu. Lütfen yeniden deneyin</string>
     <string name="mtb_tool_setting_minute_notify">Ayar için birkaç dakikaya ihtiyacınız var</string>
     <string name="mtb_tool_setting_wait">Lütfen bekleyin</string>
@@ -351,7 +362,7 @@ Mevcut MBN yapılandırması için güncelleyi tıklayın"</string>
     <string name="mtb_tool_single_at_command_gap_time">Tekli komut boşluğu zamanında:</string>
     <string name="mtb_tool_single_at_command_set_gap_time">Komut ayarlama boşluk zamanında:</string>
     <string name="mtb_tool_skip_all">Tümünü atla</string>
-    <string name="mtb_tool_skip_all_notify">Yapılandırmayı etkili kılmak üzere cep telefonunu yeniden başlatmak için [doğrula]'ya tıklayın</string>
+    <string name="mtb_tool_skip_all_notify">"Yapılandırmayı etkili kılmak üzere cep telefonunu yeniden başlatmak için [doğrula]'ya tıklayın"</string>
     <string name="mtb_tool_smart_test1">Test1</string>
     <string name="mtb_tool_smart_test2">Test2</string>
     <string name="mtb_tool_smart_test3">Test3</string>
@@ -381,10 +392,9 @@ Mevcut MBN yapılandırması için güncelleyi tıklayın"</string>
     <string name="mtb_tool_template_import_fail">Şablon içe aktarılamadı</string>
     <string name="mtb_tool_template_import_success">Şablonu içe aktarmayı başardı</string>
     <string name="mtb_tool_template_importing">Şablon içe aktarılıyor</string>
-    <string name="mtb_tool_test_hotswap">çalışırken değiştirme testi</string>
+    <string name="mtb_tool_test_hotswap">Çalışırken değiştirme testi</string>
     <string name="mtb_tool_test_start">Başlat</string>
     <string name="mtb_tool_test_stop">Dur</string>
-    <string name="mtb_tool_time_format">yyyy/AA/gg SS:dd:ss</string>
     <string name="mtb_tool_to_fetching">getirmek için</string>
     <string name="mtb_tool_total_test_time_time">Toplam test süresi (s):</string>
     <string name="mtb_tool_url_check_from_bc_clear_fail_notify">Kimlik doğrulama bağlantı bilgisi temizlenemedi</string>
@@ -398,13 +408,14 @@ Mevcut MBN yapılandırması için güncelleyi tıklayın"</string>
     <string name="mtb_tool_url_config_from_bc_verify_fail_notify">Bağlantı yapılandırması alınamıyor</string>
     <string name="mtb_tool_url_config_from_bc_verify_ok_notify">Bağlantı yapılandırması başarıyla alındı</string>
     <string name="mtb_tool_user_limit">Kullanıcı sürümünde bazı işlevler kullanılmıyor</string>
+    <string name="mtb_tool_view_hide">Gizle</string>
     <string name="mtb_tool_view_initing">Başlıyor. Lütfen bekleyin</string>
     <string name="mtb_tool_view_initing_notify">Görünüm başlatılmıyor. Lütfen sabırla bekleyin</string>
+    <string name="mtb_tool_view_show">Göster</string>
     <string name="mtb_tool_waiting_time_after_card_insertion">Kart alındıktan sonra çekim süresi</string>
     <string name="mtb_tool_waiting_time_after_card_unplugging">Kart çıkarıldıktan sonra çekim süresi</string>
-    <string name="mtb_tool_wenkog">Sıcaklık kontrolü</string>
-    <string name="mt_tool_xia_qcn_backup_info_type">Yedekleme gidişatına yönelik</string>
+    <string name="mtb_tool_wenkong">Sıcaklık kontrolü</string>
+    <string name="mtb_tool_xiaomi_qcn_backup_info_type">Yedekleme türünü seçin</string>
     <string name="mtb_tool_xiaomi_qcn_backup_recovery">"Xiaomi QCN'nin yedeklenmesi ve kurtarılması"</string>
-    <string name="b_tool_xiaomi_recovery_path">Kurtarma yolunu seçin</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="mtb_tool_xiaomi_recovery_path">Kurtarma yolunu seçin</string>
 </resources>
