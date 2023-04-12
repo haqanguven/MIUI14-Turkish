@@ -360,7 +360,7 @@ Bu tür izinleri vermeyi kabul etmezseniz Xiaomi bağlantı hizmetlerini kullana
     <string name="mint_keyboard_oobe_checkbox">Mint klavye gizlilik politikasını okudum ve kabul ettim</string>
     <string name="mint_keyboard_oobe_terms">Mint klavye gizlilik politikası</string>
     <string name="miui14_global_start_up_slogan" />
-    <string name="miui14_start_up_slogan">Hazır. Sabit durma. Canlı</string>
+    <string name="miui14_start_up_slogan">Hazır. İstikrarlı. Canlı</string>
     <string name="miui_privacy_policy_no_network">İnternet bağlantınız yok. Hizmet koşullarını %s adresinde görüntüleyin</string>
     <string name="miui_provision">İlk kurulum</string>
     <string name="miui_terms_no_network">İnternet bağlantınız yok. Hizmet koşullarını %s adresinde görüntüleyin</string>

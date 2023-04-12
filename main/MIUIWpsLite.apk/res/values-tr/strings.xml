@@ -174,6 +174,8 @@
     <string name="go_to_download">İndir ve git</string>
     <string name="help_send_editing_file">Geliştiricinin sorunu bulmasına yardımcı olmak için %s gönderin</string>
     <string name="highlight">Vurgula</string>
+    <string name="kslite_sign_url" />
+    <string name="kslite_sign_url_test" />
     <string name="online_security_error_code_no_operation_permission">Bu işlemi gerçekleştirmek için yeterli izin yok</string>
     <string name="oppo_app_packageName">OPPO belge görüntüleyici (WPS özelleştirme)</string>
     <string name="oppo_scre_dialog_message" formatted="false">"<Data>WPS belge görüntüleyiciyi normal kullanmak için dosya depolama izinleri sağlamanızı gerektiren kullanıcının ofis belgelerini görüntülemeye yönelik bir yazılımdır. Ürün deneyimini daha iyi hale getirmek için WPS Office işlev kullanım bilgilerini toplayacak ve &lt;a href=\"%s\">'yi kesinlikle izleyecektir. Bilgilerinizi korumak için nihai kullanıcı lisans sözleşmesi &lt;/a>ve&lt;a href=\"%s\"> gizlilik politikasını &lt;/a> okuyarak kabul edin</Data>"</string>
@@ -223,6 +225,7 @@
     <string name="public_app_language">2052</string>
     <string name="public_bad_doc_to_process">Geçersiz belge. İşlem tamamlanamıyor</string>
     <string name="public_bookmark">Yer işareti</string>
+    <string name="public_bottombar_mark">Yer işareti</string>
     <string name="public_cancel">İptal et</string>
     <string name="public_chart_category">Kategoriler</string>
     <string name="public_chart_series">Dizi</string>
@@ -249,10 +252,12 @@
     <string name="public_default_sheet_lable_name">WPS form görüntüleyici</string>
     <string name="public_default_writer_lable_name">WPS metin görüntüleyici</string>
     <string name="public_displayPasswd">Şifreyi göster</string>
+    <string name="public_display_privacy_policy">Gizlilik politikasını görüntüle</string>
     <string name="public_doc_end_preview_tip">WPS ofis tarafından desteklenir</string>
     <string name="public_download_message_tip">WPS yüklü değil. Uygulamayı indirmek için yazılım mağazasına gidebilirsiniz</string>
     <string name="public_edit">Düzenle</string>
     <string name="public_edit_with_wps">WPS ile düzenle</string>
+    <string name="public_enter_now">Şimdi gir</string>
     <string name="public_enter_phonemode">Mobil görünüm</string>
     <string name="public_entry_browser">Tarayıcıya git</string>
     <string name="public_error_email_parse_path_toast">Posta okuma izni eksik. Lütfen ayarlardan posta okuma iznini verin</string>
@@ -278,6 +283,7 @@
     <string name="public_inputPasswd">Belgeyi açmak için şifre girin</string>
     <string name="public_isSaveOrNot">Belgede yaptığınız değişiklikler kaydedilsin mi?</string>
     <string name="public_is_download_wps">WPS indirmek istiyor musunuz?</string>
+    <string name="public_is_jump_wps_pen_mode">İşaretleme moduna girilsin mi?</string>
     <string name="public_jump_to_tips">Sayfa değiştirmek için buraya dokunun ve bir sayfa numarası girin</string>
     <string name="public_keep_format">Biçimi koru</string>
     <string name="public_kitkat_file_cant_write_tips">Mevcut android sürümü uygulamaların SD Karta (%1$s) yazmasına şu anda izin vermiyor. Dosyalar SD Karta (%2$s) yeni bir dosya olarak kaydedilmelidir. Şimdi kaydedilsin mi?</string>
@@ -287,6 +293,7 @@
     <string name="public_lite_update_cloud_dialog_message">WPS ofisi yükseltin ve %s hizmetin keyfini çıkarın</string>
     <string name="public_lite_update_right_now">Şimdi güncelle</string>
     <string name="public_lite_use_right_now">Şimdi kullan</string>
+    <string name="public_loadDocumentError">Dosya mevcut değil veya açılamıyor</string>
     <string name="public_loadDocumentFormatError">Dosya biçimi hatası. Dosya açılamıyor</string>
     <string name="public_loadDocumentLackOfStorageError">Yetersiz depolama alanı. Dosya açılamıyor</string>
     <string name="public_loadDocumentOutOfMemoryError">Yetersiz depolama alanı. Dosya açılamıyor</string>
@@ -328,11 +335,13 @@
     <string name="public_pdf_print_converting">Yazdırmaya hazırlanılıyor</string>
     <string name="public_pdf_print_fail">Belge yazdırılamadı</string>
     <string name="public_pdf_print_title">Yazdır</string>
+    <string name="public_penmode_download_message_tip">WPS ofiste belgelere serbestçe açıklama eklemek için kalemi kullanın</string>
     <string name="public_permission_request">Belgelerle çalışabilmek için ayarlarda gerekli izinleri atayın</string>
     <string name="public_permission_storage_disallow_msg">Yetkilendirmeyi iptal ettikten sonra belgelerle çalışamazsınız</string>
     <string name="public_picture_savefail">Resim bozuk ve kaydedilemiyor</string>
     <string name="public_play">Oynat</string>
     <string name="public_ppt_label">Mi sunum Görüntüleyici</string>
+	<string name="public_privacy_update">Bir kullanıcı olarak haklarınızı ve verilerinizi kullanma yollarımızı tam olarak anlamak için devam etmeden önce %s Gizlilik politikamızın yeni sürümünü okuyun ve kabul edin</string>
     <string name="public_re_licensing">Yetkilendirme ver</string>
     <string name="public_readOnlyMode">Salt okunur</string>
     <string name="public_recory_edit_not_save_tips">Halihazırda sizin için kurtarılmış kaydedilmemiş içerik</string>
@@ -341,6 +350,10 @@
     <string name="public_refuse_jurisdiction">İzin gerekli</string>
     <string name="public_replace">Değiştir</string>
     <string name="public_request_senior_password">En yüksek izin şifresini girin</string>
+	<string name="public_revoke">%s geri al</string>
+	<string name="public_revoke_privacy_content">Devam ederseniz Mi belge görüntüleyicinin Gizlilik politikasına ilişkin onayınızı geri çekeceksiniz. Kişisel bilgilerinizi ve halihazırda toplanıp saklanan kişisel bilgileri toplamayı bırakacağız. Aksi gerekmedikçe geçerli yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Onayınızı geri almanız Mi belge görüntüleyici tarafından sağlanan hizmetleri kabul etmeyi reddetmeniz olarak görülecektir</string>
+	<string name="public_revoke_privacy_desc">Mi belge görüntüleyicinin Gizlilik politikasına verdiğiniz onayı geri alın</string>
+	<string name="public_revoke_privacy_title">İzinin geri alınması</string>
     <string name="public_ribbon_font">Yazı tipi</string>
     <string name="public_rotate">Ekranı döndür</string>
     <string name="public_save">Kaydet</string>

@@ -79,6 +79,7 @@
     <string name="bugreport_dump_start_notification_title">Hata raporu oluşturuluyor</string>
     <string name="bugreport_tool_log_dumping_desc">Yaklaşık bir dakika sürer</string>
     <string name="bugreport_tool_log_dumping_title">Hata raporu oluşturuluyor</string>
+    <string name="can_not_add_more_image">Daha fazla resim veya video eklenemiyor</string>
     <string name="catch_full_log_action_cancel">İptal et</string>
     <string name="catch_full_log_action_complete">Bitir ve yükle</string>
     <string name="catch_full_log_action_start">Kayıt oluştur</string>
@@ -213,6 +214,7 @@
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Çin geleneksel takvimi</string>
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
+    <string name="default_web_client_id">810933016627-eeic8fts45vhh9nf5qofflnnod8i7ic4.apps.googleusercontent.com</string>
     <string name="description">Sorunu açıklayın</string>
     <string name="diagnosis_log_send_failed">Kayıtlar gönderilemedi. Tekrar deneyin</string>
     <string name="diagnosis_log_sent_format">"Kayıtlar başarıyla gönderildi
@@ -223,6 +225,18 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="discard_draft_dialog_content">Bu raporda yaptığınız değişikliklerin tamamı kaybolacaktır</string>
     <string name="discard_draft_dialog_title">Taslak iptal edilsin mi?</string>
     <string name="doing_query_account">Hesap bilgileri kontrol ediliyor</string>
+	<string name="dynamic_dialog_content">Özel sorun yakalama moduna ait olan ve program çalışan kayıt bilgilerini içeren dinamik günlük işlevini açmak üzeresiniz. Dinamik günlük etkinleştirildikten sonra sistemde gecikme ve ısınma gibi sorunlar olabilir. Günlük yakalama işlemi tamamlandıktan sonra sistem otomatik olarak kapanacaktır. Lütfen dikkatli olun ve sorun yeniden ortaya çıkar çıkmaz geri bildirim gönderin. Aşağıda kabul et seçeneğini seçerek yukarıdaki verileri bir sonraki kayıt oturumu için toplayacağımızı ve geri bildirim sorununuzu çözmemiz için bize göndereceğimizi kabul etmiş olursunuz</string>
+	<string name="dynamic_dialog_negative_text">Katılmıyorum</string>
+	<string name="dynamic_dialog_notification_text">Lütfen sorun yeniden ortaya çıktıktan sonra zamanında geri bildirim gönderin. İşlev otomatik olarak kapatılacak</string>
+	<string name="dynamic_dialog_notification_title">Dinamik günlük getirme etkinleştirildi</string>
+	<string name="dynamic_dialog_positive_text">Kabul ediyorum</string>
+	<string name="dynamic_dialog_title">Gizlilik notu</string>
+	<string name="dynamic_log_float_dump_SF">Yüzey fırlatıcıyı boşaltın</string>
+	<string name="dynamic_log_float_dump_activity">Etkinlik dökümü</string>
+	<string name="dynamic_log_float_dump_window">Döküm penceresi</string>
+	<string name="dynamic_log_load_text">Yükleniyor</string>
+	<string name="dynamic_log_restore_toast_text">Cihaz dinamik günlüğü geri yüklüyor. Lütfen daha sonra deneyin</string>
+	<string name="dynamic_log_title">Dinamik günlük</string>
     <string name="early_morning">Sabah</string>
     <string name="earthly_branches_chen">15</string>
     <string name="earthly_branches_chou">12</string>
@@ -440,10 +454,15 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cum</string>
     <string name="friday_shortest">Cum</string>
+    <string name="gcm_defaultSenderId">810933016627</string>
     <string name="get_phone_verifycode_exceed_limit">Bu numaraya çok fazla sayıda doğrulama kodu gönderildi. 24 saat bekleyin ve tekrar deneyin</string>
     <string name="getverifycode_seconde">s</string>
+    <string name="google_api_key">AIzaSyAieDyd1HJGGzRh8EnQDpvDnU9saCtY3is</string>
+    <string name="google_app_id">1:810933016627:android:5350c1161cbcd03d1c6b46</string>
     <string name="google_application_id" />
+    <string name="google_crash_reporting_api_key">AIzaSyAieDyd1HJGGzRh8EnQDpvDnU9saCtY3is</string>
     <string name="google_login_btn_content_description">Google ile oturum açın</string>
+    <string name="google_storage_bucket">feedback-a76f1.appspot.com</string>
     <string name="goon_feedback_main">Devam et</string>
     <string name="header_help">Yrdım</string>
     <string name="heavenly_stems_bing">3</string>
@@ -519,6 +538,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -636,6 +656,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="non_system_app_select">İndirilen uygulamalar</string>
     <string name="noon">Gün ortası</string>
     <string name="not_set">Ayarlanmadı</string>
+    <string name="not_support_service_in_maintenance_mode">Bu hizmet bakım modunda desteklenmiyor</string>
     <string name="nothing">--</string>
     <string name="open_feedback_main">Daha fazla</string>
     <string name="open_settings">Ayarlara git</string>
@@ -729,6 +750,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="passport_user_id_hint">E-posta/telefon numarası/Xiaomi hesabı kimliği</string>
     <string name="passport_user_id_intro">%1$s için şifre girin</string>
     <string name="passport_user_password_hint">Şifre</string>
+    <string name="passport_vcode_what_app_send_prompt">WhatsApp doğrulama kodunuz kurtarma telefonunuza gönderilecek (%s)</string>
     <string name="passport_wechat_not_install">"Öncelikle WeChat'i yükleyin"</string>
     <string name="passport_wrong_captcha">Girmiş olduğunuz kod yanlış</string>
     <string name="passport_wrong_phone_number_format">Girmiş olduğunuz telefon numarası formatı geçersiz</string>
@@ -748,6 +770,7 @@ Bu kodu yöneticiye gönderin"</string>
 Devam etmeden önce %3$s uygulamasının yeni sürümünü okuyun ve kabul edin"</string>
     <string name="privacy_policy_update_title">Güncellenmiş gizlilik politikası</string>
     <string name="progressbar_title">Güvenlik sorunları kontrol ediliyor</string>
+    <string name="project_id">feedback-a76f1</string>
     <string name="protocal_dialog_confirm">Kabul et</string>
     <string name="protocal_dialog_title">Dikkat</string>
     <string name="qq_application_id" />
