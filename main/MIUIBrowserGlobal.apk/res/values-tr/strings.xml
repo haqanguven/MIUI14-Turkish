@@ -202,6 +202,7 @@
     <string name="aqi_quality_index_pure">Harika</string>
     <string name="aqi_quality_index_unhealthy">Sağlıksız</string>
     <string name="articles_collection_empty">Burada henüz makale yok</string>
+    <string name="at_miui_browser">@string/mi_browser</string>
     <string name="auth_fail_warning">Oturumun süresi doldu. Tekrar oturum açın</string>
     <string name="autoSwithcingSearchEngineTips">Sık kullanılan arama motoruna geçildi</string>
     <string name="auto_play_permission_name">Otomatik oynatma</string>
@@ -859,6 +860,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="download_keep_queued_download">Sürdür</string>
     <string name="download_list_no_items_tip">Burada henüz öğe yok</string>
     <string name="download_list_open_xl_ok">Tamam</string>
+    <string name="download_live_unsupported">Canlı yayınlar indirilemiyor</string>
     <string name="download_memory_info_avai">" kullanılabilir %s|"</string>
     <string name="download_memory_info_total">" toplam ​%s"</string>
     <string name="download_menu_title_clear_all">Tümünü temizle</string>
@@ -1540,6 +1542,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="menu_title_pause_all">Tümünü duraklat</string>
     <string name="menu_title_resume_all">Tümünü başlat</string>
     <string name="messenger_send_button_text">Send</string>
+    <string name="mi_browser">@string/application_name</string>
     <string name="mi_browser_clean_up_garbage">Tarayıcı çöpü temizliyor</string>
     <string name="mi_browser_is_scanning">Tarayıcı tarama yapıyor</string>
     <string name="midi_permission_name">MIDI cihazlarını kontrol et</string>
@@ -1574,6 +1577,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -2375,6 +2379,7 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="pref_content_night_read_mode">Gece modu</string>
     <string name="pref_content_search_engine">Adres çubuğu arama motoru</string>
     <string name="pref_content_search_engine_summary">Bir arama motoru seçin</string>
+    <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
     <string name="pref_data_preload_value_always">Her zaman</string>
     <string name="pref_data_preload_value_never">Asla</string>
     <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
@@ -2400,12 +2405,14 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="pref_force_userscalable">Yakınlaştırmaya zorla</string>
     <string name="pref_force_userscalable_summary">İnternet sitelerinin yakınlaştırma ayarlarını kontrol etme taleplerini geçersiz kılar</string>
     <string name="pref_general_title">Genel</string>
+    <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>
     <string name="pref_images_preload_value_always">2</string>
     <string name="pref_images_preload_value_never">0</string>
     <string name="pref_images_preload_value_wifi_only">1</string>
     <string name="pref_js_downloader">Fotoğraf ve video indir</string>
     <string name="pref_js_downloader_detail">Sosyal medya sitelerinde fotoğraflarda ve videolarda indirme tuşu gösterir</string>
     <string name="pref_key_gesture_title">Tuşlar &amp; hareketler</string>
+    <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
     <string name="pref_link_prefetch_value_always">Her zaman</string>
     <string name="pref_link_prefetch_value_never">Asla</string>
     <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
@@ -2517,6 +2524,7 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="pref_title_dns_prefetch">DNS ön yükleme</string>
     <string name="pref_ua_string">Kullanıcı aracısı</string>
     <string name="pref_version_info">Sürüm bilgisi</string>
+    <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
     <string name="pref_video_preload_value_always">Her zaman</string>
     <string name="pref_video_preload_value_never">Asla</string>
     <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
@@ -2915,6 +2923,7 @@ Anahtar kelimenizi değiştirmeyi denediniz mi?"</string>
     <string name="readmode_recommend">Tavsiye edilenleri görüntüle</string>
     <string name="readmode_recommend_message">Bu kitabı zaten okudunuz</string>
     <string name="readmode_refresh">Yenile</string>
+    <string name="readmode_tips">Sadece metin modunu açın</string>
     <string name="readmodelist_bookmarks_to_show">Okuma listesi</string>
     <string name="reboot">Yeniden başlat</string>
     <string name="recent_apk_status_install">Yüklendi</string>
@@ -3042,6 +3051,7 @@ Anahtar kelimenizi değiştirmeyi denediniz mi?"</string>
     <string name="save_to_camera_failed">Resim kaydedilemiyor</string>
     <string name="save_to_camera_success">Galeriye kaydedildi</string>
     <string name="save_to_private_folder">Gizli dosyalara ekle</string>
+    <string name="scan_type_empty_folder">Klasör boş</string>
     <string name="scanner_uninstalled_text">Devam etmek için tarayıcı yükleyin</string>
     <string name="scanner_uninstalled_title">Tarayıcı kaldırıldı</string>
     <string name="scanning_info">Bulunan öğeler: TXT (%1$d), EPUB (%2$d), PDF (%3$d)</string>
@@ -3795,6 +3805,7 @@ https://forum.miuitr.info/"</string>
     <string name="year_month_day_format">dd MMM, yyyy</string>
     <string name="yes">Evet</string>
     <string name="yesterday">Dün</string>
+    <string name="youtube_dialog_content">"Tarayıcıdan çıkmak ve YouTube'u açmak üzeresiniz. Devam edilsin mi?"</string>
     <string name="ytb_added_subscription">Başarıyla abone olundu</string>
     <string name="ytb_cancel">İptal et</string>
     <string name="ytb_deleted_subscription">Abonelik başarıyla sonlandırıldı</string>

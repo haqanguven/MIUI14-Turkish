@@ -581,7 +581,8 @@
     <string name="micloud_space_applist_detail">Ana ekranınızdaki uygulamaları yönetin</string>
     <string name="micloud_space_duokan_detail">Duokan uygulamasıyla elektronik kitapları indirin ve organize edin</string>
     <string name="micloud_space_duokan_title">Duokan</string>
-    <string name="micloud_space_soundrecorder_detail">Cihazınızda depolanan kayıtları yönetin</string>
+<string name="micloud_space_soundrecorder_detail">"Xiaomi cihazınızda kaydedici uygulamasını açın ve bulutta depolanan öğelerin bulunduğu klasörü seçin
+İlişkili Xiaomi hesabını MIUI sistem hesabınız olarak kullandığınızdan emin olun"</string>
     <string name="micloud_space_soundrecorder_title">Kayıtlar</string>
     <string name="micloud_storage_detail">Ayrıntılar</string>
     <string name="micloud_storage_family_quota">Aile paylaşımı</string>
@@ -773,6 +774,8 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir"</string>
     <string name="privacy_runtime_perm_contacts_title">Kişilere erişme ve düzenleme</string>
     <string name="privacy_runtime_perm_external_storage_desc">Kişi profili fotoğraflarını ve mesaj eklerini eşitlemek içindir</string>
     <string name="privacy_runtime_perm_external_storage_title">Depolamaya erişim</string>
+	<string name="privacy_runtime_perm_notification_desc">Xiaomi bulut hizmetleri bildirimlerini göndermek içindir</string>
+	<string name="privacy_runtime_perm_notification_title">Bildirimler</string>
     <string name="privacy_runtime_perm_phone_state_desc">Telefon numarasına ve cihaz durumuna erişmek içindir</string>
     <string name="privacy_runtime_perm_phone_state_title">Cihaz bilgilerine erişim</string>
     <string name="privacy_runtime_perm_sms_desc">Mesajları eşitlemek içindir</string>
@@ -1055,6 +1058,7 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir"</string>
     <string name="update_dialog_no_update_toast_text">Mevcut sürüm güncel</string>
     <string name="update_dialog_title">Güncelleme mevcut</string>
     <string name="update_dialog_update_button_text">Güncelle</string>
+    <string name="upgrade_member_storage">Xiaomi bulut üyeliği</string>
     <string name="user_agreement_content">Bu hizmeti kullanarak %s kabul etmiş olursunuz</string>
     <string name="user_agreement_link">Xiaomi bulut hizmet şartları</string>
     <string name="user_agreement_p5">"

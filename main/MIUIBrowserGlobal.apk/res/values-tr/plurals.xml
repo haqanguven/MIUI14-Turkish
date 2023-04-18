@@ -464,8 +464,8 @@
         <item quantity="one">%s arama talebi</item>
     </plurals>
     <plurals name="second">
-        <item quantity="other">%d secs</item>
-        <item quantity="one">%d sec</item>
+        <item quantity="other">%d saniye</item>
+        <item quantity="one">%d saniye</item>
     </plurals>
     <plurals name="sku_price">
         <item quantity="other">%2$s her %1$s ay</item>
@@ -488,8 +488,8 @@
         <item quantity="one">%d popüler şarkı</item>
     </plurals>
     <plurals name="tag_count">
-        <item quantity="other">%d tabs</item>
-        <item quantity="one">%d tab</item>
+        <item quantity="other">%d sekme</item>
+        <item quantity="one">%d sekme</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d öğe seçildi</item>

@@ -53,14 +53,6 @@
         <item quantity="other">| %1$d kez çaldı</item>
         <item quantity="one">| %1$d kez çaldı</item>
     </plurals>
-    <plurals name="call_record_auto_whitelist_summary">
-        <item quantity="other">%d telefon numarası</item>
-        <item quantity="one">%d telefon numarası</item>
-    </plurals>
-    <plurals name="call_remove_exception_numbers_confirm">
-        <item quantity="other">%d telefon numarası silinsin mi?</item>
-        <item quantity="one">%d telefon numarası silinsin mi?</item>
-    </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$d kişi veya fotoğraf henüz senkronize edilmedi</item>
         <item quantity="one">%1$d kişi veya fotoğraf henüz senkronize edilmedi</item>
@@ -117,12 +109,12 @@
         <item quantity="other">%1$d numara</item>
         <item quantity="one">%1$d numara</item>
     </plurals>
+    <plurals name="group_sms_error_message">
+        <item quantity="other">"Mesajların %d'den fazla alıcısı olamaz"</item>
+        <item quantity="one">"Mesajların %d'den fazla alıcısı olamaz"</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
-    </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">%1$d öğe</item>
-        <item quantity="one">%1$d öğe</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d kişi</item>
@@ -208,10 +200,6 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">%d bulundu</item>
         <item quantity="one">1 bulundu</item>
-    </plurals>
-    <plurals name="search_group_contacts_result">
-        <item quantity="other">%s sonuç</item>
-        <item quantity="one">%s sonuç</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">En fazla %1$d adet seçebilirsiniz. Tamamı seçilemiyor</item>

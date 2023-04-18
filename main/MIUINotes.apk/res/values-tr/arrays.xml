@@ -174,11 +174,6 @@
         <item>@string/chinese_symbol_animals_dog</item>
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
-    <string-array name="common_folder_operations">
-        <item>Yeni</item>
-        <item>Yeniden adlandır</item>
-        <item>Sil</item>
-    </string-array>
     <string-array name="contact_entries">
         <item>İsim</item>
         <item>Kullanıcı adı</item>
@@ -231,28 +226,6 @@
     <string-array name="eras">
         <item>@string/eras_bc</item>
         <item>@string/eras_ad</item>
-    </string-array>
-    <string-array name="first_guide_contents">
-        <item>Notlara hoşgeldiniz</item>
-        <item>Not alın</item>
-        <item>Notlarınızda metin, resim, ve ses kayıtlarını kullanabilirsiniz. Stiller ve yazı tiplerinden oluşan zengin bir kütüphane karalamalarınızın muhteşem gözükmesini sağlar</item>
-        <item>Kontrol listeleri ve hatırlatıcılar bir sonraki seyahatinizi planlamak veya alışveriş listesi hazırlamak için temel ve etkili araçlara ihtiyaç duyduğunuzda yardımınıza koşar</item>
-        <item>Notları paylaş</item>
-        <item>Notlar uygulamasında otomatik olarak kaydırmalı ekran görüntüleri oluşturabilir ve bunları arkadaşlarınızla paylaşabilirsiniz</item>
-        <item>Klasör oluşturun &amp; klasörler arasında geçiş yapın</item>
-        <item>Yeni bir klasör oluşturmak veya mevcut klasörler arasında geçiş yapmak için aşağıdaki oka dokunun</item>
-    </string-array>
-    <string-array name="first_guide_images">
-        <item>guide_first_00</item>
-        <item>guide_first_01</item>
-        <item>guide_first_02</item>
-        <item>guide_first_03</item>
-        <item>guide_first_04</item>
-        <item></item>
-    </string-array>
-    <string-array name="folder_operations">
-        <item>Yeniden adlandır</item>
-        <item>Sil</item>
     </string-array>
     <string-array name="font_size_names">
         <item>Küçük</item>
@@ -463,18 +436,6 @@
         <item>Oluşturulma tarihine göre</item>
         <item>Değiştirilme tarihine göre</item>
     </string-array>
-    <string-array name="second_guide_contents">
-        <item>Sesli notlar</item>
-        <item>Sesinizin orijinal kayıtlarını ekledikten sonra dahili konuşmadan metne aktarım motorunu kullanarak notlar oluşturun</item>
-    </string-array>
-    <string-array name="second_guide_contents_pad_or_inter">
-        <item>Sesli notlar</item>
-        <item>Şimdi sesli not oluşturabilirsiniz. Simgeye dokunun, sesinizi kaydedin ve ses dosyasını notun içine kaydedin</item>
-    </string-array>
-    <string-array name="second_guide_images">
-        <item>guide_second_00</item>
-        <item></item>
-    </string-array>
     <string-array name="setting_phone_note_layout_way">
         <item>@string/action_mode_switcher_list_description</item>
         <item>@string/action_mode_switcher_grid_description</item>
@@ -505,9 +466,6 @@
         <item>@string/solar_term_light_snow</item>
         <item>@string/solar_term_heavy_snow</item>
         <item>@string/solar_term_winter_solstice</item>
-    </string-array>
-    <string-array name="system_folder_operations">
-        <item>Yeni</item>
     </string-array>
     <integer-array name="table_default">
         <item>0xFF5C0011</item>

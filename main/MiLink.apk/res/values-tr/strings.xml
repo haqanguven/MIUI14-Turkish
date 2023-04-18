@@ -230,19 +230,19 @@ diğer cihazlara sürükleyip bırakın"</string>
     <string name="circulate_device_type_name_tv">Televizyon</string>
     <string name="circulate_device_type_name_wifi_speaker">Hoparlör</string>
     <string name="circulate_device_type_name_wifi_speaker_with_screen">Ekranlı hoparlör</string>
-    <string name="circulate_headset_back_to_box_desc">"1. Her iki kulaklığı da şarj kutusuna yerleştirin.\u000d
-2. Kutudaki tuşa basılı tutun.\u000d
-3. Hedef cihazda eşleştirmeyi bitirin."</string>
+    <string name="circulate_headset_back_to_box_desc">"1. Her iki kulaklığı da şarj kutusuna yerleştirin
+2. Kutudaki tuşa basılı tutun
+3. Hedef cihazda eşleştirmeyi bitirin"</string>
     <string name="circulate_headset_back_to_box_desc_err_308">"Cihazlar arasında oynatmayı aktarabilmek için, önce kulaklıklarınızı TV'niz ile eşleştirin."</string>
-    <string name="circulate_headset_back_to_box_desc_pad">"1. Her iki kulaklığı da kutuya yerleştirin.\u000d
-2. Kutudaki tuşa basılı tutun.\u000d
-3. Bluetooth ayarlarında veya bu cihazda bir açılır iletişim kutusu kullanarak eşleştirmeyi tamamlayın."</string>
-    <string name="circulate_headset_back_to_box_desc_phone">"1. Her iki kulaklığı da kutuya yerleştirin.\u000d
-2. Kutudaki tuşa basılı tutun.\u000d
-3. Bluetooth ayarlarında veya bu cihazda bir açılır iletişim kutusu kullanarak eşleştirmeyi tamamlayın."</string>
-    <string name="circulate_headset_back_to_box_desc_tv">"1. Her iki kulaklığı da şarj kutusuna yerleştirin.\u000d
-2. Kutunun üzerindeki tuşa basılı tutun.\u000d
-3. TV'nizde mevcut Bluetooth cihazlarının listesini açın ve eşleşmeyi onaylayın."</string>
+    <string name="circulate_headset_back_to_box_desc_pad">"1. Her iki kulaklığı da kutuya yerleştirin
+2. Kutudaki tuşa basılı tutun
+3. Bluetooth ayarlarında veya bu cihazda bir açılır iletişim kutusu kullanarak eşleştirmeyi tamamlayın"</string>
+    <string name="circulate_headset_back_to_box_desc_phone">"1. Her iki kulaklığı da kutuya yerleştirin
+2. Kutudaki tuşa basılı tutun
+3. Bluetooth ayarlarında veya bu cihazda bir açılır iletişim kutusu kullanarak eşleştirmeyi tamamlayın"</string>
+    <string name="circulate_headset_back_to_box_desc_tv">"1. Her iki kulaklığı da şarj kutusuna yerleştirin
+2. Kutunun üzerindeki tuşa basılı tutun
+3. TV'nizde mevcut Bluetooth cihazlarının listesini açın ve eşleşmeyi onaylayın"</string>
     <string name="circulate_headset_back_to_box_subtitle">Bu kulaklıklar otomatik eşleştirilemiyor. Onun yerine hedef cihazda manuel olarak eşleştirin.</string>
     <string name="circulate_headset_back_to_box_title">Önce kulaklıkları eşleştir</string>
     <string name="circulate_headset_back_to_box_title_err_308">Kulaklıklarınızı eşleştirin</string>
@@ -1056,6 +1056,7 @@ Bu özelliği kullanmadan önce <a href="%1$s">"Kullanıcı sözleşmesi</a> ve 
     <string name="toast_msg_for_multi_window">Bu özellik ekran bölme ile birlikte kullanılamaz</string>
     <string name="toast_msg_for_small_window">Yansıtma işlemini bölmeden cihazınızdaki diğer özellikleri kullanabilmek için yansıtılan pencereyi küçültebilirsiniz</string>
     <string name="toast_nfc_dont_move">Telefonunuzu uzaklaştırmayın</string>
+    <string name="toast_nfc_same_wifi">"Hem TV'nizi hem de bu cihazı aynı ağa bağlayın"</string>
     <string name="toast_title_for_small_window">Uygulamada pencereyi küçült seçeneğini seçin</string>
     <string name="toast_turn_off_hotspot_before_cast">Yansıtmadan önce taşınabilir bağlantı noktasını kapatın</string>
     <string name="today">Bugün</string>

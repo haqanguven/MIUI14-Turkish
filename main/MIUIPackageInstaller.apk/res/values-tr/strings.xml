@@ -564,6 +564,7 @@
     <string name="mtrl_picker_a11y_next_month">Gelecek aya geç</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya geç</string>
     <string name="mtrl_picker_announce_current_selection">Şu anki seçim: %1$s</string>
+    <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_confirm">Tamam</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Bir tarih seçin</string>
@@ -1003,7 +1004,8 @@ güvenilirlik ve güvenlik"</string>
     <string name="service_mode_advantage_telecom_fraud_protection_subtitle">Telekomünikasyon dolandırıcılık risklerini belirleyin, dolandırıcılık uygulamalarına müdahale edin ve riskli transferleri koruyun</string>
     <string name="service_mode_advantage_telecom_fraud_protection_tip">Telekom dolandırıcılığına karşı korunmanıza yardımcı olur</string>
     <string name="service_mode_advantage_telecom_fraud_protection_title">Telekomünikasyon dolandırıcılık koruması</string>
-    <string name="service_mode_advantage_title">Her türlü iyi güvenlik görevlisini etkinleştirin</string>
+    <string name="service_mode_advantage_title">"Her türlü 
+güvenlik görevlisini etkinleştirin"</string>
     <string name="service_mode_app_error_install">Kötü amaçlı ve reklam uygulamasının yanlış yüklemesini önleme</string>
     <string name="service_mode_app_error_install_summary">Reklam uygulamaları ve kötü amaçlı uygulamalar tarafından reklam indirmeye teşvik edilmemek için resmi olmayan kanallardan uygulama yüklerken istemler verin</string>
     <string name="service_mode_app_security_detection">Uygulama güvenlik kontrolleri</string>

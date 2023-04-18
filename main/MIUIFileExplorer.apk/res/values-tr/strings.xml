@@ -223,7 +223,6 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="cloud_transfer_wait_download">İndirmek için bekleniyor</string>
     <string name="cloud_transfer_wait_network">İnternet bekleniyor</string>
     <string name="cloud_transfer_wait_upload">Yüklemek için bekleniyor</string>
-    <string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
     <string name="compress_fail">Sıkıştırılamadı. Aynı ada sahip bir dosya zaten mevcut</string>
     <string name="compress_fail_unknown">Sıkıştırılamadı. Depolama alanı dolu veya bilinmeyen bir hata meydana geldi</string>
     <string name="compress_message">Sıkıştır</string>
@@ -269,7 +268,6 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="decrypt_error">Çözümlenemedi</string>
     <string name="decrypt_to">Şifreyi çöz ve şu konuma kaydet</string>
     <string name="decrypting">Şifre çözümleniyor</string>
-    <string name="default_web_client_id">599532519894-qvdg613vlo22tol6uljd7upk0pg7j0s2.apps.googleusercontent.com</string>
     <string name="delete_dialog_button">Sil</string>
     <string name="delete_error">Dosyalar silinemedi. Tekrar deneyin</string>
     <string name="delete_file">Bu dosya silinsin mi?</string>
@@ -377,7 +375,6 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="file_name_existed">Dosya adı alındı</string>
     <string name="file_name_invalid">Dosya adları belirtilen karakterleri içermemelidir: /\\:*?&lt;></string>
     <string name="file_not_exist">Dosya mevcut değil</string>
-    <string name="firebase_database_url">https://originfileexplorer.firebaseio.com</string>
     <string name="fmt_chinese_date">N/e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -453,13 +450,8 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="function_use_imei">"IMEI'ye erişmek ve dosyaları şifrelemek için; "</string>
     <string name="gbk_summary">Basitleştirilmiş Çince Windows varsayılan kodlaması</string>
     <string name="gbk_title">GBK</string>
-    <string name="gcm_defaultSenderId">599532519894</string>
     <string name="gigabyteShort">GB</string>
     <string name="go_ahead">Aç</string>
-    <string name="google_api_key">AIzaSyBOhWk2NDbCBnkgtZ7mT4wgmwJvsAFo13Y</string>
-    <string name="google_app_id">1:599532519894:android:c760d23ee4fee168</string>
-    <string name="google_crash_reporting_api_key">AIzaSyBOhWk2NDbCBnkgtZ7mT4wgmwJvsAFo13Y</string>
-    <string name="google_storage_bucket">originfileexplorer.appspot.com</string>
     <string name="grid_mode">Tablo görünümü</string>
     <string name="group_title">%1$s kaynağından %2$s</string>
     <string name="group_title_extra_new">Yeni</string>
@@ -871,7 +863,6 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="private_folder_update_msg">Dosyalar uygulaması ek bir güvenlik önlemi getiriyor: Özel dosyaları şimdi şifreleyebilirsiniz</string>
     <string name="private_folder_update_msg_summary">Şifre çözme dosyaların özel klasörden kaldırılmasını yavaşlatır. Ayarlardan şifrelemeyi açıp kapatabilirsiniz</string>
     <string name="private_folder_update_tips">Yeni özellik</string>
-    <string name="project_id">originfileexplorer</string>
     <string name="promot_enctypt_password">Cihaz kilidini açmak için kullandığınız şifreyi girin</string>
     <string name="pull_to_enter_private">Özel klasörü açmak için aşağı çekin</string>
     <string name="qq_msg">Android 11 kısıtlamaları nedeniyle dosyalar QQ belgelerine erişemez ve bunları görüntüleyemez</string>

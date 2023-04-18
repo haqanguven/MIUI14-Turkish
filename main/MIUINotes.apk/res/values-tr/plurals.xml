@@ -73,10 +73,6 @@
         <item quantity="other">%d dakika içinde</item>
         <item quantity="one">1 dakika içinde</item>
     </plurals>
-    <plurals name="item_terms">
-        <item quantity="other">%1$s öğe</item>
-        <item quantity="one">%1$s öğe</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Şimdi</item>
     </plurals>
@@ -111,10 +107,6 @@
     <plurals name="toast_notes_hidden_count">
         <item quantity="other">%1$s not başarıyla gizlendi</item>
         <item quantity="one">%1$s not başarıyla gizlendi</item>
-    </plurals>
-    <plurals name="toast_notes_unhidden_count">
-        <item quantity="other">%1$s notun gizlenmesi başarıyla kaldırıldı</item>
-        <item quantity="one">%1$s notun gizlenmesi başarıyla kaldırıldı</item>
     </plurals>
     <plurals name="todo_N_days_after">
         <item quantity="other">%1$d gün içinde</item>

@@ -143,6 +143,10 @@ Not: Dosya cihazdan da silinecektir"</item>
         <item quantity="other">%d saniye geri sar</item>
         <item quantity="one">%d saniye geri sar</item>
     </plurals>
+    <plurals name="feed_play_times">
+        <item quantity="other">%s görüntüleme</item>
+        <item quantity="one">%s görüntüleme</item>
+    </plurals>
     <plurals name="free_downloads_num_hint">
         <item quantity="other">%d ücretsiz indirme kaldı</item>
         <item quantity="one">%d ücretsiz indirme kaldı</item>
