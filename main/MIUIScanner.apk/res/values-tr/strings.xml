@@ -218,7 +218,7 @@
     <string name="content_desktop_uninstall">Barkod okuyucu bir sistem uygulamasıdır. Uygulamayı kaldırdıktan sonra barkod okuyucu, Kamera, Mi AI, Kişiler ve diğer sistem hizmetlerinde ilgili işlevleri kullanamazsınız</string>
     <string name="continue_access_web_url">İnternet sitesine git</string>
     <string name="continue_to_website">İnternet sitesine git</string>
-    <string name="continue_video">Scan</string>
+    <string name="continue_video">Tara</string>
     <string name="continue_waiting">Beklemeye devam et</string>
     <string name="copy">Kopyala</string>
     <string name="copy_text">Metni kopyala</string>
@@ -310,7 +310,7 @@
     <string name="earthly_branches_you">20</string>
     <string name="earthly_branches_zi">11</string>
     <string name="editnull">İçerik boş</string>
-    <string name="editor_form">Edit</string>
+    <string name="editor_form">Düzenle</string>
     <string name="email">E-posta:</string>
     <string name="emails">E-posta</string>
     <string name="empty" />
@@ -962,7 +962,7 @@ Bunun yerine başka bir şey tarayın"</string>
     <string name="see_details">Ayrıntıları görüntülemek için dokunun</string>
     <string name="select_dialog_confirm">Tamam</string>
     <string name="select_from_album">Albümden seç</string>
-    <string name="send">Send</string>
+    <string name="send">Gönder</string>
     <string name="send_email">E-posta gönder</string>
     <string name="send_mail">E-posta gönder</string>
     <string name="setting_alipay">Alipay</string>
@@ -1169,7 +1169,7 @@ Bunun yerine başka bir şey tarayın"</string>
     <string name="url_is_safety">Bu internet sitesi güvenli</string>
     <string name="url_is_unknown">İnternet sitesi güvenliği kontrol edilemiyor</string>
     <string name="url_is_unsafety">Bu internet sitesi güvenli değil</string>
-    <string name="use_presentation_file">Demo</string>
+    <string name="use_presentation_file">Deneme</string>
     <string name="user_agreement">Kullanıcı sözleşmesi</string>
     <string name="user_notification">İzni geri al</string>
     <string name="v7_preference_off">Kapalı</string>

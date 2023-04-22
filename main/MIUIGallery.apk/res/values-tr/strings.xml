@@ -259,8 +259,6 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="app_summary_2">Bu cihazda fotoğraf ile videoları depolama, yönetme ve düzenleme</string>
     <string name="apply">Uygula</string>
     <string name="art_still_download_failed_for_notwork">İndirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
-    <string name="art_still_download_sdk_without_wifi_msg">Görünüşe göre cihazınız kablosuz ağa bağlı değil. Eklenti mobil veri kullanılarak indirilsin mi?</string>
-    <string name="art_still_download_sdk_without_wifi_msg_china">Görünüşe göre cihazınız wifi ağına bağlı değil. Eklenti mobil veri kullanılarak indirilsin mi?</string>
     <string name="art_still_download_sdk_without_wifi_title">Art eklentisini indir</string>
     <string name="art_still_load_data_fail">Veriler yüklenemedi</string>
     <string name="art_still_module_failed">@string/error_install_connect_fail</string>
@@ -268,6 +266,7 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="art_still_module_loading">Art eklentisi indiriliyor</string>
     <string name="assistant_page_community">Topluluk</string>
     <string name="assistant_page_discovery">Keşfet</string>
+    <string name="assistant_page_image_printing">Yazdır</string>
     <string name="assistant_page_label">Hatıralar</string>
     <string name="assistant_page_server_error">Ağ ayarlarınızı kontrol edin</string>
     <string name="assistant_today_of_year_function_closed_tip">Aç</string>
@@ -366,7 +365,7 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="backup_settings">Bulut ile senkronize edin</string>
 	<string name="backup_settings_banner_msg_off">Tüm anılarınızı güvende tutmak için fotoğraflarınızı ve videolarınızı Google fotoğraflar ile yedekleyin</string>
 	<string name="backup_settings_banner_msg_on">Google fotoğraflarda yedekleme durumunu görüntüleyin</string>
-	<string name="backup_settings_banner_title_not_allow">Google fotoğraflar yedeği</string>
+	<string name="backup_settings_banner_title_not_allow">Google fotoğraflar</string>
 	<string name="backup_settings_banner_title_off">Yedekleme kapalı</string>
 	<string name="backup_settings_banner_title_on">Yedekleme açık</string>
 	<string name="backup_settings_jump_err">Google fotoğraflar yedeklemesi açılamadı</string>
@@ -980,6 +979,7 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="cleaner_space_description">Boşaltılabilir</string>
     <string name="cleaner_space_detail_description">Depolama alanını boşaltmak için galerinizdeki fotoğrafları temizleyin</string>
     <string name="cleaner_stop_scan">Taramayı durdur</string>
+    <string name="cleaner_subtitle_slim_space_prefix">%1$s %2$s dolu</string>
     <string name="cleaner_title">Temizle</string>
     <string name="cleaner_video_action">Şimdi sil</string>
     <string name="cleaner_video_description">Depolama alanını kaplayan videoları silin</string>
@@ -1019,6 +1019,7 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="cloud_bacup_disable_processing">İşleniyor</string>
     <string name="cloud_camera_display_name">Kamera fotoğrafları</string>
     <string name="cloud_cancel_authorizing_to_device">Yetki iptal ediliyor</string>
+    <string name="cloud_data_size">Buluttaki fotoğraflar ve videolar: %1$s</string>
     <string name="cloud_full_space_tip_message">Tüm fotoğraflarınızı ve videolarınızı bulut ile senkronize edebilmek için bulut depolama planınızı yükseltin</string>
     <string name="cloud_full_space_tip_negative">Şimdi değil</string>
     <string name="cloud_full_space_tip_positive">Yükselt</string>
@@ -1758,6 +1759,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="home_menu_collage">Kolaj</string>
     <string name="home_menu_community">@string/assistant_page_community</string>
     <string name="home_menu_id_photo">Kimlik kartı</string>
+    <string name="home_menu_image_printing">@string/assistant_page_image_printing</string>
     <string name="home_menu_macarons">Sihirli skeç</string>
     <string name="home_menu_magic_matting">Sihir</string>
     <string name="home_menu_photo_movie">Klip</string>

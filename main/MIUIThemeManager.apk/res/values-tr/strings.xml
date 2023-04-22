@@ -63,6 +63,7 @@
     <string name="ad_tag_text_1">Popüler</string>
     <string name="ad_tag_text_2">Moda</string>
     <string name="add">Ekle</string>
+    <string name="add_home_icon_success">Eklendi</string>
     <string name="add_resource_detail_fail">Kaynak eklenemedi</string>
     <string name="afternoon">Öğleden sonra</string>
     <string name="all_resources">Tümü</string>
@@ -244,7 +245,6 @@
     <string name="community_cta_dialog_des">Bu tema Mi hesap kimliğinizi ve Mi topluluğu durumunuzu gösteren bir saat kısayolu içerir. Farklı bir temaya geçerek veya saat araçlarını kaldırarak bu özelliği kapatabilirsiniz</string>
     <string name="community_cta_dialog_ok">Anladım</string>
     <string name="community_cta_dialog_title">Saat kısayolu</string>
-    <string name="community_entrance_summary">Mi topluluğunda temayla ilgili içerik bulun. Bu özellik seçilen temalar tarafından desteklenir</string>
     <string name="community_entrance_title">Mi topluluk saati aracı</string>
     <string name="community_message_trigger_disabled">Kapalı</string>
     <string name="community_message_trigger_triggered">Açık</string>
@@ -791,6 +791,7 @@ mm"</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -900,7 +901,7 @@ mm"</string>
     <string name="mtrl_picker_toggle_to_day_selection">Bir gün seçmeye geçmek için dokunun</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_year_selection">Bir yıl seçmeye geçmek için dokunun</string>
-    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="mtrl_timepicker_confirm">Tamam</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Bu zil sesi her iki Sim karta da uygulanacak</string>
     <string name="multi_sim_ringtone_settings_dialog_message">Zil sesi iki Sim karta da uygulandı</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Anladım</string>
@@ -1314,6 +1315,7 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="resource_search_color_hint_red">Kırmızı</string>
     <string name="resource_search_color_hint_yellow">Sarı</string>
     <string name="resource_search_history">Arama geçmişi</string>
+    <string name="resource_search_hot_tag">Popüler</string>
     <string name="resource_search_list_empty">Hiçbir şey bulunamadı</string>
     <string name="resource_see_more">Daha fazla</string>
     <string name="resource_select">Seç</string>
@@ -1394,7 +1396,7 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="send">Gönder</string>
     <string name="server_internal_error">Bir sunucu hatası oluştu. Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="set_as_colorring">Özel zil sesi olarak ayarla</string>
-    <string name="set_calling">Set</string>
+    <string name="set_calling">Ayarla</string>
     <string name="set_color_ring_back_tone">Özel zil sesi ayarla</string>
     <string name="set_home_wallpaper_failed">%s. Ana ekran duvar kağıdı uygulanamıyor</string>
     <string name="set_wallpaper_group_success">%1$s duvar kağıdı başarıyla uygulandı</string>
@@ -1424,7 +1426,6 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="share_theme_content_text">Harika bir temayı %1$s buradan indirebilirsiniz: %2$s</string>
     <string name="share_to_qq">QQ</string>
     <string name="share_to_weibo">Weibo</string>
-    <string name="share_vipaccount">Mi topluluk</string>
     <string name="share_wallpaper_content_text">Harika bir %1$s duvar kağıdını buradan indirebilirsiniz: %2$s</string>
     <string name="shortcut_add">Ekle</string>
     <string name="shortcut_cancel">Hayır</string>

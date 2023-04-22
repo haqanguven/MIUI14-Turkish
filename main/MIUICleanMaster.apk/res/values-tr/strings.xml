@@ -369,6 +369,7 @@
     <string name="dialog_btn_delete_icon">Kaldır</string>
     <string name="dialog_btn_no_create_icon">İptal et</string>
     <string name="dialog_btn_yes_create_icon">Ekle</string>
+    <string name="dialog_btn_yes_install_icon">Yükle</string>
     <string name="dialog_content_checkbox_delete_cloud_image">Fotoğrafları Xiaomi bulut üzerindende sil</string>
     <string name="dialog_content_select_all_confirm">Bu fotoğrafın bir kopyası saklansın mı?</string>
     <string name="dialog_msg_add_white_list_error">Bu dosya istisnalara eklenemiyor</string>
@@ -381,6 +382,8 @@
 	<string name="dialog_msg_delete_icon_title_pad">Güvenlik ana ekran kısayolu kaldırılsın mı?</string>
 	<string name="dialog_msg_delete_icon_title_phone">Güvenlik ana ekran kısayolu kaldırılsın mı?</string>
     <string name="dialog_msg_esc_cleanmaster">Devam eden temizleme taraması durdurulsun mu?</string>
+    <string name="dialog_msg_install_manager_content">Güvenlik yeniden yüklensin mi?</string>
+    <string name="dialog_msg_install_manager_content_pad">Güvenlik yeniden yüklensin mi?</string>
     <string name="dialog_msg_load_cleanup_engine_error">Temizleme motoru zarar görmüş durumda</string>
     <string name="dialog_msg_stop_scan">Devam eden temizleme taraması durdurulsun mu?</string>
     <string name="dialog_msg_uninstall_apps">Bu uygulamala kaldırılsın mı?</string>
@@ -784,6 +787,7 @@
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -962,6 +966,7 @@
     <string name="package_mobil_qq">com.tencent.mobileqq</string>
     <string name="package_wechat">com.tencent.mm</string>
     <string name="package_whatsapp">com.whatsapp</string>
+    <string name="percent_sign">%</string>
     <string name="permission_dialog_storage_btn1">Ayarlar</string>
     <string name="permission_dialog_storage_btn2">İptal et</string>
     <string name="permission_dialog_storage_content">Temizleyicinin normal çalışabilmesi ve dahili depolamaya erişmek için izne ihtiyacı var. Depolama izinlerini yönetmek için ayarlara dokunun</string>

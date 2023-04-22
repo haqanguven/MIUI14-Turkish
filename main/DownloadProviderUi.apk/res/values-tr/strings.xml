@@ -157,7 +157,7 @@
     <string name="dialog_user_know_content">%1$s gizlilik politikasının yeni sürümünü kabul etmediğiniz sürece bu özelliği kullanmaya devam edemezsiniz. Güncellenmiş Gizlilik Politikasını şimdi kabul ediyor musunuz?"</string>
     <string name="dialog_user_know_title">Dikkat</string>
     <string name="download">İndirilenler</string>
-    <string name="downloadCount">Downloads</string>
+    <string name="downloadCount">İndirilenler</string>
     <string name="download_complete">İndirilenler</string>
     <string name="download_description_content">İndirmeler indirme görevlerinin ilerlemesini görüntüleme ve yeni indirme görevleri oluşturma gibi işlevler sağlayan bir MIUI sistem uygulamasıdır. Kaldırma indirme görevi ilerleme görünümünün ve diğer işlevlerin normal kullanımını etkileyecektir</string>
     <string name="download_description_title">İndirmeler kaldırılsın mı?</string>
@@ -302,7 +302,7 @@
     <string name="kilobyteShort">KB</string>
     <string name="load_finish_hint">Görüntülemeye yarın devam edebilirsiniz</string>
     <string name="loading">Yükleniyor</string>
-    <string name="marketSdkVersion">3.2.6</string>
+    <string name="marketSdkVersion">3.2.22</string>
     <string name="megabyteShort">MB</string>
     <string name="menu_des_vip">Gök gürültüsü elemanları</string>
     <string name="menu_title_fileexplore">Dosyalar</string>
