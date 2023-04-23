@@ -158,6 +158,7 @@
     <string name="cast_forward">İleri sar</string>
     <string name="cast_forward_10">10 saniye ileri sar</string>
     <string name="cast_forward_30">30 saniye ileri sar</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_invalid_stream_duration_text">--:--</string>
     <string name="cast_invalid_stream_position_text">--:--</string>
     <string name="cast_live_label">Canlı</string>
@@ -427,6 +428,7 @@ Bu kodu gönderin"</string>
     <string name="dialog_video_high">Yüksek</string>
     <string name="dialog_video_low">Düşük</string>
     <string name="dialog_video_medium">Orta</string>
+    <string name="dialog_ytb_content">"Videodan ayrılıp YouTube'u açmak üzeresiniz. Devam edilsin mi?"</string>
     <string name="disagree">Reddet</string>
     <string name="diy_channels_tips">Artık kanal listenizi özelleştirebilirsiniz</string>
     <string name="do_not_show_again">Tekrar gösterme</string>
@@ -1278,6 +1280,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
     <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
+    <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_confirm">Tamam</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
@@ -2117,15 +2120,16 @@ Hiçbir şey göstermiyor"</string>
     <string name="yandex_ads_internal_install">Kur</string>
     <string name="yandex_ads_internal_install_from_google_play">"Google Play'den yükleyin"</string>
     <string name="yandex_ads_internal_instream_ad_position">%1$d/%2$d</string>
-    <string name="yandex_ads_internal_instream_advertiser_social">Sosyal reklamcılık</string>
-    <string name="yandex_ads_internal_instream_advertiser_yandex">Reklam</string>
+    <string name="yandex_ads_internal_instream_call_to_action">Git ➔</string>
     <string name="yandex_ads_internal_instream_skip">Atla</string>
+    <string name="yandex_ads_internal_instream_sponsored_social">Sosyal reklam</string>
+    <string name="yandex_ads_internal_instream_sponsored_yandex">Reklam</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_close">Kapat</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">İncele</string>
     <string name="yandex_ads_internal_rewarded_close_verification_text">Bir reklamı sürenin sonundan önce kapatırsanız görüntüleme başına ödül verilmez</string>
     <string name="yandex_ads_internal_rewarded_close_verification_title">Reklam kapatılsın mı?</string>
-    <string name="yandex_ads_internal_text_divider"></string>
-    <string name="yandex_ads_internal_text_divider_with_space"></string>
+    <string name="yandex_ads_internal_text_divider">·</string>
+    <string name="yandex_ads_internal_text_divider_with_space">·</string>
     <string name="yandex_ads_internal_tools_age_text">3+</string>
     <string name="yandex_ads_internal_tools_app_install_call_to_action_text">Yükle</string>
     <string name="yandex_ads_internal_tools_app_install_call_to_action_text_large">"Google Play'den yükleyin"</string>

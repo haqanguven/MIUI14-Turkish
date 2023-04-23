@@ -210,8 +210,7 @@ aynı wifi ağına bağlayın ve tekrar deneyin"</string>
     <string name="inputmethod_dialog_PositiveButtonText">Tamam</string>
     <string name="inputmethod_dialog_title">Giriş yöntemi ayarı</string>
     <string name="inputmethod_focusStatus_text">Giriş ddağını kaybet</string>
-    <string name="inputmethod_notification_content_text">"Bu cihazı kullanarak
-Mi TV'ye metin girin"</string>
+    <string name="inputmethod_notification_content_text">"Bu cihazı kullanarak Mi TV'ye metin girin"</string>
     <string name="inputmethod_notification_content_title">Mi TV klavye</string>
     <string name="inputmethod_text_warning">Metin sınırlı. Lütfen yeniden girin</string>
     <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
@@ -242,7 +241,7 @@ Mi TV'ye metin girin"</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
-    <string name="miuix_appcompat_select_item">Select items</string>
+    <string name="miuix_appcompat_select_item">Öğeleri seç</string>
     <string name="miuix_indexer_collect">Koleksiyonlar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>

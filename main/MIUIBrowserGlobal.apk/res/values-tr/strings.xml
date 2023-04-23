@@ -3184,6 +3184,7 @@ Anahtar kelimenizi değiştirmeyi denediniz mi?"</string>
     <string name="skip_current_version">Bu sürümü atla</string>
     <string name="sku_all">Tümü</string>
     <string name="sku_price_everymonth">%1$s her ay</string>
+    <string name="slide_card">Daha fazlası için kaydırın</string>
     <string name="sms_send_success">Başarıyla gönderildi</string>
     <string name="snapshot">Yerel</string>
     <string name="snapshot_failed">Sayfa kaydedilemedi</string>
@@ -3485,6 +3486,7 @@ Anahtar kelimenizi değiştirmeyi denediniz mi?"</string>
     <string name="toast_exit_browser">Tarayıcıdan çıkmak için tekrar dokunun</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>
+    <string name="top_news">En iyi hikayeler</string>
     <string name="top_up">Doldur</string>
     <string name="topsite_click">En iyi tıklaması</string>
     <string name="track_permission_name">Takip etme</string>
@@ -3544,8 +3546,8 @@ Anahtar kelimenizi değiştirmeyi denediniz mi?"</string>
     <string name="user_defined_webpage">Başlangıç sayfasına ekle</string>
     <string name="user_defined_webpage_title">Başlangıç sayfasına ekle</string>
     <string name="user_experience_agree">Katıl</string>
-    <string name="user_experience_content">Kullanıcı deneyimi programı hedeflenen tarzda ürünlerimizi ve hizmetlerimizi geliştirmemize ayrıca size yardımcı olacak yeni özellikleri ve hizmetleri sunmamıza yardımcı olur. Siz programa katıldıktan sonra ilgili verileri toplamaya ve analiz etmeye başlayacağız. Aşağıdaki katıl butonuna dokunarak <a href="%1$s" style="color:#4086f5"><font color="#4086f5"><font color="#4086f5"><a href="%1$s" style="color:#4086f5"><a href="%1$s" style="color:#4086f5"><font color="#4086f5"><font color="#4086f5"><a href="%1$s" style="color:#4086f5"><a href="%1$s" style="color:#4086f5"><font color="#4086f5"><font color="#4086f5"><a href="%1$s" style="color:#4086f5"><a href="%1$s" style="color:#4086f5"><font color="#4086f5"><font color="#4086f5"><a href="%1$s" style="color:#4086f5">&lt;a href=\"%1$s\" style=\"color:</a>#4086f5\">&lt;font color=\"#4086f5\">&lt;font color=</font></font>\"#4086f5\">&lt;a href=\"%1$s\" sty</a>l</a>e=\"color:#4086f5\">&lt;a href=\"%1$s\" sty</font>le=\"color:#4086f5\">&lt;fo</font>nt color=\"#4086f5\">&lt;f</a>o</a>nt color=\"#4086f5\">&lt;a href=\"%1$s\" st</font>yle=\"color:#4086f5\">&lt;a</font> href=\"%1$s\" style=\"co</a>lor:#4086f5\">&lt;font color=\"#4086f5\">&lt;f</a>ont color=\"#4086f5\">&lt;a href=\"%1$s\" st</font>yle=\"color:#4086f5\">&lt;a</font> href=\"%1$s\" style=\"co</a>"lor:#4086f5\">&lt;font color=\"#4086f5\">&lt;f&lt;/a>&lt;/font>&lt;/font>&lt;/a>&lt;/a>&lt;/font>&lt;/font>&lt;/a>\"ont color=\"#4086f5\">&lt;a href=\"%1$s\" st&lt;/a>&lt;/font>&lt;/font>&lt;/a>\"yle=\"color:#4086f5;\">Kullanıcı&lt;/font>&lt;/a>\" deneyimi programı&lt;/a>&lt;/font> şartlar ve koşullarını kabul edersiniz.
-Ayarlar > Gizlilik &amp; güvenlik menüsünden her zaman vazgeçebilirsiniz\"\""</string>
+    <string name="user_experience_content">"Kullanıcı deneyimi programı hedeflenen tarzda ürünlerimizi ve hizmetlerimizi geliştirmemize ayrıca size yardımcı olacak yeni özellikleri ve hizmetleri sunmamıza yardımcı olur. Siz programa katıldıktan sonra ilgili verileri toplamaya ve analiz etmeye başlayacağız. Aşağıdaki katıl butonuna dokunarak <a href="%1$s" style="color:#4086f5"><font color="#4086f5"><font color="#4086f5"><a href="%1$s" style="color:#4086f5"><a href="%1$s" style="color:#4086f5"><font color="#4086f5"><font color="#4086f5"><a href="%1$s" style="color:#4086f5"><a href="%1$s" style="color:#4086f5"><font color="#4086f5"><font color="#4086f5"><a href="%1$s" style="color:#4086f5"><a href="%1$s" style="color:#4086f5"><font color="#4086f5"><font color="#4086f5"><a href="%1$s" style="color:#4086f5">&lt;a href=\"%1$s\" style=\"color:</a>#4086f5\">&lt;font color=\"#4086f5\">&lt;font color=</font></font>\"#4086f5\">&lt;a href=\"%1$s\" sty</a>l</a>e=\"color:#4086f5\">&lt;a href=\"%1$s\" sty</font>le=\"color:#4086f5\">&lt;fo</font>nt color=\"#4086f5\">&lt;f</a>o</a>nt color=\"#4086f5\">&lt;a href=\"%1$s\" st</font>yle=\"color:#4086f5\">&lt;a</font> href=\"%1$s\" style=\"co</a>lor:#4086f5\">&lt;font color=\"#4086f5\">&lt;f</a>ont color=\"#4086f5\">&lt;a href=\"%1$s\" st</font>yle=\"color:#4086f5\">&lt;a</font> href=\"%1$s\" style=\"co</a>"lor:#4086f5\">&lt;font color=\"#4086f5\">&lt;f&lt;/a>&lt;/font>&lt;/font>&lt;/a>&lt;/a>&lt;/font>&lt;/font>&lt;/a>\"ont color=\"#4086f5\">&lt;a href=\"%1$s\" st&lt;/a>&lt;/font>&lt;/font>&lt;/a>\"yle=\"color:#4086f5;\">Kullanıcı&lt;/font>&lt;/a>\" deneyimi programı&lt;/a>&lt;/font> şartlar ve koşullarını kabul edersiniz
+Ayarlar > Gizlilik &amp; güvenlik menüsünden her zaman vazgeçebilirsiniz"</string>
     <string name="user_experience_disagree">Reddet</string>
     <string name="user_experience_title">Kullanıcı deneyimi programı</string>
     <string name="user_guide_color_mode_info">Aydınlık mod ve karanlık mod mevcut</string>

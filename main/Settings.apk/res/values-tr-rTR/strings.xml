@@ -9502,7 +9502,7 @@ Google'nin kişilerinize, randevularınıza ve diğer bilgilerinize istediğiniz
     <string name="turn_on_security_lock">Ekran kilidi seçin</string>
     <string name="turn_on_torch">El fenerini aç</string>
     <string name="turn_on_wifi">Kablosuz bağlantıyı aç</string>
-    <string name="turn_screen_on_title">Turn on screen</string>
+    <string name="turn_screen_on_title">Ekranı aç</string>
     <string name="turn_update_keyguard_password_wait_dialog">Şifre değiştiriliyor</string>
     <string name="twilight_mode_launch_location">Konum ayarları</string>
     <string name="twilight_mode_location_off_dialog_message">Gün batımı ve gün doğumu saatlerinizi belirlemek için cihaz konumu gerekir</string>

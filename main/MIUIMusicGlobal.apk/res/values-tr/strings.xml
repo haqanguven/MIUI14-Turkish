@@ -58,6 +58,8 @@
     <string name="action_item_play_all">Tümünü oynat</string>
     <string name="action_item_play_next">Sonra oynat</string>
     <string name="action_item_play_video">Müzik videoyu oynat</string>
+	<string name="action_item_podcast">Podcast ayrıntıları</string>
+	<string name="action_item_podcast_speed">Oynatma hızı</string>
     <string name="action_item_remove">Kaldır</string>
     <string name="action_item_remove_from_favorite">Favoriden kaldır</string>
     <string name="action_item_share">Paylaş</string>
@@ -73,7 +75,7 @@
 4 Katılmak için ilgilendiğiniz aileyi seçin ve onlarla şimdi oynayın"</string>
     <string name="ad_close">Kapat</string>
     <string name="ad_data_exception">Reklam veri hatası</string>
-    <string name="ad_recommend">Öneriler</string>
+    <string name="ad_recommend">Önerilenler</string>
     <string name="ad_setting">Ek ayarlar</string>
     <string name="add">Ekle</string>
     <string name="add_music">Şarkı ekle</string>
@@ -174,6 +176,7 @@
     <string name="autoplay_is_off">Otomatik oynatma kapalı</string>
     <string name="autoplay_is_on">Otomatik oynatma açık</string>
     <string name="available_playlist_name_format">Yeni çalma listesi %d</string>
+    <string name="avatar">Profil resmi</string>
     <string name="avoid_to_use_traffic_summary">Müzik yayınında mobil ağı kullanmayın</string>
     <string name="avoid_to_use_traffic_title">Şarkıları dinlemek için mobil veri kullanırken sor</string>
     <string name="back">Geri</string>
@@ -856,7 +859,6 @@ Lütfen ağınızı kontrol edin"</string>
     <string name="exo_controls_pause_description">Duraklat</string>
     <string name="exo_controls_play_description">Çal</string>
     <string name="exo_controls_playback_speed">Hız</string>
-    <string name="exo_controls_playback_speed_normal">Normal</string>
     <string name="exo_controls_previous_description">Önceki parça</string>
     <string name="exo_controls_repeat_all_description">Tümünü tekrarla</string>
     <string name="exo_controls_repeat_off_description">Hiçbirini tekrarlama</string>
@@ -875,6 +877,9 @@ Lütfen ağınızı kontrol edin"</string>
     <string name="exo_download_downloading">İndiriliyor</string>
     <string name="exo_download_failed">İndirilemedi</string>
     <string name="exo_download_notification_channel_name">İndirilenler</string>
+	<string name="exo_download_paused">İndirmeler duraklatıldı</string>
+	<string name="exo_download_paused_for_network">Ağ için bekleyen indirmeler</string>
+	<string name="exo_download_paused_for_wifi">Wifi için bekleyen indirmeler</string>
     <string name="exo_download_removing">İndirilenler kaldırılıyor</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_media_action_repeat_all_description">Tümünü tekrarla</string>
@@ -1219,6 +1224,7 @@ Lütfen ağınızı kontrol edin"</string>
     <string name="home_tab_local">Müziğim</string>
     <string name="home_tab_more_music">Daha fazla müzik</string>
     <string name="home_tab_online">Çevrimiçi müzik</string>
+    <string name="home_tab_podcast">Podcastler</string>
     <string name="home_tab_recommend">Çevrimiçi</string>
     <string name="home_tab_search">Ara</string>
     <string name="home_tab_yandex">Yandex müzik</string>
@@ -1515,7 +1521,8 @@ GoGo indirme adresi: %2$s
     <string name="marquee_price">Fiyat</string>
     <string name="marquee_room">Odadaki paralar</string>
     <string name="marquee_somebody_at">var</string>
-    <string name="match_block_dialog_content">Seni bekleyen daha çok kız var! Git ve onlarla sohbet et</string>
+    <string name="match_block_dialog_content">"Seni bekleyen daha çok kız var!
+Git ve onlarla sohbet et"</string>
     <string name="match_off_toast">Eşleşme durumunu kapattınız ve geçici olarak eşleştirilemiyor</string>
     <string name="match_on_toast">Eşleşme durumunu açtınız ve eşleştirmeye başlayacaksınız</string>
     <string name="match_result_button_leave">Hayır. Teşekkürler</string>
@@ -1698,6 +1705,7 @@ GoGo indirme adresi: %2$s
     <string name="mtrl_picker_a11y_next_month">Gelecek aya geç</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya geç</string>
     <string name="mtrl_picker_announce_current_selection">Şu anki seçim: %1$s</string>
+    <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_confirm">Tamam</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Bir tarih seçin</string>
@@ -1750,6 +1758,8 @@ GoGo indirme adresi: %2$s
     <string name="my_playlist_set_to_public">Herkes</string>
     <string name="nav_app_bar_navigate_up_description">Yukarı git</string>
     <string name="nav_app_bar_open_drawer_description">Gezinme çekmecesini aç</string>
+	<string name="need_to_close">Daha az göster</string>
+	<string name="need_to_show">Daha fazla göster</string>
     <string name="net_work_error_leave_room">Ağ nedeniyle bağlantınız kesildi. Lütfen odaya tekrar girin</string>
     <string name="netdefault_noseat">Mikrofon konumları kilitlendi. Lütfen mikrofonu bekleyin</string>
     <string name="netdefault_quick">Çok sık gönderin. Lütfen daha sonra tekrar deneyin</string>
@@ -2413,6 +2423,8 @@ mutlu ol"</string>
     <string name="share_text">GoGo oynuyoruz, bize katıl!</string>
     <string name="share_text_list">"Müzikler çalma listesi: "</string>
     <string name="share_text_song">"Müziklerdeki şarkı: "</string>
+	<string name="shortcut_get">Görüntüle</string>
+	<string name="shortcut_success">Başarıyla oluşturuldu. Ana ekranınızda görüntüleyin</string>
     <string name="show_float_first_hint">Oynatıcıyı küçült</string>
     <string name="show_more">%s göster</string>
     <string name="shuffle_music">Karışık oynat</string>
@@ -2428,6 +2440,7 @@ mutlu ol"</string>
     <string name="signout_popup_title_nopassword">Uyarı</string>
     <string name="similar_albums">Benzer albümler</string>
     <string name="similar_playlists">Benzer çalma listeleri</string>
+    <string name="similar_podcasts">Benzer podcastler</string>
     <string name="similar_songs">Benzer şarkılar</string>
     <string name="similar_videos">Benzer videolar</string>
     <string name="skip">Atla</string>
@@ -2899,9 +2912,10 @@ Delta güncelleme boyutu: %2$s"</string>
     <string name="yandex_ads_internal_install">Kur</string>
     <string name="yandex_ads_internal_install_from_google_play">"Google Play'den yükleyin"</string>
     <string name="yandex_ads_internal_instream_ad_position">%1$d/%2$d</string>
-    <string name="yandex_ads_internal_instream_advertiser_social">Sosyal reklamcılık</string>
-    <string name="yandex_ads_internal_instream_advertiser_yandex">Reklam</string>
+    <string name="yandex_ads_internal_instream_call_to_action">Git ➔</string>
     <string name="yandex_ads_internal_instream_skip">Atla</string>
+    <string name="yandex_ads_internal_instream_sponsored_social">Sosyal reklam</string>
+    <string name="yandex_ads_internal_instream_sponsored_yandex">Reklam</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_close">Kapat</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">İncele</string>
     <string name="yandex_ads_internal_rewarded_close_verification_text">Bir reklamı sürenin sonundan önce kapatırsanız görüntüleme başına ödül verilmez</string>
