@@ -385,11 +385,11 @@ Sürüklemek için iki kez dokunun ve basılı tutun"</string>
 Ayrıntılar sayfasını görüntülemek için iki kez dokunun"</string>
     <string name="pa_accessibility_picker_home_search">Araç ara</string>
     <string name="pa_accessibility_picker_home_smallBanner_slected">"%1$s. 
-Double tap to start."</string>
+Başlamak için iki kez dokunun"</string>
     <string name="pa_accessibility_picker_home_title">Araç ekle</string>
     <string name="pa_accessibility_picker_home_widget_replace">%s seçildi. Araçları değiştir</string>
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">"%s. 
-Double tap the button below it to replace with another widget."</string>
+Başka bir araç ile değiştirmek için altındaki düğmeye iki kez dokunun"</string>
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">"%s. Yükleme durumu: %3$s. Anahtar düğmesi aşağıdadır
 Geçiş yapmak için iki kez dokunun"</string>
     <string name="pa_accessibility_picker_home_widget_slected">"%1$s, %2$s, Yükleme durumu: %3$s,
@@ -415,7 +415,7 @@ Ayrıntıları görüntülemek için iki kez dokunun"</string>
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_third_2">%s seçildi</string>
     <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Bu öğeyi ana ekrana eklemek için iki kez dokunun</string>
     <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Bu öğeyi ana ekrana eklemek için iki kez dokunun</string>
-    <string name="pa_accessibility_picker_widget_detail_edit">Edit</string>
+    <string name="pa_accessibility_picker_widget_detail_edit">Düzenle</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Araç seçildi. Bu öğeyi ana ekrana eklemek için sürükleyin</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Araç seçildi. Bu öğeyi uygulama kasasına eklemek için sürükleyin</string>
     <string name="pa_accessibility_picker_widget_group_all" formatted="false">Araç mağazası. %s için tüm araçları görüntülemek için seçin. %s için tüm araçları görüntülemek için iki kez dokunun</string>
@@ -704,9 +704,9 @@ Ekspres teslimatı kurye hizmetlerinin resmi internet sitelerinden de takip edeb
     <string name="pa_picker_image_text_share_content" formatted="false">"\#MIUI araçları# Masaüstünüzü %s MIUI araçları ile süsleyin! %S</string>
     <string name="pa_picker_image_text_share_copy_url">Bağlantıyı kopyala</string>
     <string name="pa_picker_image_text_share_more">Dah fazla</string>
-    <string name="pa_picker_image_text_share_wechat_favourite">WeChat Favorites</string>
+    <string name="pa_picker_image_text_share_wechat_favourite">WeChat favorileri</string>
     <string name="pa_picker_image_text_share_wechat_session">WeChat</string>
-    <string name="pa_picker_image_text_share_wechat_timeline">WeChat Moments</string>
+    <string name="pa_picker_image_text_share_wechat_timeline">WeChat anılar</string>
     <string name="pa_picker_image_text_share_weibo">Weibo</string>
     <string name="pa_picker_item_retry">Öğeler yüklenemedi. Tekrar deneyin</string>
     <string name="pa_picker_list_app_footer_classic_widget">Klasik araçlar</string>

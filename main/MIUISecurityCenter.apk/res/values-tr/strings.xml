@@ -470,7 +470,6 @@
     <string name="app_manager_app_version_name">Sürüm:</string>
     <string name="app_manager_appupdate_remind">Güncellemeleri bildir</string>
     <string name="app_manager_as_dlg_msg">Uygulamaların otomatik başlatılmasına izin vermeniz ek Ram ve pil gücü gerektirebilir. Yinede izin verilsin mi?</string>
-    <string name="app_manager_as_dlg_msg_new">Bir uygulamanın otomatik olarak başlatılmasına izin vermek kullandığı bellek miktarını ve pil ömrünü artırabilir. MIUI cihazınızın performansını artırmak için sık kullanmadığınız uygulamaların otomatik başlatma izinlerini optimize eder</string>
     <string name="app_manager_as_dlg_title">Uyarı</string>
     <string name="app_manager_back">Geri</string>
     <string name="app_manager_bipartition">Çift uygulamalar</string>
@@ -587,6 +586,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz"</string>
     <string name="app_name_pad">Güvenlik</string>
     <string name="app_name_phone">Güvenlik</string>
     <string name="app_name_securitycenter">Güvenlik</string>
+    <string name="app_name_securitycenter_new">Güvenlik</string>
     <string name="app_not_installed_toast">Uygulama cihazınıza yüklü değil</string>
     <string name="app_perm_manager_service">İzinler</string>
     <string name="app_permission_use_group_calendar">Takvim</string>
@@ -775,7 +775,6 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="auto_import_games">Tüm oyunlarınızı bir araya getirin</string>
     <string name="auto_send_correcting_msg">Eğer doldurulmazsa sistem otomatik olarak mesaj doğrulaması gönderecektir</string>
     <string name="auto_set_by_brand">Markanıza göre otomatik olarak akış ve serbest akış bilgilerini ayarlayın</string>
-    <string name="auto_start_tips">MIUI cihaz performansını artırmak için sık kullanmadığınız uygulamaların otomatik başlatma izinlerini optimize eder</string>
     <string name="auto_task_allow_suggestion">Akıllı görev önerileri</string>
     <string name="auto_task_available_device">Kullanılabilir cihazlar</string>
     <string name="auto_task_condition_choose_battery_level_down">Pil seviyesi belirli bir seviyeye ulaştığında</string>
@@ -1740,6 +1739,8 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="ew_alert_emergency_text_single">Sağlık kartını göster</string>
     <string name="ew_alert_help_earthquake_title">Sismik dalga geldi</string>
     <string name="ew_alert_help_place_navigation">Gezinin</string>
+	<string name="ew_alert_help_place_text">Gerekirse güvenliği sağlamak için en yakın barınağa gidin ve gerekli yardımı alın</string>
+	<string name="ew_alert_help_place_title">Yakındaki barınak</string>
     <string name="ew_alert_help_safe_title">Tehlike önleme</string>
     <string name="ew_alert_help_tips">Sakin ol ve uyanık kal. Asılı nesnelerden uzak durun ve asansöre binmeyin. Güvenli bir yer bulun</string>
     <string name="ew_alert_no_contact">Önce güvenlik > Deprem uyarısında acil durum kişisi ayarlayın</string>
@@ -1942,19 +1943,6 @@ gönüllüsü"</string>
     <string name="exit_dialog_scan_message">Cihazınızın performans puanı 75 puandan düşük. Şimdi optimize edilsin mi?</string>
     <string name="exit_dialog_scan_positive_button">Optimize et</string>
     <string name="exit_dialog_scan_title">Performansı optimize et</string>
-    <string name="exit_guide_track_component_value_app_predict">Uygulama önerisi 2*4</string>
-    <string name="exit_guide_track_component_value_health">Mobil sağlık 2*2</string>
-    <string name="exit_guide_track_component_value_power">Güç göstergesi 2*2</string>
-    <string name="exit_guide_track_component_value_privacy_protect">Gizlilik koruması 2*2</string>
-    <string name="exit_guide_track_component_value_ram_jat">Hızlandırma 2*2</string>
-    <string name="exit_guide_track_function_value_app_predict">Uygulama yönetimi</string>
-    <string name="exit_guide_track_function_value_health">Fizik muayene sonuç sayfası</string>
-    <string name="exit_guide_track_function_value_power">Güç tasarrufu ve pil</string>
-    <string name="exit_guide_track_function_value_privacy_protect">Gizlilik koruması</string>
-    <string name="exit_guide_track_function_value_ram_jat">Hızlanma için optimize edildi</string>
-    <string name="exit_guide_track_quite_value_activity_finish">Sayfayı kapat</string>
-    <string name="exit_guide_track_quite_value_click_add">Araç eklemek için tıklayın</string>
-    <string name="exit_guide_track_quite_value_click_exit">Kapatmak için tıklayın</string>
     <string name="exit_notify">exit_notify</string>
     <string name="exo_controls_cc_disabled_description">Altyazıları etkinleştir</string>
     <string name="exo_controls_cc_enabled_description">Altyazıları devre dışı bırakın</string>
@@ -2217,6 +2205,10 @@ gönüllüsü"</string>
     <string name="full_fill_oprator_and_location">Operatör bilgilerinizi ve konumunuzu sağlayın</string>
     <string name="full_fill_sim_location">Önce konumu ayarlayın</string>
     <string name="fully_informed_privacy">Gizlilik bilinci</string>
+	<string name="function_auto_reject_detail">"Bu özellik hakkında:
+1. Oyun oynarken mobil veri hizmeti olmadan Sim karta gelen tüm aramalar otomatik olarak reddedilecektir
+2. Cevapsız aramalarla ilgili bildirimler göreceksiniz ve karşınızdaki kişi şu anda meşgul olduğunuzu belirten bir sesli mesaj duyacak
+3. Bu özellik yalnızca Çin'deki mobil operatörler tarafından desteklenmektedir"</string>
     <string name="function_auto_reject_detail_new">"Bu özellik hakkında:
 %1$d. Oyun oynarken Sim karta mobil veri hizmeti olmadan gelen tüm aramalar otomatik olarak reddedilecektir
 %2$d. Cevapsız aramalar hakkında bildirimler göreceksiniz ve diğer kişi şu anda meşgul olduğunuzu söyleyen bir sesli mesaj duyacaktır
@@ -2580,12 +2572,6 @@ Ayrıca güç tüketimini ve ısı üretimini artıracağından uzun süreli kul
     <string name="gb_turbo_time_subtitle">Oyun süresini kaydedin</string>
     <string name="gb_turbo_voice_subtitle">Sesli açık mikrofon komik şov</string>
     <string name="gb_turbo_wonder_subtitle">Harika operasyonların akıllı kaydı</string>
-	<string name="gb_vision_enhance">Geliştirilmiş görseller</string>
-	<string name="gb_vision_enhance_desc">Görüntü kalitesini ve performansını artırın</string>
-	<string name="gb_vision_enhance_smart_frame_insertion">Akıllı kare hızı</string>
-	<string name="gb_vision_enhance_smart_frame_insertion_desc">Hareketi daha akıcı hale getirmek için kare hızını otomatik olarak ayarlayın</string>
-	<string name="gb_vision_enhance_super_Definition">Süper çözünürlük</string>
-	<string name="gb_vision_enhance_super_Definition_desc">Daha ince ayrıntıları görüntülemek için çözünürlüğü artırın</string>
     <string name="gb_voice_change_audition_tip">Yalnızca seçilen</string>
     <string name="gb_voice_change_settinged">Ses değiştirici açık</string>
     <string name="gb_voice_changer_cartoon">Karikatür</string>
@@ -3105,40 +3091,14 @@ bekleniyor"</string>
     <string name="main_toolbar_statistic">Veri kullanım istatistikleri</string>
     <string name="main_traffic_detail">Veri kullanımı</string>
     <string name="make_sure_package_type">Veri türünüzü onaylayın</string>
-	<string name="malicious_access_accessibility">Erişilebilirlik hizmetini etkinleştir</string>
-    <string name="malicious_access_install">Uygulama listesini oku</string>
-    <string name="malicious_access_location">Konumu oku</string>
-    <string name="malicious_access_pay">Ödemeyi başlat</string>
-    <string name="malicious_access_wakelock">Uyandırma kilidini kullan</string>
-    <string name="malicious_activity_too_many">Sık kullanılan ön plan</string>
-    <string name="malicious_auto_start">Otomatik başlat</string>
-    <string name="malicious_bg_start">Arka planda açılan pencere</string>
-    <string name="malicious_chain">Zincirleme</string>
-    <string name="malicious_cold_start">Soğuk başlatma</string>
-    <string name="malicious_hot_start">Sıcak başlatma</string>
-    <string name="malicious_keyguard_show">Kilit ekranı görüntüsü</string>
-    <string name="malicious_push_notification">Bildirim çubuğu itme</string>
-    <string name="malicious_read_calendar">Takvimi oku</string>
-    <string name="malicious_read_contacts">Kişileri oku</string>
-    <string name="malicious_read_phone_info">Telefon bilgilerini alın</string>
-    <string name="malicious_read_sms">Mesajları oku</string>
-    <string name="malicious_run_long">Çalışma süresi çok uzun</string>
-    <string name="malicious_set_android_widget">Yüksek riskli sahne-Android yerel gereci</string>
-    <string name="malicious_system_grant_third_uri">Sistem tarafından yetkilendirilen üç taraflı Uri</string>
-    <string name="malicious_system_third_call">Sistem uygulamaları ile üçüncü taraf uygulamaları arasındaki etkileşim</string>
-    <string name="malicious_time_bg_run">Arka plan süresi</string>
-    <string name="malicious_time_fg_run">Ön plan saatleri</string>
-    <string name="malicious_use_native">Yerel canlı tutma</string>
-    <string name="malicious_win_large">Pencere çok büyük</string>
-    <string name="malicious_win_small">Pencere çok küçük</string>
-    <string name="man_add_application">Otomatik başlatma uygulamalarını manuel olarak ekle</string>
-    <string name="manage_hybrid_permissions">Uygulamaların izinlerini yönet</string>
-    <string name="managed_user_title">Tüm iş uygulamaları</string>
-    <string name="manual_input_free_traffic">İndirimli veri kullanımını ayarla</string>
-    <string name="manual_input_traffic">Kullanılan verileri giriniz</string>
-    <string name="manual_item_create_icon_title">Ana ekran kısayolu</string>
-    <string name="manual_item_white_list_summary">Seçili uygulamaların optimize edilmesini önle</string>
-    <string name="manual_item_white_list_title">İstisnalar</string>
+	<string name="man_add_application">Otomatik başlatma uygulamalarını manuel olarak ekleyin</string>
+	<string name="manage_hybrid_permissions">Uygulamanın izinlerini yönet</string>
+	<string name="managed_user_title">Tüm iş uygulamaları</string>
+	<string name="manual_input_free_traffic">Yoğun olmayan veri kullanımını ayarla</string>
+	<string name="manual_input_traffic">Veri kullanımını ayarla</string>
+	<string name="manual_item_create_icon_title">Güvenlik kısayolu</string>
+	<string name="manual_item_white_list_summary">Seçili öğelerin optimize edilmesini engelle</string>
+	<string name="manual_item_white_list_title">Tarama istisnaları</string>
     <string name="mark_agent">Aracı olarak bildirilenleri engelle</string>
     <string name="mark_agent_block">Aracı olarak bildirildi</string>
     <string name="mark_agent_block_large">Aracılar</string>
@@ -3297,7 +3257,6 @@ Cihazınız artık %s daha hızlı"</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimi kaldır</string>
-    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -3704,8 +3663,6 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="operator_number_cmcc">10086</string>
     <string name="operator_number_telcom">10000</string>
     <string name="operator_number_unicom">10010</string>
-	<string name="opt_antivirus_scan_antivirus_notification_summary">Kötü amaçlı uygulamaların kullanılması güvenlik riskleri oluşturur</string>
-	<string name="opt_antivirus_scan_single_antivirus_notification_title">%s kötü niyetli bir uygulama olabilir</string>
     <string name="optimize_manage_title">Hızlandır</string>
     <string name="optimize_result_available_memory_info">Kullanılabilir bellek:</string>
     <string name="optimize_result_button_cloudspace">Bulut depolama alanı ekle</string>
@@ -3795,20 +3752,10 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_battery_history_show_imei">İmei:</string>
     <string name="pc_battery_history_total_consumption_title">Toplam güç tüketimi</string>
     <string name="pc_battery_history_usetime_title">Aktif</string>
-    <string name="pc_close_notifi_action">Kapat</string>
     <string name="pc_emergency_call">Acil durum</string>
     <string name="pc_endurance_calculation">Hesaplanıyor</string>
-	<string name="pc_entered_extreme_mode">Hazırda bekletme modu açık</string>
-	<string name="pc_entered_extreme_mode_summary">Cihazınızın pili bitti ve Hazırda Bekletme moduna girdi. Uygulamalar arka planda çalışacak ve bildirim göndermeyecek</string>
-	<string name="pc_extreme_exit_and_power_off">Çıkış</string>
-	<string name="pc_extreme_mode_bg_toast">Hazırda bekletme modunda uygulamalar arka planda çalışır ve bildirim göndermez</string>
 	<string name="pc_extreme_mode_entering">Hazırda Bekletme moduna giriliyor</string>
-	<string name="pc_extreme_mode_exit_risk_title">Dikkat</string>
-	<string name="pc_extreme_mode_exit_risk_title_summary">Cihazınızın pili bitmiş. Hazırda bekletme modundan çıkarsanız cihazınız kapanacaktır</string>
 	<string name="pc_extreme_mode_exiting">Hazırda bekletme modundan çıkılıyor</string>
-	<string name="pc_extreme_mode_find_charger">Cihazınızı en kısa sürede şarj edin</string>
-	<string name="pc_extreme_mode_runtime">Hazırda bekleme modu %1$s %2$s için açık</string>
-	<string name="pc_extreme_mode_title">Hazırda bekleme modu</string>
     <string name="pc_fast_charge_notifi_action_text_off">Durdur</string>
     <string name="pc_fast_charge_notifi_action_text_on">Hızlandır</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">Hatırlatma için pil seviyesi</string>
@@ -3823,8 +3770,6 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_fast_charge_switch_title">Şarj hızını arttır</string>
     <string name="pc_fast_charge_switch_toast_message">Bu cihazı bir sonraki şarj edişinizde değişiklikler uygulanacaktır</string>
     <string name="pc_fast_charge_title">Şarj hızını arttır</string>
-	<string name="pc_going_to_exit_extreme_mode">Hazırda bekletme modundan çıkılıyor</string>
-	<string name="pc_going_to_exit_extreme_mode_summary">Cihazınız şarj oluyor. Hazırda bekletme modu kapalı</string>
 	<string name="pc_going_to_extreme_mode">Hazırda bekletme moduna giriliyor</string>
     <string name="pc_hidemode_normal">Dengeli</string>
     <string name="pc_hidemode_normal_title">Dengeli</string>
@@ -3968,7 +3913,6 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permission_instruction_touch_pay">Bu izin uygulamaların temassız ödeme yapmasına izin verir</string>
     <string name="permission_instruction_use_sip">Bu izin uygulamaların SIP video hizmetlerini kullanmasına izin verir</string>
     <string name="permission_instruction_vr_assistant">Bu izin uygulamaların VR asistan hizmetlerini kullanmasına izin verir</string>
-    <string name="permission_instruction_wall_paper">Uygulamaların varsayılan dinamik duvar kağıdı hizmetlerini değiştirmesine ve arka planda çalışmaya devam etmesine izin vermek için bu izni verin</string>
     <string name="permission_instruction_write_calllog">Bu izin uygulamaların gelen ve giden aramalarınız hakkında ayrıntılı bilgiler içerebilen arama geçmişini düzenlemesine izin verir. Kötü amaçlı uygulamalar arama geçmişinizi temizlemek veya düzenlemek için bu izni kullanabilir</string>
     <string name="permission_instruction_write_clipboard">Bu izin uygulamaların öğeleri panoya kaydetmesine izin verir. İstenmeyen mesajlar panoyu normal kullanımınızı etkileyebilir</string>
     <string name="permission_instruction_write_contacts">Bu izin uygulamaların cihazınızda depolanan kişi bilgilerini düzenlemesine, eklemesine ve silmesine izin verir. Bu bilgiler, belirli kişilerle aramalar, e-postalar ve diğer yöntemler yoluyla iletişiminizin sıklığını içerebilir. Bu izin uygulamaların kişilerinizi silmesine de izin verir</string>
@@ -4648,7 +4592,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="privacy_look_all_permission_status">Tüm izinler</string>
     <string name="privacy_look_all_permission_times">Tüm uygulamalar</string>
     <string name="privacy_look_privacy">Gizlilik politikası</string>
-    <string name="privacy_manage_title" />
+    <string name="privacy_manage_title">Yönet</string>
     <string name="privacy_mask_summary">MIUI gerçek kimliğinizi değiştirme, uygulamanın davranışlarınızı ve tercihlerinizi izlemesini önleme ve kişisel gizliliğinizi korumak için üç taraflı uygulamaya sanal kimliği sağlayacaktır (OAID)</string>
     <string name="privacy_mask_title">Sanal kimlik</string>
     <string name="privacy_mode_dialog_title">Misafir modu</string>
@@ -4842,9 +4786,6 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="quick_replay_list_title">Mevcut uygulamalar</string>
     <string name="quick_reply_title">Hızlı cevaplar</string>
     <string name="quite_all_string">İptal et</string>
-    <string name="quite_track_value_string_click_add_button">Araç eklemek için tıklayın</string>
-    <string name="quite_track_value_string_click_empty">Boşluğa tıklayın</string>
-    <string name="quite_track_value_string_slide_down">Aşagı kaydır</string>
     <string name="random_expression">Rastgele ifade</string>
     <string name="reach_daily_limit_value_body">Mobil veri kullanımını azalt</string>
     <string name="reach_daily_limit_value_title">Günlük veri sınırına ulaşıldı</string>
@@ -4965,9 +4906,6 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="scan_status_not_complete">İptal edildi</string>
     <string name="scan_status_risk">Riskli</string>
     <string name="scan_status_safe">Güvenli</string>
-    <string name="scan_widget_guide_button_text">Araç ekle</string>
-    <string name="scan_widget_guide_message">Telefonunuzu daha kullanışlı, daha hızlı ve kapsamlı bir şekilde koruyun</string>
-    <string name="scan_widget_guide_title">Yeni araç</string>
     <string name="scanning_bar_number_new">%s</string>
     <string name="screen_share_protection_negative_button">Paylaşma</string>
     <string name="screen_share_protection_summary">Şu anda kullandığınız uygulama ekranınızı paylaşırsanız diğer kişilerin görebileceği kişisel bilgilerinizi içerir. Yine de paylaşılsın mı?</string>
@@ -6322,18 +6260,8 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="vb_ve_settings_ai_stronger">AI</string>
     <string name="vb_ve_settings_display_style_tips">* Bu efektler tüm ekrana uygulanacak</string>
     <string name="vb_ve_settings_display_style_tips_new">* Bu efektler yalnızca video oynatma alanına uygulanacak</string>
-    <string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">"*Bu efekt yalnızca video oynatma alanına uygulanacaktır
-
-Bu özellik, geliştirilmiş videolarla çalışmaz
-
-Birini açmak diğerini kapatır"</string>
-    <string name="vb_ve_settings_display_style_tips_with_conflict_tips">"*Bu efekt tüm ekrana uygulanacaktır
-
-Bu özellik geliştirilmiş videolarla çalışmaz
-
-Birini açmak diğerini kapatır"</string>
-    <string name="vb_ve_settings_pic_border_stronger">Geliştirilmiş konturlar</string>
-    <string name="vb_ve_settings_picture_stronger">Geliştirilmiş animasyonlar</string>
+	<string name="vb_ve_settings_pic_border_stronger">Geliştirilmiş konturlar</string>
+	<string name="vb_ve_settings_picture_stronger">Geliştirilmiş animasyonlar</string>
     <string name="vb_video_effects_3d">Surround ses</string>
     <string name="vb_video_effects_3d_summary">Kulaklıklar ve hoparlörler için ses üretiminin derinliğini artırın</string>
     <string name="vb_video_effects_3d_summary_headset">Kulaklıkta ses dinlerken daldırma ve sarma hissini artırın</string>
@@ -6598,15 +6526,11 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="widget_cleaner_message">Çöpler temizlenebilir</string>
     <string name="widget_cleaner_size">529</string>
     <string name="widget_cleaner_size_unit">MB</string>
-    <string name="widget_cleaner_text_1">"Telefon
-temiz"</string>
     <string name="widget_health_message">Telefon çok güvenli. Optimize etmeye devam edin</string>
     <string name="widget_health_size">86</string>
     <string name="widget_power_size">90</string>
     <string name="widget_power_size_message">Müsait zaman 34 saat 2 dakika</string>
     <string name="widget_power_size_unit">%</string>
-    <string name="widget_ramjat_cleaned_summary">823MB bellek boşaltıldı</string>
-    <string name="widget_ramjat_cleaned_text">Tamamlamayı hızlandırın</string>
     <string name="widget_ramjat_message">Boş hafıza</string>
     <string name="widget_ramjat_size">732</string>
     <string name="widget_safe_size">315.89</string>

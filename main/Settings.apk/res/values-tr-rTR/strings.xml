@@ -4417,7 +4417,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="incall_show">Profil videoları</string>
     <string name="include_app_data_title">Uygulama verilerini dahil et</string>
     <string name="incoming_call_breathing_light_color_title">Arama ışık rengi</string>
-    <string name="incoming_call_breathing_light_freq_title">Aramalar yanma sıklığı</string>
+    <string name="incoming_call_breathing_light_freq_title">Aramalar için yanma sıklığı</string>
     <string name="incoming_call_volume_title">Zil sesi</string>
     <string name="infinity_display_settings">Tam ekran</string>
     <string name="infinity_display_slogan">Tam ekran yeniliği</string>
@@ -5808,7 +5808,7 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yenileniyor</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Hata</string>
     <string name="mms_breathing_light_color_title">Mesaj ışık rengi</string>
-    <string name="mms_breathing_light_freq_title">Mesajlar yanma sıklığı</string>
+    <string name="mms_breathing_light_freq_title">Mesajlar için yanma sıklığı</string>
     <string name="mms_message_summary">Mobil veri kapalıyken mesaj gönderip alın</string>
     <string name="mms_message_title">Multimedya mesajları</string>
     <string name="mms_privacy_password_role_instruction">Özel kişilerinizle olan konuşmalarınız burada depolanır</string>
@@ -6384,7 +6384,7 @@ Bu izin, uygulamaya, Rahatsız Etmeyin ayarını açma veya kapatma ve ilgili ay
     <string name="notification_badging_title">Bildirim noktalarına izin ver</string>
     <string name="notification_block_title">Engelle</string>
     <string name="notification_breathing_light_color_title">Bildirim ışık rengi</string>
-    <string name="notification_breathing_light_freq_title">Bildirimler yanma sıklığı</string>
+    <string name="notification_breathing_light_freq_title">Bildirimler için yanma sıklığı</string>
     <string name="notification_bubbles_title">Kabarcıklar</string>
     <string name="notification_center">Bildirimler</string>
     <string name="notification_channel_badge_title">Bildirim noktasını göster</string>

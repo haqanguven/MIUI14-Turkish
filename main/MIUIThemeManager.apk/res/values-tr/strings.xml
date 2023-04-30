@@ -1315,7 +1315,6 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="resource_search_color_hint_red">Kırmızı</string>
     <string name="resource_search_color_hint_yellow">Sarı</string>
     <string name="resource_search_history">Arama geçmişi</string>
-    <string name="resource_search_hot_tag">Popüler</string>
     <string name="resource_search_list_empty">Hiçbir şey bulunamadı</string>
     <string name="resource_see_more">Daha fazla</string>
     <string name="resource_select">Seç</string>
