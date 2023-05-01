@@ -5778,7 +5778,7 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="miui_touch_filtered_touchassistant_warning">İzinler penceresi hızlı erişim tarafından kapatılıyor. Bu özelliği kapatmak için hızlı erişim simgesini uzaklaştırın</string>
     <string name="miui_touch_filtered_warning">Eğer bir uygulama izin penceresini engelliyorsa örtüşen öğeleri taşıyın veya uygulamayı kapatın</string>
     <string name="miui_type_style_summary">Ekran okuyucu açıkken uygulanan yazma stili</string>
-    <string name="miui_type_style_title">Typing style</string>
+    <string name="miui_type_style_title">Yazma stili</string>
     <string name="miui_updater">Sistem güncelleyici</string>
     <string name="miui_userguide">Kullanım kılavuzu</string>
     <string name="miuix_access_state_desc">Seçildi</string>
