@@ -189,6 +189,22 @@
         <item quantity="other">%%%1$d</item>
         <item quantity="one">%%%1$d</item>
     </plurals>
+    <plurals name="device_settings_music_list_size_desc">
+        <item quantity="other">%1$d şarkı</item>
+        <item quantity="one">%1$d şarkı</item>
+    </plurals>
+    <plurals name="device_settings_push_result_msg_plurals_fail">
+        <item quantity="other">%1$d şarkı içe aktarılamadı.</item>
+        <item quantity="one">%1$d şarkı içe aktarılamadı.</item>
+    </plurals>
+    <plurals name="device_settings_push_result_msg_plurals_success">
+        <item quantity="other">%1$d şarkı başarıyla içe aktarıldı.</item>
+        <item quantity="one">%1$d şarkı başarıyla içe aktarıldı.</item>
+    </plurals>
+    <plurals name="device_settings_sos_contact_set_count">
+        <item quantity="other">%1$d kişi</item>
+        <item quantity="one">%1$d kişi</item>
+    </plurals>
     <plurals name="device_settings_spo2_freq_freq">
         <item quantity="other">%1$d dakika</item>
         <item quantity="one">%1$d dakika</item>
@@ -213,6 +229,29 @@
         <item quantity="other">%1$d gün</item>
         <item quantity="one">%1$d gün</item>
     </plurals>
+    <plurals name="electronic_scale_health_body_age_format">
+        <item quantity="other">"%1$d yaşında"</item>
+        <item quantity="one">"%1$d yaşında"</item>
+    </plurals>
+    <plurals name="electronic_scale_health_body_score_format">
+        <item quantity="other">%1$d puan</item>
+        <item quantity="one">%1$d puan</item>
+    </plurals>
+    <plurals name="electronic_scale_health_unit_spo2_percent_desc">
+        <item quantity="other">%%%1$d</item>
+    </plurals>
+    <plurals name="electronic_scale_health_weight_compared_with_more_days_gain">
+        <item quantity="other">%1$s kg | %2$d gün öncesinden beri + %3$s kg</item>
+        <item quantity="one">%1$s kg | %2$d gün öncesinden beri + %3$s kg</item>
+    </plurals>
+    <plurals name="electronic_scale_health_weight_compared_with_more_days_loss">
+        <item quantity="other">%1$s kg | - %2$d gün öncesinden beri %3$s kg</item>
+        <item quantity="one">%1$s kg | - %2$d gün öncesinden beri %3$s kg</item>
+    </plurals>
+    <plurals name="electronic_scale_health_weight_home_title">
+        <item quantity="other">Ağırlık %s kg</item>
+        <item quantity="one">Ağırlık %s kg</item>
+    </plurals>
     <plurals name="electronic_scale_weight_compared_with_more_days_gain">
         <item quantity="other">%3$d günden beri %1$dkg | +%2$dkg</item>
     </plurals>
@@ -227,9 +266,21 @@
         <item quantity="other">%d saniye geri sar</item>
         <item quantity="one">%d saniye geri sar</item>
     </plurals>
+    <plurals name="face_band_me_count">
+        <item quantity="other">Bileklik ekranım (%1$d)</item>
+        <item quantity="one">Bileklik ekranım (%1$d)</item>
+    </plurals>
     <plurals name="face_common_img_num">
         <item quantity="other">%1$d</item>
         <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="face_download_count">
+        <item quantity="other">%1$d indirme</item>
+        <item quantity="one">%1$d indirme</item>
+    </plurals>
+    <plurals name="face_me_count">
+        <item quantity="other">Saat arayüzüm (%1$d)</item>
+        <item quantity="one">Saat arayüzüm (%1$d)</item>
     </plurals>
     <plurals name="face_photo_most">
         <item quantity="other">%1$d görüntüye kadar ekleyin</item>
@@ -254,6 +305,18 @@
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
     </plurals>
+    <plurals name="health_blood_pressure_exception_count">
+        <item quantity="other">kez</item>
+        <item quantity="one">kez</item>
+    </plurals>
+    <plurals name="health_blood_pressure_pulse_unit">
+        <item quantity="other">BPM</item>
+        <item quantity="one">BPM</item>
+    </plurals>
+    <plurals name="health_blood_pressure_pulse_value_unit">
+        <item quantity="other">%1$d BPM</item>
+        <item quantity="one">%1$d BPM</item>
+    </plurals>
     <plurals name="health_body_age_format">
         <item quantity="other">%1$d yaşında</item>
         <item quantity="one">%1$d yaşında</item>
@@ -269,6 +332,10 @@
     <plurals name="health_common_unit_calorie_desc">
         <item quantity="other">%1$d kalori</item>
         <item quantity="one">%1$d kalori</item>
+    </plurals>
+    <plurals name="health_common_unit_mh">
+        <item quantity="other">dk.</item>
+        <item quantity="one">dk.</item>
     </plurals>
     <plurals name="health_common_unit_step">
         <item quantity="other">adım</item>
@@ -313,6 +380,10 @@
     <plurals name="health_curse_days_left_pre">
         <item quantity="other">Âdet döneminin bitmesine %d gün</item>
         <item quantity="one">Âdet döneminin bitmesine %d gün</item>
+    </plurals>
+    <plurals name="health_curse_easy_pregnancy_before">
+        <item quantity="other">Doğurganlık dönemi %d gün içinde</item>
+        <item quantity="one">Doğurganlık dönemi %d gün içinde</item>
     </plurals>
     <plurals name="health_curse_in_days">
         <item quantity="other">Âdet dönemi: Gün %1$d</item>
@@ -394,9 +465,33 @@
         <item quantity="other">%1$d</item>
         <item quantity="one">%1$d</item>
     </plurals>
+    <plurals name="health_unit_calorie_space">
+        <item quantity="other">" kal"</item>
+        <item quantity="one">" kal"</item>
+    </plurals>
+    <plurals name="health_unit_count_per_week">
+        <item quantity="other">haftada</item>
+        <item quantity="one">haftada</item>
+    </plurals>
     <plurals name="health_unit_spo2_percent_desc">
         <item quantity="other">%%%1$d</item>
         <item quantity="one">%%%1$d</item>
+    </plurals>
+    <plurals name="health_vitality_acquire_desc">
+        <item quantity="other">%1$s: %2$d Canlılık puanı kazanıldı</item>
+        <item quantity="one">%1$s: %2$d Canlılık puanı kazanıldı</item>
+    </plurals>
+    <plurals name="health_vitality_min_in_simplify">
+        <item quantity="other">%1$d dk.</item>
+        <item quantity="one">%1$d dk.</item>
+    </plurals>
+    <plurals name="health_vitality_target_disparity">
+        <item quantity="other">Sonraki hedefe ulaşmak için %1$d Canlılık puanı daha kazanın</item>
+        <item quantity="one">Sonraki hedefe ulaşmak için %1$d Canlılık puanı daha kazanın</item>
+    </plurals>
+    <plurals name="health_vitality_value">
+        <item quantity="other">puan</item>
+        <item quantity="one">puan</item>
     </plurals>
     <plurals name="health_weight_compared_with_more_days_gain">
         <item quantity="other">%2$d gün öncesinden beri %1$s kg | + %3$s kg</item>
@@ -512,6 +607,22 @@ Yaklaşık %1$d dakika sürer"</item>
         <item quantity="other">%1$d kilometre/saat</item>
         <item quantity="one">%1$d kilometre/saat</item>
     </plurals>
+    <plurals name="sport_rope_group">
+        <item quantity="other">%1$d adım</item>
+        <item quantity="one">%1$d adım</item>
+    </plurals>
+    <plurals name="sport_rope_minute">
+        <item quantity="other">%1$s dakika</item>
+        <item quantity="one">%1$s dakika</item>
+    </plurals>
+    <plurals name="sport_rope_number">
+        <item quantity="other">%1$s adım</item>
+        <item quantity="one">%1$s adım</item>
+    </plurals>
+    <plurals name="sport_rope_second">
+        <item quantity="other">%1$s saniye</item>
+        <item quantity="one">%1$s saniye</item>
+    </plurals>
     <plurals name="sport_unit_kilometer">
         <item quantity="other">kilometre</item>
         <item quantity="one">kilometre</item>
@@ -571,6 +682,10 @@ Yaklaşık %1$d dakika sürer"</item>
     <plurals name="trail_sport_hour_unit_only">
         <item quantity="other">saat</item>
         <item quantity="one">saat</item>
+    </plurals>
+    <plurals name="trail_sport_punch_distribute_unit">
+        <item quantity="other">G</item>
+        <item quantity="one">G</item>
     </plurals>
     <plurals name="trail_sport_times">
         <item quantity="other">%d egzersiz</item>
@@ -714,5 +829,6 @@ Yaklaşık %1$d dakika sürer"</item>
     </plurals>
     <plurals name="userinfo_user_age_display_format_year">
         <item quantity="other">%1$d yaşında</item>
+        <item quantity="one">%1$d yaşında</item>
     </plurals>
 </resources>
