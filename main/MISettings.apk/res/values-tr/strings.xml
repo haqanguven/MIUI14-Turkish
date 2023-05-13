@@ -391,6 +391,8 @@ ikinci alanda oluşturulmaz"</string>
     <string name="focus_time_exception_tip">Sistem saati değişti gibi görünüyor. Odak modu kapatıldı</string>
     <string name="follow_apps_settings">Uygulama ayarlarına göre</string>
     <string name="follow_sim1">Sim 1 ayarlarını uygula</string>
+    <string name="footer_max_fps" formatted="false">"
+%D. Yenileme hızı desteklenen uygulamalar ve oyunlar için %s Hz'e kadar ayarlanabilir"</string>
     <string name="force_rest">Oturum aralarını kullanın</string>
     <string name="force_rest_summary">Oturumlar belirlenen sınıra ulaştığında zorunlu molalar verin</string>
     <string name="force_rest_time">Mola süresi</string>
@@ -513,6 +515,7 @@ ikinci alanda oluşturulmaz"</string>
     <string name="marabou_stork">Marabu leylek</string>
     <string name="marabou_stork_info">Marabu leylek büyük bir kuştur. Sık sık bir çöpçüdür</string>
     <string name="masked_palm_civet">Maskeli palmiye misk kedisi</string>
+    <string name="max_fps_string">"%s Hz'e kadar"</string>
     <string name="medium_tree_finch">Orta ağaç ispinozu</string>
     <string name="midnight">Gece</string>
     <string name="miuix_access_state_desc">Seçildi</string>
@@ -764,6 +767,7 @@ ikinci alanda oluşturulmaz"</string>
     <string name="stop_summary">Devre dışı bırakıldıktan sonra tüm ekran zaman yönetimi verileri silinecektir</string>
     <string name="suggestion">Geri bildirim</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="summary_max_fps_for_intelligent">"Performans ile güç tüketimini dengelemek için senaryolara göre yenileme hızını dinamik olarak %s Hz'e kadar ayarlayın"</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Pazar</string>
     <string name="sunday_shortest">P</string>

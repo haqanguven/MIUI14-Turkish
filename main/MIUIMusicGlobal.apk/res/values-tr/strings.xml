@@ -137,6 +137,7 @@
     <string name="apply_failure_net_error">Ağ anormal. Mikrofonu yükleme isteği başarısız oldu. Lütfen daha sonra tekrar deneyin</string>
     <string name="apply_for_the_following_permissions">Bu uygulama aşağıdaki izinleri ister:</string>
     <string name="apply_permissions_greater_than_pie">Bu izinleri Ayarlar > Uygulamalar > İzinler > İzinler > Dosyalar ve medya > Müzik menüsünde verebilirsiniz</string>
+    <string name="apply_permissions_greater_than_tiramisu">Bu izinleri Ayarlar > Uygulamalar > İzinler > İzinler > Dosyalar ve medya > Müzik menüsünde verebilirsiniz</string>
     <string name="apply_permissions_less_than_pie">Bu izinleri Ayarlar > Uygulamalar > İzinler > İzinler > Dahili depolamadaki dosyalara eriş ve dosyaları değiştir > Müzik menüsünde verebilirsiniz</string>
     <string name="apply_permissions_tips_content">Bu uygulamanın cihazınızdaki müziği keşfetmek için dosyalara erişmesine izin verin</string>
     <string name="apply_queue">Sıra</string>
@@ -762,7 +763,7 @@ Lütfen ağınızı kontrol edin"</string>
     <string name="durationformatlong_with">%2$02d:%5$02d.%6$02d</string>
     <string name="durationformatshort">%2$d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
-    <string name="early_morning">ÖÖ</string>
+    <string name="early_morning">Sabah</string>
     <string name="earthly_branches_chen">15</string>
     <string name="earthly_branches_chou">12</string>
     <string name="earthly_branches_hai">22</string>
@@ -1196,6 +1197,8 @@ Lütfen ağınızı kontrol edin"</string>
     <string name="heavenly_stems_wu">5</string>
     <string name="heavenly_stems_xin">8</string>
     <string name="heavenly_stems_yi">2</string>
+	<string name="hgm_failed_to_connect_hint">Ağ ayarlarınızı kontrol edin ve tekrar deneyin. Sorun bir hangama sunucusu hatasıysa mümkün olan en kısa sürede düzelteceğiz</string>
+     <string name="hgm_network_request_error_toast">Hangama sunucularına bağlanılamadı. Tekrar deneyin</string>
     <string name="hgm_vip_btn_desc">Deneme sürümüne başlat</string>
     <string name="hgm_vip_high_quality">Yüksek kaliteli indirmeler</string>
     <string name="hgm_vip_no_ads">Reklam veya sınır yok</string>
@@ -1464,9 +1467,19 @@ GoGo indirme adresi: %2$s
     <string name="loading_hint">Yükleniyor</string>
     <string name="loading_reached_the_bottom">Şimdilik bu kadar</string>
     <string name="loading_text">Yükleniyor</string>
+	<string name="local_download_download">İndir</string>
+	<string name="local_download_hint">İndirmeden önce wifi ağını açın</string>
+	<string name="local_download_item">Ücretsiz indirin</string>
+	<string name="local_download_title">İndirilecek şarkıları seçin</string>
+	<string name="local_download_toast">İndiriliyor</string>
+	<string name="local_download_toast_notify">İndiriliyor. Bildirim gölgesinde ilerlemeyi kontrol edin.</string>
     <string name="local_header_title">Yerel müzik</string>
     <string name="local_music">Çevrimdışı</string>
     <string name="local_music_is_not_available">Yerel müzik mevcut değil</string>
+	<string name="local_out_dialog_cancel">İptal et</string>
+	<string name="local_out_dialog_desc">Müzikler ile ilişkili olmayan başka bir uygulama açmak üzeresiniz</string>
+	<string name="local_out_dialog_ok">Tamam</string>
+	<string name="local_out_dialog_title">Müzikler çıkılıyor</string>
     <string name="local_page_album_more">Tümünü görüntüle</string>
     <string name="local_page_artist_more">Daha fazla %s şarkısı</string>
     <string name="local_page_playlist">Listeler</string>

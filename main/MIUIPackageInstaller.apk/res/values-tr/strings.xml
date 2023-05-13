@@ -40,7 +40,9 @@
     <string name="ads_install_button_waiting">Bekleniliyor</string>
     <string name="after_install_to_delete">Kurulum paketini sil</string>
     <string name="afternoon">Öğleden sonra</string>
-    <string name="allow_current_install">Bu kurulum</string>
+    <string name="allow_current_install">Bir kez izin ver</string>
+    <string name="allowed_this_time">Bir kez izin ver</string>
+    <string name="already_understood_bundle_app">Bu uygulamanın toplu yükleme davranışına sahip olabileceğini anlıyoruz</string>
     <string name="am">ÖÖ</string>
     <string name="anonymous_source_continue">Devam et</string>
     <string name="anonymous_source_warning">Telefonunuz ve kişisel verileriniz bilinmeyen uygulamaların saldırılarına karşı daha savunmasızdır. Bu uygulamayı yükleyerek kullanımından kaynaklanabilecek telefonunuzdaki herhangi bir hasardan veya veri kaybından sorumlu olduğunuzu kabul etmiş olursunuz</string>
@@ -52,13 +54,15 @@
     <string name="app_detail_other_publish">Geliştirici: %1$s</string>
     <string name="app_detail_other_update_time">Güncellenmiş: %1$s</string>
     <string name="app_detail_other_version">Sürüm: %1$s</string>
+    <string name="app_get_source">Uygulama kaynağı</string>
     <string name="app_info_permissions">İzinler</string>
     <string name="app_info_permissions_format">%1$s %2$s</string>
     <string name="app_info_size">Boyut: %1$s</string>
     <string name="app_info_version">Sürüm: %1$s</string>
     <string name="app_info_version_replace">Sürüm: %1$s -> %2$s</string>
     <string name="app_install_safe_check">Uygulama güvenlik kontrolleri</string>
-    <string name="app_installing_not_allow">"%1$s uygulamasının uygulama yüklemesine izin vermediniz. Bunu Ayarlar'dan değiştirebilirsiniz"</string>
+    <string name="app_installing_not_allow">"%1$s yüklemesini engellendi. "</string>
+    <string name="app_installing_not_allow_1">"%1$s'in uygulama yüklemesi engellendi. "</string>
     <string name="app_name">Mi paket yükleyici</string>
     <string name="app_not_found_dlg_text">Uygulama yüklü uygulamalar listesinde bulunamadı</string>
     <string name="app_not_found_dlg_title">Uygulama bulunamadı</string>
@@ -93,6 +97,7 @@
 	<string name="bundle_app_sure_no_market_description">Gerçekten yüklemeniz gereken uygulama değil. Yüklemekte olduğunuz uygulama. İhtiyacınız olmayan uygulamaları yanlışlıkla yüklememeye dikkat edin</string>
 	<string name="bundle_app_sure_no_market_tip">Hala %1$s yüklemeniz gerekiyorsa burayı tıklayın</string>
 	<string name="bundle_app_sure_title">%1$s yüklememelisiniz</string>
+	<string name="bundle_app_tip_test">Kullanıcılar tarafından şikayet edilen ve Xiaomi güvenlik tarafından incelenen uygulamada paket yükleme veya zorunlu yükleme var. %1$s gerçekten yüklemek istediğiniz uygulama olmayabilir</string>
     <string name="bundle_no_store_app_on_self_desc_text">%1$s paketinin indirme davranışını belirledi. Hâlâ %2$s yüklemeniz gerekiyorsa devam etmek için burayı tıklayın</string>
     <string name="button_text_back">Geri</string>
     <string name="cancel_install">İptal et</string>
@@ -354,6 +359,7 @@
     <string name="general_mode_setting_subtitle">Riskli uygulamaları koruyun ve gizliliği koruyun</string>
     <string name="general_mode_subtitle">Riskli uygulamaları koruyun ve gizliliği koruyun</string>
     <string name="general_mode_title">Normal mod</string>
+    <string name="get_the_app_through_mi_app_store">"Mi App Store'dan uygulama almak cihazınızı güvende tutmanıza yardımcı olur"</string>
     <string name="give_up">Vazgeç</string>
     <string name="gold_mi_prize">Altın Mi ödülü</string>
     <string name="google_application_id" />
@@ -392,6 +398,7 @@
     <string name="isntall_failed_verification_resolve_uggestion">"İlgili uygulamaları yüklemek için lütfen Xiaomi App Store'a gidin"</string>
     <string name="item_view_role_description">Sekme</string>
     <string name="label">Bilgi</string>
+    <string name="learn_bundle_app_install">Paket kurulumunu anla</string>
     <string name="learn_more">Daha fazla bilgi</string>
     <string name="lock_finger">Yüklemek için parmak izini doğrulayın</string>
     <string name="lock_screen_authrioze_subtitle_password">Kilit ekranı şifre yetkilendirmesi</string>
@@ -604,6 +611,8 @@
     <string name="ok">Tamam</string>
     <string name="once_authorize_dialog_message">Uygulama onaylı değil ve güvenlik açısından Xiaomi tarafından incelenmedi. Uygulamaya güveniyorsanız bunu kendi sorumluluğunuzda yapmalısınız</string>
     <string name="once_authorize_dialog_title">"%s'nin kurulum için yetkilendirilip yetkilendirilmeyeceği"</string>
+    <string name="only_get_app_for_mi_store">"Uygulamaları yalnızca Mi App Store'dan ve Mi sertifikalı geliştiricilerden edinin"</string>
+    <string name="only_get_app_for_mi_store_sub">Xiaomi uygulama mağazası ve sertifikalı geliştiriciler tarafından sağlanan uygulamaların tümü sıkı güvenlik uygunluk kontrollerinden geçmiştir</string>
     <string name="open">Aç</string>
     <string name="open_app_install_safe_check">Uygulama güvenlik kontrolünü açın</string>
     <string name="open_app_install_safe_des">Kurulumdan önce uygulamanın olası risklerini belirlemek için yüklenen uygulama güvenlik açısından kontrol edilecektir</string>
@@ -872,6 +881,11 @@
     <string name="pure_introduction_title4">Gizlilik koruması</string>
     <string name="pure_introduction_title5">Dolandırıcılık koruması</string>
     <string name="pure_mode_des">"Güvenli mod haklarınızı daha iyi korumak için Xiaomi'nin güvenliği tarafından incelenmemiş uygulamaların yüklenmesini kısıtlayacaktır"</string>
+	<string name="pure_mode_install_completed_setting"><u>Bu uygulama için yönetim önlemlerini ayarlayın</u></string>
+	<string name="pure_mode_install_completed_tip1">İzlenmeyi önlemek için kişisel cihaz kimliğini gizle</string>
+	<string name="pure_mode_install_completed_tip2">Bağımsız depolama alanı uygulayın ve gizliliği koruyun</string>
+	<string name="pure_mode_install_completed_tip3">Yanlış yüklemeyi önleyin ve uygulamaların yüklenmesini sağlayın</string>
+	<string name="pure_mode_install_completed_tip4">Yanlışlıkla dokunmayı önleyin ve diğer uygulamaları arka planda başlatın</string>
     <string name="pure_mode_open_toast">Güvenli mod açık</string>
     <string name="pure_mode_tip_dialog_des">Lütfen bu kurulumun aktif seçiminiz olduğunu onaylayın</string>
     <string name="pure_mode_tip_dialog_elderly_des">Güvenlik görevlisinde hak ve menfaatlerinizi korumak, depolama alanını işgal eden gereksiz uygulamalardan kaçınmak ve kötü niyetli uygulamalar güvenlik riskleri getirmek amacıyla resmi olmayan kaynaklardan uygulama yüklenmesi yasaklanmıştır</string>
@@ -935,6 +949,12 @@
     <string name="second_recomment_ad_title"><font color="#0BAE73">%1$s</font>yükleyen kullanıcılar şunları da beğendi:</string>
     <string name="secure_mode_app_install_verify">Uygulama güvenliği doğrulaması</string>
     <string name="secure_mode_authority_verification_type">Yetkilendirme doğrulama yöntemi</string>
+	<string name="secure_mode_new_function">Yeni işlev</string>
+	<string name="secure_mode_new_function_1">İzlenmeyi önlemek için kişisel cihaz kimliğini gizle</string>
+	<string name="secure_mode_new_function_2">Gizliliği korumak için bağımsız depolama alanı uygulayın</string>
+	<string name="secure_mode_new_function_3">Yanlış yüklemeyi önleyin ve uygulamaların yüklenmesini sağlayın</string>
+	<string name="secure_mode_new_function_4">Yanlışlıkla dokunmayı önleyin ve diğer uygulamaları arka planda başlatın</string>
+	<string name="secure_mode_new_title">İncelenmemiş uygulamalara karşı kapsamlı koruma</string>
     <string name="secure_mode_open_app_verify_des">Yüklenecek uygulama Xiaomi App Store tarafından incelenmediğinde kimliğinizi yetkilendirip doğruladıktan sonra yüklemeye devam edebilirsiniz</string>
     <string name="secure_mode_security_verify">Uygulama güvenliği doğrulaması</string>
     <string name="secure_verify_close_tip_des">Kapatıldıktan sonra sistem uygulama üzerinde güvenlik kontrolleri yapamaz ve tüm uygulamalar herhangi bir yetkilendirme olmadan doğrudan kurulabilir ve bundan kaynaklanan tüm riskler size aittir. Kapanış şu anda ayarladığınız yetkilendirme yöntemiyle kimlik doğrulama gerektirir</string>
@@ -1004,8 +1024,7 @@ güvenilirlik ve güvenlik"</string>
     <string name="service_mode_advantage_telecom_fraud_protection_subtitle">Telekomünikasyon dolandırıcılık risklerini belirleyin, dolandırıcılık uygulamalarına müdahale edin ve riskli transferleri koruyun</string>
     <string name="service_mode_advantage_telecom_fraud_protection_tip">Telekom dolandırıcılığına karşı korunmanıza yardımcı olur</string>
     <string name="service_mode_advantage_telecom_fraud_protection_title">Telekomünikasyon dolandırıcılık koruması</string>
-    <string name="service_mode_advantage_title">"Her türlü 
-güvenlik görevlisini etkinleştirin"</string>
+    <string name="service_mode_advantage_title">Mi korumayı kullan</string>
     <string name="service_mode_app_error_install">Kötü amaçlı ve reklam uygulamasının yanlış yüklemesini önleme</string>
     <string name="service_mode_app_error_install_summary">Reklam uygulamaları ve kötü amaçlı uygulamalar tarafından reklam indirmeye teşvik edilmemek için resmi olmayan kanallardan uygulama yüklerken istemler verin</string>
     <string name="service_mode_app_security_detection">Uygulama güvenlik kontrolleri</string>
@@ -1025,6 +1044,7 @@ güvenlik görevlisini etkinleştirin"</string>
     <string name="settings_security_mode_recent_install_app">Son yüklenen uygulamalar: %1$s</string>
     <string name="settings_security_mode_service_list_title_off_msg">Aşağıdaki hizmetler sizin için açılacak</string>
     <string name="settings_security_mode_service_list_title_on_msg">Aşağıdaki hizmetler sizin için açıldı</string>
+	<string name="settings_security_mode_service_msg_0">Kişisel kimliği gizleyin, bağımsız depolama alanını etkinleştirin ve hatalı başlatmayı önleyin</string>
     <string name="settings_security_mode_service_msg_1">Üçüncü taraf kaynaklardan güvenli olmayan uygulamaların yüklenmesini kısıtlayın</string>
     <string name="settings_security_mode_service_msg_2">Sistem hasarını önlemek için riskli uygulamaların çalışmasını sınırlayın</string>
     <string name="settings_security_mode_service_msg_3">Gizliliğe aşırı erişimi önlemek için sıkı gizlilik hakları kontrolü</string>
@@ -1034,6 +1054,7 @@ güvenlik görevlisini etkinleştirin"</string>
     <string name="settings_security_mode_service_opening_msg_3">Ödeme güvenliği koruması</string>
     <string name="settings_security_mode_service_opening_msg_4">Gizlilik koruması</string>
     <string name="settings_security_mode_service_opening_msg_5">Mobil dolandırıcılık koruması</string>
+	<string name="settings_security_mode_service_title_0">Güvenlik incelemesi olmayan uygulamalara karşı kapsamlı koruma</string>
     <string name="settings_security_mode_service_title_1">Kötü amaçlı uygulamaların yanlışlıkla yüklenmesini önleyin ve uygulama güvenliğini koruyun</string>
     <string name="settings_security_mode_service_title_2">Sistem güvenliğini korumak için riskli uygulamaları belirleyin ve yönetin</string>
     <string name="settings_security_mode_service_title_3">Uygulamanın gizliliğe erişimini kontrol edin ve kişisel bilgi güvenliğini koruyun</string>

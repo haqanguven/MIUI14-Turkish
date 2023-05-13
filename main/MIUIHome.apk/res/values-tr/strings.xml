@@ -456,6 +456,8 @@
     <string name="friday">Cuma</string>
     <string name="friday_short">Cum</string>
     <string name="friday_shortest">Cum</string>
+    <string name="fsg_assist_enable_summary">Google asistanı kullanmak için ekranın köşesinden kaydırın</string>
+    <string name="fsg_assist_enable_title">Google asistan</string>
     <string name="fsg_mistake_touch_summary">Bazı durumlarda hareketler yalnızca tekrarlandıktan sonra çalışacaktır (Örneğin: Oyun oynarken veya video izlerken)</string>
     <string name="fsg_mistake_touch_title">Hareket doğrulaması</string>
     <string name="gadget_clear_button_label">Temizleyici</string>
@@ -901,6 +903,7 @@ Arttırılmış güvenlik"</string>
     <string name="share">Paylaş</string>
     <string name="sharedUserId" />
     <string name="shortcut_share_dialog_content">Telefonunuzdan gönderdiğiniz dosyalar ve bunların alıcıları sizin tarafınızdan seçilir ve belirlenir. Paylaşılacak dosyaları ve alıcıları seçtiğinizde dikkatli olun. Telefonunuzu herhangi bir virüs, kötü amaçlı yazılım, saatli bomba ve diğer zararlı nesneleri başkalarına aktarmak için kullanamazsınız. Telefonunuzu, alıcının cihazının normal kullanımını etkileyebilecek herhangi bir yazılımı veya mobil terminal cihazlardaki herhangi bir sistem verisine veya kişisel bilgilere zarar verebilecek, engelleyebilecek, araya girmeyecek veya ortadan kaldırabilecek herhangi bir öğeyi iletmek için kullanmayın. Diğer kullanıcıların veya mobil terminal cihazlarının neden olabileceği hasarlardan siz sorumlusunuz. Xiaomi paylaşım işlevselliğinin yanı sıra ilgili teknoloji ve bilgilerin güvenli, etkili, doğru ve güvenilir olmasını sağlamak için elinden geleni yapacaktır. Ancak mevcut teknoloji kısıtlamaları nedeniyle Xiaomi paylaşım işlevselliğinin kusursuz olduğunu ve tüm ihtiyaçlarınızı karşılayacağını garanti etmemektedir</string>
+    <string name="shortcut_share_dialog_content_pad">Telefonunuzdan gönderdiğiniz dosyalar ve bunların alıcıları sizin tarafınızdan seçilir ve belirlenir. Paylaşılacak dosyaları ve alıcıları seçtiğinizde dikkatli olun. Telefonunuzu herhangi bir virüs, kötü amaçlı yazılım, saatli bomba ve diğer zararlı nesneleri başkalarına aktarmak için kullanamazsınız. Telefonunuzu, alıcının cihazının normal kullanımını etkileyebilecek herhangi bir yazılımı veya mobil terminal cihazlardaki herhangi bir sistem verisine veya kişisel bilgilere zarar verebilecek, engelleyebilecek, araya girmeyecek veya ortadan kaldırabilecek herhangi bir öğeyi iletmek için kullanmayın. Diğer kullanıcıların veya mobil terminal cihazlarının neden olabileceği hasarlardan siz sorumlusunuz. Xiaomi paylaşım işlevselliğinin yanı sıra ilgili teknoloji ve bilgilerin güvenli, etkili, doğru ve güvenilir olmasını sağlamak için elinden geleni yapacaktır. Ancak mevcut teknoloji kısıtlamaları nedeniyle Xiaomi paylaşım işlevselliğinin kusursuz olduğunu ve tüm ihtiyaçlarınızı karşılayacağını garanti etmemektedir</string>
     <string name="shortcut_share_dialog_positive_button">Anladım</string>
     <string name="shortcut_share_dialog_title">Uyarı</string>
     <string name="show_all">Tümünü göster</string>
