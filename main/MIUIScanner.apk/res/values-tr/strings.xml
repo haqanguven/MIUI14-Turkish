@@ -749,7 +749,7 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="picture_go_setting">Ayarlara git</string>
     <string name="picture_is_being_saved">Resim kaydediliyor</string>
     <string name="picture_jurisdiction">Hafıza kartını okuma izni reddedildi</string>
-    <string name="picture_know">Anladım</string>
+    <string name="picture_know">Tamam</string>
     <string name="picture_long_chart">Uzun resim</string>
     <string name="picture_message_audio_max_num">En fazla %1$s ses seçebilirsiniz</string>
     <string name="picture_message_max_num">En fazla %1$s fotoğraf seçebilirsiniz</string>

@@ -280,7 +280,7 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="dialog_account_permission_denied_positive_button">Ayarlar</string>
     <string name="dialog_account_permission_denied_title">İzin gerekli</string>
     <string name="dialog_keep_choice">Seçimi hatırla</string>
-    <string name="dialog_open_mi_drive_button">Anladım</string>
+    <string name="dialog_open_mi_drive_button">Tamam</string>
     <string name="dialog_open_mi_drive_err">"Mi sürücü'yü yeniden başlatın ve tekrar deneyin"</string>
     <string name="dialog_open_mi_drive_title">Sunucu hatası</string>
     <string name="dialog_select_type">Tür seçin</string>

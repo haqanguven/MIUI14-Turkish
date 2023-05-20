@@ -242,7 +242,7 @@
     <string name="friday_short">Cuma</string>
     <string name="friday_shortest">C</string>
     <string name="head_set_tip_dialog_msg">Özel ön ayarları kullanarak ses kaydetmek için kulaklıkları çıkartın (Örneğin: Müzik veya ses)</string>
-    <string name="head_set_tip_dialog_ok">Anladım</string>
+    <string name="head_set_tip_dialog_ok">Tamam</string>
     <string name="head_set_tip_dialog_title">Dahili mikrofonu kullanın</string>
     <string name="heavenly_stems_bing">3</string>
     <string name="heavenly_stems_ding">4</string>
@@ -548,7 +548,7 @@
     <string name="recording_timer_format_four_sections" formatted="false">%02d:%02d:%02d.%02d</string>
     <string name="recording_timer_format_three_sections" formatted="false">%02d:%02d.%02d</string>
     <string name="recovery">Geri yükle</string>
-    <string name="recovery_failed_dialog_button">Anladım</string>
+    <string name="recovery_failed_dialog_button">Tamam</string>
     <string name="recovery_failed_dialog_title">Uyarı</string>
     <string name="remove_icon_description_content">Ses kaydedici bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra kayıtları yönetemeyeceksiniz</string>
     <string name="remove_icon_description_title">Ses kaydedici ana ekrandan kaldırılsın mı?\"</string>

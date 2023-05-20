@@ -1093,7 +1093,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="finish">Bitti</string>
     <string name="firstUsingSearchEngineTips">Arama motoru değiştirilsin mi?</string>
     <string name="fling_on_border_gesture_hint">Ayarlar menüsünde bu hareketin işlevini seçebilirsiniz</string>
-    <string name="fm_guide_btn">Anladım</string>
+    <string name="fm_guide_btn">Tamam</string>
     <string name="fm_guide_msg">Tarayıcı kullanarak yerel videoları, şarkıları ve resimleri düzenleyebilirsiniz</string>
     <string name="fmt_chinese_date">N-e</string>
     <string name="fmt_date">D</string>
@@ -1248,7 +1248,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="general__shared__exit_title">"Wonderfic'ten şimdi çıkılsın mı?"</string>
     <string name="general__shared__exit_unlock_page_login_reward">Oturum açın</string>
     <string name="general__shared__favourite">Favoriler</string>
-    <string name="general__shared__iknow">Anladım</string>
+    <string name="general__shared__iknow">Tamam</string>
     <string name="general__shared__installing">Yükleniyor</string>
     <string name="general__shared__insufficient_space">Cep telefonu alanı yetersiz. Lütfen temizleyin ve tekrar deneyin</string>
     <string name="general__shared__invaild_book">Bu kitap mevcut değil</string>
@@ -1346,7 +1346,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="googlepay_anonymous_merge_dialog_cancel">İptal et</string>
     <string name="googlepay_anonymous_merge_dialog_summary">Tüm satın alma işlemlerini Google hesabınızla ilişkilendirmek için oturum açın. Bundan sonra bunlara farklı cihazlardan erişebileceksiniz</string>
     <string name="googlepay_anonymous_merge_dialog_title">Google ile oturum açın</string>
-    <string name="got_it">Anladım</string>
+    <string name="got_it">Tamam</string>
     <string name="goto_browser">Gözat</string>
     <string name="goto_setting">Ayarlar</string>
     <string name="goto_sign_up">Hesap oluştur</string>
@@ -2121,7 +2121,7 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="permission_for_login">Oturum açmak ve yer imlerini senkronize etmek için</string>
     <string name="permission_for_mic">Sesli arama için</string>
     <string name="permission_for_storage">İndirme işlemleri için</string>
-    <string name="permission_known">Anladım</string>
+    <string name="permission_known">Tamam</string>
     <string name="permission_location">Konum</string>
     <string name="permission_mic">Mikrofon</string>
     <string name="permission_non_essential">İsteğe bağlı izinler</string>
@@ -2231,7 +2231,7 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="personal__feedback_refresh_payment_failed">İşlem tamamlanamadı</string>
     <string name="personal__feedback_refresh_payment_failed_hint">Tekrar denemek için yenileye dokunun</string>
     <string name="personal__feedback_refresh_refresh">Yenile</string>
-    <string name="personal__feedback_refresh_success_got_it">Anladım</string>
+    <string name="personal__feedback_refresh_success_got_it">Tamam</string>
     <string name="personal__feedback_refresh_success_title">Başarıyla yenilendi</string>
     <string name="personal__join_activity_title">Harika Yazar</string>
     <string name="personal__join_hint_book_delete_btn">Sil</string>
@@ -2297,7 +2297,7 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="personal__running_download_tasks_view__ticker">%s indiriliyor</string>
     <string name="personal__settings_recruit_content">Bir Wonderfic yazarı olmak istiyorsanız veya halihazırda yayınlamak istediğiniz tamamlanmış bir romanınız varsa bize bir satır bırakmaktan çekinmeyin: wonderwebfiction@gmail.com. yetenek</string>
     <string name="personal__settings_recruit_contract_writer">Kitabınızı yayınlayın</string>
-    <string name="personal__settings_recruit_ok">Anladım</string>
+    <string name="personal__settings_recruit_ok">Tamam</string>
     <string name="personal__settings_recruit_title">Merhaba</string>
     <string name="personal__simple_feedback_controller__qq_group_line">lütfen müşteri hizmetleri QQ grubunu ekleyin: 218026505</string>
     <string name="personal__statistics_view__time_0">0:00</string>
@@ -3126,7 +3126,7 @@ Anahtar kelimenizi değiştirmeyi denediniz mi?"</string>
     <string name="sendstartpage">Başlangıç sayfası</string>
     <string name="sensitive_permissions_prompt_allow">Bir kez izin ver</string>
     <string name="sensitive_permissions_prompt_close">Durdur</string>
-    <string name="sensitive_permissions_prompt_close_konw">Anladım</string>
+    <string name="sensitive_permissions_prompt_close_konw">Tamam</string>
     <string name="sensitive_permissions_prompt_confirm_title">Güvenlik riski uyarısı</string>
     <string name="sensitive_permissions_prompt_download_message">İnternet sitesi güvenli olmayabilecek bir uygulama indirmek üzere. Bu işlem durdurulsun mu?</string>
     <string name="sensitive_permissions_prompt_download_title">Bilinmeyen bir uygulamayı indirme</string>
@@ -3582,7 +3582,7 @@ Ayarlar > Gizlilik &amp; güvenlik menüsünden her zaman vazgeçebilirsiniz"</s
     <string name="vibrate_permission_name">Titreşim kullan</string>
     <string name="video_collection_click_view">Favorilere eklediğiniz videolar burada</string>
     <string name="video_collection_empty">Burada henüz video yok</string>
-    <string name="video_collection_known">Anladım</string>
+    <string name="video_collection_known">Tamam</string>
     <string name="video_collection_view">Görüntüle</string>
     <string name="video_download_complete">Video başarıyla indirildi</string>
     <string name="video_downloader_edit_hint">"Video indirmek için bağlantı adresini yapıştırın. Örneğin:

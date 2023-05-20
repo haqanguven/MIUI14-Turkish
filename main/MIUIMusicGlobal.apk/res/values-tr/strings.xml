@@ -121,7 +121,7 @@
     <string name="app_disable_description_title">Sistem uygulaması devre dışı bırakılsın mı?</string>
     <string name="app_label">Müzikler</string>
     <string name="app_name">Müzikler</string>
-    <string name="app_permission_confirm">Anladım</string>
+    <string name="app_permission_confirm">Tamam</string>
     <string name="app_permission_optional">İsteğe bağlı izinler</string>
     <string name="app_permission_require">Zorunlu izinler</string>
     <string name="app_permission_use_desc">İzinler</string>

@@ -114,7 +114,7 @@
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="close">Kapat</string>
-    <string name="complete_dialog_button">Anladım</string>
+    <string name="complete_dialog_button">Tamam</string>
     <string name="complete_dialog_message">Testi başarıyla tamamladınız</string>
     <string name="complete_dialog_title">Test sonuçları</string>
     <string name="copy">Kopyala</string>
@@ -589,7 +589,7 @@
     <string name="sound_id_delete_effect_dialog_msg">Bu kişiselleştirilmiş ses kalıcı olarak silinsin mi?</string>
     <string name="sound_id_delete_effect_dialog_positive">Sil</string>
     <string name="sound_id_delete_effect_dialog_title">Kişiselleştirilmiş sesi sil</string>
-    <string name="sound_id_dialog_exit_headset_disconnect">Anladım</string>
+    <string name="sound_id_dialog_exit_headset_disconnect">Tamam</string>
     <string name="sound_id_dialog_headset_disconnect_title">Kulaklıklarınızı bağlayın</string>
     <string name="sound_id_dialog_msg_bt_disconnect">"%s'yi açın ve onları bu cihaza yakın tutun"</string>
     <string name="sound_id_dialog_msg_wire_headset_disconnect">%s'yi bu cihaza bağlayın</string>

@@ -92,7 +92,7 @@ Tekrar deneyin"</string>
     <string name="btn_retry">Tekrar kontrol et</string>
     <string name="btn_skip">Bu adımı atla</string>
     <string name="button_cancel">İptal et</string>
-    <string name="button_confirm">Anladım</string>
+    <string name="button_confirm">Tamam</string>
     <string name="button_delete">Sil</string>
     <string name="button_next">Sonraki</string>
     <string name="can_not_backup_in_lite_mode">Yaşlı modunda yedeklenemiyor</string>
@@ -268,11 +268,11 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="dialog_app_usage_denied">Öğeleri yedekleyebilmek için ayarlardan yedeklemeye kullanım erişimi izni verin</string>
 	<string name="dialog_auto_backup_condition_normal_content">"Tüm önemli öğeleri otomatik olarak düzenli olarak yedekleyebilmek için yeterli bulut depolama alanınız olduğundan ve bu cihazın kilitli olduğundan %s pilin üzerinde olduğundan ve wifi'ye bağlı olduğundan emin olun. Ayrıca istediğiniz zaman manuel olarak da yedekleyebilirsiniz"</string>
 	<string name="dialog_auto_backup_condition_normal_content_china">"Tüm önemli öğeleri otomatik olarak düzenli olarak yedekleyebilmek için yeterli bulut depolama alanınız olduğundan ve bu cihazın kilitli olduğundan, %s pilin üzerinde olduğundan ve geceleri wifi'e bağlı olduğundan emin olun. Ayrıca istediğiniz zaman manuel olarak da yedekleyebilirsiniz"</string>
-	<string name="dialog_auto_backup_condition_normal_positive">Anladım</string>
+	<string name="dialog_auto_backup_condition_normal_positive">Tamam</string>
 	<string name="dialog_auto_backup_condition_normal_title">Öğelerinizi yedekleyin</string>
     <string name="dialog_backup_failed">Yedeklenemedi</string>
     <string name="dialog_btn_cancel_backup">İptal et</string>
-    <string name="dialog_btn_confirm2">Anladım</string>
+    <string name="dialog_btn_confirm2">Tamam</string>
     <string name="dialog_btn_enter">Ayarlar</string>
     <string name="dialog_btn_next">İleri</string>
     <string name="dialog_btn_overwrite_backup">Üzerine yaz</string>
@@ -297,7 +297,7 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="dialog_positive_btn_cancel_restore">Durdurma</string>
 	<string name="dialog_recommend_wechat_backup_content">"Artık WeChat konuşmalarını ve diğer verileri Xiaomi bulut'a yedekleyebilirsiniz. Öğelerinizi yedekleyebilmek için yeterli bulut depolama alanınız olduğundan ve bu cihazın kilitli olduğundan %s'den fazla pili olduğundan ve geceleri wifi'e bağlı olduğundan emin olun. Ayrıca istediğiniz zaman manuel olarak da yedekleyebilirsiniz"</string>
 	<string name="dialog_recommend_wechat_backup_content_china">"Artık WeChat konuşmalarını ve diğer verileri Xiaomi bulut'a yedekleyebilirsiniz. Öğelerinizi yedekleyebilmek için yeterli bulut depolama alanınız olduğundan ve bu cihazın kilitli olduğundan, %s'den fazla pili olduğundan ve geceleri wifi'e bağlı olduğundan emin olun. Ayrıca istediğiniz zaman manuel olarak da yedekleyebilirsiniz"</string>
-	<string name="dialog_recommend_wechat_backup_negative">Anladım</string>
+	<string name="dialog_recommend_wechat_backup_negative">Tamam</string>
 	<string name="dialog_recommend_wechat_backup_positive">Daha fazla bilgi edinin</string>
 	<string name="dialog_recommend_wechat_backup_title">WeChat verilerini yedekleyin</string>
     <string name="dialog_title_cancel_backup">Yedeklemeyi iptal et</string>

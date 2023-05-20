@@ -356,7 +356,7 @@
     <string name="keybag_set_password_content">Şifre yöneticisini kullanabilmek için bir şifre belirleyin. Bu şifre cihazları değiştirirseniz kimliğinizi doğrulamamıza izin verir</string>
     <string name="keybag_set_password_negative">Ayarla</string>
     <string name="keybag_set_password_positive">Ekran kilidini kullan</string>
-    <string name="keybag_set_password_success_get">Anladım</string>
+    <string name="keybag_set_password_success_get">Tamam</string>
     <string name="keybag_set_password_success_tip">Başarıyla ayarlayın. Şifrelenmiş öğelere erişebilmek için bu şifreyi diğer cihazlarda girmeniz gerekir</string>
     <string name="keybag_set_password_title">Dikkat</string>
     <string name="ks_certificate_udpate_time">Sertifika güncelleme</string>
@@ -553,7 +553,7 @@
     <string name="micloud_privacy_warning_content">Xiaomi bulut hizmetleri açılamıyor. Bir ya da iki dakika bekleyin ve tekrar deneyin</string>
     <string name="micloud_privacy_warning_title">Dikkat</string>
     <string name="micloud_proceed">Devam et</string>
-    <string name="micloud_request_permission_confirm">Anladım</string>
+    <string name="micloud_request_permission_confirm">Tamam</string>
     <string name="micloud_request_permission_content">"Xiaomi bulut verileri senkronize edebilmek için izine ihtiyaç duymaktadır. Xiaomi bulut'un takvim, kişiler, Mi hesabı, Sim kart durumu, arama geçmişi ve mesajlara erişimine izin verin"</string>
     <string name="micloud_request_permission_content_pad">Takvim etkinliklerini, kişileri, mesajları, fotoğrafları, videoları ve diğer öğeleri senkronize edebilmek için Xiaomi bulutun takviminize, kişilerinize, hesaplarınıza, Sim durumunuza, mesajlarınıza, fotoğraflarınıza ve videolarınıza erişme izinlerine ihtiyacı var</string>
     <string name="micloud_request_permission_content_pad_without_contact_but_sim">Takvim etkinliklerini, mesajları, fotoğrafları, videoları ve diğer öğeleri senkronize edebilmek için Xiaomi bulutun takviminize, hesaplarınıza, Sim durumunuza, mesajlarınıza, fotoğraflarınıza ve videolarınıza erişme izinlerine ihtiyacı var</string>
@@ -814,7 +814,7 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir"</string>
     <string name="share_cancel">Paylaşım iptal edildi</string>
     <string name="share_failed">Paylaşılamadı</string>
     <string name="share_location_app_name">Bul</string>
-    <string name="share_location_dialog_confirm">Anladım</string>
+    <string name="share_location_dialog_confirm">Tamam</string>
     <string name="share_location_dialog_content">Artık ayarlara daha hızlı erişmek için ana ekran kısayolunu kullanabilirsiniz</string>
     <string name="share_location_dialog_title">Dikkat</string>
     <string name="share_location_guide1_desc">Kayıp cihazlardaki verileri bulun, kilitleyin ve silin</string>
@@ -878,7 +878,7 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir"</string>
     <string name="share_sdk_invite_way_wechat_summary">Kişi veya grupları davet edin</string>
     <string name="share_sdk_invite_way_wechat_title">WeChat ile davet et</string>
     <string name="share_sdk_member_info_title">Üye bilgileri</string>
-    <string name="share_sdk_normal_invite_success_btn_text">Anladım</string>
+    <string name="share_sdk_normal_invite_success_btn_text">Tamam</string>
     <string name="share_sdk_normal_invite_success_title">Davet gönderildi</string>
     <string name="share_sdk_operation_success">Bitti</string>
     <string name="share_sdk_permission_checked_error">En az 1 öğe seçin</string>

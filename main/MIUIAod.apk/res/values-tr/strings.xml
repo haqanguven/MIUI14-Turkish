@@ -96,7 +96,7 @@ EE"</string>
 	<string name="bottomsheet_action_expand_halfway">Yarıya kadar genişlet</string>
 	<string name="bottomsheet_drag_handle_clicked">Sürükleme tutamacına çift dokunarak</string>
 	<string name="bottomsheet_drag_handle_content_description">Sürükleme tutamacı</string>
-    <string name="btn_know">Anladım</string>
+    <string name="btn_know">Tamam</string>
     <string name="cancel">İptal et</string>
     <string name="character_counter_content_description">"Karakter sınırı %1$d/%2$d'yi aştı"</string>
     <string name="character_counter_overflowed_content_description">"Karakter sınırı %1$d / %2$d'yi aştı"</string>

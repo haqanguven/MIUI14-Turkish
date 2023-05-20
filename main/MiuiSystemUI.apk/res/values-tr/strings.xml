@@ -1266,7 +1266,7 @@ Başka bir Sim kart için kablosuz servis sağlayıcınıza başvurun"</string>
     <string name="legacy_vpn_name">Vpn</string>
 	<string name="letterbox_education_dialog_subtext">Alanınızdan en iyi şekilde yararlanmak için bu seçeneklerden birini deneyin</string>
 	<string name="letterbox_education_dialog_title">Bazı uygulamalar en iyi portrede çalışır</string>
-	<string name="letterbox_education_got_it">Anladım</string>
+	<string name="letterbox_education_got_it">Tamam</string>
 	<string name="letterbox_education_reposition_text">Bir uygulamayı yeniden konumlandırmak için yanına çift dokunun</string>
 	<string name="letterbox_education_screen_rotation_text">Tam ekrana geçmek için cihazınızı döndürün</string>
     <string name="loading_injected_setting_summary">Yükleniyor</string>

@@ -104,7 +104,7 @@
     <string name="et_cardmode_location_cell">Hücreyi konumlandır</string>
     <string name="et_cardmode_tips_content1">Tablo filtre içeriyor</string>
     <string name="et_cardmode_tips_content2">6 sütun ≤ siltre alanı ≤ 200 sütun</string>
-    <string name="et_cardmode_tips_iknow">Anladım</string>
+    <string name="et_cardmode_tips_iknow">Tamam</string>
     <string name="et_cardmode_tips_line_num">Satır %d verileri</string>
     <string name="et_cardmode_tips_title">Özellik şu anda müsait değil</string>
     <string name="et_cardmode_tips_vtitle">Bu özellik aşağıdaki koşullar sağlandığında kullanılabilir</string>

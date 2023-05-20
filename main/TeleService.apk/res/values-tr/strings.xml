@@ -1930,7 +1930,7 @@ UT arayüzü: %5$s"</string>
     <string name="single_fiveg_deactivate_sim_dialog_title_select_deactivate_sim">"Devre dışı bırakmak için Sim'i seçin"</string>
     <string name="single_fiveg_dialog_title_prompt">Dikkat</string>
     <string name="single_fiveg_dialog_title_remind">Dikkat</string>
-    <string name="single_fiveg_disable_fiveg_dialog_btn_getit">Anladım</string>
+    <string name="single_fiveg_disable_fiveg_dialog_btn_getit">Tamam</string>
     <string name="single_fiveg_disable_fiveg_dialog_msg_disable_fiveg">5G şebekeleri için yalnızca bir Sim kart etkinleştirilebilir. Önce veri Siminiz için farklı bir ağ türü seçin</string>
     <string name="single_fiveg_dual_sim_dialog_btn_deactivate_sim">Sim kartı devre dışı bırak</string>
     <string name="single_fiveg_dual_sim_dialog_btn_enable_dual_sims">Çift Sim kullanın</string>
@@ -2265,8 +2265,8 @@ Durum çubuğunda görürseniz VoLTE aramaları mevcut değildir. Arama yapamıy
 
 Bu tabletin bir kulaklığı yok. Eller serbest moduna geçebilir veya arama yapmak için kulaklık kullanabilirsiniz"</string>
     <string name="voice_service_warning_dialog_cancel">İptal et</string>
-    <string name="voice_service_warning_dialog_ok">Anladım</string>
-    <string name="voice_service_warning_dialog_ok_timer">Anladım (%d)</string>
+    <string name="voice_service_warning_dialog_ok">Tamam</string>
+    <string name="voice_service_warning_dialog_ok_timer">Tamam (%d)</string>
     <string name="voice_service_warning_dialog_title">VoLTE aramalar</string>
     <string name="voicemail">Sesli mesaj</string>
     <string name="voicemail_abbreviated">VM:</string>

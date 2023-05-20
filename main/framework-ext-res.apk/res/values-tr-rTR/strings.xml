@@ -363,8 +363,8 @@
     <string name="popup_camera_hid_device_name">Android</string>
     <string name="popup_camera_popup_falied_times_calibrate">Ön kamera birden çok kez açılamadı. Kamerayı kalibre etmeyi deneyin</string>
     <string name="popup_camera_remove_hid_device">Cihazınız bir oyun kumandasına bağlı gibi görünüyor. Bir oyun kumandası bağlandığında ön kamerayı açamayabilirsiniz</string>
-    <string name="popup_camera_sure">Anladım</string>
-    <string name="popup_camera_sure_wait">Anladım (%d saniye)</string>
+    <string name="popup_camera_sure">Tamam</string>
+    <string name="popup_camera_sure_wait">Tamam (%d saniye)</string>
     <string name="popup_camera_takeback_falied_times_calibrate">Ön kamera birkaç kez kapatılamadı. Kamerayı kalibre etmeyi deneyin</string>
     <string name="popup_camera_tip">Dikkat</string>
     <string name="popup_camera_using_camera_background">%s ön kamerayı kullanıyor</string>

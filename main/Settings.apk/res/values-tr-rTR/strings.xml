@@ -381,7 +381,7 @@ Sadece tasarımların nasıl geldiğini kontrol etmek istedim. Yeni balonları i
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Ekran büyütmeyi otomatik güncelle</string>
     <string name="accessibility_touch_vibration_title">Dokunma titreşimi</string>
     <string name="accessibility_turn_screen_darker_title">Ekranı koyulaştır</string>
-    <string name="accessibility_tutorial_dialog_button">Anladım</string>
+    <string name="accessibility_tutorial_dialog_button">Tamam</string>
     <string name="accessibility_tutorial_dialog_message_button">"Bu özelliği açmak veya kapatmak için ekranınızın altındaki erişilebilirlik düğmesine %s dokunun
 
 Özellikler arasında geçiş yapmak için erişilebilirlik düğmesine dokunup basılı tutun"</string>
@@ -1966,7 +1966,7 @@ Oynatma kalitesi"</string>
     <string name="bootloader_tips">"%s
 
 Yukarıdakilerin herhangi birini yaptıysanız Mi hesabınızı tekrar ekleyin. Aksi taktirde cihazınızın kilidini açamazsınız"</string>
-    <string name="bootloader_tips_ok">Anladım</string>
+    <string name="bootloader_tips_ok">Tamam</string>
     <string name="bootloader_tips_warning">Ağ bağlantınızı kesmeyin, Mi hesabınızın oturumunu kapatmayın, fabrika ayarlarına geri döndürmeyin veya sistem verilerini silmeyin</string>
     <string name="bottom_function_settings">Ek düğmelerin işlevleri</string>
     <string name="bottomsheet_action_expand_halfway">Yarım genişlet</string>
@@ -3094,7 +3094,7 @@ Bu uygulama için konum bilgisi özelliğini kapatarak bu sorunu çözebilirsini
     <string name="dialog_softbank_esim_wipe_title">eSim verilerini temizle</string>
     <string name="dialog_softbank_esime_context">"eSim'i etkinleştirebilmek için bu cihazın internete bağlanması gerekir. eSim aktivasyonu da atlansın mı?"</string>
     <string name="dialog_softbank_esime_title">eSim aktivasyonunu atla</string>
-    <string name="dialog_speaker_auto_clean_button">Anladım</string>
+    <string name="dialog_speaker_auto_clean_button">Tamam</string>
     <string name="dialog_speaker_auto_clean_content">Temizleme 30 saniye sürer. Bu sayfadan ayrılmayın. En iyi etki için ses seviyesini en üst düzeye çıkarın</string>
     <string name="dialog_speaker_auto_clean_content_new">Hoparlörü temizleyecek sesi çalmak üzeresiniz. En iyi etki için sesi maksimuma ayarlayın.</string>
     <string name="dialog_speaker_auto_clean_title">Dikkat</string>
@@ -3332,7 +3332,7 @@ Bu durum sürekli meydana geliyorsa pil performansını iyileştirmek için uygu
     <string name="dual_clock">Çift saat</string>
     <string name="dual_clock_aod_open_message">Çift saat, kilit ekranı, ana ekran ve kapalı ekranda gösterilir</string>
     <string name="dual_clock_hint">Çift saat uygulaması sistem saat aracını ve varsayılan temayı gerektirmektedir</string>
-    <string name="dual_clock_ok">Anladım</string>
+    <string name="dual_clock_ok">Tamam</string>
     <string name="dual_clock_open_message">Çift saat, kilit ekranı ve ana ekranda gösterilir</string>
     <string name="dual_setting_simcard1">Sim 1</string>
     <string name="dual_setting_simcard2">Sim 2</string>
@@ -4107,7 +4107,7 @@ Otomatik yedeklemeyi açtığınızda cihaz ve uygulama verileri periyodik olara
     <string name="google_pay">Google ödeme</string>
     <string name="google_service_title">Google hizmetleri</string>
     <string name="google_title">Google</string>
-    <string name="got_it">Anladım</string>
+    <string name="got_it">Tamam</string>
     <string name="gps_description">Birden fazla uydu navigasyon sistemi desteklenir (GPS, BeiDou, GLONASS, Galileo)</string>
     <string name="gps_description_global">Xiaomi cihazları GPS, NavIC, BeiDou, GLONASS ve Galileo gibi çoklu navigasyon sistemleriyle uyumludur</string>
     <string name="graphics_driver_all_apps_preference_title">Tüm uygulamalar</string>
@@ -4148,7 +4148,7 @@ Otomatik yedeklemeyi açtığınızda cihaz ve uygulama verileri periyodik olara
     <string name="guest_reset_guest_confirm_button">Sıfırla</string>
     <string name="guest_reset_guest_dialog_title">Misafir oturumu sıfırlansın mı?</string>
     <string name="guest_resetting">Misafir oturumu sıfırlanıyor</string>
-    <string name="guide_button_text">Anladım</string>
+    <string name="guide_button_text">Tamam</string>
     <string name="guide_text_center">"Ekranın ortasında sağa kaydırın
 Ekran kilidinizi onaylayabileceğiniz alan ortaya hizalanacaktır"</string>
     <string name="guide_text_left">"Sol alt köşeden düz yukarı kaydırın
@@ -4164,7 +4164,7 @@ Ekran kilidinizi onaylayabileceğiniz alan sağa hareket edecektir"</string>
     <string name="gxzw_add_fingerprint_edge_title">Tutuşunuzu ayarlayın</string>
     <string name="gxzw_add_fingerprint_finish">Bitti</string>
     <string name="gxzw_add_fingerprint_indicate">Bu bölgeye hafifçe bastırın</string>
-    <string name="gxzw_add_fingerprint_know">Anladım</string>
+    <string name="gxzw_add_fingerprint_know">Tamam</string>
     <string name="gxzw_add_fingerprint_message">Parmağınızın ve ekranın temiz olduğundan emin olun</string>
     <string name="gxzw_add_fingerprint_move_indicate">Parmağınızı hafifçe kaldırın</string>
     <string name="gxzw_add_fingerprint_move_message">Parmak izinizin tüm kısımlarını kaydetmek için parmağınızı hareket ettirin</string>
@@ -4186,7 +4186,7 @@ Ekran kilidinizi onaylayabileceğiniz alan sağa hareket edecektir"</string>
     <string name="gxzw_aod_show_tittle">Ekran kapalıyken parmak izi simgesini göster</string>
     <string name="gxzw_dialog_message">Ekran içi parmak izi sensörünü düzgün kullanabilmek için ekran koruyucu malzemeleri kullanmayın. Eğer bir ekran koruyucunun gerekli olduğunu düşünüyorsanız uyumlu seçeneklerden birini seçin</string>
     <string name="gxzw_dialog_not_show_again">Tekrar gösterme</string>
-    <string name="gxzw_dialog_ok">Anladım</string>
+    <string name="gxzw_dialog_ok">Tamam</string>
     <string name="gxzw_dialog_title">Ekran içi parmak izi sensörü hakkında</string>
     <string name="gxzw_enroll_again">Parmağınızı kaldırın ve parmak izi tarayıcısına tekrar basın</string>
     <string name="gxzw_lowlight_open_summary">Düşük ışık koşullarında parmak izi simgesinin parlaklığını azaltın. Bu özellik açıkken cihazınızın kilidi daha yavaş açılabilir</string>
@@ -4422,7 +4422,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="infinity_display_settings">Tam ekran</string>
     <string name="infinity_display_slogan">Tam ekran yeniliği</string>
     <string name="infinity_display_title">Tam ekran hareketleri</string>
-    <string name="information_dialog_button_text">Anladım</string>
+    <string name="information_dialog_button_text">Tamam</string>
     <string name="information_label">Bilgi</string>
     <string name="ingress_rate_limit_dialog_title">Ağ indirme hızı sınırını yapılandırın</string>
     <string name="ingress_rate_limit_no_limit_entry">Limit yok</string>
@@ -5748,7 +5748,7 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="miui_sos_hospital_card">Tıbbi kart</string>
     <string name="miui_sos_hospital_card_important_info">İlk müdahale ekipleri için acil tıbbi bilgileriniz</string>
     <string name="miui_sos_launch_error">Acil durum araması etkinleştirilemedi</string>
-    <string name="miui_sos_launch_error_confirm">Anladım</string>
+    <string name="miui_sos_launch_error_confirm">Tamam</string>
     <string name="miui_sos_launch_error_message">Mobil ağa bağlanılamıyor. Acil durum araması kullanılamıyor</string>
     <string name="miui_sos_launching_summary">%d saniye içinde acil durum araması etkinleştiriliyor</string>
     <string name="miui_sos_launching_title">Acil durum</string>
@@ -6199,7 +6199,7 @@ Cihazınızı yeniden başlatın ve tekrar deneyin"</string>
     <string name="nfc_dnd_mode_summary">Sınırlı sayıda NDEF etiketiyle NFC etiketlerine yanıt verin</string>
     <string name="nfc_dnd_mode_title">NFC rahatsız etme</string>
     <string name="nfc_how_it_works_content">Ödeme uygulaması kurun. Ardından telefonunuzun arka tarafını temassız işlem sembolünün olduğu herhangi bir ödeme noktasına doğru tutmanız yeterli olacaktır</string>
-    <string name="nfc_how_it_works_got_it">Anladım</string>
+    <string name="nfc_how_it_works_got_it">Tamam</string>
     <string name="nfc_how_it_works_title">Kasada ödeme</string>
     <string name="nfc_image_preference_text_click">Bu cihazda NFC anten alanının nerede olduğunu kontrol edin</string>
     <string name="nfc_image_preference_text_noclick">"Mi ödeme, taşıma kartları, anahtar kartlar ve diğer NFC özelliklerini kullanmak için cihazınızı temassız bir terminalin yanına yerleştirin. "</string>
@@ -8987,7 +8987,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine bu ^4 birimini taşın
     <string name="structure_face_delete_data_dialog_title">Kamera başlatılamadı</string>
     <string name="structure_face_enroll_not_able_low_electric_itle">Düşük pil nedeniyle bu özellik kullanılamaz</string>
     <string name="structure_face_enroll_not_able_low_electric_msg">Kayda başlamak için pilin en az %5 şarj edilmiş olması gerekir</string>
-    <string name="structure_face_hardware_abnormal_btn">Anladım</string>
+    <string name="structure_face_hardware_abnormal_btn">Tamam</string>
     <string name="structure_face_hardware_abnormal_msg">"Bir donanım hatası oluştu. Cihazınızı yeniden başlatın. Bu işe yaramazsa yardım almak için 400–100–5678'i arayın"</string>
     <string name="structure_face_hardware_abnormal_title">Donanım hatası</string>
     <string name="structure_face_modules_abnormal_btn">Yeniden başlat</string>
@@ -9495,8 +9495,8 @@ Google'nin kişilerinize, randevularınıza ve diğer bilgilerinize istediğiniz
     <string name="turn_on_keyguard_password_alert">Şifrenizi hatırlayın. Şifrenizi unutursanız şifrenizi sıfırlayamazsınız</string>
     <string name="turn_on_keyguard_password_alert_choose">Şifrenizi hatırlayın. Şifrenizi unutursanız yeni bir şifre ayarlamak için cihazınızdaki tüm verileri silmeniz gerekecektir</string>
     <string name="turn_on_keyguard_password_alert_foget_cacel">Şimdi değil</string>
-    <string name="turn_on_keyguard_password_alert_foget_ok">Anladım</string>
-    <string name="turn_on_keyguard_password_alert_foget_ok_time">Anladım (%d saniye)</string>
+    <string name="turn_on_keyguard_password_alert_foget_ok">Tamam</string>
+    <string name="turn_on_keyguard_password_alert_foget_ok_time">Tamam (%d saniye)</string>
     <string name="turn_on_keyguard_password_alert_forget_content">Kilit ekranı şifrenizi unutmayın. Şifrenizi unutursanız cihazınızdaki tüm verileri fotoğraflarınız ve kişileriniz ile birlikte silmeniz ve yeni bir şifre ayarlamanız gerekecektir</string>
     <string name="turn_on_keyguard_password_alert_forget_title">Şifrenizi hatırlayın</string>
     <string name="turn_on_security_lock">Ekran kilidi seçin</string>
@@ -9644,7 +9644,7 @@ Bu özelliği kapatmak cihazınızın sistem güncellemeleri ve güvenlik gibi t
     <string name="usage_access">Kullanım erişimi</string>
     <string name="usage_access_description">Kullanım erişimi bir uygulamanın başka hangi uygulamaları ne sıklıkta kullandığınızı ayrıca operatörünüzü dil ayarlarınızı ve diğer ayrıntıları takip etmesine izin verir</string>
     <string name="usage_access_title">Erişimi olan uygulamalar</string>
-    <string name="usage_app_get_it">Anladım</string>
+    <string name="usage_app_get_it">Tamam</string>
     <string name="usage_app_limit_alter_summary">Görüşüne göre bu süre limiti bu uygulamayı bugün kullandığınız süreden daha kısa. Limit yine de ayarlansın mı?</string>
     <string name="usage_app_limit_alter_title">Ekran süresi limitini kontrol et</string>
     <string name="usage_app_limit_prelong">Zamanı uzat</string>
@@ -9740,7 +9740,7 @@ Bu özelliği kapatmak cihazınızın sistem güncellemeleri ve güvenlik gibi t
     <string name="usagestats_device_notification_title">Ekran süresi uyarısı</string>
     <string name="usagestats_device_timeout_des" formatted="false">Cihazınızı bugün %d saat %d dakika kullandınız. Biraz dinlenin</string>
     <string name="usagestats_device_timeout_negative">1 saat içinde hatırlat</string>
-    <string name="usagestats_device_timeout_positive">Anladım</string>
+    <string name="usagestats_device_timeout_positive">Tamam</string>
     <string name="usagestats_device_timeout_title">Ekran süresi uyarısı</string>
     <string name="usb_adb_input">USB hata ayıklama (Güvenlik ayarları)</string>
     <string name="usb_adb_input_desc">İzin sağlama ve USB hata ayıklama modunda simüle etme izni verin</string>
@@ -9759,7 +9759,7 @@ Bu özelliği kapatmak cihazınızın sistem güncellemeleri ve güvenlik gibi t
     <string name="usb_file_transfer_title">Dosya aktarım seçenekleri</string>
     <string name="usb_format">USB depolama birimini temizle</string>
     <string name="usb_format_summary">USB depolama biriminde kayıtlı tüm verileri sil</string>
-    <string name="usb_headset_not_support_cancel">Anladım</string>
+    <string name="usb_headset_not_support_cancel">Tamam</string>
     <string name="usb_headset_not_support_message">"USB analog kulaklıklar desteklenmemektedir. Lütfen dijital kulaklıkları değiştirin
 veya kulaklıklara erişmek için 3.5mm kulaklık jakı kullanın"</string>
     <string name="usb_headset_not_support_tile">Kulaklık tanıma</string>
@@ -10302,7 +10302,7 @@ Lütfen servis sağlayıcınızın gizlilik politikasını inceleyin"</string>
     <string name="wifi_assistant_ok">Tamam</string>
     <string name="wifi_assistant_on">Açık</string>
     <string name="wifi_assistant_prompt">Bağlı kalın</string>
-    <string name="wifi_assistant_prompt_button">Anladım</string>
+    <string name="wifi_assistant_prompt_button">Tamam</string>
     <string name="wifi_assistant_prompt_checkbox">Mobil veri kullanmak için izin iste</string>
     <string name="wifi_assistant_prompt_summary">Mevcut wifi ağınız internete bağlanamadığında cihazınız diğer kullanılabilir wifi ağlarına bağlanacak veya mobil veri kullanacaktır</string>
     <string name="wifi_assistant_setup_wifi_assistant">Yapılandır</string>
@@ -10968,7 +10968,7 @@ Görünüşe göre kimlik depolama etkinleştirilmemiş"</string>
     <string name="zen_category_exceptions">İstisnalar</string>
     <string name="zen_category_people">Kişiler</string>
     <string name="zen_category_schedule">Program</string>
-    <string name="zen_custom_settings_dialog_ok">Anladım</string>
+    <string name="zen_custom_settings_dialog_ok">Tamam</string>
     <string name="zen_custom_settings_dialog_review_schedule">Programı inceleyin</string>
     <string name="zen_custom_settings_dialog_title">Özel ayarlar</string>
     <string name="zen_custom_settings_duration_header">Süre</string>

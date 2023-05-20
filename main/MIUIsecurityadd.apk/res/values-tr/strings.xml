@@ -373,8 +373,8 @@
     <string name="gb_gpu_control_optimization_graph">Grafikleri optimize edin</string>
     <string name="gb_gpu_control_resolution">Çözünürlük</string>
     <string name="gb_gpu_control_texture_filtering_quality">Doku filtreleme kalitesi</string>
-    <string name="gb_gpu_dialog_button">Anladım</string>
-    <string name="gb_gpu_dialog_button_countdown">Anladım (%s)</string>
+    <string name="gb_gpu_dialog_button">Tamam</string>
+    <string name="gb_gpu_dialog_button_countdown">Tamam (%s)</string>
     <string name="gb_gpu_dialog_message">Geçerli GPU ayarları %s üzerinde uygulanmaktadır. Ayarları uygulamak için oyunu yeniden başlatın</string>
     <string name="gb_gpu_dialog_titile">GPU ayarları</string>
     <string name="gb_gpu_rader_graph">Fotoğraf kalitesi</string>

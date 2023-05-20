@@ -214,7 +214,7 @@
     <string name="date_picker_lunar">Çin geleneksel takvimi</string>
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
     <string name="disabled">Mevcut değil</string>
-    <string name="dnd_popup_close_message">Anladım</string>
+    <string name="dnd_popup_close_message">Tamam</string>
     <string name="dnd_popup_message">Medya seslerini kapatmadan aramaları ve bildirimleri sessize almak için rahatsız etme modunu açabilirsiniz</string>
     <string name="dolby_atoms_sound_effect_label">Dolby Atmos</string>
     <string name="drag_to_add_tiles">Öge eklemek veya düzenlemek için basın ve basılı tutun</string>
@@ -344,7 +344,7 @@
     <string name="miui_dnd_count_down_time">"Zamanlayıcı
 %s"</string>
     <string name="miui_guide_dialog_button_negative_text">Ayarlar</string>
-    <string name="miui_guide_dialog_button_positive_text">Anladım</string>
+    <string name="miui_guide_dialog_button_positive_text">Tamam</string>
     <string name="miui_guide_dialog_message">Medya sesleri sessiz mod etkin durumdayken de çalınır. Bunu ayarlardan değiştirebilirsiniz</string>
     <string name="miui_ringer_count_down">Geri sayım</string>
     <string name="miui_ringer_count_down_time">%s</string>
@@ -671,7 +671,7 @@ Uzun süre yüksek sese maruz kalmak işitme sorunlarına yol açabilir"</string
     <string name="wireless_charging_fg_control_messgae">"Pilin %%%d'inden az kaldığı için ters kablosuz şarj kapatıldı. Ters kablosuz şarjın daha uzun süre çalışmasını sağlamak için ayarları yapabilirsiniz"</string>
     <string name="wireless_charging_fg_control_ok">Ayarla</string>
     <string name="wireless_charging_low_battery_level_message">Pil seviyesi %%%d oranından az olduğunda ters kablosuz şarj kullanılamaz</string>
-    <string name="wireless_charging_ok">Anladım</string>
+    <string name="wireless_charging_ok">Tamam</string>
     <string name="wireless_charging_saver_cancel">Kapat</string>
     <string name="wireless_charging_saver_message">Pil tasarrufu şimdi açık. Ters kablosuz şarj kullanılabilir olarak tutulsun mu?</string>
     <string name="wireless_charging_saver_ok">Tut</string>

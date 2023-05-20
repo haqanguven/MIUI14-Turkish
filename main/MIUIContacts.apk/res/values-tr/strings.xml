@@ -139,7 +139,7 @@
     <string name="bh_goto_open">Aç</string>
     <string name="bh_goto_set">Ayarla</string>
     <string name="bh_greeting_user">%1$s</string>
-    <string name="bh_i_got_it">Anladım</string>
+    <string name="bh_i_got_it">Tamam</string>
     <string name="bh_input_hint">Telefon numarasını gir</string>
     <string name="bh_input_total_limit">Veri miktarını gir</string>
     <string name="bh_insert_card_number">Sim %1$d telefon numarası ekle</string>

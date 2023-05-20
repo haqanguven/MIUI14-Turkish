@@ -271,7 +271,7 @@
     <string name="apn_exception_wap_summary">"WAP şimdi kararsız. NET'e geçin"</string>
     <string name="app_behavior_about_content_no_link">Kullanıcının özel verilerinin gizliliğini korumak için MIUI sistemi sistem ve üçüncü taraf uygulamaların zincirleme başlatma, izin aktarma ve hassas kayıtları kayıt olarak görüntüler. Android sisteminde bu kayıtta hatalar olabilir. Bir sistem kayıt hatası bulursanız lütfen kaydın doğruluğunu düzeltmemize yardımcı olmak için hata içeriğini bize gönderin</string>
     <string name="app_behavior_about_negative">Geri bildirim</string>
-    <string name="app_behavior_about_positive">Anladım</string>
+    <string name="app_behavior_about_positive">Tamam</string>
     <string name="app_behavior_about_setting">Ayarlar</string>
     <string name="app_behavior_access_gallery">%1s galeriye erişti</string>
     <string name="app_behavior_access_gallery_single">Bu uygulama galeriye erişti</string>
@@ -1156,7 +1156,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="button_text_ignore">Yoksay</string>
     <string name="button_text_ignore_alert_title">Bu uyarıyı yoksayılsın mı?</string>
     <string name="button_text_known">Tamam</string>
-    <string name="button_text_let_me_select">Anladım</string>
+    <string name="button_text_let_me_select">Tamam</string>
     <string name="button_text_next_step">Sonraki</string>
     <string name="button_text_next_step_timer">Sonraki adım (%d)</string>
     <string name="button_text_open_now">Aç</string>
@@ -1236,11 +1236,11 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="character_counter_content_description">Karakterler %1$d / %2$d girildi</string>
     <string name="character_counter_overflowed_content_description">"Karakter sınırı %2$d içinde %1$d'yi aştı"</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
-    <string name="charge_high_temp_warning_dialog_ok">Anladım</string>
+    <string name="charge_high_temp_warning_dialog_ok">Tamam</string>
     <string name="charge_high_temp_warning_dialog_text">Görünüşe göre şarj portu şu anda aşırı ısınmış. Şarj cihazını çıkarın ve yeniden şarj etmeye başlamadan önce pilin soğumasını bekleyin</string>
     <string name="charge_high_temp_warning_text">Şarj cihazını çıkarın ve pilin soğumasını bekleyin</string>
     <string name="charge_high_temp_warning_title">Şarj portu çok sıcak</string>
-    <string name="charger_detect_button_ok">Anladım</string>
+    <string name="charger_detect_button_ok">Tamam</string>
     <string name="charger_detect_info1">Güç adaptörünün ve kablonun doğru şekilde bağlanıp bağlanmadığını kontrol edin</string>
     <string name="charger_detect_info2">Standart olmayan veya eski güç adaptörleri ve kabloları kullanıyorsanız şarj işlemi de yavaşlayabilir</string>
     <string name="charger_detect_no_remind">Bir daha gösterme</string>
@@ -1796,7 +1796,7 @@ Xiaomi &amp; ICL"</string>
     <string name="ew_global_signature_template">"%s tarafından sağlanan bilgiler
 Xiaomi &amp; ICL"</string>
     <string name="ew_guide_law_agree">Kabul et</string>
-    <string name="ew_guide_law_done">Anladım</string>
+    <string name="ew_guide_law_done">Tamam</string>
     <string name="ew_guide_law_exit">Kabul etme</string>
     <string name="ew_guide_law_text">Bu özellik size deprem uyarı işlevi sağlar. Deprem uyarı bilgilerinin üçüncü taraf bir erken uyarı kurumu tarafından sağlandığını anlamalısınız. Xiaomi üçüncü parti ajanslarını denetlemiyor ve onlar üzerinde herhangi bir kontrolü yok. Xiaomi deprem uyarı bilgilerinin doğruluğunu, geçerliliğini ve zamanlamasını garanti etmiyor veya deprem uyarı servisinin tüm ihtiyaçlarınızı karşılayacağını da garanti etmiyor. Bu özelliğin yalnızca referans amacıyla sağlanmış olduğunu anlamalısınız. Bu özellik tarafından sağlanan bilgilere dayanarak gerçekleştirdiğiniz tüm işlemlerin risklerinden ve sonuçlarından yalnızca siz sorumlusunuz</string>
     <string name="ew_guide_law_title">Sorumluluk</string>
@@ -2530,7 +2530,7 @@ Ayrıca güç tüketimini ve ısı üretimini artıracağından uzun süreli kul
     <string name="gb_shoulder_key_circle_right_sub2">R2</string>
     <string name="gb_shoulder_key_dialog_message">Oyun oynamadığınız zamanlarda oyun hızlandırıcıyı başlatmak için her iki omuz düğmesini aynı anda kullanabilirsiniz</string>
     <string name="gb_shoulder_key_dialog_txt">Omuz düğmelerini kullanarak oyun hızlandırıcıyı açabilirsiniz</string>
-    <string name="gb_shoulder_key_guide_btn_done">Anladım</string>
+    <string name="gb_shoulder_key_guide_btn_done">Tamam</string>
     <string name="gb_shoulder_key_guide_btn_next">Sonraki</string>
     <string name="gb_shoulder_key_guide_tips">Bir profesyonel gibi oynamak için omuz düğmelerini yapılandırın</string>
     <string name="gb_shoulder_key_guide_tips1">Araç kutusunu açın ve omuz düğmelerini yapılandırın</string>
@@ -2785,7 +2785,7 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gtb_spring_festival_goto_gameturbo">Görüntüle</string>
     <string name="gtb_spring_festival_guide">"Yumurta avımıza katılmak için
 manzara moduna geçin"</string>
-    <string name="gtb_spring_festival_guide_know">Anladım</string>
+    <string name="gtb_spring_festival_guide_know">Tamam</string>
     <string name="gtb_spring_festival_push_active_desc">Telefonlar, akıllı cihazlar ve kuponlar kazanın</string>
     <string name="gtb_spring_festival_push_active_title">Paskalya yumurtası avı başladı</string>
     <string name="gtb_spring_festival_push_desc">Ödüller kazanmak için yumurta avımıza katılın</string>
@@ -2850,7 +2850,7 @@ manzara moduna geçin"</string>
     <string name="hongbao_name">Mi kırmızı zarf yardımcısı</string>
     <string name="hot">Popüler</string>
     <string name="hot_today">Bugün popüler</string>
-    <string name="i_know">Anladım</string>
+    <string name="i_know">Tamam</string>
     <string name="icon_content_description">İletişim simgesi</string>
     <string name="icon_created_settings_preference">Eklendi</string>
     <string name="icon_text_size_giga_byte">%.1fG</string>
@@ -3003,7 +3003,7 @@ Mobil veri bağlantısını tekrar kullanmanız durumunda operatörünüz ek üc
     <string name="low_memory_warning_dialog_msg">Devam etmek için cihazınızı boşaltın</string>
     <string name="low_memory_warning_dialog_ok_button">Temizle</string>
     <string name="low_memory_warning_dialog_title">Yeterince boş alan yok</string>
-    <string name="low_temperature_button_ok">Anladım</string>
+    <string name="low_temperature_button_ok">Tamam</string>
     <string name="low_temperature_warning_message">Çok soğuk gibi görünüyor ve telefonunuz beklediğinizden daha erken kapanıyor. Tüm önemli değişiklikleri kaydedin</string>
     <string name="low_temperature_warning_title">Hava sıcaklığı düşük</string>
     <string name="lucky_activity">Kırmızı zarf aktiviteleri</string>
@@ -3411,7 +3411,7 @@ Veri kullanım istatistiklerini otomatik ayarla seçeneğini istediğiniz zaman 
     <string name="network_connected_exception_title">Ağ testi</string>
     <string name="network_control">Uygulama ayarlarını görüntüle</string>
     <string name="network_diagnostics">Ağ testi</string>
-    <string name="network_disable_dialog_btn_text">Anladım</string>
+    <string name="network_disable_dialog_btn_text">Tamam</string>
     <string name="network_disable_dialog_content">Onayınızı geri çekebilmeniz için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="network_disable_dialog_content_cn">Onayınızı geri çekebilmeniz için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="network_disable_dialog_title">Ağa bağlanamıyorum</string>
@@ -3711,7 +3711,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="package_setted_error_notification_titile">Tarife ayarlanamadı</string>
     <string name="packages_subtitle">Ekli paketler</string>
     <string name="passwordIncorrect">Kullanıcı adı veya şifre yanlış</string>
-    <string name="password_forget_pattern_confirm">Anladım</string>
+    <string name="password_forget_pattern_confirm">Tamam</string>
     <string name="password_forget_pattern_message">Güvenlik nedenlerinden dolayı şifrenizi yalnızca bir fabrika verilerine geri dönme işleminden sonra sıfırlayabilirsiniz. Sıfırlamak için dokunun</string>
     <string name="password_forget_pattern_message_none">Uygulamalar kilitli değil. Şifrenizi sıfırlayabilirsiniz</string>
     <string name="password_forget_pattern_reset">Sıfırla</string>
@@ -4126,7 +4126,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_consume_rank_title">Pil kullanımı</string>
     <string name="power_consume_software_total_format">Uygulamalar: %s</string>
     <string name="power_customize_giveup_change">Değişiklikler yoksayılsın mı?</string>
-    <string name="power_dailog_night_charge_protection_done">Anladım</string>
+    <string name="power_dailog_night_charge_protection_done">Tamam</string>
     <string name="power_dailog_night_charge_protection_summary">Görünüşe göre piliniz çoğu zaman tamamen dolu ve bu da eskimesini hızlandırabilir. MIUI bu tür sorunlardan kaçınmanız için optimize edilmiş şarjı açtı</string>
     <string name="power_dialog_cancel">İptal et</string>
     <string name="power_dialog_ok">Tamam</string>
@@ -4139,7 +4139,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_main_battery_last_hour_minute">%1$s saat %2$s dakika kaldı</string>
     <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s ekran süresi kaldı</string>
     <string name="power_main_open_last_hour_minute_screen_on">%1$s %2$s ekran süresi eklemek için açın</string>
-    <string name="power_off_warning_button_ok">Anladım</string>
+    <string name="power_off_warning_button_ok">Tamam</string>
     <string name="power_off_warning_message">Pil zayıf. Cihazınız %d saniye içinde kapanacak. Şarj cihazını bağlayın</string>
     <string name="power_off_warning_notification_title">Kapanmak üzere</string>
     <string name="power_optimize_aod_summary">Cihazınız ekran kapalıyken pilden tasarruf eder</string>
@@ -4260,7 +4260,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_wireless_need_update_text">Güncelliyor</string>
     <string name="power_wireless_ubable_update_toast">Kablosuz şarj sırasında bellenim güncellenemiyor</string>
     <string name="power_wireless_update_button_text">Güncelle</string>
-    <string name="power_wireless_update_dialog_button">Anladım</string>
+    <string name="power_wireless_update_dialog_button">Tamam</string>
     <string name="power_wireless_update_dialog_message">Kablosuz şarj donanım yazılımını güncelleyebilmek için cihazınızı en az %s şarj edin</string>
     <string name="power_wireless_update_dialog_title">Düşük pil</string>
     <string name="power_wireless_update_driver">Firmware güncellemeleri</string>
@@ -4501,7 +4501,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="privacy_app_permission_manage_title">İzinleri yönet</string>
     <string name="privacy_apps">Gizli uygulamalar</string>
     <string name="privacy_apps_add">Ekle</string>
-    <string name="privacy_apps_button_know">Anladım</string>
+    <string name="privacy_apps_button_know">Tamam</string>
     <string name="privacy_apps_close">Kapat</string>
     <string name="privacy_apps_enable_summary">Uygulamaları gizli bir klasöre taşıyın ve ana ekran kısayollarını kaldırın</string>
     <string name="privacy_apps_go_to_use">Başlat</string>
@@ -4543,8 +4543,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="privacy_dialog_feedback">Geri bildirim</string>
     <string name="privacy_dialog_message">Bu mesaj internete bağlandığınızda operatör verileri ile birlikte şifrelenecek ve veri kullanımı takip etme özelliğini geliştirmemize yardımcı olmak amacıyla Mi sunucularına yüklenecektir</string>
     <string name="privacy_dialog_negative_button_text">Çıkış</string>
-    <string name="privacy_dialog_ok">Anladım</string>
-    <string name="privacy_dialog_ok_with_num">Anladım (%s saniye)</string>
+    <string name="privacy_dialog_ok">Tamam</string>
+    <string name="privacy_dialog_ok_with_num">Tamam (%s saniye)</string>
     <string name="privacy_dialog_open">Aç</string>
     <string name="privacy_dialog_positive_button_text">Kabul et</string>
     <string name="privacy_dialog_revoking">Onay geri çekiliyor</string>
@@ -4894,7 +4894,7 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cts</string>
     <string name="saturday_shortest">Cts</string>
-    <string name="save_mode_btn_ok">Anladım</string>
+    <string name="save_mode_btn_ok">Tamam</string>
     <string name="sc_allow_network_dialog_message">Bu uygulama normal olarak çalışabilmesi için internete bağlanması gerekmektedir</string>
     <string name="sc_allow_network_dialog_tiltle">Bu özelliği kullanma</string>
     <string name="sc_system_risk_fix_info_xspace">Bunu ikinci alanda çözemezsiniz. Birinci alanda tekrar deneyin</string>
@@ -5693,7 +5693,7 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="superpower_settins_switch_summary">Temel işlevleri mümkün olduğunca uzun süre kullanılabilir durumda bırakmak için güç tüketen özellikleri kısıtlar</string>
     <string name="support_app_name_securitycenter">Güvenlik araçları</string>
     <string name="support_game_booster_tips">Hızı artırın &amp; oyun deneyiminizi iyileştirin</string>
-    <string name="sys_app_prot_cracked_confirm">Anladım</string>
+    <string name="sys_app_prot_cracked_confirm">Tamam</string>
     <string name="sys_cpu_title">İşlemci kullanımı</string>
     <string name="sys_freememory_title">Kullanılabilir</string>
     <string name="sys_title_gamebooster_unit_gb">GB</string>
@@ -5863,7 +5863,7 @@ Zenginlik tanrısı yerinde ve bu yüzden bizi izlemeye devam edin"</string>
 ve kırmızı zarfları asla kaçırmamak için
 kırmızı zarf alarmını açın"</string>
     <string name="text_all_control_summary">Kırmızı bir zarf algılandığında ekran otomatik olarak yanar</string>
-    <string name="text_button">Anladım</string>
+    <string name="text_button">Tamam</string>
     <string name="text_cycle_day">%s</string>
     <string name="text_day" />
     <string name="text_done">Tamam</string>
@@ -5914,7 +5914,7 @@ kırmızı zarf alarmını açın"</string>
     <string name="thermal_tips_title">Uyarı</string>
     <string name="third_application">Yüklü uygulamalar</string>
     <string name="third_desktop_dialog_content">Üçüncü taraf başlatıcı uygulamaları veri sızıntısı, anormal pil boşalması ve gecikme gibi sorunlara neden olabileceğinden yalnızca MIUI tarafından doğrulananlar varsayılan başlatıcınız olarak ayarlanabilir</string>
-    <string name="third_desktop_dialog_ok">Anladım</string>
+    <string name="third_desktop_dialog_ok">Tamam</string>
     <string name="third_desktop_dialog_title">Hata</string>
     <string name="three_percent_total_pkg">%s (Aylık verinin %%3 oranı)</string>
     <string name="thursday">Perşembe</string>
@@ -6557,7 +6557,7 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="wireless_charging_fg_control_messgae">"%s'den daha az pil kaldığı için ters kablosuz şarj kapatıldı. Ters kablosuz şarjın daha uzun süre çalışmasına izin vermek için ayarları yapabilirsiniz"</string>
     <string name="wireless_charging_fg_control_ok">Ayarla</string>
     <string name="wireless_charging_low_battery_level_message">"Pil şarjı %s'den az olduğunda ters kablosuz şarj kullanılamaz"</string>
-    <string name="wireless_charging_ok">Anladım</string>
+    <string name="wireless_charging_ok">Tamam</string>
     <string name="wireless_charging_saver_cancel">Kapat</string>
     <string name="wireless_charging_saver_message">Pil tasarrufu şu anda açık. Ters kablosuz şarj mevcut mu?</string>
     <string name="wireless_charging_saver_ok">Tut</string>

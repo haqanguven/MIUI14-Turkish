@@ -469,7 +469,7 @@ mm"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yenileniyor</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Hata</string>
     <string name="module_dialog_negative">Reddet</string>
-    <string name="module_dialog_neutral">Anladım</string>
+    <string name="module_dialog_neutral">Tamam</string>
     <string name="module_dialog_positive">Kabul et</string>
     <string name="module_download_cancel">Şimdi değil</string>
     <string name="module_download_data_msg">Akıllı alarmlar doğa sesleri ve doğum günü alarmları yapmak için saatin internete bağlanıp kişilerinize erişmesi gerekir. Ayrıca ek ses indirmeniz gerekecek. Ek ses indirmek için mobil veri kullanılsın mı?</string>
@@ -489,7 +489,7 @@ mm"</string>
     <string name="module_downloading">Ek ses indiriliyor</string>
     <string name="module_unzipping">Ses açılıyor</string>
     <string name="module_update_success">MIUI akıllı alarmları için güncellenmiş ses dosyaları başarıyla indirildi. MIUI akıllı alarmları saat ayarlarında ayarlayabilirsiniz</string>
-    <string name="module_update_success_control">Anladım</string>
+    <string name="module_update_success_control">Tamam</string>
     <string name="module_weather_ringtone_download_data">Hava durumu alarmı mevcut hava durumuna göre farklı zil sesleri seçer. Saat uygulaması bu hizmeti sunabilmek için yaklaşık 30MB boyutunda ses dosyası indirmelidir. Şimdi indirilsin mi?</string>
     <string name="module_weather_ringtone_download_data_new">Hava durumu alarmı mevcut hava durumuna göre farklı zil sesleri seçer. Saatin çalışması için ≈%d MB ses indirmesi gerekiyor. Şimdi indirilsin mi?</string>
     <string name="module_weather_ringtone_download_data_privacy">Hava durumu alarmı mevcut hava durumuna göre farklı zil sesleri seçer. Saat uygulaması bu hizmeti sunabilmek için yaklaşık 30MB boyutunda ses dosyası indirmelidir. Saat uygulamasını kullanmadan önce, <a href="">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik Politikası</a> anlaşmalarımızı okuyup kabul etmelisiniz. Kabul ediyor musunuz?</string>

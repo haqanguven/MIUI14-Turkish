@@ -473,7 +473,7 @@ Tarayıcı geçmişinizi temizlemek için tarayıcının ayarlarını kullanın"
     <string name="item_history_more">Arama geçmişi</string>
     <string name="jsonViewer_icon_minus">collapse</string>
     <string name="jsonViewer_icon_plus">expand</string>
-    <string name="launcher_entrance_prompt_button">Anladım</string>
+    <string name="launcher_entrance_prompt_button">Tamam</string>
     <string name="launcher_entrance_prompt_content">Bu özelliği Ayarlar menüsünde kapatabilirsiniz</string>
     <string name="launcher_entrance_prompt_title">Global aramayı açmak için Ana ekranda yukarı doğru kaydırın</string>
     <string name="login_failed_toast">Oturum açılamadı, yenileyin ve ardından tekrar deneyin</string>

@@ -3814,7 +3814,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
 	<string name="tsb_action_completed_open">Yedekleme durumunu görüntüle</string>
 	<string name="tsb_action_err">Bir hata oluştu. Tekrar deneyin.</string>
 	<string name="tsb_action_err_fast">Aktarım devam ettirilemedi. Yarın tekrar deneyin</string>
-	<string name="tsb_action_file_failed">Anladım</string>
+	<string name="tsb_action_file_failed">Tamam</string>
 	<string name="tsb_action_need_retry">Tekrar deneyin</string>
 	<string name="tsb_action_not_started">Öğeleri aktar</string>
 	<string name="tsb_action_show_details">Ayrıntıları görüntüle</string>

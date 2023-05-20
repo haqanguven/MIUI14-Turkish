@@ -96,7 +96,7 @@ Fikrinizi değiştirirseniz hizmetlerimizi kullanmadan önce gizlilik politikas�
     <string name="about_privacy_sensitive_protocol">Hassas Verilerin Toplanması ve Kullanımı</string>
     <string name="about_privacy_sensitive_protocol_title">Hassas verilerin toplanması ve kullanımı</string>
     <string name="about_privacy_unbind_dialog_des">Öncelikle tüm cihazlarınızın eşleşmesini sonlandırın</string>
-    <string name="about_privacy_unbind_dialog_positive_text">Anladım</string>
+    <string name="about_privacy_unbind_dialog_positive_text">Tamam</string>
     <string name="about_privacy_unbind_dialog_title">Uyarı</string>
     <string name="about_relative_care_shut_down_cloud_sync_alert">Cloud senkronizasyonunu kapatırsanız, Sağlık paylaşımı verileri güncellenmeyecek</string>
     <string name="about_remove">Günlük dosyaları /storage/emulated/0/Download/wearablelog konumuna aktarılır</string>
@@ -395,7 +395,7 @@ Güncelleyebilmek için cihaz pilinin %%%1$d üzerinde olduğundan emin olun."</
     <string name="common_installing">Güncelleme yükleniyor</string>
     <string name="common_join_str">%1$s %2$s</string>
     <string name="common_join_str1">%1$s %2$s %3$s</string>
-    <string name="common_known">Anladım</string>
+    <string name="common_known">Tamam</string>
     <string name="common_load_fail">Yüklenemedi</string>
     <string name="common_month">Ay</string>
     <string name="common_more">Daha fazla</string>
@@ -551,7 +551,7 @@ Güncelleyebilmek için cihaz pilinin %%%1$d üzerinde olduğundan emin olun."</
     <string name="course_error_title">Uyarı</string>
     <string name="course_firmware_updating">Cihazınız güncelleniyor</string>
     <string name="course_frequency">Sıklık</string>
-    <string name="course_got_it">Anladım</string>
+    <string name="course_got_it">Tamam</string>
     <string name="course_gym_error">Uyarı</string>
     <string name="course_gym_error_desc">Koşu bandınız başlatılamadı. Egzersiziniz şimdi sonlandırılsın mı?</string>
     <string name="course_hr">Nabız</string>
@@ -3362,7 +3362,7 @@ Bütün gün oturmaya karşı koymak için günün 12 veya daha fazla saatinde a
     <string name="health_dialog_data_delete_check_title">Kaydı sil</string>
     <string name="health_dialog_delete">Kaydı sil</string>
     <string name="health_dialog_delete_sure">Sil</string>
-    <string name="health_dialog_known">Anladım</string>
+    <string name="health_dialog_known">Tamam</string>
     <string name="health_dialog_ok">Tamam</string>
     <string name="health_dialog_sure">Tamam</string>
     <string name="health_enable_go_now">Tamam</string>
@@ -3502,7 +3502,7 @@ Temponuz 100 SPM'yi aştığında veya nabzınız maksimum nabzınızın %65'ini
     <string name="health_pai_content_3">"Ne kadar fitseniz 100 PAI'a ulaşmanız için o kadar fazla fiziksel aktivite gereklidir"</string>
     <string name="health_pai_content_4">"7 günlük bir dönemde PAI değerinizi 100'ün üzerinde tutmak kardiyorespiratuvar formunuzu geliştirebilir"</string>
     <string name="health_pai_high_value">Şiddetli aktivite</string>
-    <string name="health_pai_intro_know">Anladım</string>
+    <string name="health_pai_intro_know">Tamam</string>
     <string name="health_pai_low_value">Hafif aktivite</string>
     <string name="health_pai_medium_value">Orta seviye aktivite</string>
     <string name="health_pai_name">PAI</string>
@@ -4079,7 +4079,7 @@ Baştan başlayın"</string>
     <string name="heavenly_stems_xin">8</string>
     <string name="heavenly_stems_yi">2</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
-    <string name="i_know">Anladım</string>
+    <string name="i_know">Tamam</string>
     <string name="icon_content_description">Diyalog simgesi</string>
     <string name="identify_failed">Tanımlanamadı</string>
     <string name="identifying">Tanımlanıyor…</string>
@@ -4740,7 +4740,7 @@ için ödül"</string>
     <string name="nfc_common_hint_hold_on">Giyilebilir cihazınızı telefonunuza bağlı tutun</string>
     <string name="nfc_common_hint_no_data">Daha sonra tekrar deneyin</string>
     <string name="nfc_common_hint_server_unavailable">Bir sunucu hatası meydana geldi. Daha sonra tekrar deneyin</string>
-    <string name="nfc_common_known">Anladım</string>
+    <string name="nfc_common_known">Tamam</string>
     <string name="nfc_common_more_setting">Daha fazla</string>
     <string name="nfc_common_not_support_version">Geçerli sürüm desteklenmiyor</string>
     <string name="nfc_common_notification">Bildirimler</string>
@@ -5359,7 +5359,7 @@ Bu adım cihazınızla ödeme yapmak için gereklidir"</string>
     <string name="pk_extra_bonus">Ekstra puan</string>
     <string name="pk_extra_bonus_info">"Ekstra 100 puan almak için bir gün içinde üç hedefin hepsine ulaşın "</string>
     <string name="pk_fail_reason_different_region_or_expired">Arkadaşınızın farklı bir bölgede olduğu veya davetiyenin süresi dolmuş gibi görünüyor. Şimdi onlarla rekabet edemezsiniz</string>
-    <string name="pk_good">Anladım</string>
+    <string name="pk_good">Tamam</string>
     <string name="pk_historical_record">Geçmiş</string>
     <string name="pk_history_record">Geçmiş</string>
     <string name="pk_invite_accept">Kabul et</string>
@@ -5415,7 +5415,7 @@ Bir gün içinde üç hedefin hepsine ulaşırsanız ekstra 100 puan alırsını
     <string name="pk_start_instruction">Yarışma başladıktan sonra istatistikleriniz ve etkinlik verileriniz arkadaşlarınızla paylaşılacaktır. Daha fazla bilgi edinmek için %s bölümünü okuyun</string>
     <string name="pk_stopped">Yarışma sona erdi</string>
     <string name="pk_stopped_description">Bu yarışma sona erdi. %s ilerlemeyi artık sizinle paylaşmayacak</string>
-    <string name="pk_stopped_dialog_ok">Anladım</string>
+    <string name="pk_stopped_dialog_ok">Tamam</string>
     <string name="pk_sync_dialog_desc1">Egzersizlerinizden ödül kazanın</string>
     <string name="pk_sync_dialog_desc2">"WeChat ve Alipay'e bağlanın ve adımları uygulamalar arasında paylaşın"</string>
     <string name="pk_sync_dialog_desc3">Egzersiz ve fitness verilerini cihazlarda senkronize edin</string>
@@ -5868,7 +5868,7 @@ Record each test to help you track your physical growth curve."</string>
     <string name="sport_go_install_desc">"Koşu bandınıza bağlanmak için Mi ev'i indirin"</string>
     <string name="sport_go_sport">Başla</string>
     <string name="sport_goal">Hedef</string>
-    <string name="sport_got_it">Anladım</string>
+    <string name="sport_got_it">Tamam</string>
     <string name="sport_gps_enable">Konum kapalı</string>
     <string name="sport_gps_permission">Konum erişimi kapalı</string>
     <string name="sport_gym">Koşu bandı</string>

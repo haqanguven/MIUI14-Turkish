@@ -374,7 +374,7 @@
     <string name="dialog_msg_stop_scan">Devam eden temizleme taraması durdurulsun mu?</string>
     <string name="dialog_msg_uninstall_apps">Bu uygulamala kaldırılsın mı?</string>
     <string name="dialog_msg_uninstall_apps_xspace">Bu uygulamaları çift uygulamalar ile birlikte kaldırılsın mı?</string>
-    <string name="dialog_ok_add_white_list_error">Anladım</string>
+    <string name="dialog_ok_add_white_list_error">Tamam</string>
     <string name="dialog_title_add_white_list_error">Uyarı</string>
     <string name="dialog_title_backup_and_uninstall_apps">Yedekle ve kaldır</string>
     <string name="dialog_title_check_all">Tümünü seç</string>

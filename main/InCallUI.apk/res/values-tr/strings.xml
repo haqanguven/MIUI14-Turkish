@@ -468,7 +468,7 @@
     <string name="relay_call_device_name">Bağlı cihaz (%1$s)</string>
     <string name="relay_deny_permission_msg">Ses kaydetme izni olmadan arama yapılamaz</string>
     <string name="relay_grant_permissions_on_phone">Telefonunuza ses kaydetme izni verin</string>
-    <string name="relay_known">Anladım</string>
+    <string name="relay_known">Tamam</string>
     <string name="relay_network_error">Ağ hatası</string>
     <string name="relay_network_error_msg">Bir ağ hatası nedeniyle bu cihazda arama alınamıyor. Bunun yerine telefonunuza geri dönün</string>
     <string name="remind_unlock_message">Cihazınız şu an kilitli. %s cihaz kilidini açmanızdan sonra kullanılabilir durumda olacaktır. Kilit şimdi açılsın mı?</string>

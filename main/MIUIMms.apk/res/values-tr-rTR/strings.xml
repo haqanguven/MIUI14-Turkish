@@ -850,7 +850,7 @@ Devam etmeden önce gizlilik politikasının yeni sürümünü okuyun ve kabul e
     <string name="privacy_policy_name_smart_sms">Akıllı mesajlaşma</string>
     <string name="privacy_policy_name_websms">Mi mesajlaşma</string>
     <string name="privacy_revoke_nonetwork_msg">Onayınızı geri çekebilmeniz için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
-    <string name="privacy_revoke_nonetwork_ok">Anladım</string>
+    <string name="privacy_revoke_nonetwork_ok">Tamam</string>
     <string name="privacy_revoke_nonetwork_title">Ağa bağlanamıyorum</string>
     <string name="privacy_state_revoked_cancel">İptal et</string>
     <string name="privacy_state_revoked_content">Anahtarı kapatarak mesajlaşma gizlilik politikasına olan onayınızı geri almış olursunuz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel bilgiler geçerli yasaların gerektirdiği belirli süre içinde silinecektir. Mesajlaşma tarafından sağlanan Mi mesaj ve akıllı mesajlaşma size temel hizmetleri sağlamak için gerekli kişisel bilgileri toplamalıdır. Mesajlaşma gizlilik politikasına verdiğiniz onayı Mi mesaj ve akıllı mesaj tarafından sağlanan toplanan kişisel bilgilere dayalı olarak hizmetleri kabul etmeyi reddetmeniz olarak kabul edilecektir</string>

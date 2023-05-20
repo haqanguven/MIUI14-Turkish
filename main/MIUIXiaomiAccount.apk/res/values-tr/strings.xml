@@ -848,7 +848,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_google_login_disagree">Mi hesabı</string>
     <string name="passport_google_login_failed">Google ile oturum açılamadı. Doğrudan Mi hesabınızda oturum açın</string>
     <string name="passport_help">Yardım</string>
-    <string name="passport_i_know">Anladım</string>
+    <string name="passport_i_know">Tamam</string>
     <string name="passport_identification_expired">Doğrulama kodunun süresi doldu. Baştan başlayın</string>
     <string name="passport_imei_permission_denied_message">Cihazınızın İmei numarasını almak için izninizi istiyoruz. Mi hesabı cihazınızın İmei numarasını, oturum açmak ve oturum açılan cihazda kullanıyor olduğunuz Mi hesabınızı güvende tutmaya yardımcı olması için kullanır</string>
     <string name="passport_imei_permission_denied_title">İmei talep izni</string>

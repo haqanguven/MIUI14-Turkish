@@ -439,7 +439,7 @@ Bu kodu gönderin"</string>
     <string name="download_delete_tip">Seçilen öğeler silinsin mi?</string>
     <string name="download_delete_title">Sil</string>
     <string name="download_guide_click_icon_to_website_or_enter_url">Bir internet sitesini açmak veya bağlantı girmek için bir kısayola dokunun</string>
-    <string name="download_guide_known">Anladım</string>
+    <string name="download_guide_known">Tamam</string>
     <string name="download_is_caching">İndirme önbelleğe alıyor</string>
     <string name="download_no_permission_cancel">Desteklenmiyor</string>
     <string name="download_no_permission_sure">Ayara git</string>
@@ -780,7 +780,7 @@ Bu işlem galeri resimlerinizi etkilemez"</string>
     <string name="galleryplus_video_circulate_quit">Çıkmak için dokunun</string>
     <string name="galleryplus_video_edit_save_video">Alt yazılar ile video oluşturuluyor</string>
     <string name="galleryplus_vp_hardware_unsported">Bu video cihazınızda oynatılamıyor</string>
-    <string name="galleryplus_vp_videoview_error_button">Anladım</string>
+    <string name="galleryplus_vp_videoview_error_button">Tamam</string>
     <string name="galleryplus_vp_videoview_error_text_unknown">Bir oynatma hatası oluştu</string>
     <string name="galleryplus_vp_videoview_error_title">Bu video oynatılamıyor</string>
     <string name="gcm_defaultSenderId">144285974528</string>
@@ -796,7 +796,7 @@ Bu işlem galeri resimlerinizi etkilemez"</string>
     <string name="goto_sign_up">Hesap oluştur</string>
     <string name="gps_prompt_context">Mobil ağ ile mi indiriyorsunuz?</string>
     <string name="gps_prompt_title">İpuçları</string>
-    <string name="have_learned">Anladım</string>
+    <string name="have_learned">Tamam</string>
     <string name="heavenly_stems_bing">3</string>
     <string name="heavenly_stems_ding">4</string>
     <string name="heavenly_stems_geng">7</string>
@@ -983,7 +983,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="lp_play_mode_title">Oynatma modu</string>
     <string name="lp_speed_title">Yürütme hızı</string>
     <string name="lp_speed_toast">%sX hızında oynatılıyor</string>
-    <string name="lp_videoView_error_button">Anladım</string>
+    <string name="lp_videoView_error_button">Tamam</string>
     <string name="lp_videoView_error_text_unknown">Bu video oynatılamıyor</string>
     <string name="lp_video_info_title">Bilgi</string>
     <string name="lp_video_zoom_crop">Kırp</string>
@@ -1309,7 +1309,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_year_selection">Yıl seçmeye geçmek için dokunun</string>
     <string name="mtrl_timepicker_confirm">Tamam</string>
-    <string name="music_new_user_dialog_got_it">Anladım</string>
+    <string name="music_new_user_dialog_got_it">Tamam</string>
     <string name="music_new_user_dialog_tip">Videolara hoş geldiniz. Bu uygulama yerel bir video oynatıcı ve çevrim içi müzik ve video akışı hizmetleri sunar</string>
     <string name="my_favorite_channels">Favori kanallarım</string>
     <string name="my_feedback_title">Geri bildirimim</string>
@@ -1682,7 +1682,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="question_click_bottom_tab">İnternet sitesini açmak için bir kısayola da dokunabilirsiniz</string>
     <string name="question_edit_url_here">Ara veya buraya bağlantı gir</string>
     <string name="question_how_to_download_video">Videoları nasıl indirebilirim?</string>
-    <string name="question_known">Anladım</string>
+    <string name="question_known">Tamam</string>
     <string name="question_next">İleri</string>
     <string name="question_step">Atla</string>
     <string name="recaptcha_cookies_key">recaptcha_cookies_key</string>

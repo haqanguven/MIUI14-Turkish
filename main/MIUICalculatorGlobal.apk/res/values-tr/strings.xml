@@ -478,7 +478,7 @@
     <string name="loan_unit">(×10 bin)</string>
     <string name="localised_number">%d</string>
     <string name="lpr_format">s%%%1$ %2$s %3$s‱ = %%%4$s</string>
-    <string name="lpr_ok">Anladım</string>
+    <string name="lpr_ok">Tamam</string>
     <string name="lpr_tips_msg">"8 Ekim 2019 tarihinden başlayarak kişisel ticari konut kredisi faiz oranı daha önce uygulanmış referans faiz oranı olan %4,9 yerine kredi faiz oranına göre hesaplanacaktır
 
 Çin Halk Bankası internet sitesinde bir ay ve beş yıl kredi faiz oranını her ayın 20'sinde belirtilecektir (Bankacılık tatilleri nedeniyle gecikmeler olabilir)"</string>

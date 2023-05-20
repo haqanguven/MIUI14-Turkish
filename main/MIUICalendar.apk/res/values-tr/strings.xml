@@ -101,7 +101,7 @@
     <string name="agenda_not_today_empty_hint">Burada henüz etkinlik yok. Bir tane oluşturmak için dokunun</string>
     <string name="agenda_tomorrow">Yarın, %1$s</string>
     <string name="agenda_view">Etkinlikler</string>
-    <string name="alarm_label">Anladım</string>
+    <string name="alarm_label">Tamam</string>
     <string name="alarm_open_reminder">Alarm ayarla</string>
     <string name="alarm_reminder_already">Alarm başarıyla kuruldu</string>
     <string name="alert_reminder_divider">|</string>
@@ -472,7 +472,7 @@
     <string name="flight_detail_title">Uçuş güzergahı</string>
     <string name="flight_disclaimer">Sorumluluk</string>
     <string name="flight_disclaimer_content">Uçuş bilgileri ve hizmetleri VariFlight tarafından sağlanmaktadır. İlgili tüm sorumluluklar üçüncü şahıslar tarafından karşılanacaktır. Herhangi bir sorunuz olursa VariFlight müşteri servisine danışın. Uçuş bilgisi sadece referans için verilmiştir. Daha doğru ve güncel bilgiler için havayolu şirketi duyurularına bakın</string>
-    <string name="flight_disclaimer_dialog_ok">Anladım</string>
+    <string name="flight_disclaimer_dialog_ok">Tamam</string>
     <string name="flight_event_delete_successfully">Uçuş güzergahı başarıyla silindi</string>
     <string name="flight_plan_time">Planlanmış: %1$s</string>
     <string name="flight_seat_no">Koltuk: %1$s</string>

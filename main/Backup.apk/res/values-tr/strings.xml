@@ -112,7 +112,7 @@
 	<string name="broken_screen_rescue_service_turn_off_confirm">Ekranı zarar görmüş yedeklemeler şimdi kapatılsın mı?</string>
 	<string name="broken_screen_rescue_service_turn_on">Aç</string>
 	<string name="broken_screen_rescue_service_turn_on_confirm">Ekranı zarar görmüş yedeklemeler şimdi açılsın mı?</string>
-    <string name="btn_got_it">Anladım</string>
+    <string name="btn_got_it">Tamam</string>
     <string name="button_backup">Yedekle</string>
     <string name="button_cancel">İptal et</string>
     <string name="button_clean_garbage">Boş alan</string>
@@ -1152,7 +1152,7 @@ Boş yer açın veya daha küçük transferler yapın"</string>
     <string name="usb_trans_select_data_no_space">"USB sürücünüzde sadece %s kullanılabilir
 Boş yer açın veya sadece önemli öğeleri aktarın"</string>
     <string name="user_feedback">Geri bildirim</string>
-    <string name="user_know_button_text">Anladım</string>
+    <string name="user_know_button_text">Tamam</string>
     <string name="user_name">Apple kimliği veya e-posta</string>
     <string name="user_name_null">Kullanıcı adı boş bırakılamaz</string>
     <string name="user_notice_declaration_ignore">Tekrar gösterme</string>

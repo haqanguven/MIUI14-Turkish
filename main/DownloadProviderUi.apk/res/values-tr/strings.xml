@@ -458,7 +458,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="sniff_shortcut_cloudconfig_btn">Anladım</string>
+    <string name="sniff_shortcut_cloudconfig_btn">Tamam</string>
     <string name="sniff_shortcut_create">Kısayol oluşturuldu</string>
     <string name="sniff_shortcut_exist">Kısayol zaten mevcut</string>
     <string name="sniff_shortcut_failed">Kısayol oluşturulamadı</string>
