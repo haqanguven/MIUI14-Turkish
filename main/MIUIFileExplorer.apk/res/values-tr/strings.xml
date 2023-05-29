@@ -726,6 +726,8 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="operation_compress">Sıkıştır</string>
     <string name="operation_compressing">Sıkıştırılıyor</string>
     <string name="operation_copy">Kopyala</string>
+    <string name="operation_copy_clipboard">Panoya kopyala</string>
+    <string name="operation_copy_local">Klasöre kopyala</string>
     <string name="operation_create_folder">Klasör oluştur</string>
     <string name="operation_create_folder_message">Yeni klasör adı girin</string>
     <string name="operation_create_folder_name_conflict">Klasör oluşturulamadı. Bu adı taşıyan bir klasör zaten mevcut</string>
@@ -1061,6 +1063,7 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="title_select_volume">Klasör seçin</string>
     <string name="to_open">Ayarlar</string>
     <string name="to_setting">Ayarlar</string>
+    <string name="toast_copy_clipboard">Panoya eklendi</string>
     <string name="toast_file_not_can_read">Bu işlemi yapabilecek uygulama bulunamadı</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>

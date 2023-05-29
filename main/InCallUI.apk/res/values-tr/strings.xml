@@ -176,6 +176,7 @@
     <string name="close">Kapat</string>
     <string name="close_camera_failed">Kamera kapatılamadı</string>
     <string name="close_camera_requesting">Kamera kapatılıyor</string>
+    <string name="cloud_video_conference">Bulut video konferansı</string>
     <string name="conference_call_description" formatted="false">%s,%s vb. toplam %s</string>
     <string name="conference_call_recorder_title">Konferans araması</string>
     <string name="conference_call_single_description" formatted="false">%s vb. toplam %s</string>

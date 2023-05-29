@@ -267,8 +267,8 @@ Fikrinizi değiştirirseniz hizmetlerimizi kullanmadan önce gizlilik politikas�
     <string name="ble_ota_fw_upgrade_success_title">Başarıyla senkronize edildi</string>
     <string name="ble_ota_push_error">Güncellenemedi</string>
     <string name="ble_ota_push_error_info">Bir güncelleme giyilebilir cihazınızda en az %20 pil gerektirir</string>
-    <string name="ble_ota_push_error_low_battery">"Düşük pil.\u000d
-Güncelleyebilmek için cihaz pilinin %%%1$d üzerinde olduğundan emin olun."</string>
+    <string name="ble_ota_push_error_low_battery">"Düşük pil
+Güncelleyebilmek için cihaz pilinin %%%1$d üzerinde olduğundan emin olun"</string>
     <string name="body_movement_information">Etkinlik bilgilerine erişim</string>
     <string name="body_movement_information_desc">Adımı, egzersiz süresini ve mesafesini takip etmek için etkinlik bilgilerine erişmesi için uygulamaya izin verin</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
@@ -610,14 +610,14 @@ Güncelleyebilmek için cihaz pilinin %%%1$d üzerinde olduğundan emin olun."</
     <string name="course_video_1080">1080P</string>
     <string name="course_video_4k">4K</string>
     <string name="course_video_720">720P</string>
-    <string name="data_sleep_reference_detail">"1. Uyku Tıbbının İlkeleri ve Uygulaması, 4. baskı\u000d
-2. Uyku Tıbbının Temelleri\u000d
-3. Patel, A.K., Reddy, V., &amp; Araujo, J. F. (2020, Nisan). Fizyoloji, Uyku Aşamaları. StatPearls Yayıncılık\u000d
-4. Taylor, P. (2020, 30 Mayıs). Şekerleme vakti. 10 Eylül 2020, https://www.pewsocialtrends.org/2009/07/29/nap-time/ adresinden alındı\u000d
-5. Ulusal Uyku Vakfı'nın uyku süresi süresi önerileri: metodoloji ve sonuçların özeti. Uyku sağlığı, 1(1), 40-43\u000d
-6. Şekerleme paradoksunu keşfetmek: Gün ortası uyku nöbetleri dost mu düşman mı? Uyku ilacı, 37, 88-97\u000d
-7. Ulusal Uyku Vakfı'nın uyku kalitesi önerileri: ilk rapor. Uyku Sağlığı. 2017 Şubat;3(1):6-19\u000d
-8. Ulusal Nörolojik Bozukluklar ve İnme Enstitüsü. (n.d.). Beyin temelleri: Uykuyu anlamak. 7 Haziran 2017'de alındı\u000d
+    <string name="data_sleep_reference_detail">"1. Uyku Tıbbının İlkeleri ve Uygulaması, 4. baskı
+2. Uyku Tıbbının Temelleri
+3. Patel, A.K., Reddy, V., &amp; Araujo, J. F. (2020, Nisan). Fizyoloji, Uyku Aşamaları. StatPearls Yayıncılık
+4. Taylor, P. (2020, 30 Mayıs). Şekerleme vakti. 10 Eylül 2020, https://www.pewsocialtrends.org/2009/07/29/nap-time/ adresinden alındı
+5. Ulusal Uyku Vakfı'nın uyku süresi süresi önerileri: metodoloji ve sonuçların özeti. Uyku sağlığı, 1(1), 40-43
+6. Şekerleme paradoksunu keşfetmek: Gün ortası uyku nöbetleri dost mu düşman mı? Uyku ilacı, 37, 88-97
+7. Ulusal Uyku Vakfı'nın uyku kalitesi önerileri: ilk rapor. Uyku Sağlığı. 2017 Şubat;3(1):6-19
+8. Ulusal Nörolojik Bozukluklar ve İnme Enstitüsü. (n.d.). Beyin temelleri: Uykuyu anlamak. 7 Haziran 2017'de alındı
 9. Yetişkinlerde Kronik Uykusuzluk Bozukluğunun Yönetimi: American College of Physicians'tan Bir Klinik Uygulama Kılavuzu. Ann Intern Med. 2016 Temmuz 19;165(2):125-33"</string>
     <string name="data_type_energy">Enerji</string>
     <string name="data_type_heart_rate">Nabız</string>
@@ -1264,7 +1264,7 @@ Bu adım, cihazınızla ödeme yapmak için gereklidir"</string>
     <string name="device_settings_mastercard_pwd_upgrading">Devam ediyor</string>
     <string name="device_settings_mastercard_pwd_upgrading_desc">Yaklaşık 2 dakika sürer. Bu sayfadan ayrılmayın</string>
     <string name="device_settings_music">Müzik</string>
-    <string name="device_settings_music_empty_remind">"Burada henüz hiçbir şey yok.\u000d
+    <string name="device_settings_music_empty_remind">"Burada henüz hiçbir şey yok.
 Müzik eklenmesi çok fazla pil tüketir; önce saatinizi şarja takın."</string>
     <string name="device_settings_music_empty_song">Müzik yok</string>
     <string name="device_settings_music_list_desc">%1$s - %2$s</string>
@@ -1325,7 +1325,7 @@ Eşleşmeyi sonlandır seçeneğine dokunun"</string>
     <string name="device_settings_privacy_revoke">İznin geri çekilmesi</string>
     <string name="device_settings_privacy_risk_dialog_negative_text">İptal et</string>
     <string name="device_settings_push">Müzik içeri aktar</string>
-    <string name="device_settings_push_list_empty">"Burada henüz hiçbir şey yok.\u000d
+    <string name="device_settings_push_list_empty">"Burada henüz hiçbir şey yok.
 Cihazınızda (%1$s) sadece desteklenen dosya türleri görüntüleniyor."</string>
     <string name="device_settings_push_music_index">%1$d/%2$d</string>
     <string name="device_settings_push_music_storage_low">Cihaz depolaması dolu. Bazı şarkıları silin ve tekrar deneyin.</string>
@@ -1392,23 +1392,23 @@ Cihazınızda (%1$s) sadece desteklenen dosya türleri görüntüleniyor."</stri
     <string name="device_settings_song_list_setting_remove_dialog_title">Şimdi sil?</string>
     <string name="device_settings_song_remove_from_song_list">Çalma listesini kaldır</string>
     <string name="device_settings_song_setting_remove_dialog_des">\"%1$s\" adlı çalma listesini sil\"?</string>
-    <string name="device_settings_sos_contact_battery_tips_desc" formatted="false">"Pil tasarrufu amacıyla, Acil Durum çağrısı yapıldıktan sonra 10 dakika içinde kimse yanıt vermezse sistem çok pil tüketen özellikleri (örneğin, tüm gün nabız, kandaki oksijen ve stres izlenmesi, Gelişmiş uyku izleme, egzersiz tanıma ve müzik çalma) kapatacak.\u000d
+    <string name="device_settings_sos_contact_battery_tips_desc" formatted="false">"Pil tasarrufu amacıyla, Acil Durum çağrısı yapıldıktan sonra 10 dakika içinde kimse yanıt vermezse sistem çok pil tüketen özellikleri (örneğin, tüm gün nabız, kandaki oksijen ve stres izlenmesi, Gelişmiş uyku izleme, egzersiz tanıma ve müzik çalma) kapatacak.
  Acil Durum çağrısı tamamlandıktan sonra %50'den fazla pil kalmışsa ilgili özellikler otomatik olarak açılacak. Aksi durumda bir sonraki şarj %50'ye ulaştığında sistem yukarıdaki özellikleri açacak."</string>
     <string name="device_settings_sos_contact_battery_tips_title">Pil tasarrufu</string>
     <string name="device_settings_sos_contact_delete_desc">En az bir acil durum kişisi ekleyin</string>
     <string name="device_settings_sos_contact_empty">Henüz bir acil durum kişisi belirlemediniz.</string>
     <string name="device_settings_sos_contact_set_address_book">Kişilerden ekle</string>
     <string name="device_settings_sos_contact_set_address_book_permission">Acil durum kişisi belirleyebilmesi için bu uygulamanın kişilerinize erişmesine izin verin.</string>
-    <string name="device_settings_sos_contact_set_desc">"En az 1 acil durum kişisi ekleyin.\u000d
+    <string name="device_settings_sos_contact_set_desc">"En az 1 acil durum kişisi ekleyin.
 En fazla 3 acil durum kişisi ekleyebilirsiniz."</string>
     <string name="device_settings_sos_contact_set_manual">Manuel ekle</string>
     <string name="device_settings_sos_contact_set_manual_title">Acil durum kişisi ekle</string>
     <string name="device_settings_sos_contact_set_title">Acil durum kişileri</string>
-    <string name="device_settings_sos_contact_sync_desc">"Mi Fitness acil durum kişilerini sistemin Acil Durum Çağrısı ile senkronize et?\u000d
+    <string name="device_settings_sos_contact_sync_desc">"Mi Fitness acil durum kişilerini sistemin Acil Durum Çağrısı ile senkronize et?
 Bir özellikte acil durum kişi bilgisi değişiklikleri otomatik olarak diğeriyle senkronize edilecektir."</string>
     <string name="device_settings_sos_contact_sync_title">Acil durum kişilerini senkronize et</string>
-    <string name="device_settings_sos_contact_tips13">"1. Bu özelliğin normal çalışması için Bluetooth'u açın ve giyilebilir cihazınızı telefonunuza bağlı tutun.\u000d
-2. Cihaz tüm düşmeleri algılamayabilir. Ayrıca, diğer yüksek etkili aktiviteleri düşme olarak algılayabilir ve bir Acil Durum çağrısı başlatabilir.\u000d
+    <string name="device_settings_sos_contact_tips13">"1. Bu özelliğin normal çalışması için Bluetooth'u açın ve giyilebilir cihazınızı telefonunuza bağlı tutun.
+2. Cihaz tüm düşmeleri algılamayabilir. Ayrıca, diğer yüksek etkili aktiviteleri düşme olarak algılayabilir ve bir Acil Durum çağrısı başlatabilir.
 3. Cihaz bir düşme algıladıktan sonra sistem, 60 saniye içinde herhangi bir işlem yapmazsanız Acil Durum çağrısını otomatik olarak başlatacaktır."</string>
     <string name="device_settings_sos_contact_tips4">4. Acil tıbbi personele yardımcı olmak amacıyla Acil Durum çağrısı başlatıldığında medikal kart bilgileri cihazda görüntülenecek.</string>
     <string name="device_settings_sos_contact_tips4_clickable">Medikal kart bilgilerinizi ekleyin ></string>
@@ -1793,9 +1793,9 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="electronic_scale_balanced_foot_desc">Ölçüm verileri tartıda görünene kadar sabit durun</string>
     <string name="electronic_scale_balanced_measure">Ölçülüyor</string>
     <string name="electronic_scale_balanced_measure_desc">Mümkün olduğunca uzun süre tek ayak üzerinde durun</string>
-    <string name="electronic_scale_balanced_measure_intro">"Keep breathing steadily nIf you feel out of balance,\u000d
- please stand on your feet in time \u000d
-\u000d
+    <string name="electronic_scale_balanced_measure_intro">"Keep breathing steadily nIf you feel out of balance,
+ please stand on your feet in time 
+
  The maximum measurement time is 999 seconds"</string>
     <string name="electronic_scale_balanced_measure_result">Ölçüm sonuçları</string>
     <string name="electronic_scale_balanced_measure_result_desc">Dengeyi bozan dış kuvvetlere direnerek tüm vücudunuzu sabit tutma yeteneğidir</string>
@@ -1857,13 +1857,13 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="electronic_scale_config_wifi_select_target_wifi_descr">Bu cihaz yalnızca 2,4 GHz ağları destekler</string>
     <string name="electronic_scale_config_wifi_set_device_near_by_router">Cihazı yönlendiriciye yaklaştırın.</string>
     <string name="electronic_scale_config_wifi_time_out">Ağ yapılandırması zaman aşımına uğradı</string>
-    <string name="electronic_scale_config_wifi_time_out_reason">"1.Wifi parolası doğru\u000d
-2.Yönlendirici internete bağlı ve sabit bir bağlantısı var\u000d
+    <string name="electronic_scale_config_wifi_time_out_reason">"1.Wifi parolası doğru
+2.Yönlendirici internete bağlı ve sabit bir bağlantısı var
 3.Telefonunuz ağa düzgün şekilde bağlı"</string>
     <string name="electronic_scale_config_wifi_time_out_sub_title">Lütfen aşağıdaki gereksinimlerin karşılandığından emin olun:</string>
     <string name="electronic_scale_config_wifi_time_out_suggestion">Öneriler</string>
-    <string name="electronic_scale_config_wifi_time_out_suggestion_content">"• Telefonunuzda Bluetooth'u devre dışı bırakın ve yeniden etkinleştirin. Ardından yeniden deneyin\u000d
-• Cihazı yönlendiriciye yaklaştırın\u000d
+    <string name="electronic_scale_config_wifi_time_out_suggestion_content">"• Telefonunuzda Bluetooth'u devre dışı bırakın ve yeniden etkinleştirin. Ardından yeniden deneyin
+• Cihazı yönlendiriciye yaklaştırın
 • Cihazı veya yönlendiriciyi yeniden başlatın"</string>
     <string name="electronic_scale_confirm">Onayla</string>
     <string name="electronic_scale_confirm_delete_virtual_account">Sanal üye %s silinsin mi? Silme işleminden sonra üyenin verileri alınamaz</string>
@@ -2158,9 +2158,9 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="electronic_scale_only_save_weight">Kaydet</string>
     <string name="electronic_scale_ota">Cihaz güncellemesi</string>
     <string name="electronic_scale_ota_attention">Güncelleme için önlemler</string>
-    <string name="electronic_scale_ota_attention_content">"1.Uygulamanın ön planda görüntülendiğinden emin olun\u000d
-2.Uygulamanın tartıya bağlı olduğundan emin olun\u000d
-3.Terazinin wifi ağına düzgün şekilde bağlı olduğundan emin olun\u000d
+    <string name="electronic_scale_ota_attention_content">"1.Uygulamanın ön planda görüntülendiğinden emin olun
+2.Uygulamanın tartıya bağlı olduğundan emin olun
+3.Terazinin wifi ağına düzgün şekilde bağlı olduğundan emin olun
 4.Güncelleme sırasında tartıya basmayın"</string>
     <string name="electronic_scale_ota_config_wifi">Güncellemeden önce tartı için wifi ağını yapılandırın</string>
     <string name="electronic_scale_ota_fail">Firmware güncellenemedi</string>
@@ -2171,9 +2171,9 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="electronic_scale_ota_help_check_net">Ağ durumunu kontrol edin</string>
     <string name="electronic_scale_ota_help_check_net_descr">1.Kurulum paketini indirmek için tartıya bağlı WLAN ağının iyi durumda olduğundan emin olun</string>
     <string name="electronic_scale_ota_help_keep_connect">Cihazın doğru şekilde bağlandığından emin olun</string>
-    <string name="electronic_scale_ota_help_keep_connect_decr">"1.Güncelleme sırasında terazinin telefona bağlı olması gerekir\u000d
-2.Uygulamanın ön planda çalıştığından ve telefonun ekranının açık olduğundan emin olmaya çalışın\u000d
-3.Uygulamanın arka planda çalışması telefon tarafından durdurulursa lütfen Mi Fitness uygulamasını açın, tartıya yeniden bağlayın ve tekrar güncellemeyi deneyin\u000d
+    <string name="electronic_scale_ota_help_keep_connect_decr">"1.Güncelleme sırasında terazinin telefona bağlı olması gerekir
+2.Uygulamanın ön planda çalıştığından ve telefonun ekranının açık olduğundan emin olmaya çalışın
+3.Uygulamanın arka planda çalışması telefon tarafından durdurulursa lütfen Mi Fitness uygulamasını açın, tartıya yeniden bağlayın ve tekrar güncellemeyi deneyin
 4.Güncelleme sırasında tartıya basmayın veya tartıya basmayın"</string>
     <string name="electronic_scale_ota_help_title">Arıza nedenleri</string>
     <string name="electronic_scale_ota_is_latest">En son sürümdür</string>
@@ -2312,8 +2312,7 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="electronic_scale_weight_help_reason_1">1.Ölçüm yaparken tutacağı yukarı çektiğinizden emin olun, tutamağı iki elinizle sıkıca tutun ve başparmağınızla tutamağın üzerindeki elektrotlara tam olarak dokunun. Eller yukarı, kollar vücuda tam oturmuyor</string>
     <string name="electronic_scale_weight_help_reason_2">2.Ölçü üzerinde çıplak ayakla, ayaklarınız ayrı ve ayaklarınız tartı yüzeyi ile tam temas halindeyken ölçtüğünüzden emin olun</string>
     <string name="electronic_scale_weight_help_reason_3">3.Ölçüm işleminin teraziyi önceden tartmadığından emin olun. Vücut yağı ve kalp atış hızı simgelerinin sırayla yanmasını bekleyin ve ardından tartıyı çıkarmadan önce cihaz iki kez titrer</string>
-    <string name="electronic_scale_weight_help_reason_4">"4.Lütfen uygulamada girilen cinsiyet, doğum günü ve boy gibi kullanıcı bilgilerinin doğru olup olmadığını kontrol edin.\u000d
-(Not: Kilo ölçümleri yalnızca bebekler, reşit olmayanlar ve 80 yaşın üzerindeki yaşlılar için vücut kompozisyonu verileri olarak sağlanmıştır)"</string>
+    <string name="electronic_scale_weight_help_reason_4">"4.Lütfen uygulamada girilen cinsiyet, doğum günü ve boy gibi kullanıcı bilgilerinin doğru olup olmadığını kontrol edin (Not: Kilo ölçümleri yalnızca bebekler, reşit olmayanlar ve 80 yaşın üzerindeki yaşlılar için vücut kompozisyonu verileri olarak sağlanmıştır)"</string>
     <string name="electronic_scale_weight_help_reason_5">5. Pull up the handles and hold them tightly, keeping your thumbs in full contact with the electrodes during the measurement.</string>
     <string name="electronic_scale_weight_help_reason_6">6. Make sure that your hands are raised and your arms are held at a 45° angle to your body. Keep your arms away from your body and your legs apart.</string>
     <string name="electronic_scale_weight_help_reason_7">7. Make sure the scale surface and handle electrodes are in proper contact with your hands and feet. If needed, you can wipe your hands, feet, and the scale surface with a damp towel to improve electrode connectivity, but your skin should be moist rather than wet.</string>
@@ -2949,7 +2948,7 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="health_basal_metabolism_desc_content">"BMR temel olarak yaş, kilo, diyet ve egzersiz alışkanlıklarına dayanır. BMR'nizi iyileştirmek için dengeli bir diyet yapın, enerji alımınızı kontrol edin ve yağlı ve yağlı yiyeceklerden kaçının. Haftada 3-5 kez 30 dakika egzersiz yapın"</string>
     <string name="health_blood_avg_pressure_record_desc">%1$s sistolik/%2$s diyastolik</string>
     <string name="health_blood_home_title">%1$s/%2$s</string>
-    <string name="health_blood_home_title_with_unit">"Blood pressure\u000d
+    <string name="health_blood_home_title_with_unit">"Blood pressure
 %1$s/%2$smmHg"</string>
     <string name="health_blood_pressure">Kan basıncı</string>
     <string name="health_blood_pressure_add_manually_tip">Kan basıncı verilerini ekleyin</string>
@@ -3136,9 +3135,9 @@ Yüksek-normal kan basıncı, okumaların sürekli olarak 130–139 sistolik ve 
     <string name="health_calorie_detail_today">Toplam</string>
     <string name="health_calorie_detail_total">Toplam</string>
     <string name="health_calorie_with_unit">Kalori (kal)</string>
-    <string name="health_calories_active_detail">"Aktif kalori, fiziksel aktivite tarafından tüketilen enerjiyi ifade eder. Bu, hem egzersiz aktiviteleri (koşu veya bisiklet gibi) hem de günlük hareketler (yürüme veya temizlik gibi) tarafından yakılan kalorilerden oluşur.\u000d
-\u000d
-Egzersiz dışı aktiviteler için aktif kalori takibi:\u000d
+    <string name="health_calories_active_detail">"Aktif kalori, fiziksel aktivite tarafından tüketilen enerjiyi ifade eder. Bu, hem egzersiz aktiviteleri (koşu veya bisiklet gibi) hem de günlük hareketler (yürüme veya temizlik gibi) tarafından yakılan kalorilerden oluşur.
+
+Egzersiz dışı aktiviteler için aktif kalori takibi:
 Yalnızca Xiaomi Watch S1 Pro ve Xiaomi Smart Band 7 Pro, yürüyüş, ev işleri ve ofis aktiviteleri gibi tüm aktiviteler için kalori takibini destekler. Diğer giyilebilir cihazlar, yalnızca adım verileri oluşturan etkinliklere katıldığınızda etkinliğinizi izler."</string>
     <string name="health_calories_active_title">Aktif kalori</string>
     <string name="health_calories_resting_detail">Dinlenme kalorileri, vücudunuz tamamen dinlendiğinde yakılan kalori miktarıdır. Yaşınıza, boyunuza, kilonuza ve cinsiyetinize göre hesaplanan günlük dinlenme metabolizma hızınıza (RMR) göre tahmin edilir.</string>
@@ -3439,7 +3438,7 @@ Yüksek etkinlikler sırasında işitme duyunuzu korumak için, kulak tıkacı t
     <string name="health_hrm_fibrillation">Düzensiz kalp atışı</string>
     <string name="health_hrm_fibrillation_none">Veri yok</string>
     <string name="health_hrm_phone_record">Telefonla ölç</string>
-    <string name="health_hrm_resting_about_desc">"Dinelenme nabzı, siz dinlenme halindeyken, akrif olmadığınızda ölçülür ve kalp ve kardiyovasküler sağlığı yansıtır. \u000d
+    <string name="health_hrm_resting_about_desc">"Dinelenme nabzı, siz dinlenme halindeyken, akrif olmadığınızda ölçülür ve kalp ve kardiyovasküler sağlığı yansıtır. 
 Normal aralığı 55–79 BPM arasındadır. Dinelenme nabzınızı egzersiz, kilo yönetimi, rahatlama ve günlük yeterli uyku alarak düşürebilirsiniz. Dinelenme nabzında ani bir artış, anormal kardiyovasküler fonksiyona işaret edebilir."</string>
     <string name="health_hrm_resting_about_title">Daha fazla bilgi edin</string>
     <string name="health_hrm_understand">Daha fazla bilgi edinin</string>
@@ -3574,14 +3573,14 @@ Temponuz 100 SPM'yi aştığında veya nabzınız maksimum nabzınızın %65'ini
     <string name="health_running_ability_predication_outstanding">>Maraton %1$s</string>
     <string name="health_running_ability_predication_poor">5–10 %1$s</string>
     <string name="health_running_ability_predication_veryPoor">3 %1$s</string>
-    <string name="health_running_indicator_des2">"1. Başlangıç: Koşu kabiliyeti ortalamanın altında. Önerilen: Günlük fiziksel aktiviteyi ve antrenmanı arttırın, yeterince dinlenin ve aşırı antrenmandan kaçının.\u000d
-\u000d
-2. Acemi: Koşu kabiliyeti ortalama. Önerilen: Antrenman yoğunluğunu kademeli olarak arttırın. Aşırı antrenmandan kaçınmak için yeterince dinlenin ve iyileşme süresine dikkat edin.\u000d
-\u000d
-3. Atlet: Koşu kabiliyeti iyi. Önerilen: Yoğunluğu kademeli olarak arttırırken mevcut fiziksel aktivite seviyesini koruyun. Egzersizler arasında uygun iyileşmeyi sağlamak için yeterince dinlenin.\u000d
-\u000d
-4. Gelişmiş atlet: Koşu kabiliyeti harika. Önerilen: Mevcut antrenman programını sürdürün veya periyodik antrenmana başlayın ve profesyonel beslenme tavsiyesi alın. Sürekli gelişmeyi sağlamak için yeterince dinlenin.\u000d
-\u000d
+    <string name="health_running_indicator_des2">"1. Başlangıç: Koşu kabiliyeti ortalamanın altında. Önerilen: Günlük fiziksel aktiviteyi ve antrenmanı arttırın, yeterince dinlenin ve aşırı antrenmandan kaçının.
+
+2. Acemi: Koşu kabiliyeti ortalama. Önerilen: Antrenman yoğunluğunu kademeli olarak arttırın. Aşırı antrenmandan kaçınmak için yeterince dinlenin ve iyileşme süresine dikkat edin.
+
+3. Atlet: Koşu kabiliyeti iyi. Önerilen: Yoğunluğu kademeli olarak arttırırken mevcut fiziksel aktivite seviyesini koruyun. Egzersizler arasında uygun iyileşmeyi sağlamak için yeterince dinlenin.
+
+4. Gelişmiş atlet: Koşu kabiliyeti harika. Önerilen: Mevcut antrenman programını sürdürün veya periyodik antrenmana başlayın ve profesyonel beslenme tavsiyesi alın. Sürekli gelişmeyi sağlamak için yeterince dinlenin.
+
 5. Elit atlet: Koşu kabiliyeti üst seviyede. Önerilen: Mevcut antrenman seviyesini ve yoğunluğunu sürdürün ve yeterince dinlenme ve iyileşme süresi sağlayın."</string>
     <string name="health_running_indicator_des_1">Koşu kabiliyeti altı bileşenden oluşur: patlayıcı kuvvet, aerobik patlayıcı kuvvet, anaerobik kabiliyet, aerobik kabiliyet, genel dayanıklılık ve maksimum dayanıklılık. Bu bileşenler, kapsamlı bir koşu kabiliyeti endeksi olarak tanımlanır.</string>
     <string name="health_running_indicator_level">Seviye</string>
@@ -3748,8 +3747,8 @@ Tipik aralık: %10-%30"</string>
     <string name="health_spo2_summary_week_max">En yüksek</string>
     <string name="health_spo2_summary_week_min">En düşük</string>
     <string name="health_spo2_understand_detail1">Kandaki oksijen seviyesi, kanınızdaki oksijen yüzdesini ifade eder. Dolaşım sisteminizin ne kadar iyi çalıştığının yararlı bir göstergesi olabilir</string>
-    <string name="health_spo2_understand_detail2">"Saatiniz belirli bir süre içinde ayarlanan seviyenin altında okumalar algıladığında sizi uyarır. Nefes darlığı, baş ağrısı, yorgunluk veya konsantrasyon azalması yaşarsanız, tıbbi yardım alın. Uygulamada daha fazla veri görüntüleyebilirsiniz\u000d
-\u000d
+    <string name="health_spo2_understand_detail2">"Saatiniz belirli bir süre içinde ayarlanan seviyenin altında okumalar algıladığında sizi uyarır. Nefes darlığı, baş ağrısı, yorgunluk veya konsantrasyon azalması yaşarsanız, tıbbi yardım alın. Uygulamada daha fazla veri görüntüleyebilirsiniz
+
   Bu veriler sadece referans içindir. Kendinizi iyi hissetmiyorsanız, tıbbi yardım alın"</string>
     <string name="health_spo2_understand_title">Daha fazla bilgi edin</string>
     <string name="health_spo2_week_avg">Ortalama</string>
@@ -3896,8 +3895,8 @@ Orta: 51–80
 3. Saati ve bileğinizi su ve tere karşı kuru tutun
 4. Saati şarj etmek ve çok fazla güç tüketen uygulamaları kullanmak saatin sıcaklığını artırır ve cilt sıcaklığı ölçümlerini etkileyebilir. Ölçmeden önce saatin soğumasını bekleyin
 Ölçüm sonuçlarının yalnızca size referans olması amacıyla sunulduğunu ve tıbbi amaçlarla kullanılmadığını dikkate alın"</string>
-    <string name="health_temperature_understand_skin_desc">"Bu özellik vücudun saatin sensörüyle temas eden bölümünün cilt yüzey sıcaklığını ölçer. Cilt sıcaklığı vücudun farklı bölgelerine göre değişiklik gösterir ve çevreden ve fizyolojik koşullardan etkilenir\u000d
-Saat cilt sıcaklığını 34-42°C arasında ölçebilir\u000d
+    <string name="health_temperature_understand_skin_desc">"Bu özellik vücudun saatin sensörüyle temas eden bölümünün cilt yüzey sıcaklığını ölçer. Cilt sıcaklığı vücudun farklı bölgelerine göre değişiklik gösterir ve çevreden ve fizyolojik koşullardan etkilenir
+Saat cilt sıcaklığını 34-42°C arasında ölçebilir
 Bu özellik tıbbi amaçlar için tasarlanmamıştır ve herhangi bir hastalığı veya durumu teşhis etmek, tedavi etmek, iyileştirmek veya önlemek için tasarlanmamıştır"</string>
     <string name="health_temperature_value">%1$.1f°C</string>
     <string name="health_temperature_week_avg">Ortalama sıcaklık</string>
@@ -3940,21 +3939,21 @@ Bu özellik tıbbi amaçlar için tasarlanmamıştır ve herhangi bir hastalığ
     <string name="health_vitality_setting">Canlılık puanı ayarları</string>
     <string name="health_vitality_suggest_content">%1$s koşun ve nabzınızı %2$s üzerinde tutun</string>
     <string name="health_vitality_understand">Canlılık puanı hakkında</string>
-    <string name="health_vitality_understand_calculate_desc">"Canlılık puanı yaşınıza, son 7 gün içindeki dinlenme nabzınıza, maksimum nabza ve egzersiz verilerine göre kişiselleştirilir. Cihazınızı takıp egzersiz yaparak Canlılık puanı kazanabilirsiniz. Yüksek yoğunluklu egzersiz size daha kısa sürede daha fazla Canlılık puanı kazandırır. \u000d
+    <string name="health_vitality_understand_calculate_desc">"Canlılık puanı yaşınıza, son 7 gün içindeki dinlenme nabzınıza, maksimum nabza ve egzersiz verilerine göre kişiselleştirilir. Cihazınızı takıp egzersiz yaparak Canlılık puanı kazanabilirsiniz. Yüksek yoğunluklu egzersiz size daha kısa sürede daha fazla Canlılık puanı kazandırır. 
 Canlılık puanı ne kadar yükselirse daha fazla puan kazanmak zorlaşır."</string>
     <string name="health_vitality_understand_calculate_rule_desc">Canlılık puanı son 7 günün bir sağlık göstergesidir. Belirli bir günde çok egzersiz yapmanız ya da her gün egzersiz yapmanız gerekmez; 7 günlük süre içinde herhangi bir zamanda egzersiz yaparak Canlılık puanı kazanabilirsiniz. Fiziksel sağlığınızı ve ruh sağlığınızı korumak için haftada en az 2-3 kez egzersiz yapmanızı öneririz.</string>
     <string name="health_vitality_understand_calculate_rule_title">Neden 7 günlük bir temelde hesaplanır?</string>
     <string name="health_vitality_understand_calculate_title">Nasıl hesaplanır?</string>
-    <string name="health_vitality_understand_detail_desc">"Canlılık puanı, kişisel egzersizin sağlık üzerindeki olumlu etkisini değerlendirmek için kullanılabilir. Düzenli olarak 7 günlük 100 canlılık puanına ulaşmanın sağlık üzerinde önemli olumlu etkileri olabilir.\u000d
-Canlılık puanı DSÖ'nün Fiziksel Aktivite ve Hareketsiz Davranış Yönergelerine dayalıdır ve aşağıdakileri önermektedir:\u000d
-Tüm sağlıklı yetişkinler haftada en az 150-300 dakika orta yoğunlukta veya 75-100 dakika yüksek yoğunlukta egzersiz veya orta ve yüksek yoğunlukta eşdeğer bir egzersiz kombinasyonu yapar.\u000d
+    <string name="health_vitality_understand_detail_desc">"Canlılık puanı, kişisel egzersizin sağlık üzerindeki olumlu etkisini değerlendirmek için kullanılabilir. Düzenli olarak 7 günlük 100 canlılık puanına ulaşmanın sağlık üzerinde önemli olumlu etkileri olabilir.
+Canlılık puanı DSÖ'nün Fiziksel Aktivite ve Hareketsiz Davranış Yönergelerine dayalıdır ve aşağıdakileri önermektedir:
+Tüm sağlıklı yetişkinler haftada en az 150-300 dakika orta yoğunlukta veya 75-100 dakika yüksek yoğunlukta egzersiz veya orta ve yüksek yoğunlukta eşdeğer bir egzersiz kombinasyonu yapar.
 Aynı zamanda biraz fiziksel egzersiz hiç yapmamaktan iyidir. Hareketsiz zamanın düşük yoğunluklu egzersizle değiştirilmesinin de sağlık açısından faydaları vardır."</string>
     <string name="health_vitality_understand_detail_title">Canlılık puanı nedir?</string>
     <string name="health_vitality_understand_max_value_desc">Günde 80 canlılık puanına kadar kazanabilirsiniz, yani teorik olarak 7 günde 560 puanlık bir skora ulaşabilirsiniz. Ancak, puanınız arttıkça daha fazla puan kazanmak giderek zorlaşır.</string>
     <string name="health_vitality_understand_max_value_title">Ne kadar Canlılık puanı kazanabilirim?</string>
-    <string name="health_vitality_understand_set_goal_desc">"Fiziksel Aktivite ve Sedanter Davranış hakkındaki DSÖ Kılavuzu tüm sağlıklı yetişkinlerin haftada en az 75 dakika yüksek yoğunluklu egzersize ya da 150 dakika orta yoğunluklu egzersize dahil olmasını öneriyor. Sağlık açısından daha fazla fayda için haftada minimum 300 dakika orta yoğunluklu egzersiz ya da 150 dakika yüksek yoğunluklu egzersiz gerekir; alternatif olarak kişi aynı kalori tüketimi seviyesinde orta ve daha yüksek yoğunluklu bir aerobik aktivite kombinasyonuna dahil olabilir.\u000d
-7 günlük Canlılık puanınız 60'a ulaştığında DSÖ'nün haftalık önerilen minimum egzersizine ulaşmış olursunuz.\u000d
-Sağlıktan en üst düzeyde faydalanmak için 7 günlük Canlılık puanının 100 olmasını hedefleyin.\u000d
+    <string name="health_vitality_understand_set_goal_desc">"Fiziksel Aktivite ve Sedanter Davranış hakkındaki DSÖ Kılavuzu tüm sağlıklı yetişkinlerin haftada en az 75 dakika yüksek yoğunluklu egzersize ya da 150 dakika orta yoğunluklu egzersize dahil olmasını öneriyor. Sağlık açısından daha fazla fayda için haftada minimum 300 dakika orta yoğunluklu egzersiz ya da 150 dakika yüksek yoğunluklu egzersiz gerekir; alternatif olarak kişi aynı kalori tüketimi seviyesinde orta ve daha yüksek yoğunluklu bir aerobik aktivite kombinasyonuna dahil olabilir.
+7 günlük Canlılık puanınız 60'a ulaştığında DSÖ'nün haftalık önerilen minimum egzersizine ulaşmış olursunuz.
+Sağlıktan en üst düzeyde faydalanmak için 7 günlük Canlılık puanının 100 olmasını hedefleyin.
 Egzersiz yoğunluğunuzu fiziksel sağlığınıza göre ayarladığınızdan emin olun ve düzenli egzersiz yapmayı alışkanlık haline getirmeye çalışın."</string>
     <string name="health_vitality_understand_set_goal_title">Neden 30, 60 ve 100 puan şeklinde üç hedef belirlenmiş?</string>
     <string name="health_vo2max_composite_grade">Seviye</string>
@@ -4157,21 +4156,21 @@ Baştan başlayın"</string>
     <string name="login_enter_app">Başlat</string>
     <string name="login_immediate_experience">Başlat</string>
     <string name="login_internal_test_agreement">Katılımınızı onaylarsanız lütfen inceleyin ve %1$s Xiaomi spor sağlığı dahili test Sözleşmesini kabul etmek için tıklayın</string>
-    <string name="login_internal_test_content">"Bu dahili test yazılımı hala geliştirme ve test sürecindedir ve yalnızca bazı kullanıcılara işlev etkisini ve test kararlılığını doğrulamak için yayınlanmıştır. Tüm içerik gizli olarak ele alınmalıdır. Lütfen kullanım sırasında aşağıdakilere dikkat edin:\u000d
-\u000d
-1.1 Uygulamanın kararlılığı çevrimiçi sürümden daha düşüktür ve işlevin kararsız olduğu veya normal şekilde kullanılamadığı ve verilerin kaybolduğu durumlar olabilir.Lütfen teste dikkatli bir şekilde katılın\u000d
-\u000d
-1.2 Lütfen dahili test kaydı için kullanılan aynı Xiaomi hesabıyla uygulamaya giriş yapın. Aksi takdirde veriler anormal olur ve test hediye koleksiyonuna katılamazsınız\u000d
-\u000d
-1.3 Gönüllülük ilkesine dayanarak, istediğiniz zaman bu dahili testten çekilebilir, dahili test yazılımını silebilir ve yazılımın orijinal resmi sürümünü kullanmak için yeniden indirebilirsiniz\u000d
-\u000d
-1.4 Mevcut sürüm yalnızca aşağıdaki cihaz bağlantılarını destekler ve kademeli olarak daha fazla cihaz desteklenecektir:\u000d
-\u000d
-· Mi Band 5, 6 Standart Sürüm ve NFC Sürümü\u000d
-· Redmi bileklik\u000d
-· Xiaomi Watch Color, Xiaomi Watch Color Sports Edition, Xiaomi Watch Color2\u000d
-· Redmi İzle, Redmi İzle 2\u000d
-· Xiaomi Saat S1\u000d
+    <string name="login_internal_test_content">"Bu dahili test yazılımı hala geliştirme ve test sürecindedir ve yalnızca bazı kullanıcılara işlev etkisini ve test kararlılığını doğrulamak için yayınlanmıştır. Tüm içerik gizli olarak ele alınmalıdır. Lütfen kullanım sırasında aşağıdakilere dikkat edin:
+
+1.1 Uygulamanın kararlılığı çevrimiçi sürümden daha düşüktür ve işlevin kararsız olduğu veya normal şekilde kullanılamadığı ve verilerin kaybolduğu durumlar olabilir.Lütfen teste dikkatli bir şekilde katılın
+
+1.2 Lütfen dahili test kaydı için kullanılan aynı Xiaomi hesabıyla uygulamaya giriş yapın. Aksi takdirde veriler anormal olur ve test hediye koleksiyonuna katılamazsınız
+
+1.3 Gönüllülük ilkesine dayanarak, istediğiniz zaman bu dahili testten çekilebilir, dahili test yazılımını silebilir ve yazılımın orijinal resmi sürümünü kullanmak için yeniden indirebilirsiniz
+
+1.4 Mevcut sürüm yalnızca aşağıdaki cihaz bağlantılarını destekler ve kademeli olarak daha fazla cihaz desteklenecektir:
+
+· Mi Band 5, 6 Standart Sürüm ve NFC Sürümü
+· Redmi bileklik
+· Xiaomi Watch Color, Xiaomi Watch Color Sports Edition, Xiaomi Watch Color2
+· Redmi İzle, Redmi İzle 2
+· Xiaomi Saat S1
 · Mijia koşu bandı"</string>
     <string name="login_internal_test_continue">Katıl ve devam et</string>
     <string name="login_internal_test_exit">Testten ayrıl</string>
@@ -4371,7 +4370,7 @@ Bu ödülü kazan"</string>
     <string name="mine_lab_collaration_exit">Geri çek</string>
     <string name="mine_load_error_please_retry">Yükleme başarısız. Lütfen tekrar deneyin</string>
     <string name="mine_medal">Ödüllerim</string>
-    <string name="mine_medal_entrance_got">"%1$s\u000d
+    <string name="mine_medal_entrance_got">"%1$s
 için ödül"</string>
     <string name="mine_medal_june_challenge">Haziran mücadelesi</string>
     <string name="mine_medal_perfect_week">Mükemmel hafta</string>
@@ -4878,7 +4877,7 @@ için ödül"</string>
     <string name="nfc_nextpay_card_recharge_issue_text">%1$.2f</string>
     <string name="nfc_nextpay_card_recharge_recharge_info">Tutarı seçin (CNY)</string>
     <string name="nfc_nextpay_choose_city_title">Şehir seç</string>
-    <string name="nfc_nextpay_coupon_error_title_content">"Kupon yok\u000d
+    <string name="nfc_nextpay_coupon_error_title_content">"Kupon yok
 WeChat'te Mi Cüzdan resmi hesabından bir tane alın"</string>
     <string name="nfc_nextpay_coupon_not_use_btn_text">Şimdi değil</string>
     <string name="nfc_nextpay_coupon_not_use_item_text">Şimdi değil</string>
@@ -4956,19 +4955,19 @@ WeChat'te Mi Cüzdan resmi hesabından bir tane alın"</string>
     <string name="nfc_result_success_validity">Şu tarihe kadar geçerlidir:</string>
     <string name="nfc_retrun_card">Kartı kaldır</string>
     <string name="nfc_retrun_card_btn_title">Kaldır</string>
-    <string name="nfc_retrun_card_confirm_msg">"1. Bekleyen bir işlem olmadığından emin olun\u000d
+    <string name="nfc_retrun_card_confirm_msg">"1. Bekleyen bir işlem olmadığından emin olun
 2. Kaldırıldıktan sonra kartınızı geri alamazsınız"</string>
-    <string name="nfc_retrun_card_confirm_msg_2">"1. Bekleyen bir işlem olmadığından emin olun\u000d
-2. Hizmet bedelleri iade edilemez\u000d
+    <string name="nfc_retrun_card_confirm_msg_2">"1. Bekleyen bir işlem olmadığından emin olun
+2. Hizmet bedelleri iade edilemez
 3. Kaldırıldıktan sonra kartınızı geri alamazsınız"</string>
     <string name="nfc_retrun_card_confirm_title">Not</string>
     <string name="nfc_retrun_card_create_token_loading">Geri ödemeniz onaylanıyor</string>
     <string name="nfc_retrun_card_error">Hata</string>
-    <string name="nfc_retrun_card_flow">"1. Geri ödemenin orijinal satın alma işlemini yapmak için kullanılan ödeme yöntemine iade edilmesi yaklaşık 3 iş günü sürer. Geri ödeme durumunu her zaman Profil > Kartlar > Ayarlar bölümünden kontrol edebilirsiniz\u000d
-2. Geri ödemeniz gelmezse aşağıdaki adımları deneyin:\u000d
-(1) Shenzhen Tong uygulamasını açın, My > Feedback bölümüne gidin ve ilk seçeneği seçin\u000d
-(2) Giyilebilir ödemeleri seçin\u000d
-(3) Xiaomi'ye dokunun\u000d
+    <string name="nfc_retrun_card_flow">"1. Geri ödemenin orijinal satın alma işlemini yapmak için kullanılan ödeme yöntemine iade edilmesi yaklaşık 3 iş günü sürer. Geri ödeme durumunu her zaman Profil > Kartlar > Ayarlar bölümünden kontrol edebilirsiniz
+2. Geri ödemeniz gelmezse aşağıdaki adımları deneyin:
+(1) Shenzhen Tong uygulamasını açın, My > Feedback bölümüne gidin ve ilk seçeneği seçin
+(2) Giyilebilir ödemeleri seçin
+(3) Xiaomi'ye dokunun
 (4) Onay numaranızı kopyalayın"</string>
     <string name="nfc_retrun_card_flow_title">Geri ödeme süreci</string>
     <string name="nfc_retrun_card_loading">İşlem tamamlanana kadar bu sayfadan ayrılmayın</string>
@@ -4981,9 +4980,9 @@ WeChat'te Mi Cüzdan resmi hesabından bir tane alın"</string>
     <string name="nfc_retrun_card_token">Onay numarası</string>
     <string name="nfc_retrun_card_user_info_alipay_account">Alipay hesabı</string>
     <string name="nfc_retrun_card_user_info_alipay_account_hint">Enter Alipay account</string>
-    <string name="nfc_retrun_card_user_info_attention_desc">"1. Alipay hesabınızı bulmak için Alipay > Ben'e gidin ve profil fotoğrafınıza dokunun\u000d
-2. Geri ödemenin orijinal satın alma işlemini yapmak için kullanılan ödeme yöntemine iade edilmesi yaklaşık 3 iş günü sürer\u000d
-3. Geri ödemeniz gelmezse Alipay hesabınızı kontrol edin\u000d
+    <string name="nfc_retrun_card_user_info_attention_desc">"1. Alipay hesabınızı bulmak için Alipay > Ben'e gidin ve profil fotoğrafınıza dokunun
+2. Geri ödemenin orijinal satın alma işlemini yapmak için kullanılan ödeme yöntemine iade edilmesi yaklaşık 3 iş günü sürer
+3. Geri ödemeniz gelmezse Alipay hesabınızı kontrol edin
 4. Girdiğiniz bilgilerin doğru olduğundan emin olun. Bu tür bilgiler hesabınıza geri ödeme yapılması için kartınızı veren kuruluşa sağlanır"</string>
     <string name="nfc_retrun_card_user_info_attention_title">Önemli</string>
     <string name="nfc_retrun_card_user_info_btn_title">Devam et</string>
@@ -5534,7 +5533,7 @@ Bir gün içinde üç hedefin hepsine ulaşırsanız ekstra 100 puan alırsını
     <string name="relative_care_data_range_accessible_to_them">Paylaşılan veri aralığı</string>
     <string name="relative_care_data_range_recommended_label">Önerilen</string>
     <string name="relative_care_data_requested_by_TA">Arkadaş tarafından talep edilen veriler</string>
-    <string name="relative_care_data_requested_top_instruction">"%1$s, aşağıdaki verileri paylaşmanızı talep etti.\u000d
+    <string name="relative_care_data_requested_top_instruction">"%1$s, aşağıdaki verileri paylaşmanızı talep etti.
 Arkadaş olduktan sonra, paylaşmak istediğiniz ögeleri istediğiniz zaman değiştirebilirsiniz."</string>
     <string name="relative_care_data_share_range">Paylaşılan veri aralığı</string>
     <string name="relative_care_data_share_to_relative_at_least_one_item_revisable">Diğer kişiyle paylaşmak için bir veya daha fazla öge seçin. Arkadaş olduktan sonra, paylaşmak istediğiniz ögeleri istediğiniz zaman değiştirebilirsiniz.</string>
@@ -5548,7 +5547,7 @@ Arkadaş olduktan sonra, paylaşmak istediğiniz ögeleri istediğiniz zaman de�
     <string name="relative_care_edit_confirmed">Değişiklikleri kaydet</string>
     <string name="relative_care_edit_identity_label">Etiket ekle</string>
     <string name="relative_care_edit_identity_lable">Açıklamalar başarıyla değiştirildi</string>
-    <string name="relative_care_family_way_of_approve">"Diğer kişi isteği şurada görüntüleyebilir ve onaylayabilir:\u000d
+    <string name="relative_care_family_way_of_approve">"Diğer kişi isteği şurada görüntüleyebilir ve onaylayabilir:
 Mi Fitness > Profil > Arkadaşlarım > Bildirimler"</string>
     <string name="relative_care_feature_camera_unavailable">Kamera kullanılamıyor. Başka bir davetiye yöntemi seçin.</string>
     <string name="relative_care_input_xiaomi_account">Xiaomi Hesabı Kimliğini girin</string>
@@ -5558,7 +5557,7 @@ Mi Fitness > Profil > Arkadaşlarım > Bildirimler"</string>
     <string name="relative_care_invalid_xiaomi_account">Geçerli bir Xiaomi Hesabı girin</string>
     <string name="relative_care_invitation_description">%1$s size bir Sağlık paylaşımı davetiyesi gönderdi. Ayrıntılar için dokunun.</string>
     <string name="relative_care_invitation_failed">Davet gönderilemedi. Daha sonra tekrar deneyin.</string>
-    <string name="relative_care_invitation_sent_please_wait_for_acception">"Davetiniz başarıyla gönderildi.\u000d
+    <string name="relative_care_invitation_sent_please_wait_for_acception">"Davetiniz başarıyla gönderildi.
 Diğer kişinin kabul etmesi bekleniyor."</string>
     <string name="relative_care_invitation_sent_successfully">Davetiye gönderildi</string>
     <string name="relative_care_invitation_title">%1$s size arkadaşlık isteği gönderdi</string>
@@ -5804,11 +5803,11 @@ Diğer kişinin kabul etmesi bekleniyor."</string>
     <string name="sport_device_location_dialog_title">İzin gerekli</string>
     <string name="sport_device_not_connect">Cihazınıza bağlanın</string>
     <string name="sport_device_offline_back">sport_device_offline_back</string>
-    <string name="sport_device_offline_des">"Please check:\u000d
-\u000d
- 1. Whether the device has power.\u000d
- 2. Whether the router connected to the device is working normally and the network is available.\u000d
- 3. Whether the name or password of the router is modified, and try to reconnect.\u000d
+    <string name="sport_device_offline_des">"Please check:
+
+ 1. Whether the device has power.
+ 2. Whether the router connected to the device is working normally and the network is available.
+ 3. Whether the name or password of the router is modified, and try to reconnect.
  4. Whether the device is too far away from the router, or separated by walls or other obstructions."</string>
     <string name="sport_device_offline_help">View FAQ</string>
     <string name="sport_device_offline_title">Device is offline</string>
@@ -5845,18 +5844,18 @@ Diğer kişinin kabul etmesi bekleniyor."</string>
     <string name="sport_folding_lock_title">Dikkat</string>
     <string name="sport_free_sport">Serbest stil</string>
     <string name="sport_ftp_level">Level</string>
-    <string name="sport_ftp_level_info">"Beginner biker：0–100W\u000d
-Intermediate biker：101–150W\u000d
-Advanced biker：151–200W\u000d
+    <string name="sport_ftp_level_info">"Beginner biker：0–100W
+Intermediate biker：101–150W
+Advanced biker：151–200W
 Top biker：201–250W"</string>
     <string name="sport_ftp_test">FTP test</string>
-    <string name="sport_ftp_test_introduce_des">"1. The FTP test lasts for 3 to 20 min and is divided into 20 stages.\u000d
-2. Every minute is a test stage.\u000d
-3. The target power of the first stage is 50 W, increasing by 10 W every minute.\u000d
-4. The warm-up lasts for 2 min. You will obtain no test result when stopping at this stage.\u000d
-5. From 2 min later, you will obtain test results when stopping the test.\u000d
-6. If the riding power is detected to be lower than the goal power for 15 consecutive seconds during the riding test, the test will stop and a test result will be generated. \u000d
-\u000d
+    <string name="sport_ftp_test_introduce_des">"1. The FTP test lasts for 3 to 20 min and is divided into 20 stages.
+2. Every minute is a test stage.
+3. The target power of the first stage is 50 W, increasing by 10 W every minute.
+4. The warm-up lasts for 2 min. You will obtain no test result when stopping at this stage.
+5. From 2 min later, you will obtain test results when stopping the test.
+6. If the riding power is detected to be lower than the goal power for 15 consecutive seconds during the riding test, the test will stop and a test result will be generated. 
+
 Record each test to help you track your physical growth curve."</string>
     <string name="sport_get_fitness_authorization">Adım sayınızı görüntüleyebilmesi için bu uygulamanın etkinlik bilgisine erişmesine izin verin</string>
     <string name="sport_get_location_authorization">Egzersizlerinizi takip edebilmesi için bu uygulamanın konumunuza erişmesine izin verin78o</string>

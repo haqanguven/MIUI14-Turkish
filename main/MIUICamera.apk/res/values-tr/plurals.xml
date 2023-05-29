@@ -96,10 +96,6 @@
         <item quantity="other">%d dakika önce</item>
         <item quantity="one">1 dakika önce</item>
     </plurals>
-    <plurals name="number_unit_seconds_split">
-        <item quantity="other">%d saniye</item>
-        <item quantity="one">%d saniye</item>
-    </plurals>
     <plurals name="pad_ccc_temperature_warning_msg">
         <item quantity="other">Cihazınız aşırı ısınmış. Kamera %d saniye içinde kapanacak. Fotoğraflarınız veya videolarınız otomatik olarak kaydedilecektir</item>
         <item quantity="one">Cihazınız aşırı ısınmış. Kamera %d saniye içinde kapanacak. Fotoğraflarınız veya videolarınız otomatik olarak kaydedilecektir</item>
