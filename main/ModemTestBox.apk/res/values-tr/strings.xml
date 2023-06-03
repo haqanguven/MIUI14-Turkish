@@ -242,7 +242,10 @@ Adım 3: Seçilen MBN'yi yüklemek için Etkinleştir düğmesine tıklayın
     <string name="mtb_tool_modem_hydra_debug_info_note_view">Hata ayıklama bilgisi çıktı penceresi</string>
     <string name="mtb_tool_modem_hydra_debug_show">Hata ayıklama gösterisi</string>
     <string name="mtb_tool_modem_hydra_switch_closed">Hidra kapalı</string>
+    <string name="mtb_tool_modem_info_delete">Sil</string>
+    <string name="mtb_tool_modem_info_read">Oku</string>
     <string name="mtb_tool_modem_info_reboot">Yeniden başlat</string>
+    <string name="mtb_tool_modem_info_write">Yaz</string>
     <string name="mtb_tool_modem_limit_notify">İşlemlerin bazı bölümleri yasaktır. Kontrol hakları için lütfen Modem personeline başvurun</string>
     <string name="mtb_tool_modem_mbn_check">MBN kontrolü</string>
     <string name="mtb_tool_modem_mbn_check_fail">MBN kontrol başarısız oldu</string>
@@ -293,6 +296,8 @@ Mevcut MBN yapılandırması için güncelleyi tıklayın"</string>
     <string name="mtb_tool_modem_test_start">Başlat</string>
     <string name="mtb_tool_modem_test_stop">Dur</string>
     <string name="mtb_tool_modem_test_will_set">Test modunu açacak ve görevi yeniden başlatacak</string>
+    <string name="mtb_tool_modem_typeface_add">+</string>
+    <string name="mtb_tool_modem_typeface_reduce">-</string>
     <string name="mtb_tool_modem_user_panel">Kullanıcı paneli</string>
     <string name="mtb_tool_mtk_modem_diag">Modem bağlantı noktası</string>
     <string name="mtb_tool_mtk_modem_dump">Modem dökümünü tetikle</string>
@@ -395,7 +400,8 @@ Mevcut MBN yapılandırması için güncelleyi tıklayın"</string>
     <string name="mtb_tool_test_hotswap">Çalışırken değiştirme testi</string>
     <string name="mtb_tool_test_start">Başlat</string>
     <string name="mtb_tool_test_stop">Dur</string>
-    <string name="mtb_tool_to_fetching">getirmek için</string>
+    <string name="mtb_tool_time_format">dd/MM/yyyy HH:mm:ss</string>
+    <string name="mtb_tool_to_fetching">Getirmek için</string>
     <string name="mtb_tool_total_test_time_time">Toplam test süresi (s):</string>
     <string name="mtb_tool_url_check_from_bc_clear_fail_notify">Kimlik doğrulama bağlantı bilgisi temizlenemedi</string>
     <string name="mtb_tool_url_check_from_bc_clear_ok_notify">Kimlik doğrulama bağlantı bilgisi başarıyla temizlendi</string>
@@ -418,4 +424,5 @@ Mevcut MBN yapılandırması için güncelleyi tıklayın"</string>
     <string name="mtb_tool_xiaomi_qcn_backup_info_type">Yedekleme türünü seçin</string>
     <string name="mtb_tool_xiaomi_qcn_backup_recovery">"Xiaomi QCN'nin yedeklenmesi ve kurtarılması"</string>
     <string name="mtb_tool_xiaomi_recovery_path">Kurtarma yolunu seçin</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

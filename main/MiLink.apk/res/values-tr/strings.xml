@@ -234,6 +234,8 @@ diğer cihazlara sürükleyip bırakın"</string>
 2. Kutudaki tuşa basılı tutun
 3. Hedef cihazda eşleştirmeyi bitirin"</string>
     <string name="circulate_headset_back_to_box_desc_err_308">"Cihazlar arasında oynatmayı aktarabilmek için, önce kulaklıklarınızı TV'niz ile eşleştirin."</string>
+    <string name="circulate_headset_back_to_box_desc_err_310">"1. Hoparlörlerin bağlantısını kesmek için TV uzaktan kumandasındaki güç düğmesine basın
+2. Ekran aydınlandığında kulaklıkları yeniden bağlamayı deneyin"</string>
     <string name="circulate_headset_back_to_box_desc_pad">"1. Her iki kulaklığı da kutuya yerleştirin
 2. Kutudaki tuşa basılı tutun
 3. Bluetooth ayarlarında veya bu cihazda bir açılır iletişim kutusu kullanarak eşleştirmeyi tamamlayın"</string>
@@ -246,6 +248,7 @@ diğer cihazlara sürükleyip bırakın"</string>
     <string name="circulate_headset_back_to_box_subtitle">Bu kulaklıklar otomatik eşleştirilemiyor. Onun yerine hedef cihazda manuel olarak eşleştirin.</string>
     <string name="circulate_headset_back_to_box_title">Önce kulaklıkları eşleştir</string>
     <string name="circulate_headset_back_to_box_title_err_308">Kulaklıklarınızı eşleştirin</string>
+    <string name="circulate_headset_back_to_box_title_err_310">Önce TV hoparlörlerinin bağlantısını kesin</string>
     <string name="circulate_headset_back_to_box_title_pad">Kulaklığı bu cihazla eşleştir</string>
     <string name="circulate_headset_back_to_box_title_phone">Kulaklığı bu cihazla eşleştir</string>
     <string name="circulate_headset_back_to_box_title_tv">Kulaklıklarınızı eşleştirin</string>

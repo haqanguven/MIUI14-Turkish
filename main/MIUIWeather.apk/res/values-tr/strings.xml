@@ -413,9 +413,14 @@ Devam etmeden önce %2$s'nin yeni sürümünü okuyun ve kabul edin"</string>
     <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
     <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
+    <string name="hourly_forecast_detail_chart_view_bubble_info_format">%1$s %2$s %3$s°</string>
     <string name="hourly_forecast_detail_chart_view_max_temperature_text">Yüksek</string>
     <string name="hourly_forecast_detail_chart_view_min_temperature_text">Düşük</string>
     <string name="hourly_forecast_detail_current_day_max_min_temperature_text">Yüksek %1$s° | Düşük %2$s°</string>
+    <string name="hourly_forecast_detail_current_day_real_temperature_text">%1$s°</string>
+    <string name="hourly_forecast_detail_temperature_axis_text">%1$s°</string>
+    <string name="hourly_forecast_detail_time_input_pattern">HH</string>
+    <string name="hourly_forecast_detail_time_output_pattern">HH:mm</string>
     <string name="hourly_forecast_title_24_hours_desc">24 saatlik hava tahmini</string>
     <string name="hourly_forecast_title_hourly_desc">saatlik hava tahmini</string>
     <string name="incognito_mode_dialog_confirm_text">Kapat</string>

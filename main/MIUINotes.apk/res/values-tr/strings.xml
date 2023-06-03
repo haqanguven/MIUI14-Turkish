@@ -46,6 +46,7 @@
     <string name="actionbar_close_description">Kapat</string>
     <string name="actionbar_home_description">Geri</string>
     <string name="add_account_desc">Notlarınızı Mi hesabınız ile senkronize etmek istiyor musunuz?</string>
+    <string name="added_to_clipboard">Kopyalandı</string>
     <string name="afternoon">ÖS</string>
     <string name="alarm_bar_title">Hatırlatıcı</string>
     <string name="alert_action_edit_anyway">Düzenlemeye devam et</string>

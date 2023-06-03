@@ -581,8 +581,7 @@
     <string name="micloud_space_applist_detail">Ana ekranınızdaki uygulamaları yönetin</string>
     <string name="micloud_space_duokan_detail">Duokan uygulamasıyla elektronik kitapları indirin ve organize edin</string>
     <string name="micloud_space_duokan_title">Duokan</string>
-<string name="micloud_space_soundrecorder_detail">"Xiaomi cihazınızda kaydedici uygulamasını açın ve bulutta depolanan öğelerin bulunduğu klasörü seçin
-İlişkili Xiaomi hesabını MIUI sistem hesabınız olarak kullandığınızdan emin olun"</string>
+	<string name="micloud_space_soundrecorder_detail">Cihazınızda depolanan kayıtları yönetin</string>
     <string name="micloud_space_soundrecorder_title">Kayıtlar</string>
     <string name="micloud_storage_detail">Ayrıntılar</string>
     <string name="micloud_storage_family_quota">Aile paylaşımı</string>
@@ -1058,7 +1057,6 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir"</string>
     <string name="update_dialog_no_update_toast_text">Mevcut sürüm güncel</string>
     <string name="update_dialog_title">Güncelleme mevcut</string>
     <string name="update_dialog_update_button_text">Güncelle</string>
-    <string name="upgrade_member_storage">Xiaomi bulut üyeliği</string>
     <string name="user_agreement_content">Bu hizmeti kullanarak %s kabul etmiş olursunuz</string>
     <string name="user_agreement_link">Xiaomi bulut hizmet şartları</string>
     <string name="user_agreement_p5">"

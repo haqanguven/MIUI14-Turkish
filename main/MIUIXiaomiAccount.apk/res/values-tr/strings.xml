@@ -341,9 +341,8 @@ Bu kodu amirinize gönderin"</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="facebook">Facebook</string>
     <string name="facebook_app_id">2263965750590514</string>
-    <string name="facebook_application_id" />
+    <string name="facebook_application_id">2263965750590514</string>
     <string name="facebook_login">Facebook ile giriş yap</string>
-    <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="failed_dup_secure_phone_number">Bu telefon numarası zaten başka bir Mi hesabı ile ilişkilendirilmiş durumda</string>
     <string name="family_service">Aile hizmetleri</string>
     <string name="family_service_not_open">Üyeleri davet et</string>
@@ -561,6 +560,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -826,7 +826,9 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_error_user_password">Parolalar eşleşmiyor</string>
     <string name="passport_error_verify_activator_phone_message">Sim kart hizmetinizin etkin durumda olduğundan ve cihazın bir ağa bağlı olduğundan emin olun</string>
     <string name="passport_error_verify_activator_phone_title">Telefon numarası doğrulanamadı</string>
+    <string name="passport_facebook_application_id">2263965750590514</string>
     <string name="passport_facebook_login_btn_content_description">Facebook ile oturum açın</string>
+    <string name="passport_facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="passport_failed_to_send_activate_email">Etkinleştirme e-postası gönderilemedi</string>
     <string name="passport_find_password_on_web_msg">Şifrenizi sıfırlamak için account.mi.com adresini ziyaret edin</string>
     <string name="passport_first_login_prompt">İlk kez oturum açtığınızda Mi hesabı otomatik olarak oluşturulacaktır</string>
@@ -842,6 +844,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_get_verify_code">Kodu al</string>
     <string name="passport_getting_activator_phone">Sim bilgileri alınıyor</string>
     <string name="passport_getting_verify_code">Alınıyor</string>
+    <string name="passport_google_application_id">29336734752-hkhmuft60qa4qn1ual7etmp6pfo0ib54.apps.googleusercontent.com</string>
     <string name="passport_google_login">Daha önce kullanılan Google hesabıylamı oturum açıyorsunuz?</string>
     <string name="passport_google_login_agree">Google hesabı</string>
     <string name="passport_google_login_btn_content_description">Google ile giriş yap</string>
@@ -853,6 +856,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_imei_permission_denied_message">Cihazınızın İmei numarasını almak için izninizi istiyoruz. Mi hesabı cihazınızın İmei numarasını, oturum açmak ve oturum açılan cihazda kullanıyor olduğunuz Mi hesabınızı güvende tutmaya yardımcı olması için kullanır</string>
     <string name="passport_imei_permission_denied_title">İmei talep izni</string>
     <string name="passport_input_captcha_hint">Kodu girin</string>
+    <string name="passport_input_email_vcode_hint">Kodu girin</string>
     <string name="passport_input_password_for_login">Bu numara mevcut bir hesap ile ilişkili durumdadır. Lütfen şifrenizi girin</string>
     <string name="passport_input_password_hint">Şifrenizi girin</string>
     <string name="passport_input_phone_hint">Telefon numarası girin</string>
@@ -908,13 +912,15 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_prev">Önceki</string>
     <string name="passport_privacy_policy">Gizlilik politikasını</string>
     <string name="passport_privacy_policy_required">Gizlilik politikası (Zorunlu)</string>
-    <string name="passport_provision_activator_phone_summary_sim1_prefix">Sim %1$d %2$s</string>
-    <string name="passport_provision_activator_phone_summary_sim2_prefix">Sim %1$d %2$s</string>
+    <string name="passport_provision_activator_phone_summary_sim1_prefix">Sim <xliff id="sim1" refersto="1">%1$d</xliff> %2$s</string>
+    <string name="passport_provision_activator_phone_summary_sim2_prefix">Sim <xliff id="sim2" refersto="2">%1$d</xliff> %2$s</string>
     <string name="passport_provision_input_email_register_prompt">Kişisel verileriniz seçtiğiniz bölgenin yasa ve yönetmeliklerine uygun olarak saklanacaktır</string>
     <string name="passport_provision_password_req_notice">Şu türlerden en az %1$d-%2$d en az karakter %3$d : Harfler, rakamlar ve özel semboller</string>
     <string name="passport_pwd_generate_failure">Şifre oluşturulamadı</string>
     <string name="passport_pwd_generating">Oluşturuluyor</string>
+    <string name="passport_qq_application_id" />
     <string name="passport_qq_login_btn_content_description">QQ ile oturum açın</string>
+    <string name="passport_qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="passport_querying_phone_info">Hesap bilgileri isteniyor</string>
     <string name="passport_quick_login">Oturum aç</string>
     <string name="passport_quick_login_dialog_step2_title">2 adımlı doğrulama</string>
@@ -1048,6 +1054,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_user_password_hint">Şifre</string>
     <string name="passport_user_reg_region">Ülke veya bölge</string>
     <string name="passport_user_reg_region_warning">Hesabınız oluşturulduktan sonra bulunduğunuz ülke veya bölgeyi değiştiremezsiniz</string>
+    <string name="passport_vcode_email_send_prompt"><Data>Doğrulama kodunuz &lt;a href=>&lt;xliff:g id=email_address>%s&lt;/xliff:g>&lt;/a> adresine gönderildi</Data></string>
     <string name="passport_vcode_notification_title">Oturum açma doğrulamanız tamamlanmadı</string>
     <string name="passport_vcode_prompt_long">Doğrulama kodunu girin</string>
     <string name="passport_vcode_sms_send_prompt">%s numarasına doğrulama kodu gönder</string>
@@ -1056,8 +1063,13 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_verify">Doğrula</string>
     <string name="passport_verifying_activator_phone">Telefon güvenliği doğrulanıyor</string>
     <string name="passport_wait_for_sms_prompt">Şimdi baştan başlatılsın mı? Doğrulama mesajlarının ulaşması telefonunuz operatörünüzün kapsama alanı içerisindeyken 10 dakika kadar sürebilir</string>
+    <string name="passport_wechat_application_id">wxbf03a31f4135dd16</string>
     <string name="passport_wechat_not_install">"Önce WeChat'i kurun"</string>
+    <string name="passport_wechat_scope">snsapi_userinfo</string>
+    <string name="passport_wechat_state">passport_weixin_sns_auth_state</string>
+    <string name="passport_weibo_application_id" />
     <string name="passport_weibo_login_btn_content_description">Weibo ile oturum açın</string>
+    <string name="passport_weibo_redirect_uri" />
     <string name="passport_weixin_login_btn_content_description">WeChat ile oturum açın</string>
     <string name="passport_wrong_captcha">Girmiş olduğunuz kod yanlış</string>
     <string name="passport_wrong_phone_number_format">Girmiş olduğunuz telefon numarası formatı geçersiz</string>
@@ -1103,8 +1115,6 @@ Bu kodu amirinize gönderin"</string>
     <string name="push_notify_dialog_title">Hesap doğrulama</string>
     <string name="pwd_width_phone_number_or_mail_num">Şifreniz telefon numaranızı, e-postanızı veya Mi hesap kimliğinizi içeremez</string>
     <string name="qq">QQ</string>
-    <string name="qq_application_id" />
-    <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="qrcode_login_entry_text">Farklı bir cihazda mı oturum açtınız? Hızlı oturum açmayı kullanın</string>
     <string name="qrcode_login_load_refresh">Bu QR kodunun süresi doldu</string>
     <string name="qrcode_login_load_retry">Yüklenemedi. Tekrar deneyin</string>
@@ -1160,7 +1170,6 @@ Bu kodu amirinize gönderin"</string>
     <string name="send_diagnosis_log">Kayıt günlüğü gönder</string>
     <string name="send_email_activate_message">Doğrulama e-postası gönderildi</string>
     <string name="sending">Gönderiliyor</string>
-    <string name="server_client_id">29336734752-hkhmuft60qa4qn1ual7etmp6pfo0ib54.apps.googleusercontent.com</string>
     <string name="service_error">Servis hatası</string>
     <string name="set_success">Başarıyla değiştirildi</string>
     <string name="setting_later">Şimdi değil</string>
@@ -1324,14 +1333,10 @@ Bu kodu amirinize gönderin"</string>
     <string name="v7_preference_on">Açık</string>
     <string name="vip_account_settings">Vip ayarları</string>
     <string name="vip_settings_info">Vip ayarları</string>
-    <string name="wechat_application_id" />
-    <string name="wechat_scope" />
-    <string name="wechat_state" />
+    <string name="wechat_application_id">wxbf03a31f4135dd16</string>
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
-    <string name="weibo_application_id" />
-    <string name="weibo_redirect_uri" />
     <string name="weixin">WeChat</string>
     <string name="weixin_login">WeChat ile oturum açın</string>
     <string name="xiao_mi_vip">Mi Vip</string>

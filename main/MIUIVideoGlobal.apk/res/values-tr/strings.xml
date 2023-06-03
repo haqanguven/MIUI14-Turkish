@@ -405,7 +405,8 @@ Bu kodu gönderin"</string>
     <string name="dialog_open_internet_btn">Ağa bağlan</string>
     <string name="dialog_privacy_change_info">Sunduğumuz hizmetlerdeki düzenlemelerden dolayı videolar gizlilik politikasını güncelledik. Bir kullanıcı olarak tüm haklarınızı ayrıca verilerinizi kullanma yöntemlerimizi anlamak için uygulamayı kullanmadan önce %1$s Kullanıcı sözleşmesi ve %2$s Gizlilik politikamızı okuyun ve kabul edin</string>
     <string name="dialog_privacy_change_title">Gizlilik politikası güncellemesi</string>
-    <string name="dialog_privacy_info_new4">Videolar uygulamasına hoş geldiniz. Bu uygulama aşağıdaki hizmetleri sunmaktadır: - Çevrimiçi yayın hizmeti. - Yerel video oynatıcı. Temel hizmetleri size sağlayabilmesi için videoların gerekli kişisel bilgileri toplaması gerekmektedir. Topladığımız bilgileri nasıl kullandığımızı Gizlilik politikamızdan öğrenebilirsiniz. İlgili ayarları Ayarlar > Şifreler ve güvenlik menüsünden değiştirebilirsiniz. Videolar uygulamasını kullanmadan önce %1$s Kullanıcı sözleşmesi ve %2$s Gizlilik politikasını okuyun ve kabul edin</string>
+    <string name="dialog_privacy_info_new4">Videolar uygulamasına hoş geldiniz. Bu uygulama aşağıdaki hizmetleri sunmaktadır: - Çevrimiçi yayın hizmetleri. - Yerel video oynatıcı temel hizmetleri size sağlayabilmesi için videoların gerekli kişisel bilgileri toplaması gerekmektedir. Topladığımız bilgileri nasıl kullandığımızı Gizlilik politikamızdan öğrenebilirsiniz. İlgili ayarları Ayarlar > Şifreler ve güvenlik menüsünden değiştirebilirsiniz. Videolar uygulamasını kullanmadan önce %1$s Kullanıcı sözleşmesi ve %2$s Gizlilik politikasını okuyun ve kabul edin</string>
+    <string name="dialog_privacy_info_new5">Videolar uygulamasına hoş geldiniz. Bu uygulama aşağıdaki hizmetleri sunmaktadır: - Çevrimiçi yayın hizmetleri. - Yerel video oynatıcı temel hizmetleri sağlamak için bu uygulamanın gerekli kişisel bilgileri toplaması gerekir. Ayrıntılar için Gizlilik politikamıza bakın. Ayarlarınızı istediğiniz zaman Profil > Ayarlardan değiştirebilirsiniz. Videoları kullanmadan önce %1$s Kullanıcı sözleşmemizi ve %2$s Gizlilik politikamızı okuyun ve kabul edin</string>
     <string name="dialog_privacy_revoke_cancel">İptal et</string>
     <string name="dialog_privacy_revoke_count_down">Geri al (%1$d saniye)</string>
     <string name="dialog_privacy_revoke_description">"Anahtarı kapatarak videolar uygulamasının Gizlilik politikası'na verdiğiniz izni geri çekiyorsunuz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel veriler, uygulanabilir yasaların gerektirdiği gibi belirli bir süre içinde silinecektir. Gizlilik Politikası'na verdiğiniz izni geri çekmeniz, toplanan kişisel bilgilere dayanan çevrim içi hizmetleri kabul etmeyi reddetmeniz olarak kabul edilecektir"</string>
@@ -846,6 +847,7 @@ Bu işlem galeri resimlerinizi etkilemez"</string>
     <string name="incentive_login_success_for_already_claimd">Başarıyla oturum açıldı. Puan talep edildi</string>
     <string name="incentive_login_tip">Puan kazanmak ve ödüller almak için oturum açın</string>
     <string name="incentive_my_points">Puanlarım</string>
+    <string name="incentive_offline">"Görevler özelliğimizi kullanımdan kaldırdığımızı bildirdiğimiz için üzgünüz. Mevcut jetonlarınızı 31 Temmuz 2023'e kadar kullanabilirsiniz"</string>
     <string name="incentive_popup_window_share">Puan kazanmak için paylaşın</string>
     <string name="incentive_popup_window_subscribe">Puan kazanmak için abone olun</string>
     <string name="incentive_rules_title_bar">Kurallar</string>
@@ -1075,6 +1077,13 @@ tercih ettiğiniz dili seçin"</string>
     <string name="m3_sys_typescale_title_medium_font">sans-serif-medium</string>
     <string name="m3_sys_typescale_title_small_font">sans-serif-medium</string>
     <string name="manage">Yönet</string>
+	<string name="manager_request_Content">"Androidin dosya yönetimi politikası nedeniyle videolar diğer uygulamalardan videolara erişemez
+Videolar uygulamasının tüm video dosyalarına erişmesine ve bunları oynatmasına izin verebilirsiniz
+Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başka hiçbir dosyaya erişmeyeceğiz. Şimdi izin verilsin mi?"</string>
+	<string name="manager_request_cancel">İptal</string>
+	<string name="manager_request_continue">İzin ver</string>
+	<string name="manager_request_tip">"Tekrar gösterme"</string>
+	<string name="manager_request_title">"Bu dosyaya erişilemiyor"</string>
     <string name="mangotv_feature_list_title3">Bölüm %s eklendi</string>
     <string name="mangotv_feature_more">Daha fazla</string>
     <string name="mangotv_feature_title1">Bölümler</string>
@@ -1315,6 +1324,8 @@ tercih ettiğiniz dili seçin"</string>
     <string name="my_feedback_title">Geri bildirimim</string>
     <string name="need_update_app">Tüm özelliklerinden faydanalanabilmek için videolar uygulamasını güncelleyin</string>
     <string name="network_connect_info">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+	<string name="network_error_and_retry_tip">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+	<string name="network_error_tip">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edin</string>
     <string name="network_failed">Ağa bağlanılamadı</string>
     <string name="newyearfestival_go_to_draw_prizes">Şanslı çekilişe git</string>
     <string name="newyearfestival_watch_the_video_to_draw_prizes">Şanslı çekilişe katılmak için videoları izleyin</string>
@@ -1901,6 +1912,8 @@ Hiçbir şey göstermiyor"</string>
     <string name="talkback_voice_search">Sesli arama</string>
     <string name="target_sdk_version_30_upgrade_tips">Android 11 kısıtlamaları nedeniyle bazı videolar burada görüntülenemeyebilir. Diğer videoları bulmak için dosyalara dokunun</string>
     <string name="temporary_not_available">Bu özellik henüz kullanılamamaktadır</string>
+	<string name="test_text_description">Kim haklı olarak itildiğinden daha sert bir şekilde iter herkesi. Zevkin kendisinin olduğu yerde ancak özgür doğması ve ona benzer bir şey kolay çünkü başardığı şeyle bu zevkten nefret edenleri terk ederler. Onların zevklerini nefret kadar kolay ya da rahat bir şekilde yaşayabilmemiz için çünkü hayatın en çok reddedilecek acılarını bilmiyorlar. Ancak daha büyük zevkler ve övgüler hasta tarafından seçilmekten kaçınılmalıdır</string>
+	<string name="test_text_title">Hata yapan tarafından reddedilmesine izin verin</string>
     <string name="text_default_ad_description">Ad</string>
     <string name="text_default_ad_title">Beğenebilirsin</string>
     <string name="the_anniversary_of_lifting_martial_law">Sıkı yönetim kanunun yıldönümü</string>

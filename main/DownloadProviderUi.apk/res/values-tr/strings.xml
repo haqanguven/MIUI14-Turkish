@@ -322,6 +322,7 @@
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -574,7 +575,7 @@
     <string name="turn_off_xunlei_message">Daha düşük indirme hızlarıyla karşılaşabilirsiniz</string>
     <string name="turn_off_xunlei_title">Xunlei indirme hızlandırıcıyı kapat</string>
     <string name="unbind_xunlei_2_success">Xunlei hesabı eklendi</string>
-    <string name="unbind_xunlei_success">Xunlei Hesabı oturumu kapatıldı</string>
+    <string name="unbind_xunlei_success">Xunlei hesabı oturumu kapatıldı</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="version">Sürüm: %s</string>

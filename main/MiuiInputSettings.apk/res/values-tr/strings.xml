@@ -375,12 +375,17 @@ Oluşturulan kayıtları dosyalardan görüntüleyebilirsiniz"</string>
     <string name="launch_wechat_scanner">WeChat tarayıcı</string>
     <string name="lock_settings_common_title">Ayarlar</string>
     <string name="long_press_back_key">Geri tuşuna uzun basın</string>
-    <string name="long_press_buttom_key">Kilit ekranında Ana ekran tuşuna uzun basın</string>
+    <string name="long_press_buttom_key">Kilit ekranında ana ekran tuşuna uzun basın</string>
     <string name="long_press_home_key">Ana ekran tuşuna uzun basın</string>
     <string name="long_press_menu_key">Menü tuşuna uzun basın</string>
     <string name="long_press_menu_key_when_lock">Kilit ekranında Menü tuşuna uzun basın</string>
+    <string name="long_press_power_guide_know">Tamam</string>
+    <string name="long_press_power_guide_message" formatted="false">"Google asistanı uyandırmak için güç düğmesini %s saniye basılı tutun
+Düğmeyi %s saniye basılı tutarsanız bunun yerine kapatma menüsünü açacaksınız"</string>
+    <string name="long_press_power_guide_settings">Ayarlar</string>
+    <string name="long_press_power_guide_title">Güç düğmesiyle uyandır</string>
     <string name="long_press_power_key">Güç tuşuna uzun basın</string>
-    <string name="long_press_power_key_half_of_second">"Google Asistan'ı açmak için güç tuşuna basın ve 0.5 saniye boyunca basılı tutun"</string>
+    <string name="long_press_power_key_half_of_second">Google asistanı açmak için güç tuşuna basın ve 0.5 saniye boyunca basılı tutun</string>
     <string name="long_press_power_key_half_second">%s saniye için güç tuşuna basılı tutun</string>
     <string name="long_press_power_key_tips">Güç tuşuna uzun basmak <font color="#999999"> daha hızlı ve daha rahattır</font></string>
     <string name="long_press_volume_down">Sesi kısmak için uzun basın</string>
@@ -614,6 +619,7 @@ Son kullanılanları açmak için çift dokunun"</string>
     <string name="stylus_connect_fail">Bağlanılamadı. Tekrar takın.</string>
     <string name="stylus_connect_fail_no_battery">Şimdi kaleminizi şarj edin</string>
     <string name="stylus_connect_fail_no_reason">Bağlanılamadı</string>
+    <string name="stylus_connect_fail_not_match_tablet">Kalem tabletle uyumlu değil</string>
     <string name="stylus_connect_fail_not_open_gps">Bağlanılamadı. Konum hizmetlerini açın ve tekrar deneyin</string>
     <string name="stylus_connecting">Bağlanılıyor</string>
     <string name="stylus_default_percent">100</string>
@@ -659,6 +665,7 @@ Son kullanılanları açmak için çift dokunun"</string>
     <string name="stylus_success">Bitti</string>
     <string name="stylus_vice_key">İkinci tuş</string>
     <string name="stylus_welcome">Xiaomi akıllı kalem ile tanışın</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Paz</string>
     <string name="sunday_shortest">Paz</string>

@@ -77,7 +77,8 @@ Yeniden etkinleştirme işlemi için yeni Sim kartınız (%s) ile bağlantılı 
     <string name="activate_popup_desc_find_device_postfix_msg">"%1$s. %3$s'yi etkinleştirmek için %2$d Sim'in telefon numarasını girin. Bu Sim kartı değiştirirseniz başka bir aktivasyon mesajı gönderilecektir"</string>
     <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s. %2$s özelliğini etkinleştirmek için telefon numaranızı girin. Bu Sim kartı değiştirirseniz başka bir aktivasyon mesajı gönderilecektir</string>
     <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">"%2$s'yi etkinleştirmek için %1$d uluslararası ücretli mesaj gönderilecek. Operatörünüz bu mesaj için sizden ücret alacaktır</string>
-    <string name="activate_popup_desc_mi_account_user_manual">%1$s. Herhangi bir sorunuz varsa Mi hesabı kullanım kılavuzuna bakın</string>
+    <string name="activate_popup_desc_mi_account_user_manual">"%1$s
+<Data>Herhangi bir sorunuz varsa &lt;a href=https://account.xiaomi.com/helpcenter/faq>Xiaomi hesabı kullanıcı kılavuzuna&lt;/a> bakın</Data>"</string>
     <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">%3$s etkinleştirmek için %1$d yurt içi ücretli mesaj ve %2$d uluslararası ücretli mesaj gönderilecek. Operatörünüz bu mesajlar için sizden ücret alacaktır</string>
     <string name="activate_popup_desc_sim_card_downlink_msg">"%2$s'yi etkinleştirmek için %1$d Sim'in telefon numarasını girin"</string>
     <string name="activate_popup_desc_sim_card_downlink_msg_one_sim">"%s'yi etkinleştirmek için telefon numaranızı girin"</string>
