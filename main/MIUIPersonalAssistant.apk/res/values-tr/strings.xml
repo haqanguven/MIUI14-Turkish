@@ -566,6 +566,7 @@ Ekspres teslimatı kurye hizmetlerinin resmi internet sitelerinden de takip edeb
     <string name="pa_express_widget_all">Tüm ekspres</string>
     <string name="pa_express_widget_list_item_desc">"Takip numarası: "</string>
     <string name="pa_express_widget_logout">Paketlerinizi takip etmek için oturum açın</string>
+    <string name="pa_express_widget_logout_description">Ekspres lojistiğin durumunu kontrol etmek için oturum açın. Etkinleştirmek için iki kez dokunun</string>
     <string name="pa_express_widget_order_42">Paketi takip et</string>
     <string name="pa_express_widget_post">Paket gönder</string>
     <string name="pa_express_widget_search">Ara</string>
@@ -872,6 +873,7 @@ yükleme bağlantılarını bitirmesi gerekir"</string>
     <string name="pa_shortcut_desc_add_button_install">"%1$s kullanmak için %2$s yükle'ye tıklayın"</string>
     <string name="pa_shortcut_desc_delete_button">"%1$s'yi ana sayfadan kaldırmak için tıklayın"</string>
     <string name="pa_shortcut_desc_more_button">Tam işlev sayfasına girmek için tıklayın</string>
+    <string name="pa_shortcut_desc_more_title">Daha fazla özellik</string>
     <string name="pa_shortcut_download_tip">%2$s kullanabilmek için önce %1$s yükleyin</string>
     <string name="pa_shortcut_empty">Boş</string>
     <string name="pa_shortcut_group_title_start_page">Başlangıç sayfası</string>
