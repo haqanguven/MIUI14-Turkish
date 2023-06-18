@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen android:persistent="false" android:title="@string/call_barring_outgoing" android:key="call_barring_outgoing_key" android:defaultValue="DEFAULT" android:dialogTitle="@string/call_barring_outgoing" />
+    <PreferenceScreen android:persistent="false" android:title="@string/call_barring_incoming" android:key="call_barring_incoming_key" android:defaultValue="DEFAULT" android:dialogTitle="@string/call_barring_incoming" />
+    <com.qualcomm.qti.callfeaturessetting.gsm.callbarring.EditPinPreference android:persistent="false" android:title="@string/labelCbCancelAll" android:key="call_barring_cancel_all_key" android:dialogMessage="@string/input_password" />
+    <com.qualcomm.qti.callfeaturessetting.gsm.callbarring.EditPinPreference android:persistent="false" android:title="@string/labelCbChangePassword" android:key="call_barring_change_psw_key" android:dialogMessage="@string/psw_enter_old" />
+</PreferenceScreen>

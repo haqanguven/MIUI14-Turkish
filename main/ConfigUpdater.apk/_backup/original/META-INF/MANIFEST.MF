@@ -1,0 +1,51 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_45-internal (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 30J7X+gY2uz2SoxX9zShUg0isUaB4TkU9/YKrD7UUck=
+
+Name: res/drawable/ic_back_arrow.xml
+SHA-256-Digest: e9h2/7rpvkgyPvc63igPSPXgyL/p/f9E1LeASsK+2NM=
+
+Name: res/layout/pref_dialog_edit_pin.xml
+SHA-256-Digest: ksUJyCUjk9LBvljhkcDc8l2YCJtdgTkSUNMFtWjc0gk=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_phone.png
+SHA-256-Digest: RP0CG9P9ZWFuiGVVVQctFSbjQCWLmzkJYws2Dnqiem0=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_phone.png
+SHA-256-Digest: Ys6qOKHLvjdIsv9dII0MLOMiqosFFf77QA8rmP3am3U=
+
+Name: res/xml/call_barring.xml
+SHA-256-Digest: JV7188Kf1HoZaiVcqJyEwxb0Ip/izGOdkvHSXh3gdvw=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_phone.png
+SHA-256-Digest: Jp/H5xz8LNIufXgB1SUzWo5hpOzMplis9bBeloeOpHI=
+
+Name: res/xml/callwaiting_cdma_options.xml
+SHA-256-Digest: boJ6LLVtJjrGLP015Ov6/4dUSt50FV2Nbqgg/mWapNU=
+
+Name: resources.arsc
+SHA-256-Digest: 77gn2NfjJPS8ARC0AhfNtfoUuQB3KunNFSHaBdTUu5U=
+
+Name: res/drawable-hdpi-v4/ic_arrow_back_24dp.png
+SHA-256-Digest: sj0s66RsUnMp70XU3YPaPCWE83AoDwXiDGOQfjwo7Xo=
+
+Name: res/layout/pref_dialog_editphonenumber.xml
+SHA-256-Digest: J41Z/kfqWSpiQ9lf66eLHZD1ka9nYT/AZ49ygrgh8FQ=
+
+Name: classes.dex
+SHA-256-Digest: oPB7CJEI4BZjWqn1n2y8c9kY1GAKCqfrOyqEERuTS2w=
+
+Name: res/drawable-hdpi-v4/ic_see_contacts_holo_dark.png
+SHA-256-Digest: SiUOQ3nFlZz9ta2kYBWaCRQCdbqY1AapE31JbKpCECA=
+
+Name: res/xml/callforward_cdma_options.xml
+SHA-256-Digest: d3rGv/BmV771jTVTPBzP8Ea77KcpZz0A3QZhJMFa2JQ=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_phone.png
+SHA-256-Digest: JU+jRCZa/6pjB7KcZsPsGZsX85kgp2h5S3N312EqTgA=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_phone.png
+SHA-256-Digest: oly+MsJl8sxy+acLArHRANr7No2FB/NlBZ1rRFvs+uM=
+
