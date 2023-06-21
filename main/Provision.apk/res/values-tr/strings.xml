@@ -338,7 +338,7 @@ Bu tür izinleri vermeyi kabul etmezseniz Xiaomi bağlantı hizmetlerini kullana
     <string name="item_contents_wwarning">Cihazınız kaybolursa ekran kilidi ayarlamadığınız sürece başkalarının onu kullanmasını ve verilerinize erişmesini engelleyemezsiniz</string>
     <string name="item_facerecognition">Yüz kilidi</string>
     <string name="item_fingerprint">Parmak izi</string>
-    <string name="item_lock_screen_password">Yalnızca ekran kilidi</string>
+    <string name="item_lock_screen_password">Ekran kilidi</string>
     <string name="item_lock_screen_password_only">Ekran kilidi</string>
     <string name="item_return">Ayarla</string>
     <string name="item_skip">Atla</string>

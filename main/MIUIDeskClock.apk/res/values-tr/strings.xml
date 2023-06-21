@@ -42,6 +42,7 @@
     <string name="add_timezone_title">Zaman dilimi ekle</string>
     <string name="afternoon">Öğleden sonra</string>
     <string name="agree">Kabul et</string>
+    <string name="alarm_alert">Alarm çalıyor</string>
     <string name="alarm_alert_alert_silenced">Alarm %d dakika sonra susturuldu</string>
     <string name="alarm_alert_close_entrance">Kapat</string>
     <string name="alarm_alert_disabled">Kapalı</string>
@@ -833,6 +834,8 @@ mm"</string>
     <string name="timer_alert_mute_remind">Alarmı susturmak için dokunun</string>
     <string name="timer_alert_mute_switch">Zamanlayıcı alarmlarını susturmak için etkinleştirin</string>
     <string name="timer_alert_type_beach">Plaj</string>
+    <string name="timer_alert_running">Zamanlayıcı çalışıyor</string>
+    <string name="timer_alert_type_beach">Sahil</string>
     <string name="timer_alert_type_forest">Orman</string>
     <string name="timer_alert_type_mute">Varsayılan</string>
     <string name="timer_alert_type_no">Hiçbiri</string>

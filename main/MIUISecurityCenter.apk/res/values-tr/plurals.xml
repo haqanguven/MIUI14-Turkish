@@ -213,6 +213,14 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%d saniye geri sar</item>
         <item quantity="one">%d saniye geri sar</item>
     </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s saat</item>
+        <item quantity="one">%s saat</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s dakika</item>
+        <item quantity="one">%s dakika</item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">%d uygulama arasında ara</item>
         <item quantity="one">%d uygulama arasında ara</item>
@@ -300,6 +308,14 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Anladım (%d saniye)</item>
         <item quantity="one">Anladım (%d saniye)</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"Not:
+·Gelişmiş görseller Pil tasarrufu açıkken veya cihazınız aşırı ısındığında kullanılamaz
+·Akıllı kare hızı oyununuz saniyede en az %d kare gösterecek şekilde ayarlandığında en iyi sonuçları gösterir"</item>
+        <item quantity="one">"Not:
+·Gelişmiş görseller Pil tasarrufu açıkken veya cihazınız aşırı ısındığında kullanılamaz
+·Akıllı kare hızı oyununuz saniyede en az %d kare gösterecek şekilde ayarlandığında en iyi sonuçları gösterir"</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Ses değiştiriciyi şimdi deneyin
@@ -577,6 +593,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
     <plurals name="om_running_apps_num">
         <item quantity="other">%d uygulama</item>
         <item quantity="one">%d uygulama</item>
+    </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%1$s dahil %2$d uygulama kötü amaçlı olabilir</item>
+        <item quantity="one">%1$s dahil %2$d uygulama kötü amaçlı olabilir</item>
     </plurals>
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>

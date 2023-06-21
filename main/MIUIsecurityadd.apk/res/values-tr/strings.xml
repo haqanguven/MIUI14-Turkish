@@ -166,7 +166,7 @@
     <string name="create_kid_mode_dialog_msg">Açıldığında çocuk alanına hızlı erişim için bir masaüstü simgesi oluşturulacak</string>
     <string name="create_kid_mode_dialog_title">Hemen</string>
     <string name="create_space_loading">Alt alan oluşturuluyor</string>
-    <string name="cta_main_purpose">"Game Turbo'ya hoşgeldiniz"</string>
+    <string name="cta_main_purpose">Oyun hızlandırıcya hoşgeldiniz</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -229,6 +229,8 @@
     <string name="ew_detail_receive_time_title">Başlangıç zamanı</string>
     <string name="ew_detail_receive_warn_time_message">%s saniye</string>
     <string name="ew_detail_receive_warn_time_title">Başlangıçtan önceki zaman</string>
+	<string name="ew_monitor_slogan">"Deprem izleme
+programımıza katılın"</string>
     <string name="ew_save_title">Kaydet</string>
     <string name="ew_share_logo_title">Deprem uyarısı</string>
     <string name="ew_share_save_tips">%s konumuna kaydedildi</string>
@@ -479,6 +481,7 @@ Güvenli ve daha güvenli"</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -639,6 +642,7 @@ Güvenli ve daha güvenli"</string>
     <string name="pc_activity_title">Pili optimize et</string>
 	<string name="pc_entered_extreme_mode">Hazırda bekletme modu açık</string>
 	<string name="pc_entered_extreme_mode_summary">Cihazınızın pili bitti ve hazırda bekletme moduna girdi. Uygulamalar arka planda çalışacak ve bildirim göndermeyecek</string>
+	<string name="pc_entered_extreme_mode_summary2">Cihazınızın pili bitmek üzere. Hazırda bekletme modunda arka planda çalışan uygulamalardan herhangi bir bildirim almazsınız</string>
 	<string name="pc_extreme_exit_and_power_off">Çıkış</string>
 	<string name="pc_extreme_mode_bg_toast">Hazırda bekletme modunda uygulamalar arka planda çalışır ve bildirim göndermez</string>
 	<string name="pc_extreme_mode_exit_risk_title">Dikkat</string>
@@ -812,6 +816,7 @@ Lütfen güncellenen %s'yi okuyun ve kabul edin"</string>
     <string name="toast_create_fail_text">Oluşturma başarısız oldu</string>
     <string name="toast_founction_not_support">Mevcut sürüm desteklenmiyor</string>
     <string name="toast_network_error">Ağ bağlantısı yok. Lütfen daha sonra tekrar deneyin</string>
+    <string name="toast_text_kid_space_delete_fail">Alt alan silinemedi. Lütfen daha sonra tekrar deneyin</string>
     <string name="toast_text_kid_space_delete_success">Alan başarıyla silindi</string>
     <string name="toast_text_kid_space_deleted">Alt alan silindi</string>
     <string name="toast_text_kid_space_deleting">Alan siliniyor</string>

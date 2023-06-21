@@ -409,7 +409,7 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="btn_exit_send">Çıkış</string>
     <string name="btn_sure">Tamam</string>
     <string name="burst_image_download_item_title" formatted="false">Orijinali indir (%s|%s)</string>
-    <string name="burst_photo_enter" />
+	<string name="burst_photo_enter">Çek</string>
     <string name="burst_preview_title">Çoklu çekim</string>
     <string name="burst_save_all">Tümünü kaydet</string>
 	<string name="burst_save_choice_title">%2$d kişiden %1$d seçildi</string>
@@ -1818,6 +1818,9 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="image_transition_name">image_transition</string>
     <string name="image_with_time">%s fotoğrafı çekildi</string>
     <string name="image_with_time_and_location">Fotoğraf %1$s tarihinde çekildi. Konum: %2$s</string>
+	<string name="immersion_menu_all_photos">Tüm öğeler</string>
+	<string name="immersion_menu_camera_photos">Kamera albümü</string>
+	<string name="immersion_menu_photo_switch_notice">Burada tüm öğelerin mi yoksa yalnızca kamera albümünün mü görüntüleneceğini seçmek için dokunun</string>
     <string name="impunity_declaration_settings">İnternet bağlantısı bildirimi</string>
     <string name="impunity_declaration_summary">Galerinin her açılışında internet bağlantısı bildirimini gösterir</string>
     <string name="initializing_cloud">Başlatılıyor</string>
@@ -3888,6 +3891,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="update_network_error">Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="update_new_version">Bir güncelleme mevcut</string>
     <string name="update_title">%s sürümü şimdi mevcut</string>
+	<string name="upload_progress_message">Xiaomi bulut senkronizasyon hizmetleri Google gotoğraflar yedeklemesiyle değiştirildi. Önemli hiçbir şeyi kaybetmediğinizden emin olmak için bu cihazda ve bulutta depolanan öğeleri kontrol etmemiz gerekiyor. Bu işlem birkaç dakika sürebilir dakika. Tamamlanana kadar galeriden ayrılmayın</string>
     <string name="user_agree">Kabul et</string>
     <string name="user_agreement2">Hizmet şartları</string>
     <string name="user_agreement4">Gizlilik politikası</string>

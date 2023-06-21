@@ -529,6 +529,7 @@ Lütfen ağınızı kontrol edin"</string>
     <string name="create_playlist">Oynatma listesi oluştur</string>
     <string name="create_playlist_failure">Liste oluşturulamadı</string>
     <string name="create_playlist_input_hint">Oynatma listesi adını girin</string>
+    <string name="create_shortcut_for_playlist">Ana ekrana çalma listesi kısayolu oluşturulsun mu?</string>
     <string name="crg_none_address">Adres yok</string>
     <string name="crg_none_gift">Hediye yok</string>
     <string name="crs_appeal">Temyiz</string>
@@ -2824,7 +2825,7 @@ mutlu ol"</string>
     <string name="voiceroom_set_workdata_hint_mouth">Ay</string>
     <string name="voiceroom_set_workdata_hint_nogain">Elde edilmedi</string>
     <string name="voiceroom_set_workdata_hint_notgive">Yayınlanacak</string>
-    <string name="voiceroom_set_workdata_hint_pending">Pending settlement</string>
+    <string name="voiceroom_set_workdata_hint_pending">Yerleşim bekleniyor</string>
     <string name="voiceroom_set_workdata_hint_people">Bu hafta geçerli oyun oyuncularının sayısı</string>
     <string name="voiceroom_set_workdata_hint_people3">Geçerli oyuncu sayısı</string>
     <string name="voiceroom_set_workdata_hint_peopletonext">Bir sonraki seviye için ihtiyaç duyulan kişi sayısı</string>
@@ -2887,6 +2888,16 @@ zamanı"</string>
     <string name="weibo_redirect_uri" />
     <string name="welcome_to_entertainment">Müzik oyunları ve daha fazlası için yeni Eğlence özelliğine göz atın</string>
     <string name="whats_app">WhatsApp</string>
+	<string name="whitelist_add_exist">Bazı şarkılar zaten yerel şarkılar listesinde yer alıyor ve burada gösterilmiyor</string>
+	<string name="whitelist_add_failed">Dosyalar eklenemedi</string>
+	<string name="whitelist_desc_1">Müzikler aradığınız şarkıları cihazınızda bulamazsa manuel olarak ekleyebilirsiniz</string>
+	<string name="whitelist_desc_2">Dosya boyutu ve şarkı uzunluğu eşleşmese veya gizli klasörlerde olsalar bile bu dosyalar görüntülenecektir</string>
+	<string name="whitelist_dialog_content">Kaldırılan dosyalar artık müzikler istisnaları arasında görünmeyecek. Ancak cihazınızdan silinmeyecek. Şimdi kaldırılsın mı?"</string>
+	<string name="whitelist_dialog_title">Dosyalar kaldırılsın mı</string>
+	<string name="whitelist_entrance_desc">Müziklerin otomatik olarak bulamadığı dosyaları manuel olarak ekleyin</string>
+	<string name="whitelist_entrance_text_1">"Bir şarkı bulamıyor musunuz? "</string>
+	<string name="whitelist_multi_add_tips">%1$s. %2$s</string>
+	<string name="whitelist_title">Dosya istisnaları</string>
     <string name="widget_small_text_separator">-</string>
     <string name="wifi_required_body" formatted="false">"Wifi kullanarak %s dosyayı indirin
 

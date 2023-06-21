@@ -69,36 +69,6 @@
         <item quantity="other">%d dakika içerisinde</item>
         <item quantity="one">1 dakika içerisinde</item>
     </plurals>
-    <plurals name="incentive_dialog_congratulation_get_credits_title">
-        <item quantity="other">%d puan kazandınız</item>
-        <item quantity="one">%d puan kazandınız</item>
-    </plurals>
-    <plurals name="incentive_dialog_credits">
-        <item quantity="other">%d puan</item>
-        <item quantity="one">%d puan</item>
-    </plurals>
-    <plurals name="incentive_dialog_login_and_get_credits_message">
-        <item quantity="other">Talep etmek için oturum açın ve %d ekstra puan kazanın</item>
-        <item quantity="one">Talep etmek için oturum açın ve %d ekstra puan kazanın</item>
-    </plurals>
-    <plurals name="incentive_dialog_seconds">
-        <item quantity="other">%d saniye</item>
-        <item quantity="one">%d saniye</item>
-    </plurals>
-    <plurals name="incentive_guide_all_time_tip">
-        <item quantity="other">Puan kazanmak için toplam %d dakika izleyin. Görevi şimdi tamamlansın mı?</item>
-        <item quantity="one">Puan kazanmak için toplam %d dakika izleyin. Görevi şimdi tamamlamlansın mı?</item>
-    </plurals>
-    <plurals name="incentive_guide_coins_tip">
-        <item quantity="other">"Alınacak %d puanınız var
-Yalnızca bugün mevcuttur"</item>
-        <item quantity="one">"Alınacak %d puanınız var
-Yalnızca bugün mevcuttur"</item>
-    </plurals>
-    <plurals name="incentive_guide_current_time_tip">
-        <item quantity="other">Bugün %d dakika izlediniz</item>
-        <item quantity="one">Bugün %d dakika izlediniz</item>
-    </plurals>
     <plurals name="incentive_popup_window_share_success">
         <item quantity="other">Başarıyla paylaşıldı. %d puan kazandınız</item>
         <item quantity="one">Başarıyla paylaşıldı. %d puan kazandınız</item>
@@ -106,26 +76,6 @@ Yalnızca bugün mevcuttur"</item>
     <plurals name="incentive_popup_window_subscribe_success">
         <item quantity="other">Başarıyla abone olundu. %d puan kazandınız</item>
         <item quantity="one">Başarıyla abone olundu. %d puan kazandınız</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_begin">
-        <item quantity="other">%d puan kazan</item>
-        <item quantity="one">%d puan kazan</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_finish">
-        <item quantity="other">Bugünün görevleri tamamlandı. %d puan kazandınız</item>
-        <item quantity="one">Bugünün görevleri tamamlandı. %d puan kazandınız</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_of_one">
-        <item quantity="other">%1$1d saniye. izlediniz ve %2$2d puan kazandınız</item>
-        <item quantity="one">%1$1d saniye. izlediniz ve %2$2d puan kazandınız</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_tip1">
-        <item quantity="other">%d puan kazanmak için rastgele bir video izleyin</item>
-        <item quantity="one">%d puan kazanmak için rastgele bir video izleyin</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_tip2">
-        <item quantity="other">%1$2d puan kazanmak için %2$1d saniyelik bir video izleyin</item>
-        <item quantity="one">%1$2d puan kazanmak için %2$1d saniyelik bir video izleyin</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Şimdi</item>

@@ -258,4 +258,12 @@ Not: Dosya cihazdan da silinecektir"</item>
         <item quantity="other">%d gün kaldı</item>
         <item quantity="one">%d gün kaldı</item>
     </plurals>
+    <plurals name="whitelist_multi_added">
+        <item quantity="other">%d dosya eklendi</item>
+        <item quantity="one">%d dosya eklendi</item>
+    </plurals>
+    <plurals name="whitelist_multi_added_before">
+        <item quantity="other">%d dosya daha önce eklendi</item>
+        <item quantity="one">%d dosya daha önce eklendi</item>
+    </plurals>
 </resources>

@@ -112,7 +112,7 @@
     <string name="area_cn">Basitleştirilmiş çince</string>
     <string name="area_en">İngilizce</string>
     <string name="area_hk_tw_mo">Geleneksel çince</string>
-    <string name="area_indonesia">Bahasa Indonesia</string>
+    <string name="area_indonesia">Endonezyaca</string>
     <string name="area_malaysia">Malezya</string>
     <string name="area_self">Otomatik</string>
     <string name="area_thailand">Tayland</string>
@@ -607,10 +607,10 @@ Bu kodu gönderin"</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">"H 'o''clock'"</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
-    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_24hour">"HH 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">HH:mm</string>
+    <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
     <string name="fmt_time_minute">"m'min'"</string>
     <string name="fmt_time_minute_second">"m'min' s's'"</string>
@@ -821,15 +821,7 @@ Bu işlem galeri resimlerinizi etkilemez"</string>
     <string name="identity">Kimlik doğrulama</string>
     <string name="incentive_details">Ayrıntılar</string>
     <string name="incentive_dialog_cancel_not_interested">Hayır</string>
-    <string name="incentive_dialog_continue_to_watch">Devam et</string>
-    <string name="incentive_dialog_default_message">%2$s kazanmak için %1$s daha izleyin!</string>
-    <string name="incentive_dialog_default_title">İzlemeye devam edilsin mi?</string>
-    <string name="incentive_dialog_exit">Çıkış</string>
-    <string name="incentive_dialog_negative_give_up">Hayır</string>
-    <string name="incentive_dialog_negative_play_next_video">Sonraki videoyu oynat</string>
     <string name="incentive_dialog_ok_receive_task">Tamamla</string>
-    <string name="incentive_dialog_positive_get_credits">Puanları talep et</string>
-    <string name="incentive_dialog_positive_login_and_get_credits">Oturum aç</string>
     <string name="incentive_exchange">Kullan</string>
     <string name="incentive_exchange_code">Kod</string>
     <string name="incentive_exchange_code_copy">Kopyala</string>
@@ -921,10 +913,10 @@ tercih ettiğiniz dili seçin"</string>
     <string name="local_diversion_close_recommend">Kapat</string>
     <string name="local_diversion_download_more_video">Daha fazla video</string>
     <string name="local_diversion_manage_local_video">Dosyaları yönet</string>
-    <string name="local_diversion_moments_videos">Watch Moments</string>
+    <string name="local_diversion_moments_videos">Watch anılar</string>
     <string name="local_diversion_open_mivideo">* Güçlü ve çok işlevli bir video oynatıcı olan videolar uygulamasına geçin</string>
     <string name="local_diversion_recommend_title">Popüler</string>
-    <string name="local_diversion_trending_videos">Watch Trending videos</string>
+    <string name="local_diversion_trending_videos">Trend olan videoları izle</string>
     <string name="local_diversion_view_more">Görüntüle</string>
     <string name="local_empty_guide">Çektiğiniz videolar burada görünecek</string>
     <string name="local_folder_select_count">%s seçildi</string>
@@ -932,7 +924,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="local_hide_folder_dialog_title">Gizli videolar</string>
     <string name="local_hide_folder_setting_goto">Ayarlar</string>
     <string name="local_hide_folder_setting_tip">Gizli videoları Profil > Ayarlar > Gizli videoları yönet menüsünden yönetebilirsiniz.</string>
-    <string name="local_play_end_camera_title">View more videos</string>
+    <string name="local_play_end_camera_title">Daha fazla video görüntüle</string>
     <string name="local_play_end_close_tip">Öneriler bugün tekrar gösterilmeyecek</string>
     <string name="local_play_end_download_drag_up_guide">İndirmek için dokunun veya kaydırın</string>
     <string name="local_play_end_download_title">Favori videolarınızı indirmeyi deneyin</string>
@@ -1031,7 +1023,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="lv_subtitle_offset_add_1s_new">+%d saniye</string>
     <string name="lv_subtitle_offset_add_dot5s_new">+%f saniye</string>
     <string name="lv_subtitle_offset_normal">Altyazıları hareket ettirme</string>
-    <string name="lv_subtitle_offset_sub_1s_new">-%ds</string>
+    <string name="lv_subtitle_offset_sub_1s_new">-%d saniye</string>
     <string name="lv_subtitle_offset_sub_dot5s_new">-%fs</string>
     <string name="lv_subtitle_onlinesub_language">Dil: %s</string>
     <string name="lv_subtitle_onlinesub_loading">Altyazı yükleniyor</string>
@@ -1183,6 +1175,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -1914,7 +1907,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="temporary_not_available">Bu özellik henüz kullanılamamaktadır</string>
 	<string name="test_text_description">Kim haklı olarak itildiğinden daha sert bir şekilde iter herkesi. Zevkin kendisinin olduğu yerde ancak özgür doğması ve ona benzer bir şey kolay çünkü başardığı şeyle bu zevkten nefret edenleri terk ederler. Onların zevklerini nefret kadar kolay ya da rahat bir şekilde yaşayabilmemiz için çünkü hayatın en çok reddedilecek acılarını bilmiyorlar. Ancak daha büyük zevkler ve övgüler hasta tarafından seçilmekten kaçınılmalıdır</string>
 	<string name="test_text_title">Hata yapan tarafından reddedilmesine izin verin</string>
-    <string name="text_default_ad_description">Ad</string>
+    <string name="text_default_ad_description">Reklam</string>
     <string name="text_default_ad_title">Beğenebilirsin</string>
     <string name="the_anniversary_of_lifting_martial_law">Sıkı yönetim kanunun yıldönümü</string>
     <string name="the_anti_aggression_day">Saldırganlık karşıtı günü</string>

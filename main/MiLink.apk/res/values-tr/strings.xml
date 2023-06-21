@@ -91,7 +91,7 @@ Xiaomi hesabınıza giriş yapmadıysanız lütfen Ayarlar - > Xiaomi hesabını
     <string name="casting_tips">Yansıtılıyor</string>
     <string name="character_counter_content_description">Girilen karakter: %1$d / %2$d</string>
     <string name="character_counter_overflowed_content_description">Karakter sınırı aşıldı %1$d / %2$d</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="chinese_day_1">1. gün</string>
     <string name="chinese_day_10">10. gün</string>
     <string name="chinese_day_11">11. gün</string>
@@ -367,6 +367,8 @@ bulamıyor musunuz?"</string>
     <string name="dialog_miplay_permission_message">Yansıtmanın bu özelliği normal bir şekilde kullanabilmesi için ses kaydetmesine, dahili depolama alanındaki dosyalara erişimine ve konumunuza erişimine izin verin. Ayarlar menüsüne dokunun ve devam etmek için uygulama izinleri seçeneğini seçin</string>
     <string name="dialog_miplay_permission_positive">Ayarlar</string>
     <string name="dialog_miplay_permission_title">İzin gerekli</string>
+	<string name="dialog_nearbydevice_permission_message">Yayınlama özelliklerini kullanabilmek için bu cihazın yakındaki cihazlara erişmesine izin verin</string>
+	<string name="dialog_nearbydevice_permission_title">İzinler gerekli</string>
     <string name="dialog_nfc_cast_wifi_off">NCF kullanarak yayın yapabilmek için wifi açın. Şimdi açılsın mı?</string>
     <string name="dialog_no_device_message">"&lt;Data>1. Telefonunuzu ve TV'yi aynı wifi ağına bağlayın.&lt;br>&lt;br>2. Bazı TV modellerinde bu özellik yalnızca ekran yansıtma açık olduğunda mevcuttur. Daha fazla bilgi edinmek için &lt;a href=milink://com.milink.service/specification>\"Yardım\"ı&lt;/a>görüntüleyin&lt;/Data>"</string>
     <string name="dialog_no_device_message_china">"&lt;Data>1. Telefonunuzu ve TV'yi aynı wifi ağına bağlayın.&lt;br>&lt;br>2. Bazı TV modellerinde bu özellik yalnızca ekran yansıtma açık olduğunda mevcuttur. Daha fazla bilgi edinmek için &lt;a href=milink://com.milink.service/specification>\"Yardım\"ı&lt;/a>görüntüleyin&lt;/Data>"</string>

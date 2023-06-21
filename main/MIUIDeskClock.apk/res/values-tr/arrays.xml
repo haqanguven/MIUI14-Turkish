@@ -11,6 +11,7 @@
         <item>Alarm %1$s %2$s %3$s içerisinde çalacaktır</item>
     </string-array>
     <string-array name="alarm_in_furture_new_array">
+        <item>%d dakikadan kısa sürede alarm</item>
         <item>%1$s içinde alarm</item>
         <item>%2$s içinde alarm</item>
         <item>%1$s %2$s içinde alarm</item>
@@ -58,6 +59,7 @@
         <item>Alarm %1$s, %2$s ve %3$s içerisinde çalacaktır</item>
     </string-array>
     <string-array name="alarm_set_new_array">
+        <item>Alarm %d dakikadan daha kısa sürede çalacak</item>
         <item>Alarm %1$s içinde çalacak</item>
         <item>Alarm %2$s içinde çalacak</item>
         <item>%1$s ve %2$s içinde alarm çalacak</item>
@@ -184,13 +186,22 @@
         <item>30</item>
     </string-array>
     <string-array name="bedtime_guide_repeat_type">
-        <item>Pazartesinden cumaya</item>
+        <item>Pazartesi - Cuma</item>
         <item>Her gün</item>
         <item>İş günleri</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>Pazartesiden cumaya</item>
+        <item>Her gün</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>Her gün</item>
+        <item>Pazartesi - Cuma</item>
+        <item>Özel</item>
+    </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>Her gün</item>
-        <item>Pazartesinden cumaya</item>
+        <item>Pazartesi - Cuma</item>
         <item>İş günleri</item>
         <item>Özel</item>
     </string-array>
@@ -198,6 +209,11 @@
         <item>1</item>
         <item>4</item>
         <item>2</item>
+        <item>5</item>
+    </integer-array>
+    <integer-array name="bedtime_repeat_values_international">
+        <item>1</item>
+        <item>4</item>
         <item>5</item>
     </integer-array>
     <string-array name="chinese_days">

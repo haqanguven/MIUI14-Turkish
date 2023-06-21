@@ -40,12 +40,15 @@
     <string name="ads_install_button_waiting">Bekleniliyor</string>
     <string name="after_install_to_delete">Kurulum paketini sil</string>
     <string name="afternoon">Öğleden sonra</string>
+    <string name="aleady_understand_the_app_is_hight_risk">Bu uygulamanın yüksek riskli olduğu biliniyor</string>
     <string name="allow_current_install">Bir kez izin ver</string>
     <string name="allowed_this_time">Bir kez izin ver</string>
+    <string name="already_understand_the_risks">Bu yükleme paketinin algılanmadığını ve riskli olabileceğini anlıyoruz</string>
     <string name="already_understood_bundle_app">Bu uygulamanın toplu yükleme davranışına sahip olabileceğini anlıyoruz</string>
     <string name="am">ÖÖ</string>
     <string name="anonymous_source_continue">Devam et</string>
     <string name="anonymous_source_warning">Telefonunuz ve kişisel verileriniz bilinmeyen uygulamaların saldırılarına karşı daha savunmasızdır. Bu uygulamayı yükleyerek kullanımından kaynaklanabilecek telefonunuzdaki herhangi bir hasardan veya veri kaybından sorumlu olduğunuzu kabul etmiş olursunuz</string>
+    <string name="app_already_on_the_app_store">Uygulama mağazası mevcut</string>
     <string name="app_crash_test_text">Paket yükleyici gücü kapatıldı</string>
     <string name="app_description_picture">Uygulama tanıtım resmi</string>
     <string name="app_detail_change_log">Yenilikler</string>
@@ -102,12 +105,12 @@
     <string name="button_text_back">Geri</string>
     <string name="cancel_install">İptal et</string>
     <string name="cancel_update">İptal et</string>
+    <string name="cannot_do_app_check">Güvenlik kontrolü gerçekleştirilemedi</string>
     <string name="cb_back">Geri</string>
     <string name="character_counter_content_description">Karakter %1$d/%2$d arasında girildi</string>
     <string name="character_counter_overflowed_content_description">"Karakter sınırı %1$d/%2$d'yi aştı"</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
-    <string name="check_violation_app">İhlal eden uygulama algılandı</string>
-    <string name="check_virus_app">Virus bulundu</string>
+	<string name="check_virus_app">Virüsler algılandı</string>
     <string name="checked_unknow_app">Bilinmeyen uygulama algılandı</string>
     <string name="child_account_install_parent_auth">Ebeveyn doğrulama</string>
     <string name="child_account_install_scan">Taranıyor. Lütfen bekleyin</string>
@@ -245,6 +248,7 @@
     <string name="dialog_security_mode_guide_elder_msg">Güvenliği korumak ve cep telefonu kullanımı sorununu çözmek için yaşlılar için özel olarak tasarlanmış emniyet korumasını açmanız önerilir</string>
     <string name="dialog_security_mode_guide_open">Aç</string>
     <string name="dialog_security_mode_guide_title">Güvenlik korumasını açmanız önerilir</string>
+    <string name="discover_risk_app">Riski keşfet</string>
     <string name="dlg_msg_unoffical">Sistem uygulamaları resmi olmayan kanallardan yüklenemiyor</string>
     <string name="do_not_show_again">Tekrar gösterme</string>
     <string name="download_count_w">%1$s milyon</string>
@@ -508,6 +512,7 @@
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -603,7 +608,6 @@
     <string name="net_work_error_msg">Güvenlik kontrolü yapmak için ağa bağlanılamadı</string>
     <string name="net_work_error_retry">Tekrar dene</string>
     <string name="night">Akşam</string>
-    <string name="no_check_risk">Risk tespit edilmedi</string>
     <string name="no_install_permission_tip">"%1$s'nin yükleme izni yok"</string>
     <string name="no_set_lock_screen_tip">Parmak izi veya kilit ekranı şifresi belirlemediniz. Lütfen parmak izi veya kilit ekranı şifresi ayarlamak için sistem ayarlarına gidin</string>
     <string name="noon">Gün ortası</string>
@@ -901,6 +905,9 @@
     <string name="request_network_please_wait">Ağ isteği. Lütfen bekleyin</string>
     <string name="resolve_suggestion_title">Öneri</string>
     <string name="risk_app">Riskli uygulama</string>
+	<string name="risk_app_default_description_text">Bu uygulamayı yüklemenin yüksek riskleri vardır. Lütfen dikkatli bir şekilde kurun</string>
+	<string name="risk_app_default_title_text">Kötü amaçlı uygulama bulundu</string>
+	<string name="risk_app_description">Risk ayrıntıları:</string>
     <string name="risk_app_go_to_browser_download">Uygulamayı indirmeye devam etmek için tarayıcınıza gidebilirsiniz</string>
     <string name="risk_app_has_trust">Güvenilir</string>
     <string name="risk_app_install_agree_button">Bu uygulamaya güvenin</string>
@@ -1157,6 +1164,8 @@ güvenilirlik ve güvenlik"</string>
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Sal</string>
     <string name="tuesday_shortest">Sal</string>
+    <string name="understand_risk_app">Riskleri anla</string>
+    <string name="understand_risk_app_and_continue_install">Yinede yükle</string>
     <string name="uninstall_activity_text">%1$s şu uygulamanın bir parçasıdır:</string>
     <string name="uninstall_all_blocked_profile_owner">Bu uygulama bazı kullanıcılar veya profiller için gereklidir ve diğerleri için kaldırılmıştır</string>
     <string name="uninstall_application_text">Bu uygulamayı kaldırmak istiyor musunuz?</string>
@@ -1172,6 +1181,7 @@ güvenilirlik ve güvenlik"</string>
     <string name="uninstall_update_text">Bu uygulamayı fabrika sürümü ile değiştir? Tüm veriler silinecektir</string>
     <string name="uninstall_update_text_multiuser">Bu uygulamayı fabrika sürümü ile değiştir? Tüm veriler silinecektir. Bu işlem iş profilleri ile birlikte bu cihazdaki tüm kullanıcıları etkileyecektir</string>
     <string name="uninstall_update_title">Güncellemeyi kaldır</string>
+    <string name="unknown_app">Bilinmeyen uygulama</string>
     <string name="unknown_apps_admin_dlg_text">Yöneticiniz bilinmeyen kaynaklardan gelen uygulamaların yüklenmesine izin vermiyor</string>
     <string name="unknown_source_allow">İzin ver</string>
     <string name="unknown_source_forbidden">Kısıtla</string>
