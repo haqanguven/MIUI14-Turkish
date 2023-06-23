@@ -30,7 +30,7 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Öğleden sonra</string>
     <string name="am">ÖÖ</string>
-    <string name="app_name">Uygulama uzantısı hizmeti</string>
+    <string name="app_name">Uygulama genişletme hizmeti</string>
     <string name="auth_activity_label">Doğrulama kodları</string>
     <string name="auth_fingerprint_content">Parmak izi okunuyor</string>
     <string name="auth_fingerprint_content_message">Parmağınızı sensöre koyun</string>

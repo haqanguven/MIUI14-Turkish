@@ -2388,7 +2388,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="operation_back">Geri</string>
     <string name="operation_cast_connected_format">Yayın - %s</string>
     <string name="operation_cast_connecting_format">"%s'a bağlanılıyor"</string>
-    <string name="operation_copy_to_clipboard">Kopyalandı</string>
+    <string name="operation_copy_to_clipboard">Kopyala</string>
     <string name="operation_delete">Sil</string>
     <string name="operation_delete_all_albums_from_rubbish_page_tip">Albümleri sildikten sonra geri yükleyemezsiniz. Yine de silinsin mi?</string>
     <string name="operation_detail">Ayrıntılar</string>
