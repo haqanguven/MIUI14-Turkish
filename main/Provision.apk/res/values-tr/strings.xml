@@ -303,7 +303,7 @@
     <string name="install_preinstall_app">Uygulamalar yükleniyor</string>
     <string name="intent_filter_verification_service">Amaç filtresi doğrulama hizmeti</string>
     <string name="interconnection_communication_introduction">Xiaomi internet iletişim hizmetleri diğer Xiaomi cihazlarını keşfetmenize, bağlamanıza ve iletişim kurmanıza olanak tanır</string>
-<string name="interconnection_service_summary">"Xiaomi ara bağlantı hizmetleri cihazlarınızın birbirleriyle kablosuz olarak etkileşim kurmasına olanak tanır. Bu hizmetler arasında Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share ve yansıtma yer alır
+<string name="interconnection_service_summary">"Xiaomi ara bağlantı hizmetleri cihazlarınızın birbirleriyle kablosuz olarak etkileşim kurmasına olanak tanır. Bu hizmetler arasında Mi akıllı ses, Mi akıllı oynatma, MIUI+ Beta, Mi Share ve yansıtma yer alır
 Normal bir şekilde çalışabilmek için bu servislerin internete bağlanması ve aşağıdaki izinleri gerektirmesi gerekir:
 * Mi akıllı merkez:
 * Wifi ağını açın ve kapatın

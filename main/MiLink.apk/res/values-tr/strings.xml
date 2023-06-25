@@ -213,7 +213,7 @@ diğer cihazlara sürükleyip bırakın"</string>
 	<string name="circulate_controlphone_button_hint">Ekranı görüntüle</string>
 	<string name="circulate_controlphone_title">Cihazı yönet</string>
     <string name="circulate_cta_agree">Kabul et</string>
-    <string name="circulate_cta_app_name">Mi Smart Hub</string>
+    <string name="circulate_cta_app_name">Mi akıllı ses</string>
     <string name="circulate_cta_desc_phone">Mi Miaoxiang merkezine hoş geldiniz. Bu uygulamayı ekran projeksiyonu Mi Miaobo, MIUI+ işlevlerini çalıştırmak ve ses, video ve uygulama içeriğini kullanım için diğer cihazlara aktarmalarda kullanabilirsiniz. Bu uygulamayı kullanma sürecinde internete bağlanacağız ve sizden aşağıdaki izinlere başvuracağız:</string>
     <string name="circulate_cta_exit">Çıkış</string>
     <string name="circulate_cta_premission_sound_subtitle">Projeksiyon işlemi sırasında oynatma için sesi diğer cihazlara iletin</string>
@@ -273,9 +273,9 @@ diğer cihazlara sürükleyip bırakın"</string>
     <string name="circulate_headset_error_headset_not_worn_both">Lütfen kulaklıkları iki kulakla da kullanın</string>
     <string name="circulate_headset_error_remote_host_bluetooth_unenable">"TV'nizde Bluetooth'u açın
 ve Xiaomi Hesabınızda oturum açın"</string>
-    <string name="circulate_headset_error_self_upgrade">"Bu işlem tamamlanamadı. Önce Mi Smart Hub'ı güncelleyin."</string>
+    <string name="circulate_headset_error_self_upgrade">Bu işlem tamamlanamadı. Önce Mi akıllı sesi güncelleyin</string>
     <string name="circulate_headset_error_timeout">Bağlantı zaman aşımına uğradı</string>
-    <string name="circulate_headset_error_upgrade">"Önce hedef cihazınızda Mi Smart Hub'ı güncelleyin"</string>
+    <string name="circulate_headset_error_upgrade">Önce hedef cihazınızda Mi akıllı sesi güncelleyin</string>
     <string name="circulate_help_button_content_description">Yardım</string>
     <string name="circulate_help_card_subtitle">Yardım</string>
     <string name="circulate_help_card_title">"Cihazımı
@@ -296,7 +296,7 @@ bulamıyor musunuz?"</string>
     <string name="circulate_ringfind_title_stop">Çalmayı durdur</string>
     <string name="circulate_speaker_control_header_title">Hoparlör yayın kontrolü</string>
     <string name="circulate_speaker_control_view">"%1$s'den"</string>
-    <string name="circulate_title">Mi Smart Hub</string>
+    <string name="circulate_title">Mi akıllı ses</string>
     <string name="circulate_tv_power_alter_text">Ayarlarınıza göre TV duracak veya kapanacaktır. Kapattıktan sonra uzaktan kumanda ve TV bu sayfada kaybolacak</string>
     <string name="circulate_tv_power_alter_title">Kapat. Ekranı dinle</string>
     <string name="circulate_video_capture_fail">Ekran görüntüsü başarısız oldu</string>
@@ -308,7 +308,7 @@ bulamıyor musunuz?"</string>
     <string name="close_hotspot_hint">Yansıtma için taşınabilir bağlantı noktasını kapatın</string>
     <string name="close_hotspot_hint_DFS">"TV'ye akış yapmak için önce etkin noktayı kapatın"</string>
     <string name="close_invisible_mode_dialog_cancel">İptal et</string>
-    <string name="close_invisible_mode_dialog_message">Mi Smart Play şu anda kullanılamıyor. Bu özelliği kullanabilmek için ayarlardan gizli modu kapatın</string>
+    <string name="close_invisible_mode_dialog_message">Mi akıllı ses şu anda kullanılamıyor. Bu özelliği kullanabilmek için ayarlardan gizli modu kapatın</string>
     <string name="close_invisible_mode_dialog_ok">Ayarlar</string>
     <string name="close_invisible_mode_dialog_title">Gizlisin</string>
     <string name="close_slave_wifi_hint">Yansıtmadan önce yardımcı wifi ağları ile bağlantıyı kesin</string>
@@ -839,7 +839,7 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
 	<string name="onehop_mirror_guide_message_button">Tamam</string>
 	<string name="onehop_mirror_guide_message_text_1">Tek dokunuşla telefonunuzun ekranını bilgisayarınıza aktarın</string>
 	<string name="onehop_mirror_guide_message_text_2">Bilgisayarınıza aktarmak için galeri veya dosyalardan fotoğrafları, videoları ve diğer dosyaları seçin</string>
-	<string name="onehop_mirror_guide_message_title">Mi Smart Hub</string>
+	<string name="onehop_mirror_guide_message_title">Mi akıllı ses</string>
     <string name="open_game_accelerate">Oyun hızlandırıcıyı aç</string>
     <string name="p2p_location_des">Mobil cihazınızı harici monitörlere bağlamak için</string>
     <string name="paipai_connect_btn_text">Bitti</string>

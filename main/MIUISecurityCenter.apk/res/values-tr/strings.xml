@@ -2927,7 +2927,7 @@ manzara moduna geçin"</string>
     <string name="input_aviable_traffic">Veri kullanım limitini ayarlayın</string>
     <string name="input_celluar_data_quota_hint">Veri limitini girin</string>
     <string name="input_cellular_data_warn_hint">Veri kullanımı uyarı limitini girin</string>
-    <string name="input_hint_search_app">Search apps</string>
+    <string name="input_hint_search_app">Uygulama ara</string>
     <string name="input_password_hint_text">Şifre girin</string>
     <string name="input_phone_num_hint">Sim telefon numarasını düzenle</string>
     <string name="input_title">Girmek için dokunun</string>
