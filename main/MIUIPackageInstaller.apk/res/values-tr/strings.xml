@@ -275,6 +275,8 @@
     <string name="empty_app">Uygulama yok</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
+    <string name="error_detail_info">"Detaylar:
+%1$s"</string>
     <string name="error_icon_content_description">Hata</string>
     <string name="ettings_security_mode_open_security_mode">Korumayı aç</string>
     <string name="ettings_security_mode_tip_title1">Uygulamaları gizlilik için kontrol edin</string>
@@ -385,6 +387,7 @@
     <string name="install_abi_error_des">Uygulamanın 32 bit sürümünü indirip yükleyebilirsiniz</string>
     <string name="install_abi_error_des_market">"Uygulamanın 32 bit sürümünü indirip yüklemek için Xiaomi App Store'a gidebilirsiniz"</string>
     <string name="install_app_loading">Yükleme paketi kontrol ediliyor</string>
+    <string name="install_apps_user_restriction_dlg_text">Bu kullanıcının uygulama yüklemesine izin verilmiyor</string>
     <string name="install_completed_pure_open_tip_title">Güvenlik nedeniyle uygulama güvenliğini korumak ve riskli uygulamaları önlemek için güvenlik görevlisinin etkinleştirilmesi önerilir</string>
     <string name="install_package_error">Kurulum paketi sisteminizle uyumlu değil</string>
     <string name="install_package_error_des">"Uyumluluk açısından test edilmiş uygulamayı yüklemek için lütfen ilgili geliştiriciyle iletişime geçin veya Mi App Store'a gidin"</string>
@@ -518,8 +521,8 @@
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
-    <string name="miuix_indexer_collect">Collections</string>
-    <string name="miuix_indexer_selected">Selected %s</string>
+    <string name="miuix_indexer_collect">Koleksiyonlar</string>
+    <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -775,7 +778,7 @@
     <string name="passport_user_agreement_hint_3rd_app_with_telecom">"\"I've read and agreed to "<a href="%1$s">User Agreement</a> and <a href="%2$s">Privacy Policy</a>", Xiaomi Account's "<a href="%3$s">User Agreement</a> and <a href="%4$s">Privacy Policy</a>, as well as <a href="%5$s">Terms and conditions of eSurfing account verification services</a>.\"</string>
     <string name="passport_user_agreement_hint_3rd_app_with_unicom">"\"I've read and agreed to "<a href="%1$s">User Agreement</a> and <a href="%2$s">Privacy Policy</a>", Xiaomi Account's "<a href="%3$s">User Agreement</a> and <a href="%4$s">Privacy Policy</a>, as well as <a href="%5$s">Terms and conditions of China Unicom verification services</a>.\"</string>
     <string name="passport_user_agreement_hint_default">"\"I've read and agreed to Xiaomi Account's "<a href="%1$s">User Agreement</a> and <a href="%2$s">Privacy Policy</a>.\"</string>
-    <string name="passport_user_agreement_hint_first_login">"We'll create an account automatically if you're using your phone number for the first time."</string>
+    <string name="passport_user_agreement_hint_first_login">Telefon numaranızı ilk kez kullanıyorsanız otomatik olarak bir hesap oluşturacağız</string>
     <string name="passport_user_agreement_hint_with_mobile">"\"I've read and agreed to Xiaomi Account's "<a href="%1$s">User Agreement</a> and <a href="%2$s">Privacy Policy</a>, as well as <a href="%3$s">Terms and conditions of China Mobile verification services</a>.\"</string>
     <string name="passport_user_agreement_hint_with_telecom">"\"I've read and agreed to Xiaomi Account's "<a href="%1$s">User Agreement</a> and <a href="%2$s">Privacy Policy</a>, as well as <a href="%3$s">Terms and conditions of eSurfing account verification services</a>.\"</string>
     <string name="passport_user_agreement_hint_with_unicom">"\"I've read and agreed to Xiaomi Account's "<a href="%1$s">User Agreement</a> and <a href="%2$s">Privacy Policy</a>, as well as <a href="%3$s">Terms and conditions of China Unicom verification services</a>.\"</string>
@@ -864,6 +867,9 @@
     <string name="pm">ÖS</string>
     <string name="pref_ads">Öneriler</string>
     <string name="pref_key_about_privacy_title">Gizlilik politikası</string>
+    <string name="pref_key_app_appeal">Uygulama itirazı</string>
+    <string name="pref_key_developer_services">Geliştirici hizmetleri</string>
+    <string name="pref_key_shelf_app">"Xiaomi App Store'da iletişim kurun"</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="prepare_install">Kurulum hazırlanıyor</string>
     <string name="prohibit_isntall">Kurulum yasaktır</string>

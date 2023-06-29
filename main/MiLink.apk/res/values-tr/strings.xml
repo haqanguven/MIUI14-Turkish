@@ -160,7 +160,7 @@ Xiaomi hesabınıza giriş yapmadıysanız lütfen Ayarlar - > Xiaomi hesabını
     <string name="chinese_symbol_animals_sheep">Koyun</string>
     <string name="chinese_symbol_animals_snake">Yılan</string>
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
-    <string name="chip_text">Chip text</string>
+    <string name="chip_text">Çip metin</string>
     <string name="circulate_audio_group_title">Oynatılıyor</string>
     <string name="circulate_back_button_content_description">Geri dön</string>
     <string name="circulate_card_mirror_device_button">Yansıtmayı sonlandır</string>
@@ -511,17 +511,17 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="guide_confirm_button_text">Hadi başlayalım</string>
     <string name="guide_exit_button_content_description">Çık</string>
     <string name="guide_next_button_text">Devam et</string>
-    <string name="guide_page_subtitle_0">Mi Miaoxiang merkezi cihazlar arasında video, ses ve uygulama aktarımının özel işlevlerini deneyimleyebileceğiniz küresel cihazların ara bağlantısını ve birlikte çalışabilirliğini gerçekleştirir</string>
-    <string name="guide_page_subtitle_0_pad">"Xiaomi sihir zevk merkezi cihazlar arasında ses ve video aktarımını ve küresel cihazların birbirine bağlanmasını gerçekleştirmiştir.Burada tableti, TV'yi, hoparlörleri ve yerel ses ve videoyu aynı wifi altında görebilirsiniz"</string>
-    <string name="guide_page_subtitle_0_pad_global">"Xiaomi Miaoxiang merkezi cihazlar arasında ses ve video aktarımını ve küresel cihaz ara bağlantı ve birlikte çalışabilirliğini gerçekleştirir.Burada tableti, TV'yi, hoparlörleri ve yerel ses ve videoyu aynı wifi ağı altında görebilirsiniz\""</string>
-    <string name="guide_page_subtitle_1">"Müzik kartını hoparlöre veya TV'ye sürüklemeniz yeterlidir; Yerel müzik çalmaya devam etmek için ilgili cihaza aktarılabilir"</string>
+    <string name="guide_page_subtitle_0">Cihazlar arasında video, ses ve uygulama aktarımının özel işlevlerini deneyimleyebileceğiniz küresel cihazların ara bağlantısını ve birlikte çalışabilirliğini gerçekleştirir</string>
+    <string name="guide_page_subtitle_0_pad">"Cihazlar arasında ses ve video aktarımını ve küresel cihazların birbirine bağlanmasını gerçekleştirmiştir.Burada tableti, TV'yi, hoparlörleri ve yerel ses ve videoyu aynı wifi altında görebilirsiniz"</string>
+    <string name="guide_page_subtitle_0_pad_global">"Cihazlar arasında ses ve video aktarımını ve küresel cihaz ara bağlantı ve birlikte çalışabilirliğini gerçekleştirir.Burada tableti, TV'yi, hoparlörleri ve yerel ses ve videoyu aynı wifi ağı altında görebilirsiniz\""</string>
+    <string name="guide_page_subtitle_1">"Müzik kartını hoparlöre veya TV'ye sürüklemeniz yeterlidir. Yerel müzik çalmaya devam etmek için ilgili cihaza aktarılabilir"</string>
     <string name="guide_page_subtitle_1_pad">"Müzik kartını hoparlöre veya TV'ye sürüklemeniz yeterlidir. Yerel müzik çalmaya devam etmek için ilgili cihaza aktarılabilir"</string>
     <string name="guide_page_subtitle_2">"Büyük ekran projeksiyonu ve ekranlar arası işbirliğini kolayca gerçekleştirmek için telefon ekran kartını tablete, bilgisayara ve TV'ye sürükleyip bırakın"</string>
     <string name="guide_page_subtitle_2_pad">"Büyük ekran projeksiyonunu kolayca gerçekleştirmek için düz ekran kartını TV'ye sürükleyip bırakın"</string>
-    <string name="guide_page_subtitle_3">"Uygulamayı ekranın sol üst köşesine sürükleyin göndermek istediğiniz tableti, bilgisayarı veya TV'yi seçmek için tıklayın. Ardından mevcut uygulama hedef cihaza aktarılabilir"</string>
+    <string name="guide_page_subtitle_3">"Uygulamayı ekranın sol üst köşesine sürükleyin. İstediğiniz tableti, bilgisayarı veya TV'yi seçmek için tıklayın. Ardından mevcut uygulama hedef cihaza aktarılabilir"</string>
     <string name="guide_page_subtitle_earphones">Kulaklığı ilgili cihaza bağlamak ve kullanmaya devam etmek için kulaklık kartını cep telefonu, tablet ve TV arasında sürükleyin</string>
-    <string name="guide_page_title_0">Xiaomi Miaoxiang merkezine hoş geldiniz</string>
-    <string name="guide_page_title_0_pad">Xiaomi Miaoxiang merkezine hoş geldiniz</string>
+    <string name="guide_page_title_0">Hoş geldiniz</string>
+    <string name="guide_page_title_0_pad">Hoş geldiniz</string>
     <string name="guide_page_title_1">Müzik akışı</string>
     <string name="guide_page_title_1_pad">Müzik akışı</string>
     <string name="guide_page_title_2">Telefonu diğer cihazlara yansıtın</string>
@@ -628,7 +628,7 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="invisible_mode_dialog_content_audio_relay">Gizli moddayken oynatma aktarılamaz. Önce Gizli modu kapatın</string>
     <string name="invisible_mode_dialog_pos">Kapat</string>
     <string name="invisible_mode_dialog_title">Gizlisin</string>
-    <string name="item_view_role_description">Tab</string>
+    <string name="item_view_role_description">Sekme</string>
     <string name="keyguard_security_setting_privacy_policy">Gizlilik politikası</string>
     <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
     <string name="label">Label</string>
@@ -686,7 +686,7 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="miplay_headset_lc3_hint">"Ses çıkışını bu cihaza geçirebilmek için LC3'ü kapatın"</string>
     <string name="miplay_mini_card_no_song_but_attached_hint">Müzik %1$s üzerinde çalınacak</string>
     <string name="miplay_mini_card_no_song_pad_title">Tablet müzik</string>
-    <string name="miplay_mini_card_no_song_subtitle">Oyun yok</string>
+    <string name="miplay_mini_card_no_song_subtitle">Oynatma yok</string>
     <string name="miplay_mini_card_no_song_title">Mobil müzik</string>
     <string name="miplay_service_timeout_toast">Bağlantı zaman aşımına uğradı. Lütfen daha sonra tekrar deneyin</string>
     <string name="miplay_song_title_empty">Şarkı yok</string>

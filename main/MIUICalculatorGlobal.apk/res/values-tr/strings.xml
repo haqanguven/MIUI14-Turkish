@@ -9,14 +9,14 @@
     <string name="abc_capital_off">Kapat</string>
     <string name="abc_capital_on">Aç</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Kontrol+</string>
     <string name="abc_menu_delete_shortcut_label">sil</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">İşlev+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Üst Karakter+</string>
     <string name="abc_menu_space_shortcut_label">boşluk</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_menu_sym_shortcut_label">Sembol+</string>
     <string name="abc_prepend_shortcut_label">Menü+</string>
     <string name="abc_search_hint">Ara</string>
     <string name="abc_searchview_description_clear">Sorguyu temizle</string>
@@ -316,7 +316,7 @@
     <string name="friday_shortest">C</string>
     <string name="from_num">100</string>
     <string name="from_unit">km/h</string>
-    <string name="from_unit_en">Kilometer per hour</string>
+    <string name="from_unit_en">Saatte kilometre</string>
     <string name="from_unit_short">km/h</string>
     <string name="fund" />
     <string name="fund_loan">Fon kredisi</string>
@@ -339,6 +339,7 @@
     <string name="global_search_key_word_figure">Finansal karakterler</string>
     <string name="golbal_search_calculator_setting">Hesaplayıcı;Hesaplayıcı ayarları;Ayarlar</string>
     <string name="golbal_search_path_calculator_setting">Sistem uygulamaları/Hesaplayıcı/Ayarlar</string>
+    <string name="gst_initial_value">%d</string>
     <string name="gst_percentage">%s</string>
     <string name="heavenly_stems_bing">3</string>
     <string name="heavenly_stems_ding">4</string>
@@ -365,6 +366,7 @@
     <string name="install_scanner_to_continued_use">Tarayıcı kaldırıldı. Yeniden yüklensin mi?</string>
     <string name="interest_rate_hint">Faiz oranını girin</string>
     <string name="investment_invalid_duration">Yatırım süresi sıfırdan büyük olmalıdır</string>
+    <string name="investment_loan_result">Detaylar</string>
     <string name="investment_type_once">Bir kez</string>
     <string name="investment_type_recurring">Yinelenen</string>
     <string name="item_page_title_investment">Yatırım hesaplayıcı</string>
