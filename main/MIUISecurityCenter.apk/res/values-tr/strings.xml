@@ -1771,7 +1771,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="ew_app_name_test_run">Deprem uyarısı (Deneme)</string>
     <string name="ew_arrive_text_tips">Sismik dalga geldi: %s</string>
     <string name="ew_button_confirm">Kabul et</string>
-    <string name="ew_button_exit">Kabul etme</string>
+    <string name="ew_button_exit">Reddet</string>
     <string name="ew_city_support_tip">* Yalnızca yargı yetkisi altındaki %s uyarısını destekler</string>
     <string name="ew_click_locate">Konum bilgisi almak için dokunun</string>
     <string name="ew_close">Uyarıyı kapat</string>
@@ -1816,7 +1816,7 @@ Xiaomi &amp; ICL"</string>
 Xiaomi &amp; ICL"</string>
     <string name="ew_guide_law_agree">Kabul et</string>
     <string name="ew_guide_law_done">Tamam</string>
-    <string name="ew_guide_law_exit">Kabul etme</string>
+    <string name="ew_guide_law_exit">Reddet</string>
     <string name="ew_guide_law_text">Bu özellik size deprem uyarı işlevi sağlar. Deprem uyarı bilgilerinin üçüncü taraf bir erken uyarı kurumu tarafından sağlandığını anlamalısınız. Xiaomi üçüncü parti ajanslarını denetlemiyor ve onlar üzerinde herhangi bir kontrolü yok. Xiaomi deprem uyarı bilgilerinin doğruluğunu, geçerliliğini ve zamanlamasını garanti etmiyor veya deprem uyarı servisinin tüm ihtiyaçlarınızı karşılayacağını da garanti etmiyor. Bu özelliğin yalnızca referans amacıyla sağlanmış olduğunu anlamalısınız. Bu özellik tarafından sağlanan bilgilere dayanarak gerçekleştirdiğiniz tüm işlemlerin risklerinden ve sonuçlarından yalnızca siz sorumlusunuz</string>
     <string name="ew_guide_law_title">Sorumluluk</string>
     <string name="ew_guide_next_text">Sonraki</string>
@@ -5811,7 +5811,7 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="system_application">Sistem uygulamaları</string>
     <string name="system_permission_declare_agree">Kabul et</string>
     <string name="system_permission_declare_analytics_declare">Kullanıcı deneyimi programımıza kayıt olduğunuz için teşekkür ederiz. Bu özelliğin normal çalışabilmesi için cihazınızın internete bağlı olması gerekir. Ayrıca ürünlerimizi ve hizmetlerimizi geliştirmemize yardımcı olacak verileri toplamamıza izin vermek için aşağıdaki izinleri vermeniz gerekir. Bu veriler sadece istatistiksel amaçlar için toplanır. Bu verileri sizi kişisel olarak tanımlamak için kullanamayız</string>
-    <string name="system_permission_declare_disagree">Kabul etmiyorum</string>
+    <string name="system_permission_declare_disagree">Reddet</string>
     <string name="system_permission_declare_double_link">Bu özelliği kullanmadan önce <a href="%1$s">Kullanıcı sözleşmemizi</a> ve <a href="%2$s">Gizlilik politikamızı</a> okuyun ve kabul edin</string>
     <string name="system_permission_declare_main_purpose" formatted="false">%1s uygulamasına hoş geldiniz. Bu uygulama aşağıdaki özelliği kullanmanızı sağlar: %2s</string>
     <string name="system_permission_declare_meanwhile_double_link">Aynı zamanda bir kullanıcı olarak haklarınızı ve verilerinizi kullanma yöntemlerimizi tam olarak anlamak için <a href="%1$s">kullanıcı sözleşmesi</a> ve <a href="%2$s">gizlilik politikamızı</a> kabul etmeniz gerekmektedir</string>

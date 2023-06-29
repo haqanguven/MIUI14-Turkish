@@ -61,7 +61,7 @@
     <string name="toast_sleep_mode_exit">Uyku zamanlayıcısı iptal edildi</string>
     <string name="turn_off_fm">Radyoyu kapat</string>
     <string name="txt_sleep_mode">Uyku modu</string>
-    <string name="using_recorder_cancel">Kabul etmiyorum</string>
+    <string name="using_recorder_cancel">Reddet</string>
     <string name="using_recorder_confirm">İzinli</string>
     <string name="using_recorder_dialog_message">Radyo cihazın ses kaydedici hizmetini kullanacaktır</string>
     <string name="using_recorder_dialog_title">İzin erişimi</string>

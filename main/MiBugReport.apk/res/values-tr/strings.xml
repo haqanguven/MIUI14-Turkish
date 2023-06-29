@@ -229,7 +229,7 @@ Bu kodu yöneticiye gönderin"</string>
 	<string name="dynamic_dialog_negative_text">Katılmıyorum</string>
 	<string name="dynamic_dialog_notification_text">Lütfen sorun yeniden ortaya çıktıktan sonra zamanında geri bildirim gönderin. İşlev otomatik olarak kapatılacak</string>
 	<string name="dynamic_dialog_notification_title">Dinamik günlük getirme etkinleştirildi</string>
-	<string name="dynamic_dialog_positive_text">Kabul ediyorum</string>
+	<string name="dynamic_dialog_positive_text">Kabul et</string>
 	<string name="dynamic_dialog_title">Gizlilik notu</string>
 	<string name="dynamic_log_float_dump_SF">Yüzey fırlatıcıyı boşaltın</string>
 	<string name="dynamic_log_float_dump_activity">Etkinlik dökümü</string>

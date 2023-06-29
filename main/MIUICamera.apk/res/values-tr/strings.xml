@@ -2143,7 +2143,7 @@ Sahneden daha da uzağa gidemediğinizde ultra geniş açı modu yardımcı olur
     <string name="user_agree">Kabul et</string>
     <string name="user_define_watermark_cancel">İptal et</string>
     <string name="user_define_watermark_save">Kaydet</string>
-    <string name="user_disagree">Kabul etmiyorum</string>
+    <string name="user_disagree">Reddet</string>
     <string name="user_notice_identify_summary_format">Kamera uygulamasını kullanmadan önce Kullanıcı sözleşmesi ve Gizlilik politikasını kabul etmelisiniz. Kamera ayrıca normal çalışabilmek için internete bağlanmalıdır. Kabul ediyor musunuz?</string>
     <string name="user_notice_title">Şartlar ve Koşullar</string>
     <string name="v7_preference_off">Kapalı</string>

@@ -889,8 +889,8 @@ Bu izin verilmezse bu uygulama tarafından programlanmış mevcut alarmlar ve za
     <string name="assistant_long_press_home_gesture_summary">Dijital asistan uygulamasını başlatmak için ana ekran düğmesini basılı tutun</string>
     <string name="assistant_long_press_home_gesture_title">Asistan için evde tutun</string>
     <string name="assistant_security_warning">Asistan ekranınızda görünür olan veya uygulamaların içinden erişilebilen bilgiler dahil olmak üzere sisteminizde kullanılan uygulamalar hakkındaki bilgileri okuyabilecektir</string>
-    <string name="assistant_security_warning_agree">Kabul ediyorum</string>
-    <string name="assistant_security_warning_disagree">Kabul etmiyorum</string>
+    <string name="assistant_security_warning_agree">Kabul et</string>
+    <string name="assistant_security_warning_disagree">Reddet</string>
     <string name="assistant_security_warning_title">%s uygulaması yardımcınız olsun mu?</string>
     <string name="assisted_gps">Yardımlı GPS</string>
     <string name="assisted_gps_disabled">"GPS'ye yardımcı olmak için sunucu kullan (GPS performansını iyileştirmek için onay işaretini kaldırın)"</string>
@@ -8014,7 +8014,7 @@ Yüz modeliniz güvenli bir şekilde kalıcı olarak silinir
 Silme işleminden sonra, telefonunuzun kilidini açmak veya uygulamalarda kimliğinizi doğrulamak için parmak iziniz, Pin numaranız, deseniniz veya şifreniz gerekir"</string>
     <string name="security_settings_face_enroll_improve_face_alert_title">Yüz tanıma kilidini kurun</string>
     <string name="security_settings_face_enroll_introduction_accessibility">Erişilebilirlik kurulumunu kullan</string>
-    <string name="security_settings_face_enroll_introduction_agree">Kabul ediyorum</string>
+    <string name="security_settings_face_enroll_introduction_agree">Kabul et</string>
     <string name="security_settings_face_enroll_introduction_cancel">İptal et</string>
     <string name="security_settings_face_enroll_introduction_consent_message">Çocuğunuzun telefonunun kilidini açmak veya kimliğini doğrulamak için yüzünü kullanmasına izin verin. Bu özellik çocuğunuz uygulamalarda oturum açarken satın alma işlemlerini onaylarken ve başka işlemler gerçekleştirirken kullanılır</string>
     <string name="security_settings_face_enroll_introduction_message">Telefonunuzun kilidini açmak, satın alma işlemlerini yetkilendirmek veya uygulamalarda oturum açmak için yüzünüzü kullanın</string>
@@ -8081,7 +8081,7 @@ Silme işleminden sonra telefonunuzun kilidini açmak için Pin'inize, deseniniz
     <string name="security_settings_fingerprint_enroll_find_sensor_title">Sensöre dokunun</string>
     <string name="security_settings_fingerprint_enroll_finish_title">Parmak izi eklendi</string>
     <string name="security_settings_fingerprint_enroll_finish_v2_message">Parmak İzi Kilidi telefonunuzun kilidini açmak veya uygulamalarda siz olduğunuzu doğrulamak için ne kadar çok kullanırsanız geliştirir</string>
-    <string name="security_settings_fingerprint_enroll_introduction_agree">Kabul ediyorum</string>
+    <string name="security_settings_fingerprint_enroll_introduction_agree">Kabul et</string>
     <string name="security_settings_fingerprint_enroll_introduction_cancel">İptal et</string>
     <string name="security_settings_fingerprint_enroll_introduction_consent_message">Çocuğunuzun telefonunun kilidini açmak veya kimliğini doğrulamak için parmak izini kullanmasına izin verin. Bu özellik çocuğunuz uygulamalarda oturum açarken, satın alma işlemlerini onaylarken ve başka işlemler gerçekleştirirken kullanılır</string>
     <string name="security_settings_fingerprint_enroll_introduction_footer_message_1">"Piksel baskısı tarafından kaydedilen veriler güvenli şekilde depolanır ve her zaman telefonunuzda tutulur. Verilerinizi istediğiniz zaman Ayarlar'a girerek silebilirsiniz"</string>

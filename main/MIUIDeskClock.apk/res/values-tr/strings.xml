@@ -251,7 +251,7 @@
     <string name="dialog_legal_workday_desc">Saat iş günleri hakkındaki bilgileri güncellemek üzere internete bağlanmaya yetkili değil. Haftaiçi alarmları pazartesi ile cuma günleri arasında çalar</string>
     <string name="dialog_message_agree">Kabul et</string>
     <string name="dialog_message_for_contact_permission">Doğum günü alarmlarını kullanıma sunmak için saatin kişilerinize erişmesi gerekiyor. Kabul ediyor musunuz?</string>
-    <string name="dialog_message_negative">Kabul etme</string>
+    <string name="dialog_message_negative">Reddet</string>
     <string name="dialog_message_not_remind">Tekrar gösterme</string>
     <string name="dialog_net_permission_in_repeat_type">Bu özellik düzgün çalışabilmek için internete bağlanmalıdır. Bu özelliği kullanmadan önce <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik Politikası</a> anlaşmalarımızı kabul etmelisiniz. Kabul ediyor musunuz?</string>
     <string name="dialog_privacy_content">Saat yerel tatiller hakkında bilgileri almak, alarmları ayarlamak ve kişiselleştirilmiş hizmetleri sunmak için internete bağlanmalıdır. Saat uygulamasını kullanmadan önce %1$s ve %2$s anlaşmalarımızı okuyup kabul etmelisiniz. Kabul ediyor musunuz?</string>
@@ -259,7 +259,7 @@
     <string name="dialog_privacy_content_news">Saat kişiselleştirilmiş hizmetleri sunmak ve sabah haberlerini alarma eklemek için internete bağlanmalıdır. Saat uygulamasını kullanmadan önce %1$s ve %2$s anlaşmalarımızı okuyup kabul etmelisiniz. Kabul ediyor musunuz?</string>
     <string name="dialog_privacy_content_timer">Saat ortam sesi zamanlayıcılarının seslerini indirmek ve kişiselleştirilmiş hizmetleri sunmak için internete bağlanmalıdır. Saat uygulamasını kullanmadan önce %1$s ve %2$s anlaşmalarımızı okuyup kabul etmelisiniz. Kabul ediyor musunuz?</string>
     <string name="dialog_privacy_content_timer_data">Saat ortam sesi zamanlayıcılarının seslerini indirmek ve kişiselleştirilmiş hizmetleri sunmak için internete bağlanmalıdır. Saat uygulamasını kullanmadan önce %1$s ve %2$s anlaşmalarımızı okuyup kabul etmelisiniz. Mobil veri kullanıyorsunuz. Kabul ediyor musunuz?</string>
-    <string name="disagree">Kabul etme</string>
+    <string name="disagree">Reddet</string>
     <string name="done">Tamam</string>
     <string name="dynamic_alarm_speech">Akıllı alarm</string>
     <string name="early_morning">ÖÖ</string>

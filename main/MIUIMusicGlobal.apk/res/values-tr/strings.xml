@@ -1961,7 +1961,7 @@ Git ve onlarla sohbet et"</string>
     <string name="passport_account_user_name_dialog_title">Ad girin</string>
     <string name="passport_account_user_phone">Kurtarma telefonu</string>
     <string name="passport_activity_not_found_notice">Uygulama bulunamadı</string>
-    <string name="passport_agree">Kabul ediyorum</string>
+    <string name="passport_agree">Kabul et</string>
     <string name="passport_area_code_title">Alan kodu</string>
     <string name="passport_attention">Dikkat</string>
     <string name="passport_auth_fail_warning">Oturumun süresi doldu. Tekrar oturum açın</string>
@@ -2189,7 +2189,7 @@ Git ve onlarla sohbet et"</string>
     <string name="privacy_authorize_revoke_success">Yetkilendirme iptal edildi</string>
     <string name="privacy_authorize_revoking">Yetkilendirme iptal ediliyor</string>
     <string name="privacy_desc">Gizlilik politikası (Zorunlu)</string>
-    <string name="privacy_dialog_agree">Kabul ediyorum</string>
+    <string name="privacy_dialog_agree">Kabul et</string>
     <string name="privacy_dialog_desc">"Merhaba, GoGo Voice Room'a hoş geldiniz. Arkadaşlarınızla müziğin keyfini çıkarmak için buraya gelin. Lütfen kullanmadan önce %1$s GoGo Kullanıcı sözleşmesi ve %2$s Gizlilik politikasını kabul edin</string>
     <string name="privacy_dialog_disapproval">Onaylanmama</string>
     <string name="privacy_policy">Gizlilik politikası</string>

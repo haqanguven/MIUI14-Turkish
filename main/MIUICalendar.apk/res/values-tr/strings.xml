@@ -985,7 +985,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="passport_account_user_name_dialog_title">Ad girin</string>
     <string name="passport_account_user_phone">Kurtarma telefonu</string>
     <string name="passport_activity_not_found_notice">Uygulama bulunamadı</string>
-    <string name="passport_agree">Kabul ediyorum</string>
+    <string name="passport_agree">Kabul et</string>
 	<string name="passport_area_code_title">Alan kodu</string>
     <string name="passport_attention">Dikkat</string>
     <string name="passport_auth_fail_warning">Oturumun süresi doldu. Tekrar oturum açın</string>
