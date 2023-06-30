@@ -93,6 +93,10 @@
         <item quantity="other">%1$s yaşında</item>
         <item quantity="one">%1$s yaşında</item>
     </plurals>
+    <plurals name="birthday_notification_text_days_later">
+        <item quantity="other">"%4$s'ye kadar %1$s gün (%5$s)"</item>
+        <item quantity="one">"%4$s'ye kadar %1$s gün (%5$s)"</item>
+    </plurals>
     <plurals name="countdown_day">
         <item quantity="other">%1$s gün kaldı</item>
         <item quantity="one">%1$s gün kaldı</item>

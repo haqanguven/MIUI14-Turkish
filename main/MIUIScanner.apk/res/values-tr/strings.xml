@@ -214,6 +214,7 @@
     <string name="confirm">Tamam</string>
     <string name="connect_to_wifi">Bu ağa bağlanın</string>
     <string name="connect_wifi">Bu ağa bağlan</string>
+    <string name="connect_wifi_no_local_premissions">Bu ağa bağlan (Konum izni gerektirir)</string>
     <string name="contact_details">QR kod kişisi:</string>
     <string name="content_desktop_uninstall">Barkod okuyucu bir sistem uygulamasıdır. Uygulamayı kaldırdıktan sonra barkod okuyucu, Kamera, Mi AI, Kişiler ve diğer sistem hizmetlerinde ilgili işlevleri kullanamazsınız</string>
     <string name="continue_access_web_url">İnternet sitesine git</string>
@@ -808,6 +809,7 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="ppt_edit_bottom_title">Düzelt</string>
     <string name="ppt_edit_title">Düzenle</string>
     <string name="ppt_edit_toast_crop">Zaten akıllı çerçeve seçimi aralığında</string>
+    <string name="ppt_export_max">Şu anda en fazla %1$d sayfa destekliyor. Lütfen işleyin ve kaydedin</string>
     <string name="ppt_large">Daha büyük resmi görüntüle</string>
     <string name="ppt_large_edit">Fotoğrafları düzenle</string>
     <string name="ppt_large_edit_hint">İpucu: Resmi yakınlaştırmak için sıkıştırın</string>

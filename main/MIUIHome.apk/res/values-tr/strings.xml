@@ -286,7 +286,9 @@
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="close">Kapat</string>
     <string name="cloud_app_restore_title">Beklemede</string>
-    <string name="com.crashlytics.android.build_id">07e23b1d13c3424f98d4390c986dccfc</string>
+    <string name="color_group">Simgeleri renge göre gruplandırın</string>
+    <string name="color_group_anim">Renk kategorilerinde animasyonlar</string>
+    <string name="com.crashlytics.android.build_id">da4c806ada9948a29e1693e4502004df</string>
     <string name="common_google_play_services_unknown_issue">%1$s Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin</string>
     <string name="common_home_search_delete">Arama çubuğu kaldırılıyor</string>
     <string name="common_home_search_delete_cancle">İptal et</string>
@@ -378,6 +380,7 @@
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="failed_to_delete_temporary">Kaldırılamıyor</string>
     <string name="failed_to_drop_widget_invalid">Bu araç geçersiz</string>
+    <string name="find_app_by_color">Uygulamaları daha hızlı bulmak için simgeleri renge göre gruplandırın</string>
     <string name="firebase_database_url">https://miui-home-8d9f8.firebaseio.com</string>
     <string name="fmt_chinese_date">N/e</string>
     <string name="fmt_date">D</string>
@@ -443,16 +446,7 @@
     <string name="folder_picker_sliding_button_tab_text">Vurgulanan uygulamaları öner</string>
     <string name="folder_picker_tab_text">Klasör</string>
     <string name="free_style_apps_title">Uygulama seçin</string>
-    <string name="free_style_drawer_title">Tüm uygulamalar</string>
-    <string name="free_style_edit_app">Uygulama</string>
-    <string name="free_style_edit_bar_empty">Boş</string>
-    <string name="free_style_edit_drawer">Çekmece</string>
-    <string name="free_style_edit_move_tip">Bir öğeyi taşımak için basın &amp; basılı tutun</string>
-    <string name="free_style_edit_tab_free_component">Nesneler</string>
-    <string name="free_style_edit_tab_shortcut">Kısayollar</string>
-    <string name="free_style_edit_tab_widget">Araçlar</string>
-    <string name="free_style_enter_tip">Mi alanı görüntülemek için ekranın üst tarafından iki parmağınızla beraber aşağı doğru kaydırın</string>
-    <string name="free_style_exit_tip">Ana ekrana dönmek için ekranın alt kısmından iki parmağınızla birlikte yukarı doğru kaydırın</string>
+    <string name="free_style_unavailable_message">Mi alan artık bu sürümde desteklenmemektedir. Yine de bu temayı kullanmaya devam edebilirsiniz</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cum</string>
     <string name="friday_shortest">Cum</string>
@@ -563,7 +557,7 @@ Arttırılmış güvenlik"</string>
     <string name="maml_download_tip_wait_wifi">Bu öğe wifi ağına bağlandığınızda indirilecek</string>
     <string name="maml_download_tip_wait_wifi_china">Bu öğe wifi ağına bağlandığınızda indirilecek</string>
     <string name="manager_group_settings">Uygulama kategorilerini yönet</string>
-    <string name="marketSdkVersion">3.2.13</string>
+    <string name="marketSdkVersion">3.2.22</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">"ÖÖ veya ÖS'yi seçin"</string>
     <string name="material_hour_selection">Saat seçin</string>
@@ -593,8 +587,6 @@ Arttırılmış güvenlik"</string>
     <string name="menu_back_desktop">Ana ekrana dön</string>
     <string name="menu_cell_setting">Ana ekran düzeni</string>
     <string name="menu_default_screen_preview">Varsayılan ekranı ayarla</string>
-    <string name="menu_edit">Ana ekranı düzenle</string>
-    <string name="menu_exit_scene">Mi alandan çık</string>
     <string name="menu_finish">Tamam</string>
     <string name="menu_lock">Ana ekran düzenini kilitle</string>
     <string name="menu_more">Daha fazla</string>
@@ -602,7 +594,6 @@ Arttırılmış güvenlik"</string>
     <string name="menu_no_word">Simge metnini gizle</string>
     <string name="menu_only_widget_no_word">Araç metnini gizle</string>
     <string name="menu_pc_open">Bilgisayar programı ile aç</string>
-    <string name="menu_reset_scene">Varsayılan düzene sıfırla</string>
     <string name="menu_search">Arama</string>
     <string name="menu_settings">Ayarlar</string>
     <string name="menu_trans_effect">Geçiş efektleri</string>
@@ -789,8 +780,6 @@ Arttırılmış güvenlik"</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
-    <string name="perfect_icons_switch_summary">Animasyonları üçüncü taraf uygulama simgelerinden oluşturur</string>
-    <string name="perfect_icons_switch_title">Simge animasyonları</string>
     <string name="permdesc_install_shortcut">Bir uygulamanın kullanıcı izni olmadan kısayol eklemesine izin verir</string>
     <string name="permdesc_install_widget">Bir uygulamaya kullanıcı müdahalesi olmadan araç yerleştirme izni verir</string>
     <string name="permdesc_read_settings">Uygulamaya ana ekran ayarlarını ve kısayollarını okuma izni verir</string>
@@ -875,7 +864,6 @@ Arttırılmış güvenlik"</string>
     <string name="reset_description_first_time">Düzeni %1$s kaynağından 2 saat içinde geri yükleyebilirsiniz</string>
     <string name="reset_description_others">Düzeni %1$s kaynağından geri yükleyebilirsiniz</string>
     <string name="reset_fail">Geri yüklenemedi</string>
-    <string name="reset_scene_prompt">Ekran varsayılan ekran düzenine sıfırlanacaktır</string>
     <string name="reset_title">Geri yükle</string>
     <string name="restore_icon_successful">Eklendi</string>
     <string name="risk_app_report">Bu uygulamayı şikayet et</string>
@@ -1026,7 +1014,6 @@ Arttırılmış güvenlik"</string>
     <string name="toast_split_app_unsupported">Bu uygulama bölünmüş ekranı desteklemiyor</string>
     <string name="toast_split_select_app">Bölünmüş ekranı kullanmak için bir uygulamaya dokunun</string>
     <string name="today">Bugün</string>
-    <string name="toggle_select_title">Geçiş seçin</string>
     <string name="toggle_title">Geçişler</string>
     <string name="tomorrow">Yarın</string>
     <string name="tuesday">Salı</string>

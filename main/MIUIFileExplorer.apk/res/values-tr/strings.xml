@@ -33,7 +33,7 @@
     <string name="action_mode_deselect_all">Tüm seçimi kaldır</string>
     <string name="action_mode_select_all">Tümünü seç</string>
     <string name="action_release_file_cache">Önbelleği temizle</string>
-    <string name="actionbar_button_up_description">Back</string>
+    <string name="actionbar_button_up_description">Geri</string>
     <string name="ad_download">İndir</string>
     <string name="add_one">(1)</string>
     <string name="add_private">Dosyaları şimdi gizleyin</string>
@@ -239,6 +239,7 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="create_folder">Oluştur</string>
     <string name="create_shortcut_success">Kısayol başarıyla eklendi</string>
     <string name="cta_function_account_operation">Xiaomi hesabınızda hızlı oturum açmak içindir</string>
+    <string name="cta_use_sync_midrive_file">Dosyaları Mi sürücü ile senkronize etmek içindir</string>
     <string name="data_consume_dialog_message">Şu an mobil veriyi kullanıyorsunuz. Devam ederseniz %s veri kullanılacak</string>
     <string name="data_consume_dialog_title">Mobil veri kullanılsın mı?</string>
     <string name="data_consume_dialog_upload_title">Mobil veri kullanarak yükle</string>
@@ -488,7 +489,7 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="if_cancel">Bu işlem iptal edilsin mi?</string>
     <string name="image_loading_error">İmaj yüklenemedi</string>
     <string name="imm_str_storage">Depolama</string>
-    <string name="import_files_from_old_phones">Eski cihazdan içe aktar</string>
+    <string name="import_files_from_old_phones">Eski cihazdan aktar</string>
 	<string name="install_media_editor_button_text">İndir</string>
 	<string name="install_media_editor_message">Öğeleri düzenleyebilmek için önce eklentiyi indirin. Şimdi indirilsin mi?</string>
 	<string name="install_media_editor_title">Eklenti gerekli</string>
@@ -925,6 +926,7 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="select_dest_folder">Klasör seçin</string>
     <string name="select_image">Fotoğraflar</string>
     <string name="select_music">Ses dosyaları</string>
+    <string name="select_pdf">PDF dosyası seç</string>
     <string name="select_video">Video dosyaları</string>
     <string name="select_volume">Birim seçin</string>
     <string name="send">Gönder</string>

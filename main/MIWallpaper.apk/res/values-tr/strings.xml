@@ -212,7 +212,7 @@ Dolomitler"</string>
     <string name="friday_short">Cum</string>
     <string name="friday_shortest">Cum</string>
     <string name="geometry_id">geometry</string>
-    <string name="geometry_summary">Şekiller, ışık ve renkler</string>
+    <string name="geometry_summary">Şekiller, ışıklar ve renkler</string>
     <string name="geometry_super_wallpaper_label">Geometri</string>
     <string name="geometry_title">Geometri</string>
     <string name="heavenly_stems_bing">3</string>
@@ -316,12 +316,12 @@ Krater"</string>
     <string name="saturday_short">Cts</string>
     <string name="saturday_shortest">Cts</string>
     <string name="saturn_id">saturn</string>
-    <string name="saturn_summary">"Satürn'ün halkaları Güneş Sistemi'ndeki en inanılmaz gösteriyi yapar"</string>
+    <string name="saturn_summary">"Satürn'ün halkaları güneş sistemindeki en inanılmaz gösteriyi yapar"</string>
     <string name="saturn_super_wallpaper_label">saturn</string>
     <string name="saturn_title">Uzun halkalar</string>
     <string name="search_menu_title">Ara</string>
     <string name="snowmountain_id">snowmountain</string>
-    <string name="snowmountain_summary">"Siguniang Dağı'nın güneşli dağ yamaçları"</string>
+    <string name="snowmountain_summary">Siguniang dağının güneşli dağ yamaçları keşfedin</string>
     <string name="snowmountain_super_wallpaper_label">Karlı zirveler</string>
     <string name="snowmountain_title">Karlı zirveler</string>
     <string name="solar_term_autumn_begins">Sonbahar başlıyor</string>
@@ -336,7 +336,7 @@ Krater"</string>
     <string name="solar_term_heavy_snow">Yoğun kar</string>
     <string name="solar_term_hoar_frost_falls">Kırağı</string>
     <string name="solar_term_insects_awaken">Böcekler uyandı</string>
-    <string name="solar_term_light_snow">Hafif Kar</string>
+    <string name="solar_term_light_snow">Hafif kar</string>
     <string name="solar_term_slight_cold">Hafif soğuk</string>
     <string name="solar_term_slight_heat">Hafif sıcaklar</string>
     <string name="solar_term_spring_begins">Bahar başlıyor</string>

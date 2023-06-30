@@ -344,9 +344,9 @@
     <string name="force_touch_add_alarm">Alarm ekle</string>
     <string name="force_touch_enter_stopwatch">Kronometre</string>
     <string name="force_touch_enter_timer">Zamanlayıcı</string>
-    <string name="friday">Friday</string>
-    <string name="friday_short">Fri</string>
-    <string name="friday_shortest">Fri</string>
+    <string name="friday">Cuma</string>
+    <string name="friday_short">Cuma</string>
+    <string name="friday_shortest">C</string>
     <string name="full_wday_month_day_no_year">d MMMM EEEE</string>
     <string name="go_back">Geri</string>
     <string name="heavenly_stems_bing">3</string>
@@ -703,6 +703,7 @@ mm"</string>
     <string name="sleep_wake_time">%1$s-%2$s</string>
     <string name="slider_text">Kapatmak için yukarı kaydırın</string>
     <string name="slider_text_new">Durdurmak için yukarı kaydırın</string>
+    <string name="snooze_alarm_alert">%s tarihine kadar ertelendi</string>
     <string name="snooze_confirm_cancel">Alarmı kapat</string>
     <string name="snooze_duration">Ertele</string>
     <string name="snooze_duration_text">%1$s | %2$s</string>

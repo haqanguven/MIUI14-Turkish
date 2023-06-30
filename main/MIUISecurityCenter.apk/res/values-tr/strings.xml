@@ -74,6 +74,7 @@
     <string name="abnormal_consume_type_cpu">Yüksek işlemci kullanımı</string>
     <string name="abnormal_consume_type_wakelock">Sistem uyuyamıyor</string>
     <string name="about_autostart">Otomatik başlatma hakkında</string>
+    <string name="about_autostart_gloabl">Otomatik başlatma hakkında</string>
     <string name="ac_enter_applock">Uygulama kilidini girin</string>
     <string name="ac_firstUseApplock_subTitle">Sistem seviyesi güvenlik araçlarını kullanın</string>
     <string name="ac_firstUseApplock_title">Uygulamalarınızı korumak için bir şifre belirleyin</string>
@@ -119,6 +120,7 @@
     <string name="activity_title_antivirus_kddi">Güvenlik taraması</string>
     <string name="activity_title_apps_manager">Uygulamalar</string>
     <string name="activity_title_auto_start_manager">Otomatik başlat</string>
+    <string name="activity_title_auto_start_manager_global">Otomatik başlat</string>
     <string name="activity_title_garbage_cleanup">Temizleyici</string>
     <string name="activity_title_license_manager">İzinler</string>
     <string name="activity_title_networkassistants">Veri kullanımı</string>
@@ -1546,6 +1548,7 @@ Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanab
     <string name="dialog_change_package_type_summary">Veri planı türünü değiştirmek tüm veri kullanım ayarlarını varsayılan değerlerine sıfırlar. Veri planı türü şimdi değiştirilsin mi?</string>
     <string name="dialog_change_package_type_title">Veri planı türü değiştiriliyor</string>
     <string name="dialog_msg_auto_start_declare">Bazı uygulamalar hatalı olarak başlatılmalarının MIUI tarafından engellendiğini bildirebilir. Bu gibi durumlarda bireysel uygulamalara verilmiş izinleri ayarlar > uygulamalar menüsünde kontrol edin</string>
+    <string name="dialog_msg_auto_start_declare_global">"Bazı uygulamalar yanlış bir şekilde MIUI'nin başlamalarını engellediğini gösterebilir. Ayarlarda tek tek uygulamalara verilen izinleri kontrol edin</string>
     <string name="dialog_msg_create_icon_content">Şimdi bir ana ekran kısayolu eklensin mi?</string>
     <string name="dialog_msg_create_icon_not_remain_anymore">Bir daha gösterme</string>
     <string name="dialog_msg_delete_icon_content_pad">Güvenlik cihazınızdaki çöpleri temizlemenize, virüsleri bulup etkisiz hale getirmenize, pilden tasarruf etmenize, izinleri yönetmenize ve daha pek çok şeye olanak tanır</string>
@@ -1580,6 +1583,7 @@ Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanab
     <string name="dialog_skt_roaming_warning_title">Veri dolaşımı sözleşmesi</string>
     <string name="dialog_title_attention">Uyarı</string>
     <string name="dialog_title_auto_start_declare">Otomatik başlatma hakkında</string>
+    <string name="dialog_title_auto_start_declare_global">Otomatik başlatma hakkında</string>
     <string name="dialog_title_stop_virus_scan">Güvenlik taramasını durdur</string>
     <string name="disable_air_mode">Öncelikle uçak modunu kapatın</string>
     <string name="disable_sensitive_permissions">Hassas izinler kısıtlandı</string>
@@ -1962,19 +1966,6 @@ gönüllüsü"</string>
     <string name="exit_dialog_scan_message">Cihazınızın performans puanı 75 puandan düşük. Şimdi optimize edilsin mi?</string>
     <string name="exit_dialog_scan_positive_button">Optimize et</string>
     <string name="exit_dialog_scan_title">Performansı optimize et</string>
-	<string name="exit_guide_track_component_value_app_predict">Uygulama önerisi 2*4</string>
-	<string name="exit_guide_track_component_value_health">Cep telefonu sağlığı 2*2</string>
-	<string name="exit_guide_track_component_value_power">Güç göstergesi 2*2</string>
-	<string name="exit_guide_track_component_value_privacy_protect">Gizlilik koruması 2*2</string>
-	<string name="exit_guide_track_component_value_ram_jat">Tek tuşla hızlandırma 2*2</string>
-	<string name="exit_guide_track_function_value_app_predict">uygulama yönetimi</string>
-	<string name="exit_guide_track_function_value_health">Fiziksel muayene sonuç sayfası</string>
-	<string name="exit_guide_track_function_value_power">Güç tasarrufu ve pil</string>
-	<string name="exit_guide_track_function_value_privacy_protect">Gizlilik koruması</string>
-	<string name="exit_guide_track_function_value_ram_jat">Hızlanmayı optimize edin</string>
-	<string name="exit_guide_track_quite_value_activity_finish">sayfayı kapat</string>
-	<string name="exit_guide_track_quite_value_click_add">Araç eklemek için tıklayın</string>
-	<string name="exit_guide_track_quite_value_click_exit">Kapatmak için tıklayın</string>
 	<string name="exit_notify">exit_notify</string>
     <string name="exo_controls_cc_disabled_description">Altyazıları etkinleştir</string>
     <string name="exo_controls_cc_enabled_description">Altyazıları devre dışı bırakın</string>
@@ -2696,8 +2687,6 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="give_lucky_money">Kırmızı zarf büyük teslimat</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Kayan bir pencerede açmak için kenar çubuğundaki bir uygulamaya dokunun
 · Bir uygulamayı kayan bir pencerede açmak için ekranın ortasına veya Bölünmüş ekranı kullanmak için yana sürükleyin
-
-
 · Press and hold the indicator to move the window around."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Kayan bir pencerede açmak için kenar çubuğundaki bir uygulamaya dokunun
 · Pencereyi hareket ettirmek için göstergeyi basili tutun"</string>					 
@@ -2939,7 +2928,7 @@ manzara moduna geçin"</string>
     <string name="install_title">USB üzerinden yükle</string>
     <string name="installing">Yükleniyor</string>
     <string name="intercept_dimension_ratio">612:380</string>
-    <string name="intercept_net_fold_external_image_ratio">808:480</string>
+    <string name="intercept_net_fold_external_image_ratio">367:174</string>
     <string name="intercept_net_split_image_ratio">898:528</string>
     <string name="intercept_net_split_land_image_ratio">646:380</string>
     <string name="international_Ad">Reklam</string>
@@ -3493,19 +3482,19 @@ Veri kullanım istatistiklerini otomatik ayarla seçeneğini istediğiniz zaman 
     <string name="network_roaming_exception_tips">Dolaşım sırasında mobil veri kullanılarak ağa bağlanılamıyor</string>
     <string name="network_route_exception_detail">"Bağlanmış olduğunuz yönlendiricide bir sorun olabilir: 
  
-\""<b>1. Halka açık wifi ağ sorunları</b>"\"
+<b>1. Halka açık wifi ağ sorunları</b>
 Eğer halka açık bir wifi ağına bağlandıysanız ağa bağlı olan kullanıcı sayısı ağı yavaşlatıyor veya bağlantı sorunları oluşmasına neden oluyor olabilir. Başka bir ağa bağlanın ve ardından tekrar deneyin 
  
-\""<b>2. İnternet servis sağlayıcısı sorunları</b>"\"
+<b>2. İnternet servis sağlayıcısı sorunları</b>
 İnternet servis sağlayıcısı hesabınızda bir sorun olup olmadığından emin olun 
  
-\""<b>3. Yönlendirici donanım sorunları</b>"\"
+<b>3. Yönlendirici donanım sorunları</b>
 Yönlendiricinizin yönetici ayarlarını kontrol edin veya yönlendiricinizi yeniden başlatmayı deneyin 
  
-\""<b>4. Diğer yönlendirici sorunları</b>"\"
+<b>4. Diğer yönlendirici sorunları</b>
 Yönlendiriciniz ile birlikte gelen yönergeleri gözden geçirin ve yönlendiricinizi fabrika ayarlarına geri döndürün 
  
-\""<b>5. Yönlendiricinizin doğru şekilde çalıştığından ve bağlandığından emin olun</b>"\"
+<b>5. Yönlendiricinizin doğru şekilde çalıştığından ve bağlandığından emin olun</b>
 Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu değiştirmeyi deneyin. Eğer ev ağınızda bir sorun olduğundan şüpheleniyorsanız internet servis sağlayıcınızla iletişime geçin"</string>
     <string name="network_sim_exception_detail">"Sim kartınızda bir sorun olabilir: 
 
@@ -4666,7 +4655,6 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="privacy_flares_recent_detail_more">Bu uygulama hassas bir izin kullandı</string>
     <string name="privacy_global_guide_permission_guide_text">Uygulamalar ses kaydettiğinde veya kamera kullandığında bir durum çubuğu uyarısı alırsınız. Hangi uygulamanın bunu yaptığını öğrenmek için uyarıya dokunun</string>
     <string name="privacy_guide_permission_guide_text">Uygulamalar konumunuza eriştiğinde, ses kaydettiğinde veya fotoğraf çektiğinde durum çubuğunda bir uyarı alabilirsiniz</string>
-    <string name="privacy_guide_permission_use_text">MIUI bir uygulamanın konum, kişi, arama geçmişi ve depolama erişimi ve ayrıca ses kaydetme gibi hassas izinleri kaç kez kullanacağını sayar ve görüntüler. Her uygulamanın bu izinleri kaç kez kullandığını öğrenebilir ve izin ayarlarınızı değiştirmeniz gerekip gerekmediğini belirleyebilirsiniz</string>
     <string name="privacy_hide_other_permissions">Diğer izinleri gizle</string>
     <string name="privacy_informed_title">İstatistikleri</string>
     <string name="privacy_input_icon_layout_status_bg_content_enable">Korumalı</string>
@@ -4878,9 +4866,6 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="quick_replay_list_title">Mevcut uygulamalar</string>
     <string name="quick_reply_title">Hızlı cevaplar</string>
     <string name="quite_all_string">İptal et</string>
-	<string name="quite_track_value_string_click_add_button">Araç eklemek için tıklayın</string>
-	<string name="quite_track_value_string_click_empty">Boş alana tıklayın</string>
-	<string name="quite_track_value_string_slide_down">Aşağı kaydırın</string>
     <string name="random_expression">Rastgele ifade</string>
     <string name="reach_daily_limit_value_body">Mobil veri kullanımını azalt</string>
     <string name="reach_daily_limit_value_title">Günlük veri sınırına ulaşıldı</string>
@@ -5001,9 +4986,6 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="scan_status_not_complete">İptal edildi</string>
     <string name="scan_status_risk">Riskli</string>
     <string name="scan_status_safe">Güvenli</string>
-	<string name="scan_widget_guide_button_text">Araç ekle</string>
-	<string name="scan_widget_guide_message">Telefonunuz için daha kullanışlı, daha hızlı ve kapsamlı koruma</string>
-	<string name="scan_widget_guide_title">Yeni araç</string>
     <string name="scanning_bar_number_new">%s</string>
     <string name="screen_share_protection_negative_button">Paylaşma</string>
     <string name="screen_share_protection_summary">Şu anda kullandığınız uygulama ekranınızı paylaşırsanız diğer kişilerin görebileceği kişisel bilgilerinizi içerir. Yine de paylaşılsın mı?</string>
@@ -6636,16 +6618,12 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="widget_cleaner_message">Çöpler temizlenebilir</string>
     <string name="widget_cleaner_size">529</string>
     <string name="widget_cleaner_size_unit">MB</string>
-    <string name="widget_cleaner_text_1">"Telefon
-temiz"</string>
     <string name="widget_health_message">Telefon çok güvenli. Optimize etmeye devam edin</string>
     <string name="widget_health_size">86</string>
     <string name="widget_power_size">90</string>
     <string name="widget_power_size_message">Müsait zaman 34 saat 2 dakika</string>
     <string name="widget_power_size_unit">%</string>
-    <string name="widget_ramjat_cleaned_summary">823MB boş hafıza</string>
-    <string name="widget_ramjat_cleaned_text">Temizlendi</string>
-    <string name="widget_ramjat_message">Boş hafıza</string>
+    <string name="widget_ramjat_message">Boşaltılabilir bellek</string>
     <string name="widget_ramjat_size">732</string>
     <string name="widget_safe_size">315.89</string>
     <string name="widget_safe_size_1">23.6</string>
