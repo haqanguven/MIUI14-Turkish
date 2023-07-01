@@ -148,6 +148,10 @@
     <string name="already_add">%s Ana ekranınıza eklendi</string>
     <string name="am">ÖÖ</string>
     <string name="androidx_startup">androidx.startup</string>
+	<string name="antivirus_btn_scanned">Tara</string>
+	<string name="antivirus_desc_no_scanned">Taramak için dokunun</string>
+	<string name="antivirus_desc_scanned">Her şey yolunda görünüyor</string>
+	<string name="antivirus_title">Güvenlik taraması</string>
     <string name="app_cache">Önbellek</string>
     <string name="app_category_tag_daily_recommendation">Bugünün seçimleri</string>
     <string name="app_category_tag_editor_recommendation">Editörün seçimi</string>
@@ -266,6 +270,7 @@ Senkronizasyonu durdurmak için kapatın"</string>
     <string name="branch_grant_permission">İzin gerekli</string>
     <string name="branch_local_search_settings">Yerel arama ayarları</string>
     <string name="branch_search_bar_tips">Uygulamaları ve oyunları ara</string>
+    <string name="branch_search_guide_pop_search">Ara</string>
     <string name="branch_search_in_browser">Tarayıcıda %1$s arayın</string>
     <string name="branch_setting">Güncelleme ayarları</string>
     <string name="branch_short_message">Mesajlaşma</string>
@@ -407,6 +412,7 @@ Senkronizasyonu durdurmak için kapatın"</string>
     <string name="choose_to_signup">Hayır. Yeni bir hesap oluşturacağım</string>
     <string name="choosertitle_sharevia">Şunu kullanarak paylaş</string>
     <string name="clean_cache">Önbelleği temizle</string>
+    <string name="clean_cache_btn_clean">Temizle</string>
     <string name="clear">Temizle</string>
     <string name="clear_history">Geçmişi temizle</string>
     <string name="clear_most_visited">Yakın tarih</string>
@@ -1078,7 +1084,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="home_list_item_click">Ana liste öğesi tıklaması</string>
     <string name="home_nf">İçerik akışı</string>
     <string name="home_nf_recommend_on">İçerik akışı</string>
-    <string name="home_page_simple">Simple</string>
+    <string name="home_page_simple">Basit</string>
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="homepage_default">Varsayılan</string>
     <string name="homepage_delete_card_menu">Sil</string>
@@ -1255,6 +1261,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="media_error_network_unreachable">Ağa bağlanılamadı</string>
     <string name="media_error_timeout">Ağ bağlantısı zaman aşımına uğradı</string>
     <string name="media_error_video_not_exist">Video mevcut değil</string>
+    <string name="memory_btn_clean">Boş</string>
     <string name="memory_clear_nothing_result">Önbellekte temizlenecek veri yok</string>
     <string name="memory_clear_result">%1$s temizlendi</string>
     <string name="memory_management">Depolama alanını yönet</string>
@@ -1457,7 +1464,13 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="mw_add_to_dictionary">Sözlüğe ekle</string>
     <string name="mw_androidx_startup">androidx.startup</string>
     <string name="mw_autofill_popup_content_description">Otomatik doldurma penceresi görüntüleme</string>
-    <string name="mw_chip_remove_icon_content_description">%1$s kaldır</string>
+	<string name="mw_call_notification_answer_action">Cevap</string>
+	<string name="mw_call_notification_answer_video_action">Video</string>
+	<string name="mw_call_notification_decline_action">Reddet</string>
+	<string name="mw_call_notification_hang_up_action">Kapat</string>
+	<string name="mw_call_notification_incoming_text">Gelen arama</string>
+	<string name="mw_call_notification_ongoing_text">Devam eden arama</string>
+	<string name="mw_call_notification_screening_text">Gelen aramayı tara</string>
     <string name="mw_color_picker_button_black">Siyah</string>
     <string name="mw_color_picker_button_blue">Mavi</string>
     <string name="mw_color_picker_button_cancel">İptal et</string>
@@ -1473,25 +1486,8 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="mw_color_picker_hue">Hue</string>
     <string name="mw_color_picker_saturation">Doygunluk</string>
     <string name="mw_color_picker_value">Değer</string>
-    <string name="mw_common_google_play_services_enable_button">Etkinleştir</string>
-    <string name="mw_common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmediğiniz sürece %1$s çalışmayacaktır</string>
-    <string name="mw_common_google_play_services_enable_title">Google Play hizmetlerini etkinleştir</string>
-    <string name="mw_common_google_play_services_install_button">Yükle</string>
-    <string name="mw_common_google_play_services_install_text">%1$s cihazınızda eksik olan Google Play hizmetleri olmadan çalışmaz</string>
-    <string name="mw_common_google_play_services_install_title">Google Play hizmetlerini alın</string>
-    <string name="mw_common_google_play_services_notification_channel_name">Google Play hizmetlerinin kullanılabilirliği</string>
-    <string name="mw_common_google_play_services_notification_ticker">Google Play hizmetleri hatası</string>
-    <string name="mw_common_google_play_services_unknown_issue">%1$s Google Play hizmetlerinde sorun yaşıyor. Lütfen tekrar deneyin</string>
-    <string name="mw_common_google_play_services_unsupported_text">%1$s cihazınız tarafından desteklenmeyen Google Play hizmetleri olmadan çalışmayacaktır</string>
-    <string name="mw_common_google_play_services_update_button">Güncelle</string>
-    <string name="mw_common_google_play_services_update_text">Google Play hizmetlerini güncellemediğiniz sürece %1$s çalışmayacaktır</string>
-    <string name="mw_common_google_play_services_update_title">Google Play hizmetlerini güncelleyin</string>
-    <string name="mw_common_google_play_services_updating_text">%1$s şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmayacak</string>
-    <string name="mw_common_google_play_services_wear_update_text">Google Play hizmetlerinin yeni sürümü gerekli. Kısa süre sonra kendini güncelleyecektir</string>
-    <string name="mw_common_open_on_phone">Telefonda aç</string>
-    <string name="mw_common_signin_button_text">Oturum aç</string>
-    <string name="mw_common_signin_button_text_long">Google ile giriş yap</string>
     <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
+    <string name="mw_copied">Kopyalandı</string>
     <string name="mw_copy_to_clipboard_failure_message">Panoya kopyalama başarısız</string>
     <string name="mw_data_traffic_prompt_change">Video akışı için mobil veri bağlantısını kullanmak veri kullanımını da arttırabilir. Tarifenizin veri kullanım sınırını aşarsanız, operatörünüz sizden ek ücret talep edecektir</string>
     <string name="mw_data_traffic_prompt_message">Video akışı için mobil veri bağlantısını kullanmak veri kullanımını da arttırabilir. Tarifenizin veri kullanım sınırını aşarsanız, operatörünüz sizden ek ücret talep edecektir</string>
@@ -1503,6 +1499,8 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="mw_date_picker_dialog_title">Tarihi ayarla</string>
     <string name="mw_date_time_picker_dialog_title">Tarihi ve zamanı ayarla</string>
     <string name="mw_delete_suggestion_text">Sil</string>
+    <string name="mw_elided_url_text_view_url_expanded">Bağlantı genişletildi</string>
+    <string name="mw_elided_url_text_view_url_truncated">Bağlantı daraltıldı</string>
     <string name="mw_find_next">Sonrakini bul</string>
     <string name="mw_find_previous">Öncekini bul</string>
     <string name="mw_js_dialog_before_unload">"%s
@@ -1603,8 +1601,10 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="mw_month_picker_dialog_title">Ayı ayarla</string>
     <string name="mw_no_matches">Eşleşme yok</string>
     <string name="mw_older">Daha eski</string>
+    <string name="mw_opening_android_media_picker">Fotoğraf seçici açılamıyor</string>
     <string name="mw_opening_file_error">Seçili dosya açılamadı</string>
     <string name="mw_permission_alert_window">Bu özelliği kullanmak için açılır pencerelerin görüntülenmesine izin verin</string>
+    <string name="mw_permission_denied_error">Reddedilen izinler nedeniyle medya seçilemiyor</string>
     <string name="mw_permission_unknown">Bilinmeyen seçenek</string>
     <string name="mw_private_browsing_warning">"Bu özellik Android'in bu sürümünde desteklenmiyor"</string>
     <string name="mw_profiler_error_toast">Analiz başlatılamadı</string>
@@ -1936,6 +1936,7 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="popular_game_video">Popüler oyun videoları</string>
     <string name="popup_window_attempt">Bu sitenin bir açılır pencere açmasına izin verilsin mi?</string>
     <string name="positive_confirm_message">Yine de kapat</string>
+    <string name="power_saving_btn_clean">Seçenekler</string>
     <string name="power_saving_settings">Pil tasarrufu</string>
     <string name="pref_accessibility">Erişilebilirlik</string>
     <string name="pref_accessibility_title">Erişilebilirlik</string>
@@ -1965,6 +1966,7 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="pref_content_night_read_mode">Gece modu</string>
     <string name="pref_content_search_engine">Adres çubuğu arama motoru</string>
     <string name="pref_content_search_engine_summary">Bir arama motoru seçin</string>
+    <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
     <string name="pref_data_preload_value_always">Her zaman</string>
     <string name="pref_data_preload_value_never">Asla</string>
     <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
@@ -1997,6 +1999,7 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="pref_js_downloader">Fotoğraf ve video indir</string>
     <string name="pref_js_downloader_detail">Sosyal medya sitelerinde fotoğraflarda ve videolarda indirme tuşu gösterir</string>
     <string name="pref_key_gesture_title">Tuşlar &amp; hareketler</string>
+    <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
     <string name="pref_link_prefetch_value_always">Her zaman</string>
     <string name="pref_link_prefetch_value_never">Asla</string>
     <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
@@ -2108,6 +2111,7 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="pref_title_dns_prefetch">DNS ön yükleme</string>
     <string name="pref_ua_string">Kullanıcı aracısı</string>
     <string name="pref_version_info">Sürüm bilgisi</string>
+    <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
     <string name="pref_video_preload_value_always">Her zaman</string>
     <string name="pref_video_preload_value_never">Asla</string>
     <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
@@ -2360,8 +2364,8 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="search_empty_view_hint">Sonuç bulunamadı</string>
     <string name="search_engine_title">Varsayılan arama</string>
     <string name="search_error_hint">Ara</string>
-    <string name="search_file_type_apk">APK</string>
-    <string name="search_file_type_doc">Dokümanlar</string>
+    <string name="search_file_type_apk">Uygulama</string>
+    <string name="search_file_type_doc">Belge</string>
     <string name="search_file_type_music">Müzik</string>
     <string name="search_file_type_picture">Fotoğraf</string>
     <string name="search_file_type_video">Video</string>

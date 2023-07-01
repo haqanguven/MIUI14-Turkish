@@ -25,7 +25,7 @@
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Kontrol+</string>
     <string name="abc_menu_delete_shortcut_label">Sil</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
     <string name="abc_menu_function_shortcut_label">İşlev+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Üst karakter+</string>
@@ -79,6 +79,9 @@
     <string name="ad_setting">Ek ayarlar</string>
     <string name="add">Ekle</string>
     <string name="add_music">Şarkı ekle</string>
+    <string name="add_songs_manually_bottom">Ekle</string>
+    <string name="add_songs_manually_home">Şarkıları manuel olarak ekleyin</string>
+    <string name="add_songs_manually_setting">Şarkıları manuel olarak ekleyin</string>
     <string name="add_to_group_notify">%1$s aileye katıldı</string>
     <string name="add_to_last_of_playlist">Çalma listesinin sonuna ekle</string>
     <string name="add_to_playlist">Sıraya ekle</string>
@@ -873,7 +876,7 @@ Lütfen ağınızı kontrol edin"</string>
     <string name="exo_controls_shuffle_on_description">Karıştırma açık</string>
     <string name="exo_controls_stop_description">Durdur</string>
     <string name="exo_controls_time_placeholder">00:00:00</string>
-    <string name="exo_controls_vr_description">VR mode</string>
+    <string name="exo_controls_vr_description">VR mod</string>
     <string name="exo_download_completed">İndirme işlemi tamamlandı</string>
     <string name="exo_download_description">İndir</string>
     <string name="exo_download_downloading">İndiriliyor</string>
@@ -1525,7 +1528,7 @@ GoGo indirme adresi: %2$s
     <string name="m3_sys_motion_easing_legacy_accelerate">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
     <string name="m3_sys_motion_easing_legacy_decelerate">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
     <string name="m3_sys_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
-    <string name="m3_sys_motion_easing_standard">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="m3_sys_motion_easing_standard">cubic-bezier(0.2, 0.0, 0.0, 1.0)</string>
     <string name="m3_sys_motion_easing_standard_accelerate">cubic-bezier(0.3, 0.0, 1.0, 1.0)</string>
     <string name="m3_sys_motion_easing_standard_decelerate">cubic-bezier(0.0, 0.0, 0.0, 1.0)</string>
     <string name="magic_box_manual">Hazine sandığı açıklaması ></string>
@@ -1640,8 +1643,8 @@ Git ve onlarla sohbet et"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yükleniyor</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
     <string name="mobile_recommended_title">Mobil veri kullanımı</string>
-    <string name="modal_content_descriptor">modal</string>
-    <string name="modal_inner_content_descriptor">modal inner</string>
+    <string name="modal_content_descriptor">Kalıcı</string>
+    <string name="modal_inner_content_descriptor">Kalıcı iç</string>
     <string name="modify_lyric">Şarkı sözünü düzenle</string>
     <string name="modify_pic">Kapağı değiştir</string>
     <string name="modify_progress">Şarkı sözü akış hızını değiştir</string>
@@ -1847,7 +1850,7 @@ Git ve onlarla sohbet et"</string>
     <string name="nobility_open">Açık soylu</string>
     <string name="nobility_open_me">Terfiiniz için tebrikler [nobility]</string>
     <string name="nobility_open_other">"Tebrikler [user] 
- Rise [nobility]"</string>
+ Yükseldi [nobility]"</string>
     <string name="nobility_renew_me">Başarıyla yenilendi [nobility]</string>
     <string name="nobility_return_desc">Yenile[coin]/ay, İade[super]</string>
     <string name="nobility_trumpet_toast">Yeterli hoparlörünüz yok. Daha fazlasını almak için bir asil olun</string>
@@ -2037,7 +2040,7 @@ Git ve onlarla sohbet et"</string>
     <string name="passport_no_account">Oturum açılmamış</string>
     <string name="passport_open_settings">Ayarlar</string>
     <string name="passport_page_load_failed">Sayfa açılamıyor</string>
-    <string name="passport_password_login_btn">Sign in</string>
+    <string name="passport_password_login_btn">Oturum aç</string>
     <string name="passport_password_not_show">Şifreyi gösterme</string>
     <string name="passport_password_show">Şifreyi göster</string>
     <string name="passport_phone_auto_login_register_with_local_number">Hesap oluştur</string>
@@ -2179,7 +2182,7 @@ Git ve onlarla sohbet et"</string>
     <string name="pm">ÖS</string>
     <string name="popup_exit_hint">Aileden ayrılsın mı? Not: Aileden ayrıldıktan sonra 24 saat sonra tekrar katılmak için başvurabilirsiniz</string>
     <string name="power_save_mode_dialog_msg">Cihaz güç tasarrufu modunda bulunmaktadır. Şu anda indirmey başlasın mı?</string>
-    <string name="pre_watched">Watched</string>
+    <string name="pre_watched">İzlendi</string>
     <string name="preference_copied">1$s panoya kopyalandı</string>
     <string name="preset_music_playlist">Müzikler listesi</string>
     <string name="priority_storage">Harici SD kart kullan</string>
@@ -2416,8 +2419,8 @@ mutlu ol"</string>
     <string name="setting_feature_setting">Özellik ayarı</string>
     <string name="setting_help_title">Yardım merkezi</string>
     <string name="setting_hint_arabic">Arapça</string>
-    <string name="setting_hint_english">English</string>
-    <string name="setting_hint_language">Dilim</string>
+    <string name="setting_hint_english">İngilizce</string>
+    <string name="setting_hint_language">Dil/اللغة</string>
     <string name="setting_popup_title_signout">Bu hesaptan çıkış yapılsın mı?</string>
     <string name="settings">Ayarlar</string>
     <string name="settings_search_key_notification">Müzik bildirimleri;Müzik;Bildirimler;şarkılar</string>

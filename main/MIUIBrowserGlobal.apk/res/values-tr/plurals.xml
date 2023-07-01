@@ -41,6 +41,10 @@
         <item quantity="other">Şimdiye kadar %d reklam engellendi</item>
         <item quantity="one">Şimdiye kadar %d reklam engellendi</item>
     </plurals>
+    <plurals name="antivirus_desc_not_scanned_virus_in_days">
+        <item quantity="other">%d gündür taranmadı</item>
+        <item quantity="one">%d gündür taranmadı</item>
+    </plurals>
     <plurals name="articles_updated_amount">
         <item quantity="other">%1$d yeni konuya göz at</item>
         <item quantity="one">%1$d yeni konuya göz at</item>
