@@ -599,7 +599,7 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="pref_title_data_slot">Tercih edilen veri Sim kartı</string>
     <string name="pref_title_voice_slot">Tercih edilen ses Sim kartı</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
-    <string name="privacy_content_one">"\"Duvar kağıdı döngüsü önerileri güvenilir üçüncü taraf içerik sağlayıcımız olan Taboola tarafından desteklenmektedir. Bu içeriği sağlamak için Taboola'nın, sistem diliniz ve tarayıcı türünüz de dahil olmak üzere cihazınızdaki kişisel olmayan verilere erişmesi ve bunları depolaması gerekir. Taboola'nın toplanan verileri nasıl kullandığını Taboola'nın %1$s Gizlilik politikası ve %2$s Kullanıcı sözleşmesinden öğrenebilirsiniz. Devam etmeden önce bu belgelerde sağlanan hüküm ve koşulları okuyun ve kabul edin. Kabul etmezseniz duvar kağıdı döngüsü hizmetleri devre dışı bırakılacaktır"</string>
+    <string name="privacy_content_one">"Duvar kağıdı döngüsü önerileri güvenilir üçüncü taraf içerik sağlayıcımız olan Taboola tarafından desteklenmektedir. Bu içeriği sağlamak için Taboola'nın, sistem diliniz ve tarayıcı türünüz de dahil olmak üzere cihazınızdaki kişisel olmayan verilere erişmesi ve bunları depolaması gerekir. Taboola'nın toplanan verileri nasıl kullandığını Taboola'nın %1$s Gizlilik politikası ve %2$s Kullanıcı sözleşmesinden öğrenebilirsiniz. Devam etmeden önce bu belgelerde sağlanan hüküm ve koşulları okuyun ve kabul edin. Kabul etmezseniz duvar kağıdı döngüsü hizmetleri devre dışı bırakılacaktır"</string>
     <string name="privacy_policy">Gizlilik politikası</string>
     <string name="privacy_provision_more">Gizlilik koruması hakkında daha fazla bilgi edinin</string>
     <string name="privacy_provision_summary">Gizlilik hakkında</string>
@@ -676,7 +676,7 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="sim_card_detecting_check">Sim kartı bulunamadı. Sim kartın düzgün takıldığından ve bakiyenize yeterli paranızın olduğundan emin olun</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Mobil veri ağına bağlanmaya izin verilsin mi?</string>
     <string name="sim_card_detecting_title">Sim kart kontrol ediliyor</string>
-    <string name="sim_card_detection">Sim kartı</string>
+    <string name="sim_card_detection">Sim kart</string>
     <string name="sim_card_detection_info">Sim kartınızı cihazınıza yerleştirmek için lütfen cihazla birlikte gelen yönergeleri okuyun</string>
     <string name="sim_card_detection_info_sb">"Devam etmeden önce bir Sim kartınızı takın. Sim kartsız bir hesap oluşturursanız cihaz bulma ve senkronizasyonla ilgili işlevler tam olarak kullanılamaz. Bu cihaz eSim'i destekler. "</string>
     <string name="sim_card_detection_info_sb_esim">"eSim'i etkinleştirmek için dokunun"</string>

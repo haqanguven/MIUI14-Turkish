@@ -165,7 +165,7 @@
     <string name="chinese_symbol_animals_sheep">Koyun</string>
     <string name="chinese_symbol_animals_snake">Yılan</string>
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
-    <string name="chip_text">Chip text</string>
+    <string name="chip_text">Çip metni</string>
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
 	<string name="clip_resource_deleted">Bu öğe artık mevcut değil</string>
@@ -355,7 +355,10 @@
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
     <string name="folder_exist">Aynı isme sahip bir klasör zaten mevcut</string>
+    <string name="folder_note">Not klasörleri</string>
     <string name="folder_operation_rename">Yeniden adlandır</string>
+    <string name="folder_other">Diğer klasörler</string>
+    <string name="foler_pinned">Sabit klasörler</string>
     <string name="format_move_note_out_folder">Bu not taşındı</string>
     <string name="format_move_note_to_folder">%1$s klasörüne taşındı</string>
     <string name="friday">Cuma</string>
@@ -539,7 +542,7 @@
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimi kaldır</string>
-    <string name="miuix_appcompat_edit">Edit</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -633,12 +636,14 @@
     <string name="mtrl_picker_toggle_to_year_selection">Yıl seçmeye geçmek için dokunun</string>
     <string name="network_error_info">Bir ağ hatası oluştu. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="network_timeout_info">Ağa bağlanılamadı. Tekrar deneyin</string>
+    <string name="new_alert_title_delete">Notları sil</string>
     <string name="new_app_name">Notlar</string>
     <string name="new_audio_create_cancel_talkback_des">İptal edildi</string>
     <string name="new_audio_create_done_talkback_des">Oluşturuldu</string>
     <string name="new_audio_create_talkback_des">Bir metin notu oluşturmak için dokunun. Bir sesli not oluşturmak için basın ve basılı tutun. Kaydı durdurmak ve notu oluşturmak için tuşu bırakın veya iptal etmek için kaydırın</string>
     <string name="new_data_empty_note">Henüz öğe yok</string>
     <string name="new_lite_audio_create_talkback_des">Not oluşturmak için dokunun</string>
+    <string name="new_sync_desc_state_disable">Notlar, görevler ve daha fazlası için bulut senkronizasyonunu açın</string>
     <string name="night">Akşam</string>
     <string name="no_network">Ağa bağlanılamıyor</string>
     <string name="noon">Öğlen</string>

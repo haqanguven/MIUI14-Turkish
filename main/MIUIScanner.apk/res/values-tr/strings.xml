@@ -475,6 +475,8 @@
     <string name="if_open_result">Uygulamaya dönüşte tarama sonucu</string>
     <string name="if_to_open_milogo_scanning">Xiaomi logosunu tanıma</string>
     <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
+    <string name="image_recognition_optimization">Görüntü tanıma optimizasyonu</string>
+    <string name="image_recognition_optimization_summary">Açtıktan sonra görüntülerinizi daha iyi tanıyabilen algoritma yükseltmesi için görüntü verileri yüklenecektir</string>
     <string name="immediately_try">Tara</string>
     <string name="immediately_try_video">Tara</string>
     <string name="importFailed">İçe aktarılamadı</string>
