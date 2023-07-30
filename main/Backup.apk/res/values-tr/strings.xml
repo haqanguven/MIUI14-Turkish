@@ -725,7 +725,7 @@ Yedekleme dosyalarını değiştirmeyin veya yeniden adlandırmayın"</string>
     <string name="permission_write_storage">Öğeleri depoya kaydet</string>
     <string name="phone_title">Telefon ayarları</string>
     <string name="platform_chooser_item_android_mi">Mi telefon</string>
-    <string name="platform_chooser_item_android_others">Other brands</string>
+    <string name="platform_chooser_item_android_others">Diğer markalar</string>
     <string name="platform_chooser_item_ios">iOS cihazından içeri aktar</string>
     <string name="platform_chooser_title">Eski cihazı seçin</string>
     <string name="pm">ÖS</string>

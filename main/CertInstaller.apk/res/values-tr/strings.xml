@@ -3,8 +3,8 @@
     <string name="action_missing_private_key">Sertifika yüklemek için özel anahtar gerekir</string>
     <string name="action_missing_user_cert">Özel anahtar yüklemek için sertifika gerekli</string>
     <string name="app_name">Sertifika yükleyici</string>
-    <string name="ca_cert_is_added">CA certificate installed</string>
-    <string name="ca_certificate">CA certificate</string>
+    <string name="ca_cert_is_added">CA sertifikası yüklü</string>
+    <string name="ca_certificate">CA sertifikası</string>
     <string name="cert_missing_error">Sertifika dosyası bulunamadığından yüklenemedi</string>
     <string name="cert_not_saved">Sertifika yüklü değil</string>
     <string name="cert_read_error">Sertifika dosyası okunamadığından yüklenemedi</string>

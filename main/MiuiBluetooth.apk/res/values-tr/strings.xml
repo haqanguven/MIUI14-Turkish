@@ -50,7 +50,7 @@
     <string name="bluetooth_battery_level">%1$s pil</string>
     <string name="bluetooth_battery_level_untethered">Sol pil %1$s. Sağ pil %2$s</string>
     <string name="bluetooth_connected">%1$s bağlandı</string>
-    <string name="bluetooth_connected_active">Connected%1$s</string>
+    <string name="bluetooth_connected_active">%1$s bağlandı</string>
     <string name="bluetooth_connected_battery_level">Bağlandı | Pil: %1$s%2$s</string>
     <string name="bluetooth_connected_no_a2dp">%1$s bağlandı (Medya yok)</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Bağlandı (Medya yok) | Pil: %1$s%2$s</string>

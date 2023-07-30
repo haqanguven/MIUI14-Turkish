@@ -149,8 +149,13 @@
     <string name="effect_3dsurround">Surround ses</string>
     <string name="effect_3dsurround_summary">Kulaklıklar ve hoparlörler için ses üretiminin derinliğini artırın</string>
     <string name="effect_3dsurround_summary_headphone">Kulaklıklar için ses üretiminin derinliğini artırın</string>
+    <string name="effect_dolby">Dolby</string>
+    <string name="effect_misound">Mi ses</string>
+    <string name="effect_none">Hiçbiri</string>
+    <string name="effect_selection">Ses efektleri</string>
     <string name="effect_virtual_surround">Sanal sürükleyici ses</string>
     <string name="effect_virtual_surround_summary">Kulaklıklarda ses ve video oynatma için ses derinliğini zenginleştirin (Bu özellik %.1f ses oynatıldığında çalışmaz)</string>
+    <string name="effect_virtual_surround_summary_spk">Ses ve video oynatma için ses derinliğini zenginleştirin</string>
     <string name="empty" />
     <string name="end_wireless_transmission">Durdur</string>
     <string name="eq_auto">Özel</string>
@@ -317,6 +322,7 @@
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -655,6 +661,7 @@
     <string name="sound_transmission_title">Kablosuz mikrofon</string>
     <string name="spatial_audio">Kafa hareketini takip edin</string>
     <string name="spatial_audio_summary">Kafa hareketine göre surround sesi ayarlayın</string>
+    <string name="spatial_audio_summary_spk">Ses çalınırken daldırma ve boşluk hissini yaşayın</string>
     <string name="speaker_scenario_resume">Orijinal sesi geri yükle</string>
     <string name="start_test_sound">Testi başlat</string>
     <string name="status_bar_notification_info_overflow">999+</string>

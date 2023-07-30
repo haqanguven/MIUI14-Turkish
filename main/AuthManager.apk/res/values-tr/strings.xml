@@ -99,6 +99,8 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Bu uygulama oturum açmak için operatörden telefon numaranızı almak istiyor. İzin verilsin mi?</string>
     <string name="HIPS_Perm_operator_shake">İvmeölçer verilerine erişin</string>
     <string name="HIPS_Perm_operator_shake_Desc">İvmeölçer verileri, yönü ve hareketi izlemek için kullanılır (Örneğin: Sallama, eğme ve döndürme)</string>
+    <string name="HIPS_Perm_operator_wall_paper">Duvar kağıdı ayarla</string>
+    <string name="HIPS_Perm_operator_wall_paper_Desc">Duvar kağıtlarını ve varsayılan dinamik duvar kağıdı hizmetlerini değiştirin</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">Yakın alan iletişim donanımına erişir</string>
     <string name="HIPS_Perm_process_outgoing_calls">Telefon uygulamasına eriş</string>
@@ -260,7 +262,6 @@
     <string name="date_picker_lunar">Çince geleneksel takvim</string>
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarlayın</string>
     <string name="default_permission_description">Bilinmeyen bir işlem yapar</string>
-    <string name="deny_fine_keep_blur_location">Yaklaşık konum</string>
     <string name="early_morning">Morning</string>
     <string name="earthly_branches_chen">15</string>
     <string name="earthly_branches_chou">12</string>
@@ -601,8 +602,6 @@
     <string name="thursday">Perşembe</string>
     <string name="thursday_short">Perşembe</string>
     <string name="thursday_shortest">P</string>
-	<string name="tilte_request_coarse_location">"%1$s'nin yaklaşık konumunuza erişmesine izin verilsin mi?"</string>
-	<string name="tilte_request_fine_location">"%1$s'nin sizin tam konumunuza erişmesine veya onun yerine yaklaşık konumu kullanmasına izin verilsin mi?"</string>
     <string name="time_picker_dialog_title">Zamanı ayarla</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>

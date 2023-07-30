@@ -28,7 +28,6 @@
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="about_to_recover">Yükleniyor</string>
-    <string name="access_denied_info">Çok fazla deneme. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Öğleden sonra</string>
     <string name="am">ÖÖ</string>
@@ -236,7 +235,6 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="cloud_restore_from_other_device">%s cihazından geri yüklemeyi durdup ve bu yedek silinsin mi? Bu işlemi geri alamazsınız</string>
     <string name="cloud_restore_task">Geri yükleniyor</string>
     <string name="cloud_task_in_process">%s işlem durdurulsun ve bu yedek silinsin mi? Bu işlemi geri alamazsınız</string>
-    <string name="collect_diagnosis_log">Tanı günlüğünü topla</string>
     <string name="confirm_restore">Geri yükle</string>
     <string name="confirm_restore_app_data">Uygulama verilerinin üzerine yaz</string>
     <string name="confirm_restore_summary">Ana ekranınız yeniden başlatılacak. Yedeklenen uygulamalar otomatik olarak indirilecektir</string>
@@ -259,17 +257,9 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="desktop_wait_network">Bekleniyor</string>
     <string name="desktop_waiting">Bekleniyor</string>
     <string name="device_delete_prompt">%s yedeği silinsin mi?</string>
-    <string name="diagnosis_log_send_failed">Tanılama günlüğü gönderilemedi</string>
-    <string name="diagnosis_log_sent_format">"Tanı günlüğü gönderildi
-Kimlik: %s
-Lütfen bu kodu teknisyene gönderin"</string>
     <string name="dialog_app_usage_consent_message">Bu özelliğin WeChat yedeklemelerinin boyutunu tahmin edebilmek için uygulama kullanım verilerine erişmesi gerekir</string>
     <string name="dialog_app_usage_consent_title">Uygulama kullanım verilerine erişime izin ver</string>
     <string name="dialog_app_usage_denied">Öğeleri yedekleyebilmek için ayarlardan yedeklemeye kullanım erişimi izni verin</string>
-	<string name="dialog_auto_backup_condition_normal_content">"Tüm önemli öğeleri otomatik olarak düzenli olarak yedekleyebilmek için yeterli bulut depolama alanınız olduğundan ve bu cihazın kilitli olduğundan %s pilin üzerinde olduğundan ve wifi'ye bağlı olduğundan emin olun. Ayrıca istediğiniz zaman manuel olarak da yedekleyebilirsiniz"</string>
-	<string name="dialog_auto_backup_condition_normal_content_china">"Tüm önemli öğeleri otomatik olarak düzenli olarak yedekleyebilmek için yeterli bulut depolama alanınız olduğundan ve bu cihazın kilitli olduğundan, %s pilin üzerinde olduğundan ve geceleri wifi'e bağlı olduğundan emin olun. Ayrıca istediğiniz zaman manuel olarak da yedekleyebilirsiniz"</string>
-	<string name="dialog_auto_backup_condition_normal_positive">Tamam</string>
-	<string name="dialog_auto_backup_condition_normal_title">Öğelerinizi yedekleyin</string>
     <string name="dialog_backup_failed">Yedeklenemedi</string>
     <string name="dialog_btn_cancel_backup">İptal et</string>
     <string name="dialog_btn_confirm2">Tamam</string>
@@ -279,6 +269,8 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="dialog_btn_restore_skip">Daha sonra geri yükle</string>
     <string name="dialog_button_agree">İzin ver</string>
     <string name="dialog_button_disagree">Reddet</string>
+    <string name="dialog_button_get_installed_apps_agree">Ayarlar</string>
+    <string name="dialog_button_get_installed_apps_disagree">İptal et</string>
     <string name="dialog_buy_cloud_space">Yükselt</string>
     <string name="dialog_cancel_backup_cancel">İptal et</string>
     <string name="dialog_cancel_backup_confirm">Tamam</string>
@@ -287,6 +279,8 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="dialog_cloud_space_not_enough">Bu yedekleme %1$s ücretsiz bulut depolama alanı gerektiriyor. Öğeleri yedeklemek için depolama planınızı yükseltin</string>
     <string name="dialog_content_cancel_backup">Yedeklemeyi iptal ederseniz önceden yüklenmiş olan veriler kaybolacaktır. Yine de iptal edilsin mi?</string>
     <string name="dialog_content_cancel_restore">Geri yüklemeyi durdurursanız zaten geri yüklenen veriler korunur. Geri yükleme durdurulsun mu?</string>
+    <string name="dialog_get_installed_apps_consent_message">Otomatik olarak yedekleyebilmek için ayarlarda bu uygulamaya cihazınızda yüklü uygulamalar listesine erişme izni verin ve Her zaman izin veri seçin</string>
+    <string name="dialog_get_installed_apps_consent_title">İzinler gerekli</string>
     <string name="dialog_msg_overwrite_backup">Yerel yedekleme Xiaomi buluttakinden farklı. Devam ederseniz geçerli yedekleme öncekinin üzerine yazacaktır</string>
     <string name="dialog_msg_restore_require_wlan">Yedekleri geri yüklemek için wifi ağına bağlanmayı gerektirir</string>
     <string name="dialog_msg_restore_require_wlan_china">Yedekleri geri yüklemek için wifi ağına bağlanmayı gerektirir</string>
@@ -395,7 +389,6 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="for_diagnosis_usage_only">Bu bilgiyi yalnızca teşhis için kullanın</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cum</string>
     <string name="friday_shortest">Cum</string>
@@ -417,19 +410,14 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="home_restore_error">Ana ekran geri yüklenemedi</string>
     <string name="lack_of_storage">Yeterli depolama alanı yok</string>
     <string name="latest_backup_time_loading">Yükleniyor</string>
-    <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
-    <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
-    <string name="library_android_database_sqlcipher_isOpenSource">true</string>
-    <string name="library_android_database_sqlcipher_libraryDescription">"SQLCipher tabanlı Android SQLite API'si"</string>
-    <string name="library_android_database_sqlcipher_libraryName">Android için SQLCipher</string>
-    <string name="library_android_database_sqlcipher_libraryVersion">${clientVersionNumber}</string>
-    <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
-    <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
-    <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
     <string name="load_backup_failed">Yedeklemeler yüklenemedi</string>
     <string name="loading_progress_num">Yüklendi: %%%s</string>
     <string name="loading_user_backup">Kullanıcı yedeklemeleri yükleniyor</string>
     <string name="managespace_delete_backup">Yedeği sil</string>
+	<string name="manual_request_notification_permission_dialog_negative_button">Kapat</string>
+	<string name="manual_request_notification_permission_dialog_positive_button">Ayarlar</string>
+	<string name="manual_request_permissions_dialog_description">%s için izin vermezseniz başarısız yedeklemeler ve diğer önemli işlemler hakkında zamanında bildirim almazsınız. Bu izni ayarlardan verebilirsiniz</string>
+	<string name="manual_request_permissions_dialog_title">İzinler gerekli</string>
     <string name="menu_item_managespace">Alan yönetimi</string>
     <string name="menu_item_sort">Sırala</string>
     <string name="menu_item_sort_name">İsim</string>
@@ -447,6 +435,7 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -509,8 +498,6 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="msg_restore_with_metered_network_hint">Bu öğeleri geri yüklemeye devam ederseniz mobil veri indirmek için kullanılacaktır</string>
     <string name="msg_restore_with_metered_network_pattern">%s dosya indirilecektir</string>
     <string name="network_error">Ağa bağlan</string>
-    <string name="network_error_info">Bir ağ hatası oluştu. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
-    <string name="network_timeout_info">Ağa bağlanılamadı. Tekrar deneyin</string>
     <string name="night">Akşam</string>
     <string name="no_account">Mi hesabı oturumu açılmadı</string>
     <string name="no_backup">Xiaomi bulut alanında yedek yok</string>
@@ -518,7 +505,6 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="notification_channel_remind">Hatırlatıcı</string>
     <string name="notification_channel_service">Servis</string>
-    <string name="ok">Tamam</string>
     <string name="open_backup_switch">Yedekleme anahtarını değiştir</string>
     <string name="other_device_main_space">İlk alan</string>
     <string name="other_device_second_space">İkinci alan</string>
@@ -529,7 +515,6 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="pm">ÖS</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="process_whole_recovery">%s geri yükleniyor</string>
-    <string name="progressbar_title">Güvenlik sorunları kontrol ediliyor</string>
     <string name="provision_back">Geri</string>
     <string name="provision_background_restore_more_data">Arka planda daha fazla öğe geri yükle</string>
     <string name="provision_error_connect_msg">Ağı test edin ve tekrar deneyin. Cihazınız çevrimdışı olduğunda yedekleme yapılamaz</string>
@@ -549,7 +534,12 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="remove_unfinished">Kaldırılıyor. Daha sonra tekrar deneyin</string>
 	<string name="repeat_recommend_wechat_backup_notification_content">Artık WeChat verilerini yedekleyebilirsiniz. Ayrıntılar için dokunun</string>
 	<string name="repeat_recommend_wechat_backup_notification_title">WeChat verilerini yedekleyin</string>
-    <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE</string>
+    <string name="request_notification_permission_dialog_confirm">Tamam</string>
+    <string name="request_permission_post_notification">Bulut yedeklemeleri hakkında bildirim göndermek içindir</string>
+    <string name="request_permission_post_notification_title">Bildirimler</string>
+    <string name="request_permissions_dialog_description">Bulut yedeklemenin sunduğu tüm hizmetlerden yararlanabilmek için bildirim ve hatırlatıcı gönderme izinleri verin</string>
+    <string name="request_permissions_dialog_title">İzinler gerekli</string>
+    <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;com.android.permission.GET_INSTALLED_APPS</string>
     <string name="restore_app_order_finish">Bitti</string>
     <string name="restore_app_order_loading">Yükleniyor</string>
     <string name="restore_app_order_retry">Tekrar dene</string>
@@ -604,8 +594,6 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin"</string>
     <string name="self_device_main_space">Bu telefonun ilk alanı</string>
     <string name="self_device_second_space">Bu telefonun ikinci alanı</string>
     <string name="send">Gönder</string>
-    <string name="send_diagnosis_log">Teşhis günlüğü gönder</string>
-    <string name="sending">Gönderiliyor</string>
     <string name="session_action_btn_text_return_home">Ana ekran</string>
     <string name="session_backup_apk_data_text">WeChat verileri yedekleniyor</string>
     <string name="session_backup_apk_text">Ana ekran düzeni ve sistem ayarları yedekleniyor</string>
@@ -619,6 +607,8 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin"</string>
     <string name="session_failed_disk_no_space_restore_detail">Öğeleri geri yüklemek için en az %s gereklidir</string>
     <string name="session_failed_disk_no_space_title">Yetersiz dahili depolama. Depolama alanını temizleyin ve tekrar deneyin</string>
     <string name="session_failed_dist_no_space_btn_text">Depomayı temizle</string>
+    <string name="session_failed_get_installed_apps_denied_detail">Otomatik olarak yedekleyebilmek için ayarlarda bu uygulamaya cihazınızda yüklü uygulamalar listesine erişme izni verin ve Her zaman izin veri seçin</string>
+    <string name="session_failed_get_installed_apps_denied_title">İzinler gerekli</string>
     <string name="session_failed_no_server_response_title">Sunucuya bağlanılamadı</string>
     <string name="session_failed_override_detail">Yerel yedekleme Xiaomi buluttakinden farklıdır. Devam ederseniz mevcut yedekleme öncekinin üzerine yazılacaktır. Şimdi üzerine yazılsın mı?</string>
     <string name="session_failed_override_title">Yedeklemenin üzerine yaz</string>
@@ -679,8 +669,6 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin"</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Paz</string>
     <string name="sunday_shortest">Paz</string>
-    <string name="system_error_info">Sistem meşgul. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
-    <string name="temporary_not_available">temporary mevcut değildir</string>
     <string name="the_anniversary_of_lifting_martial_law">Sıkı yönetim kanunun yıldönümü</string>
     <string name="the_anti_aggression_day">Saldırganlık karşıtı günü</string>
     <string name="the_arbor_day">Ağaç dikme günü</string>
@@ -732,13 +720,12 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin"</string>
     <string name="title_restore_with_current_network">Dosya indirmek için geçerli bağlantıyı kullan</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>
-    <string name="total_space">Toplam alan: %s </string>
+    <string name="total_space">Toplam alan: %s</string>
     <string name="try_again">Tekrar denemek için dokunun</string>
     <string name="try_continue">Devam etmek için hafifçe dokunun</string>
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Sal</string>
     <string name="tuesday_shortest">Sal</string>
-    <string name="unknown_error_info">Bilinmeyen hata</string>
     <string name="unselected">Seçilmedi</string>
     <string name="unsupported_home">"MIUI'yi en son sürüme güncelle"</string>
     <string name="v7_preference_off">Kapalı</string>
