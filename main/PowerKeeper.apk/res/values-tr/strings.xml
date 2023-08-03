@@ -117,7 +117,6 @@
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="close">Kapat</string>
     <string name="cloud_addr_info">Bulut bilgileri</string>
-    <string name="cloud_allow_change_addr">Otomatik bulut eşitleme durumunu değiştir</string>
     <string name="cloud_china_addr">Çin sunucusu verilerini güncelle</string>
     <string name="cloud_international_addr">Uluslararası sunucu verilerini güncelle</string>
     <string name="cloud_russion_addr">Rus sunucu verilerini güncelle</string>
@@ -139,7 +138,6 @@ Pil tasarrufu özelliği önemli uygulamaları özel olarak ele alır ve işlem 
     <string name="confirm">Tamam</string>
     <string name="connect_intranet_hint">Lütfen intranete bağlanın</string>
     <string name="copy">Kopyala</string>
-    <string name="current_allow_sync_is">Bulut otomatik güncellemesi:</string>
     <string name="current_cloud_addr_is">Bulut kontrol sunucusu adresi:</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -147,7 +145,6 @@ Pil tasarrufu özelliği önemli uygulamaları özel olarak ele alır ve işlem 
     <string name="date_picker_lunar">Çince geleneksel takvim</string>
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarlayın</string>
     <string name="delete_data_confirm">Bu verileri silmeyi onaylayın</string>
-    <string name="disable">disabled</string>
     <string name="early_morning">ÖÖ</string>
     <string name="earthly_branches_chen">15</string>
     <string name="earthly_branches_chou">12</string>
@@ -163,7 +160,6 @@ Pil tasarrufu özelliği önemli uygulamaları özel olarak ele alır ve işlem 
     <string name="earthly_branches_zi">11</string>
     <string name="empty" />
     <string name="empty_title_apps_container_list">Uygulama yok</string>
-    <string name="enable">enabled</string>
     <string name="enable_sleep_mode">Geceleri pil kullanımını optimize etmek için uyku modunu açın</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
@@ -370,7 +366,7 @@ Pil tasarrufu özelliği önemli uygulamaları özel olarak ele alır ve işlem 
     <string name="mtrl_picker_a11y_prev_month">Önceki aya geç</string>
     <string name="mtrl_picker_announce_current_selection">Şu anki seçim: %1$s</string>
     <string name="mtrl_picker_cancel">@android:string/cancel</string>
-    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_confirm">Tamam</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Bir tarih seçin</string>
     <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
@@ -397,7 +393,7 @@ Pil tasarrufu özelliği önemli uygulamaları özel olarak ele alır ve işlem 
     <string name="mtrl_picker_toggle_to_day_selection">Bir gün seçmeye geçmek için dokunun</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_year_selection">Bir yıl seçmeye geçmek için dokunun</string>
-    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="mtrl_timepicker_confirm">Tamam</string>
     <string name="night">ÖS</string>
     <string name="nonui_mode_config_description">MIUI cihazınızı kullanmadığınızı tespit ettiğinde bildirimler için ekran ışığını yakmaz. Bildirim ışığı, parmak izi sensörü ve dokunma kontrolleri pil tasarrufu amacıyla kapatılır</string>
     <string name="nonui_mode_config_title">Etkileşimsiz mod</string>

@@ -325,7 +325,7 @@
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
-    <string name="miuix_appcompat_edit">Edit</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -457,6 +457,7 @@
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="path_soundrecorder_setting">Sistem uygulamaları/Ses kaydedici</string>
+    <string name="pause_status_focus_notification">Duraklatıldı</string>
     <string name="permission_desc">İzin ayrıntıları</string>
     <string name="permission_dialog_cancel">İptal et</string>
     <string name="permission_dialog_ok">Ayarlar</string>
@@ -550,6 +551,7 @@
     <string name="recording_quality_low">Düşük kalite</string>
     <string name="recording_quality_standard">Standart kalite</string>
     <string name="recording_stopped">Durdu</string>
+    <string name="recording_stopped">Durduruldu</string>
     <string name="recording_timer_format_four_sections" formatted="false">%02d:%02d:%02d.%02d</string>
     <string name="recording_timer_format_three_sections" formatted="false">%02d:%02d.%02d</string>
     <string name="recovery">Geri yükle</string>
@@ -625,6 +627,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recording">Kayıt ediliyor</string>
     <string name="status_bar_recording_pause">Kayıt duraklatıldı</string>
+    <string name="stop_status_focus_notification">Bitti</string>
     <string name="storage_permission_dialog_title">Depolama izinleri gerekli</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Pazar</string>

@@ -401,7 +401,7 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="blackshark_helo">Black Shark Helo</string>
     <string name="blackshark_phone">Black Shark</string>
     <string name="blank_app_name" />
-    <string name="blur_refocus_enter" />
+    <string name="blur_refocus_enter">Bulanıklık</string>
     <string name="both_stroke_and_substrate_are_not_supported">@string/text_edit_dialog_style_toast</string>
     <string name="browse_category_title">Gözat</string>
     <string name="btn_cancel">İptal et</string>
@@ -2295,7 +2295,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="my_family">Evim</string>
     <string name="name_split">, </string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
-    <string name="national_day">National Day</string>
+    <string name="national_day">Ulusal gün</string>
     <string name="nearby_share">Yakın paylaşım</string>
     <string name="need_to_turn_on_network">Cihaz internete bağlı değil</string>
     <string name="need_to_turn_on_sync">Xiaomi bulut ile senkronizasyon özelliğini açın</string>
@@ -2548,6 +2548,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="passport_user_id_hint">E-posta/telefon numarası/Xiaomi hesap kimliği</string>
     <string name="passport_user_id_intro">%1$s için şifreyi girin</string>
     <string name="passport_user_password_hint">Parola</string>
+    <string name="passport_vcode_what_app_send_prompt">WhatsApp doğrulama kodunuz kurtarma telefonunuza gönderilecek: (&lt;font color=#1F93FF>%s&lt;/font>)</string>
     <string name="passport_wechat_not_install">"Önce WeChat'i yükleyin"</string>
     <string name="passport_wrong_captcha">Girdiğiniz kod yanlış</string>
     <string name="passport_wrong_phone_number_format">Girdiğiniz telefon numarasının biçimi geçersiz</string>
@@ -2967,7 +2968,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="rename_face_album">Adı değiştir</string>
     <string name="rename_fail_msg">Ad değiştirilemedi</string>
     <string name="rename_from_contact">Kişilerden gelen isimler</string>
-    <string name="request_agree">Allow</string>
+    <string name="request_agree">İzin ver</string>
     <string name="request_camera_permission_message">Kişisel bilgilerinizi ilgili yasa ve yönetmeliklere uygun olarak koruyacağız. Bu uygulamanın normal çalışması için aşağıdaki izinlere ihtiyacı var. Kamerayı kullanma (profil fotoğrafınızı ayarlamak içindir). Bu tür izinleri vermeyi kabul etmezseniz bu uygulamanın bazı özelliklerini kullanamazsınız ancak temel işlevleri yine de sizin için kullanılabilir olacaktır. Ayarlardan her zaman izinleri kısıtlayabilir veya yetkilendirmenizi iptal edebilirsiniz</string>
 	<string name="request_cancel">İptal et</string>
 	<string name="request_error_invalid_token">Doğrulanamadı</string>
@@ -3060,7 +3061,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="screen_talkback_shape">Şekil</string>
     <string name="screen_talkback_small">Çok küçük</string>
     <string name="screen_talkback_text">Metin</string>
-    <string name="sea_title">Waves</string>
+    <string name="sea_title">Dalgalar</string>
     <string name="search_backup_full_screen">Daha fazla nesne ve kişi bulmak için Xiaomi bulut ile senkronizasyon özelliğini açın</string>
     <string name="search_backup_full_screen_new">Aramayı daha etkili hale getirmek için bulutla senkronizasyonu açın</string>
     <string name="search_backup_now">Aç</string>
@@ -3112,6 +3113,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="search_syncing">Veriler senkronize ediliyor. Kısa bir süre sonra geri gelin</string>
     <string name="search_title_album">Albüm</string>
     <string name="search_title_app_screenshot">Uygulama ekran görüntüleri</string>
+    <string name="search_title_daily">Zaman</string>
     <string name="search_title_history">Arama geçmişi</string>
     <string name="search_title_location">Konumlar</string>
     <string name="search_title_more">Daha fazla</string>

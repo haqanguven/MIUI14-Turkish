@@ -34,8 +34,8 @@
         <item quantity="one">Bu dosya gizlensin mi?</item>
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
-        <item quantity="other">Bulut alanına %d fotoğraf eklendi. Görüntülemek için yalnızca yerel albümleri görüntüle özelliğini kapatın</item>
-        <item quantity="one">Bulut alanına %d fotoğraf eklendi. Görüntülemek için yalnızca yerel albümleri görüntüle özelliğini kapatın</item>
+        <item quantity="other">%d bulut fotoğrafı eklendi. Görüntülemek için yalnızca yerel albümleri göster seçeneğini kapatın</item>
+        <item quantity="one">%d bulut fotoğrafı eklendi. Görüntülemek için yalnızca yerel albümleri göster seçeneğini kapatın</item>
     </plurals>
     <plurals name="add_to_album_failed_with_reason_and_count">
         <item quantity="other">%2$d öğe albüme eklenemiyor. %1$s</item>
@@ -114,8 +114,8 @@
         <item quantity="one">%d fotoğraf veya video | Duraklatıldı</item>
     </plurals>
     <plurals name="backup_pause_dialog_message">
-        <item quantity="other">Fotoğrafları, videoları, kişileri, notları ve diğer öğeleri bulut ile %d dakika boyunca senkronize et</item>
-        <item quantity="one">Fotoğrafları, videoları, kişileri, notları ve diğer öğeleri bulut ile %d dakika boyunca senkronize et</item>
+        <item quantity="other">Fotoğrafları, videoları, kişileri, notları ve diğer öğeleri bulutla eşitlemeyi %d dakika süreyle duraklatın</item>
+        <item quantity="one">Fotoğrafları, videoları, kişileri, notları ve diğer öğeleri bulutla eşitlemeyi %d dakika süreyle duraklatın</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d fotoğraf veya video | %2$s</item>
@@ -198,8 +198,8 @@
         <item quantity="one">%1$d dosya indirilemedi</item>
     </plurals>
     <plurals name="download_retry_message">
-        <item quantity="other">%1$d dosya indirilemedi. Ağ bağlantınızı kontrol edin ve ardından tekrar deneyin</item>
-        <item quantity="one">%1$d dosya indirilemedi. Ağ bağlantınızı kontrol edin ve ardından tekrar deneyin</item>
+        <item quantity="other">%1$d dosya indirilemedi. Ağ bağlantısını kontrol edin ve tekrar deneyin</item>
+        <item quantity="one">%1$d dosya indirilemedi. Ağ bağlantısını kontrol edin ve tekrar deneyin</item>
     </plurals>
     <plurals name="downloading_title_link">
         <item quantity="other">Öğeler buluttan indiriliyor (%2$d/%1$d)</item>
@@ -463,6 +463,10 @@
     <plurals name="send_processing_files_error">
         <item quantity="other">Paylaşılamadı. %d fotoğraf halen işleniyor</item>
         <item quantity="one">Paylaşılamadı. %d fotoğraf halen işleniyor</item>
+    </plurals>
+    <plurals name="send_too_many_files_error">
+        <item quantity="other">Göndermek için en fazla %d öğe seçin</item>
+        <item quantity="one">Göndermek için en fazla %d öğe seçin</item>
     </plurals>
     <plurals name="send_video_dialog_desc">
         <item quantity="other">%1$s öğesinden %2$d video</item>

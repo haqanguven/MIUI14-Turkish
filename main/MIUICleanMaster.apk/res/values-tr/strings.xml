@@ -411,7 +411,7 @@
     <string name="empty_title_photos">Fotoğraf bulunamadı</string>
     <string name="empty_title_residual">Artık dosya bulunamadı</string>
     <string name="empty_title_video">Silinecek video yok</string>
-    <string name="engine_cm">Clean Master</string>
+    <string name="engine_cm">Temizleyici</string>
     <string name="engine_init">Başlatılıyor</string>
     <string name="engine_mi">Xiaomi</string>
     <string name="eras_ad">CE</string>
@@ -750,7 +750,7 @@
     <string name="mainbtn_text_no_trash">Atla</string>
     <string name="mainbtn_text_quick_cleanup">Temizle: %s</string>
     <string name="mainbtn_text_quick_cleanup_default">Temizle</string>
-    <string name="marketSdkVersion">3.2.19</string>
+    <string name="marketSdkVersion">3.2.22</string>
     <string name="megabyteShort">MB</string>
     <string name="memeory_check_content">%1$d uygulama | %2$s alan</string>
     <string name="memory_clean_icon_text">Hafızayı temizle</string>
@@ -907,7 +907,7 @@
     <string name="notification_wechat_clean_middle_level_hint">Gecikme olmadan bildirim almak için çöp kutusunu temizleyin</string>
     <string name="notification_wechat_clean_middle_level_text_a">"WeChat'in çöp kutusu çok fazla depolama alanı kaplıyor"</string>
     <string name="notification_wechat_clean_middle_level_text_b">"WeChat'in çöp kutusu uygulamayı yavaşlatıyor"</string>
-    <string name="notification_whatsapp_clean_button_text">Clear</string>
+    <string name="notification_whatsapp_clean_button_text">Temizle</string>
     <string name="notification_whatsapp_clean_size">WhatsApp önbelleği %s değerine ulaştı</string>
     <string name="ok">Tamam</string>
 	<string name="oneTrackCancel">İptal et</string>

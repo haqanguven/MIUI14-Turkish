@@ -199,7 +199,7 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="chinese_symbol_animals_sheep">Koyun</string>
     <string name="chinese_symbol_animals_snake">Yılan</string>
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
-    <string name="chip_text">Chip text</string>
+    <string name="chip_text">Çip metni</string>
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="close">Kapat</string>
@@ -693,7 +693,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="operator_broadnet">Çin Broadnet</string>
     <string name="operator_mobile">Çin Mobil</string>
     <string name="operator_mobile_agreement">China Mobil tarafından sağlanan doğrulama hizmetleri</string>
-    <string name="operator_other">Phone number</string>
+    <string name="operator_other">Telefon numarası</string>
     <string name="operator_telecom">Çin Telekom</string>
     <string name="operator_telecom_agreement">eSurfing hesabı tarafından sağlanan doğrulama hizmetleri</string>
     <string name="operator_unicom">Çin Unicom</string>

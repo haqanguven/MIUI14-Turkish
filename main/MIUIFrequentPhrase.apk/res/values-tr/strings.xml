@@ -330,6 +330,10 @@
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Pazar</string>
     <string name="sunday_shortest">P</string>
+    <string name="super_clipboard_alert_dialog_cancel_button">İptal et</string>
+    <string name="super_clipboard_alert_dialog_sure_button">Tamam</string>
+    <string name="super_clipboard_send_file">Dosya panodan yapıştırılsın mı?</string>
+    <string name="super_clipboard_send_image">Görüntü panodan yapıştırılsın mı?</string>
     <string name="sync_phrase_label">Sık kullanılan ifadeler</string>
     <string name="the_anniversary_of_lifting_martial_law">Sıkı yönetim kanunun yıldönümü</string>
     <string name="the_anti_aggression_day">Saldırganlık karşıtı günü</string>

@@ -131,6 +131,7 @@
     <string name="confirm_cancel_task_files">"%1$s'ye dosya gönderme iptal edilsin mi?"</string>
     <string name="confirm_cancel_task_images">"%1$s'e resim gönderme iptal edilsin mi?"</string>
     <string name="copy">Kopyala</string>
+    <string name="copy_success_toast">Başarıyla kopyalandı</string>
     <string name="cta_agree_desc">Bu uygulamanın internete bağlanmasına izin verin ve yukarıda listelenen zorunlu izinleri verin</string>
     <string name="cta_btn_agree">Kabul et</string>
     <string name="cta_btn_disagree">Reddet</string>
@@ -485,6 +486,8 @@ almak için dokunun"</string>
     <string name="screen_talkback_shape">Şekil</string>
     <string name="screen_talkback_small">Çok küçük</string>
     <string name="screen_talkback_text">Metin</string>
+    <string name="screenshot_detected_multiple_template">%1$s dahil birden çok uygulama bu ekran görüntüsünü algıladı</string>
+    <string name="screenshot_detected_template">%1$s bu ekran görüntüsünü algıladı</string>
     <string name="screenshot_edit">Düzenle</string>
     <string name="screenshot_failed_in_landscape_mode">Manzara modunda ekran görüntüleri kaydırma yapılamıyor</string>
     <string name="screenshot_feedback_txt">Geri bildirim</string>

@@ -144,6 +144,22 @@
     <string name="birthday_event_description_today">Bugün</string>
     <string name="birthday_event_description_tomorrow">Yarın</string>
     <string name="birthday_event_description_yesterday">Dün</string>
+    <string name="birthday_event_info_2tmrw_lunar_noage">"%s's birthday will be in two days (Traditional Chinese calendar)"</string>
+    <string name="birthday_event_info_2tmrw_noage">"%s's birthday will be in two days"</string>
+    <string name="birthday_event_info_2ytd_lunar_noage">"%s's birthday was two days ago (Traditional Chinese calendar)"</string>
+    <string name="birthday_event_info_2ytd_noage">"%s's birthday was two days ago"</string>
+    <string name="birthday_event_info_inweek_lunar_noage">"%s's birthday will be in one week (Traditional Chinese calendar)"</string>
+    <string name="birthday_event_info_inweek_noage">"%s's birthday will be in one week"</string>
+    <string name="birthday_event_info_lastweek_lunar_noage">"%s's birthday was one week ago (Traditional Chinese calendar)"</string>
+    <string name="birthday_event_info_lastweek_noage">"%s's birthday was one week ago"</string>
+    <string name="birthday_event_info_lunar_noage">"%s's birthday (Traditional Chinese calendar)"</string>
+    <string name="birthday_event_info_noage">"%s's birthday"</string>
+    <string name="birthday_event_info_tmrw_lunar_noage">"Tomorrow is %s's birthday (Traditional Chinese calendar)"</string>
+    <string name="birthday_event_info_tmrw_noage">"Tomorrow is %s's birthday"</string>
+    <string name="birthday_event_info_today_lunar_noage">"Today is %s's birthday (Traditional Chinese calendar)"</string>
+    <string name="birthday_event_info_today_noage">"Today is %s's birthday"</string>
+    <string name="birthday_event_info_ytd_lunar_noage">"Yesterday was %s's birthday (Traditional Chinese calendar)"</string>
+    <string name="birthday_event_info_ytd_noage">"Yesterday was %s's birthday"</string>
     <string name="birthday_event_title">@string/birthday_notification_title_today</string>
     <string name="birthday_notification_text_today">İyi dileklerinizi iletmeyi unutmayın</string>
     <string name="birthday_notification_title_days_later">%1$s adlı kişinin %2$s yaklaşıyor</string>
@@ -572,6 +588,7 @@
     <string name="gas_detail_title">Doğal gaz ödemesi</string>
     <string name="gas_event_delete_successfully">Doğal gaz ödeme etkinliği başarıyla silindi</string>
     <string name="gas_interval_label">Fatura dönemi</string>
+    <string name="global_festival_for_chinese">Chinese holidays</string>
     <string name="global_festival_list_added">Eklendi</string>
     <string name="global_festival_list_not_added">Mevcut</string>
     <string name="go_open">Ayarlar</string>
@@ -941,6 +958,7 @@
 Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="no_network_btn">Yeniden deneyin</string>
     <string name="no_network_tips">İnternet yok</string>
+    <string name="no_schedule_today">No events today</string>
     <string name="no_title_label">(Başlık yok)</string>
     <string name="no_visiable_calendar_message">Bir takvim hesabı eklemeniz gerekmektedir. Devam etmek için hesap ekle seçeneğine dokunun</string>
     <string name="no_visiable_calendar_message_only_for_xiaomi_account">Bir takvim hesabı eklemeniz gerekiyor. Devam etmek için hesap ekle seçeneğine dokunun</string>

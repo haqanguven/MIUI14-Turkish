@@ -375,6 +375,7 @@
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimi kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -599,6 +600,8 @@ Uzun süre yüksek sese maruz kalmak işitme sorunlarına yol açabilir"</string
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Paz</string>
     <string name="sunday_shortest">Paz</string>
+    <string name="super_volume_text">200%</string>
+    <string name="super_volume_toast">Ses artırma açık</string>
     <string name="switch_bar_off">Kapalı</string>
     <string name="switch_bar_on">Açık</string>
     <string name="system_update">Sistem güncellemesi</string>
