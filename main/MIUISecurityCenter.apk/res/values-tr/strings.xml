@@ -459,7 +459,8 @@
     <string name="app_install_intercept">Yüklemeyi engelle</string>
     <string name="app_install_tips_go_to">Aç</string>
     <string name="app_install_tips_install_success">%1$s başarıyla yüklendi</string>
-	<string name="app_management_for_chain_start">Diğer uygulamaların açılmasını engelle</string>
+    <string name="app_management_empty_desc">Bu uygulama bu özelliği desteklemiyor</string>
+    <string name="app_management_for_chain_start">Diğer uygulamaları açmayı engelle</string>
 	<string name="app_management_for_chain_start_desc">Bu uygulamanın diğer uygulamalara bağlanmasını veya diğer uygulamaları açmasını engelle</string>
 	<string name="app_management_for_device_id">Tanımlayıcıları gizleyin ve izlemeyi önleyin</string>
 	<string name="app_management_for_device_id_desc">Bu uygulamanın telefon numaranıza ve kişisel olarak tanımlayıcı bilgilerinize erişmesini engelleyin</string>
@@ -939,7 +940,8 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="back_sound_fail">Başarısız oldu</string>
     <string name="back_sound_success">Başarılı</string>
     <string name="back_sound_support">Mevcut ağ operatörü işlemi desteklemiyor</string>
-    <string name="background_restrict_app_dialog_message">Bu uygulamanın arka plan ağ erişimini kısıtlamanız uygulamanın normal olarak çalışmasına, mesaj almasına ve içerik indirmesine engel olabilir. Erişim yinede kısıtlansın mı?</string>
+    <string name="back_sound_support_china">Önce wifi ağını kapatın</string>
+    <string name="background_restrict_app_dialog_message">Bu uygulama için arka plan ağ erişimini kısıtlamak, uygulamanın normal çalışmasını, mesaj almasını, içerik indirmesini vb. imkansız hale getirebilir. Yine de kısıtlansın mı?</string>
     <string name="background_traffic">Arka plan %s</string>
     <string name="backsound_set_hint">Sesli uzakta bilgi mesajı %s olarak ayarlansın mı?</string>
     <string name="banner_optimizemanage_summary">Hafızayı temizleyin</string>
@@ -1201,7 +1203,9 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="cancel_button">İptal et</string>
     <string name="card_click_type_close_ad">Sağ üst köşedeki reklamı kapat düğmesi</string>
     <string name="card_click_type_open_or_download">Sağ alt köşede aç veya indir</string>
-    <string name="card_click_type_other">Diğer alanlar</string>
+    <string name="card_click_type_other">dDiğer alanlar</string>
+    <string name="card_main_apkclean_title">APK sil</string>
+    <string name="card_main_appdataclean_title">Uygulama verilerini temizle</string>
     <string name="card_main_applock_action">Aç</string>
     <string name="card_main_applock_summary">Özel öğeleri uygulama kilidiyle koruyun</string>
     <string name="card_main_applock_title">Uygulama kilidi</string>
@@ -1212,6 +1216,8 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="card_main_deepclean_wechat_action">Temizle</string>
     <string name="card_main_deepclean_wechat_summary">Depolama alanında yer açmak için WeChat önbelleğini temizle</string>
     <string name="card_main_deepclean_wechat_title">WeChat önbelleği</string>
+    <string name="card_main_facebookclean_title">Facebook temizleyici</string>
+    <string name="card_main_galleryclean_title">Fotoğrafları sil</string>
     <string name="card_main_gamebooster_summary">Bağlantı kararlılığını artırın</string>
     <string name="card_main_gamebooster_title">Oyun hızlandırıcı</string>
     <string name="card_main_hbassistant_summary">Bu aracı kullanarak kırmızı zarfları daha hızlı alın</string>
@@ -1229,6 +1235,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="card_main_private_space_title">İkinci alan</string>
     <string name="card_main_sectool_title">Araçlar</string>
     <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
+    <string name="card_main_whatsappclean_title">WhatsApp temizleyici</string>
     <string name="card_main_xspace_action">Oluştur</string>
     <string name="card_main_xspace_summary">Dilediğiniz uygulama için çift hesap oluşturun</string>
     <string name="card_main_xspace_title">Çift uygulamalar</string>
@@ -1350,6 +1357,8 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="cleaned">Temizlendi</string>
     <string name="clear_garbage">Depolama alanı açmak için çöpleri temizleyin</string>
     <string name="clear_immediately">Şimdi temizle</string>
+    <string name="clear_instant_app_confirmation">Bu hazır uygulamayı kaldırmak istiyor musunuz?</string>
+    <string name="clear_instant_app_data">Uygulamayı temizle</string>
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="click_to_charge_bill">Doldur</string>
@@ -1431,6 +1440,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="cs_pickup_single_title">Tek katılımcı</string>
     <string name="cs_pickup_surround_desc">Net ses için gürültüyü azaltmak için AI kullanır</string>
     <string name="cs_pickup_surround_title">Mikrofon gürültü azaltma</string>
+    <string name="cs_screen_translation_title">Ekran çevirisi</string>
     <string name="cs_title_pickup">Gürültü azaltma</string>
     <string name="cs_title_smart_subtitle">Altyazı transkripsiyonu</string>
     <string name="cs_title_ultraclear">Ultra HD mod</string>
@@ -2691,6 +2701,7 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Kayan bir pencerede açmak için kenar çubuğundaki bir uygulamaya dokunun
 · Pencereyi hareket ettirmek için göstergeyi basili tutun"</string>					 
     <string name="global_satisfaction_notification_button">Oran</string>
+    <string name="global_satisfaction_notification_channel">Kullanıcı memnuniyeti anketi</string>
     <string name="global_satisfaction_notification_subhead">Bize deneyiminizden bahsedin</string>
     <string name="global_satisfaction_notification_title">Bu cihazı değerlendirin</string>
     <string name="global_wa_setting_alert_dialog_content">%s alanını boşaltabilirsiniz</string>
@@ -2775,6 +2786,8 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gtb_exit_game_to_home">Ana ekrana dön</string>
     <string name="gtb_garbage_clean">Depolama alanını boşaltın</string>
     <string name="gtb_garbage_cleaned_tip">Performansı artırmak için %1$s yer açın</string>
+    <string name="gtb_guide_accelerate">Oyununuzu optimize etmek için yükselte dokunun</string>
+    <string name="gtb_guide_accelerated_tips">Oyun hızlandırıcı şimdi oyun deneyiminizi optimize ediyor</string>
     <string name="gtb_guide_finish">Atla</string>
     <string name="gtb_guide_game_mode_tips">Tercih edilen oyun modunu seçin</string>
     <string name="gtb_guide_gtb_button_done">Bitir</string>
@@ -2785,6 +2798,7 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gtb_guide_gtb_game_effected">Uygulandı</string>
     <string name="gtb_guide_gtb_game_new">Yeni</string>
     <string name="gtb_guide_gtb_line_new">En iyi oyun deneyimi için yeni oyun hızlandırıcıyı kullanın</string>
+    <string name="gtb_guide_gtb_line_new_global">Oyun hızlandırıcıyı açmak için kaydırın</string>
     <string name="gtb_guide_gtb_line_xspace">Tamamen yeni oyun hızlandırıcı ile oyununuzu hızlandırın</string>
     <string name="gtb_guide_small_window_app_desc">Tek adımda konuşun ve oynayın</string>
     <string name="gtb_guide_small_window_app_title">Küçük pencere uygulamaları</string>
@@ -2925,7 +2939,9 @@ manzara moduna geçin"</string>
     <string name="input_used_max_hint">Veri kullanımını girin (%s miktarından az)</string>
     <string name="install">Yükle</string>
     <string name="install_sucess">%s başarıyla yüklendi</string>
+    <string name="install_text">Yükle</string>
     <string name="install_title">USB üzerinden yükle</string>
+    <string name="install_type_instant">Hazır uygulama</string>
     <string name="installing">Yükleniyor</string>
     <string name="intercept_dimension_ratio">612:380</string>
     <string name="intercept_net_fold_external_image_ratio">367:174</string>
@@ -2972,6 +2988,7 @@ manzara moduna geçin"</string>
     <string name="label_callwait">Arama bekletme bildirimi</string>
     <string name="label_mi_stats">Mi analitik</string>
     <string name="last_check_canceled">Önceki tarama işlemi iptal edildi</string>
+    <string name="launch_instant_app">Aç</string>
     <string name="left_precent">60%</string>
     <string name="legal_workday">Tatil günleri</string>
     <string name="legal_workday_invalidate">Pazartesi-Cuma (Tatil bilgileri geçersiz)</string>
@@ -3220,6 +3237,7 @@ Cihazınız artık %s daha hızlı"</string>
     <string name="menu_charge_bill">Bakiye yükle</string>
     <string name="menu_charge_traffic">Veri satın al</string>
     <string name="menu_edit">Düzenle</string>
+    <string name="menu_hide_work_profile_text">Çalışma alanı uygulamalarını gizle</string>
     <string name="menu_item_about_content">Sürüm: %s</string>
     <string name="menu_item_about_privacy_title">Gizlilik politikası</string>
     <string name="menu_item_about_summary">Sürüm: %s</string>
@@ -3246,6 +3264,7 @@ Cihazınız artık %s daha hızlı"</string>
     <string name="menu_remove">Sil</string>
     <string name="menu_report">Hata bildir</string>
     <string name="menu_setting_traffic">Manuel olarak ayarla</string>
+    <string name="menu_show_work_profile_text">Çalışma alanı uygulamalarını göster</string>
     <string name="menu_sms">Mesaj gönder</string>
     <string name="menu_summary_antispam">Aramaları ve mesajları engelleyin</string>
     <string name="menu_summary_antivirus">Cihazınızdaki virüsleri tarayın</string>
@@ -3818,6 +3837,10 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_battery_history_total_consumption_title">Toplam güç tüketimi</string>
     <string name="pc_battery_history_usetime_title">Aktif</string>
 	<string name="pc_close_notifi_action">Kapat</string>
+	<string name="pc_continuity_has_open_save_mode_notifi_sumary">%1$s %2$s olduğunda veya tamamen şarj olduğunda pil tasarrufu kapatılacak</string>
+	<string name="pc_continuity_has_open_save_mode_notifi_title">"%s'de Pil tasarrufu açıldı"</string>
+	<string name="pc_continuity_open_save_mode_notifi_sumary">"%1$s'nin pili %2$s'den daha düşük. %3$s %4$s eklemek için Pil tasarrufunu açın"</string>
+	<string name="pc_continuity_open_save_mode_notifi_title">%s pil zayıf</string>
 	<string name="pc_emergency_call">Acil durum</string>
 	<string name="pc_endurance_calculation">Hesaplanıyor</string>
 	<string name="pc_entered_extreme_mode">Hazırda bekletme modu açık</string>
@@ -3858,7 +3881,10 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_high_temp_protection_noti_summary2">Şu anda etkin noktalar kullanılamıyor</string>
     <string name="pc_high_temp_protection_noti_tile">Cihazınız aşırı ısınmış</string>
     <string name="pc_install_manager">USB üzerinden yükleme</string>
-    <string name="pc_main_activity_back">Geri</string>
+	<string name="pc_low_batterty_got_it">Tamam</string>
+	<string name="pc_low_battery_fast_charge">Şarjı hızlandırın</string>
+	<string name="pc_low_battery_fast_charge_summary">Ekran kapalıyken ve pil zayıfken şarjı hızlandırmak için verilen şarj cihazını bağlayın. Bu özellik cihazınızın ısınmasına neden olabilir</string>
+	<string name="pc_main_activity_back">Geri</string>
     <string name="pc_main_battery_text_day">%1$sd eklendi. Yaklaşık %2$s gün kaldı</string>
     <string name="pc_main_battery_text_day_hour">%1$sd eklendi. Yaklaşık %2$s gün %3$s saat kaldı</string>
     <string name="pc_main_battery_text_hour">%1$sd eklendi. Yaklaşık %2$s saat kaldı</string>
@@ -3882,6 +3908,11 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_search_keywords_capacity">Pil kapasitesi</string>
     <string name="pc_search_keywords_property">Performans</string>
     <string name="pc_settings_title">Pil &amp; performans ayarları</string>
+	<string name="pc_smart_discharge_checkbox_summary">Navigasyon uygulamaları kullanılırken pil seçilen bir düzeye ulaştığında şarj işlemi otomatik olarak duracaktır. Pil tasarrufu veya ultra pil tasarrufu açıkken bu özellik çalışmaz</string>
+	<string name="pc_smart_discharge_checkbox_title">Otomatik bağlantı kesme şarj ediliyor</string>
+	<string name="pc_smart_discharge_drop_down_title">Otomatik bağlantı kesme ayarları</string>
+	<string name="pc_smart_discharge_protect_notifi_summary">Pili korumak için navigasyon uygulamaları kullanılırken şarj işlemi seçilen seviyede otomatik olarak duracaktır</string>
+	<string name="pc_smart_discharge_protect_notifi_title">Şarj otomatik kesme açık</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$d saat %2$d dakika kaldı</string>
     <string name="pc_statistics_battery_use_hour_minute">Son şarjdan bu yana %1$d saat %2$d dakika</string>
     <string name="pc_statistics_battery_use_summary">Son şarjdan bu yana %s</string>
