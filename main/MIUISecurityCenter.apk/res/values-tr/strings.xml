@@ -3909,10 +3909,10 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_search_keywords_property">Performans</string>
     <string name="pc_settings_title">Pil &amp; performans ayarları</string>
 	<string name="pc_smart_discharge_checkbox_summary">Navigasyon uygulamaları kullanılırken pil seçilen bir düzeye ulaştığında şarj işlemi otomatik olarak duracaktır. Pil tasarrufu veya ultra pil tasarrufu açıkken bu özellik çalışmaz</string>
-	<string name="pc_smart_discharge_checkbox_title">Otomatik bağlantı kesme şarj ediliyor</string>
-	<string name="pc_smart_discharge_drop_down_title">Otomatik bağlantı kesme ayarları</string>
-	<string name="pc_smart_discharge_protect_notifi_summary">Pili korumak için navigasyon uygulamaları kullanılırken şarj işlemi seçilen seviyede otomatik olarak duracaktır</string>
-	<string name="pc_smart_discharge_protect_notifi_title">Şarj otomatik kesme açık</string>
+    <string name="pc_smart_discharge_checkbox_title">Otomatik bağlantı kesme şarj ediliyor</string>
+    <string name="pc_smart_discharge_drop_down_title">Otomatik bağlantı kesme ayarları</string>
+    <string name="pc_smart_discharge_protect_notifi_summary">Pili korumak için navigasyon uygulamaları kullanılırken şarj işlemi seçilen seviyede otomatik olarak duracaktır</string>
+    <string name="pc_smart_discharge_protect_notifi_title">Şarj otomatik kesme açık</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$d saat %2$d dakika kaldı</string>
     <string name="pc_statistics_battery_use_hour_minute">Son şarjdan bu yana %1$d saat %2$d dakika</string>
     <string name="pc_statistics_battery_use_summary">Son şarjdan bu yana %s</string>
@@ -3985,6 +3985,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permission_instruction_external_storage">Bu izin uygulamaların cihazınızdaki fotoğraflara, medyaya ve dosyalara erişmesine izin verir. Özel bilgilerin gereksiz yere ifşasını önlemek için bu izne dikkat edin</string>
     <string name="permission_instruction_gallery">Gizliliğinizi korumak için MIUI depolama izinlerine sahip uygulamaların galeriye erişmesine izin verip vermeyeceğinize karar vermenizi sağlar</string>
     <string name="permission_instruction_get_accounts">Bu izin uygulamaların cihazınızda depolanan hesapların listesine erişmesine izin verir. Bu liste yüklü uygulamalar tarafından oluşturulan tüm kişisel hesaplarınızın yanı sıra sosyal medya platformlarından ve iletişim araçlarından hesaplarınızı içerebilir</string>
+    <string name="permission_instruction_get_identifier">Erişim cihazı tanımlayıcısı</string>
     <string name="permission_instruction_install_shortcuts">Bu izin uygulamaların ana ekran kısayolları oluşturmasına izin verir</string>
     <string name="permission_instruction_install_unknown_source">Bu izin uygulamaların cihazınıza başka uygulamalar yüklemesine izin verir. Kötü amaçlı uygulamalar onayınız olmadan uygulamaları yüklemek için bu izni kullanır</string>
     <string name="permission_instruction_location">Bu izni verdiğinizde, uygulamalar konumunuza erişmek için ağları veya uydu konumlandırmayı kullanır. Özelliği destekleyen uygulamaların yalnızca yaklaşık konumunuza erişmesine izin verebilirsiniz</string>
@@ -4001,13 +4002,16 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permission_instruction_read_calllog">Bu izin uygulamaların gelen ve giden aramalarınız hakkında ayrıntılı bilgiler içerebilecek arama geçmişine erişmesine izin verir. Bu izin uygulamaların arama geçmişi kayıtlarını kaydetmesine de izin verir. Kötü amaçlı uygulamalar bu izni arama geçmişinizi üçüncü taraflarla paylaşmak veya sahtekarlık amacıyla arama geçmişinizi kullanmak için kullanabilir</string>
     <string name="permission_instruction_read_clipboard">Bu izin gizli bilgiler içerebilecek her türlü içeriği okumasına izin verir</string>
     <string name="permission_instruction_read_contacts">Bu izin uygulamaların cihazınızda depolanan kişi bilgilerine erişmesine izin verir. Bu bilgiler belirli kişilerle aramalar, e-postalar ve diğer yöntemler aracılığıyla iletişiminizin sıklığını içerebilir. Bu izin uygulamaların kişileri kaydetmesine de izin verir. Kötü amaçlı uygulamalar bu izni izniniz olmadan kişileri paylaşmak için kullanabilir</string>
+    <string name="permission_instruction_read_history">Tarama geçmişine erişin</string>
     <string name="permission_instruction_read_media_pic">Bu iznin verilmesi uygulamaların telefonunuzdaki fotoğraflara ve videolara erişmesine izin verir. Lütfen bu kişisel bilgilerin çok önemli olduğunu ve özel bilgilerin gereksiz yere ifşa edilmesini önlemek için uygulamaya bu izni verirken dikkatli olmanız gerektiğini unutmayın</string>
     <string name="permission_instruction_read_notify_sms">Bu izin uygulamaların cihazınızda veya Sim kartınızda depolanan bildirim metin mesajlarını okumasına izin verir</string>
     <string name="permission_instruction_read_phone_state">Bu izin uygulamaların telefon numaranıza, IMEI, IMSI ve diğer cihaz tanımlayıcılara erişmesine izin verir. Uygulamalar normalde bu izni çağrılarınızın yönlendirilip yönlendirilmediğini belirlemek için kullanır. Bir sanal cihaz kimliği kullanıyorsanız uygulamalar gerçek cihaz tanımlayıcılarınıza erişemez</string>
     <string name="permission_instruction_read_sms">Bu izin uygulamaların cihazınızda veya Sim kartınızda depolanan tüm metin mesajlarını okumasına izin verir. Bu tür mesaj şifreleri banka hesabı ayrıntılarını ve diğer kişisel bilgileri içerebilir</string>
     <string name="permission_instruction_read_write_calendar">Bu izin uygulamaların takviminize erişmesinin yanı sıra takvim etkinliklerini okumasına, eklemesine, kaldırmasına, düzenlemesine, paylaşmasına ve kaydetmesine olanak tanır. Kötü amaçlı uygulamalar izniniz olmadan adınızdan mesaj göndermek veya takvim etkinliklerini düzenlemek için bu izni kullanabilir</string>
     <string name="permission_instruction_receive_mms">Bu izin uygulamaların cihazınızda veya Sim kartınızda depolanan tüm multimedya mesajlarını okumasına izin verir. Bu tür mesaj şifreleri banka hesabı ayrıntılarını ve diğer kişisel bilgileri içerebilir</string>
+    <string name="permission_instruction_receive_sms">Mesaj ve multimedya mesajlarını alın</string>
     <string name="permission_instruction_record_audio">Bu izin uygulamaların ses kaydetmek için mikrofonu kullanmasına izin verir. Bu iznin uygulamaların başkalarıyla yaptığınız görüşmeler dahil her şeyi kaydetmesine izin verdiğini unutmayın. Uygulamaların bu izni yalnızca siz uygulamaları kullanırken kullanmasına izin vermek en iyisidir</string>
+    <string name="permission_instruction_record_screen">Ekran içeriği erişimi</string>
     <string name="permission_instruction_running_background">Bu izin uygulamaların arka planda çalışmasına izin verir. Bunu yaparken uygulamalar veri toplayabilir ve hizmet sağlayabilir. Bu tür faaliyetlerin güç tüketimini artırdığını unutmayın</string>
     <string name="permission_instruction_running_exceed_data">Bu izin uygulamaların mobil veri kullanım sınırlarını göz ardı etmesine izin verir</string>
     <string name="permission_instruction_scoped">Sistem bölümlenmiş bir depolama gizliliği koruma mekanizması ekledi ve ilk uyarlanan uygulamalar depolama erişim izinlerinin daha ayrıntılı kontrolünü destekleyebilir</string>
@@ -4019,9 +4023,10 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permission_instruction_sociality">Gizliliğinizi korumak için MIUI depolama izinlerine sahip uygulamaların sosyal medya uygulamalarındaki mesajlarınıza erişmesine izin verip vermeyeceğinize karar vermenizi sağlar</string>
     <string name="permission_instruction_storage">Gizliliğinizi korumak için MIUI depolama izinlerine sahip uygulamaların galeriye ve sosyal medya uygulamalarındaki mesajlarınıza erişmesine izin verip vermeyeceğinize karar vermenizi sağlar</string>
     <string name="permission_instruction_touch_pay">Bu izin uygulamaların temassız ödeme yapmasına izin verir</string>
+    <string name="permission_instruction_transfer_data_to_other_devices">Verileri diğer cihazlara aktarın</string>
     <string name="permission_instruction_use_sip">Bu izin uygulamaların SIP video hizmetlerini kullanmasına izin verir</string>
     <string name="permission_instruction_vr_assistant">Bu izin uygulamaların VR asistan hizmetlerini kullanmasına izin verir</string>
-    <string name="permission_instruction_wall_paper">Grant this permission to allow apps to change default dynamic wallpaper services and keep running in the background.</string>
+    <string name="permission_instruction_wall_paper">Uygulamaların varsayılan dinamik duvar kağıdı hizmetlerini değiştirmesine ve arka planda çalışmaya devam etmesine izin vermek için bu izni verin</string>
     <string name="permission_instruction_write_calllog">Bu izin uygulamaların gelen ve giden aramalarınız hakkında ayrıntılı bilgiler içerebilen arama geçmişini düzenlemesine izin verir. Kötü amaçlı uygulamalar arama geçmişinizi temizlemek veya düzenlemek için bu izni kullanabilir</string>
     <string name="permission_instruction_write_clipboard">Bu izin uygulamaların öğeleri panoya kaydetmesine izin verir. İstenmeyen mesajlar panoyu normal kullanımınızı etkileyebilir</string>
     <string name="permission_instruction_write_contacts">Bu izin uygulamaların cihazınızda depolanan kişi bilgilerini düzenlemesine, eklemesine ve silmesine izin verir. Bu bilgiler, belirli kişilerle aramalar, e-postalar ve diğer yöntemler yoluyla iletişiminizin sıklığını içerebilir. Bu izin uygulamaların kişilerinizi silmesine de izin verir</string>
@@ -4047,6 +4052,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="phone_manage_clean_title">Temizleyici</string>
     <string name="phone_manage_electric_summary">Pilden tasarruf etmek için cihazınızı optimize edin</string>
     <string name="phone_manage_electric_title">Pil</string>
+    <string name="phone_manage_privacy_title">Gizlilik koruması</string>
     <string name="phone_manage_recent_use">Son kullanılanlar</string>
     <string name="phone_manage_special_summary">Ek işlevselliğimizi keşfedin</string>
     <string name="phone_manage_special_title">Ayrıcalıklı özellikler</string>
@@ -4069,8 +4075,10 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pm_root_success_notification_title">Root erişimine izin verildi</string>
     <string name="popular_action_anti_spam_summary">Mesaj ve telefon</string>
     <string name="popular_action_anti_spam_title">Tacizi durdur</string>
+    <string name="popular_action_anti_spam_title_global">Aramaları ve mesajları engelle</string>
     <string name="popular_action_app_lock_summary">Gizlilik daha güvenli</string>
     <string name="popular_action_app_lock_title">Uygulamayı şifrele</string>
+    <string name="popular_action_app_lock_title_global">Uygulama kilidi ile uygulamaları koruyun</string>
     <string name="popular_action_app_manager_summary">Yükselt ve kaldır</string>
     <string name="popular_action_app_manager_title">Uygulama yönetimi</string>
     <string name="popular_action_auto_launch_manager_summary">Kendi kendine başlayan uygulamalar</string>
@@ -4078,9 +4086,12 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="popular_action_card_title">Herkes kullanıyor</string>
     <string name="popular_action_first_aid_summary">Tek tıklama algılama</string>
     <string name="popular_action_first_aid_title">Telefon sorunu</string>
+    <string name="popular_action_first_aid_title_global">Yeni kullanıcılar için</string>
     <string name="popular_action_hb_assistant_summary">Kırmızı zarfları bir adım daha hızlı alın</string>
+    <string name="popular_action_net_assistant_title_global">Ağ bağlantı hızını izleyin</string>
     <string name="popular_action_video_box_summary">Sohbet ederken</string>
     <string name="popular_action_video_box_title">Videoyu izle</string>
+    <string name="popular_action_video_clean_title_global">Yer açmak için video önbelleğini temizleyin</string>
     <string name="power_5g_popups_content">5G ağları yüksek bağlantı hızı ve daha düşük gecikme sağlar</string>
     <string name="power_5g_popups_title">5G ağlarını kullanın</string>
     <string name="power_ambient_display">Ortam göstergesi</string>
@@ -4463,6 +4474,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pp_special_permission_settings">Özel izinler</string>
     <string name="pp_special_permission_settings_detail">Uygulamaların özel izinleri nasıl kullandığını kontrol edin</string>
     <string name="pp_storage_msg">Depolama</string>
+    <string name="pp_two_columns_img_ration">306:174</string>
     <string name="pp_understanding_privacy">Farkındalık</string>
     <string name="pp_virtual_identity_manager">Sanal kimlik</string>
     <string name="pp_virtual_identity_summary">Gerçek tanımlayıcınız yerine uygulamalara sanal bir kimlik sağlanabilir. Gizliliğinizi korur ve uygulamaların davranışınızı nasıl izlediğini kontrol etmenize olanak tanır</string>
@@ -4734,9 +4746,6 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="privacy_pop_record">Bugün ses kaydedildi</string>
     <string name="privacy_pop_storage">Bugün depolama alanına erişildi</string>
     <string name="privacy_prompt_tc_sms_report_message">Telefon numaranız ve operatör bilgileriniz kullanım verilerinizi güncellemek amacıyla şifrelenecek ve Mi sunucularına yüklenecektir</string>
-    <string name="privacy_prompt_traffic_adjust_message">"Kalibrasyon işlemini başlatmanızdan sonra MIUI ağa bağlanır, operatör bilgilerini, telefon numarasını, İmei ve Mi hesabı bilgilerini Mi sunucularına yükler. Bu işlem operatörünüzün kalibrasyon şablonunu edinmek ve bulunduğunuz konumda veri satın alımının mümkün olup olmadığını öğrenmek amacıyla yapılmaktadır
-
-Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir metin mesajı gönderecektir"</string>
     <string name="privacy_prompt_upload">Karşıya yükle</string>
     <string name="privacy_protect_summary">Kişisel bilgilerinizi koruyun</string>
     <string name="privacy_protect_title">Gizlilik</string>
@@ -5580,6 +5589,8 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="stop_collecting_data_detail">Klavye tahmine dayalı yazmayı iyileştirmek ve alışkanlıklarınıza göre sık kullanılan ifadeler önermek için veri toplamaz</string>
     <string name="stop_milink_connect">Yansıtma durduruldu</string>
     <string name="storage_activity_title">Depolama alanı</string>
+    <string name="storage_activity_title_personage">Kişisel</string>
+    <string name="storage_activity_title_work">İş</string>
     <string name="storage_app_detail_activity_title">Dolu alan</string>
     <string name="storage_app_detail_cache">Önbellek</string>
     <string name="storage_app_detail_clear_all_data">Tüm verileri temizle</string>

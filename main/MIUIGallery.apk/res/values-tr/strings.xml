@@ -3171,7 +3171,6 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="send_public_url">Albümün bağlantı adresini paylaş</string>
     <string name="send_secret_file_failed">Paylaşılamadı</string>
     <string name="send_secret_file_space_low">Yeterli depolama alanı yok</string>
-    <string name="send_too_many_files_error">Aynı anda %d adete kadar öge gönderilebilir</string>
     <string name="service_error">Sunucu hatası</string>
     <string name="service_is_provided_by_miui_cloud_service">Bu servis Xiaomi bulut tarafından sağlanmaktadır</string>
     <string name="set_as_baby_lock_wallpaper">Kilit ekranı duvar kağıdı olarak ayarla</string>

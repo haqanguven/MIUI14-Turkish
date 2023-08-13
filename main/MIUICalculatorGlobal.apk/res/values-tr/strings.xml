@@ -648,7 +648,7 @@
     <string name="preference_follow_web_title">Resmi internet sitesi</string>
     <string name="preference_follow_wechat_summary">MIUI</string>
     <string name="preference_follow_wechat_title">WeChat</string>
-    <string name="preference_follow_weibo_summary">\\MIUI</string>
+    <string name="preference_follow_weibo_summary">\@MIUI</string>
     <string name="preference_follow_weibo_title">Sina Weibo</string>
     <string name="preference_help">Yardım &amp; geri bildirim</string>
     <string name="preference_other">Diğer</string>
@@ -788,7 +788,6 @@
     <string name="tax_result_real_get">Vergiden sonra</string>
     <string name="tax_social_insurance">Sosyal güvenlik</string>
     <string name="tax_thershold_foreign">%s (Yabancı ülke vatandaşları)</string>
-    <string name="tax_thershold_native">%s (Çin halk cumhuriyeti)</string>
     <string name="tax_thershold_native_new">%s (yeni)</string>
     <string name="tax_thershold_native_new_description">Vergiler 1 Ekim 2018 tarihinde başlayarak yeni vergi kanununa göre hesaplanacaktır</string>
     <string name="tax_threshold">Vergi muaflık eşiği</string>
