@@ -321,6 +321,7 @@
     <string name="dc_item_title_wechat_chat">WeChat geçmişini temizle</string>
     <string name="dc_storage_cleaned">%s boş alan kaldı</string>
     <string name="dc_storage_info">Kullanılabilir: %1$s | Toplam: %2$s</string>
+    <string name="dc_storage_info_new">%1$s kullanılabilir</string>
     <string name="deep_clean_completed_tips">Başarıyla temizlendi</string>
     <string name="deep_clean_data_path_clean_title">Önbelleği temizle</string>
     <string name="deep_clean_uninstall_completed_tips">Başarıyla kaldırıldı</string>

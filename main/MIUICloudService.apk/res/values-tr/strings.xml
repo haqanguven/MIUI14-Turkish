@@ -393,7 +393,7 @@
     <string name="loading_server_key_info">Öğeler yükleniyor</string>
     <string name="low_battery_locate_summary">Pil azaldığında konum bilgilerini otomatik olarak bildirin</string>
     <string name="low_battery_locate_title">Pil azaldığında konumu bildir</string>
-    <string name="marketSdkVersion">3.2.10</string>
+    <string name="marketSdkVersion">3.2.22</string>
     <string name="master_alert_notif_content">Önemli bir şeyi kaybetmemek için öğeleri düzenli olarak yedekleyin</string>
     <string name="master_alert_notif_title">Xiaomi bulutu aç</string>
     <string name="member_menu_vipname_free">Ücretsiz</string>

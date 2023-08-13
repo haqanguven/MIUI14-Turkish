@@ -483,7 +483,7 @@ Tarayıcı geçmişinizi temizlemek için tarayıcının ayarlarını kullanın"
     <string name="main_setting_download">İndirilenler</string>
     <string name="main_setting_feedback">Geri bildirim</string>
     <string name="main_setting_history">Geçmiş</string>
-    <string name="marketSdkVersion">3.2.5</string>
+    <string name="marketSdkVersion">3.2.22</string>
     <string name="menu_help">Yardım</string>
     <string name="mi_account">Mi hesabı</string>
     <string name="mi_account_unlogin_subtitle">Oturum açmak için dokunun</string>

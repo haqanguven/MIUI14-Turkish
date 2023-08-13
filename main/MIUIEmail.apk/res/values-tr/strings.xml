@@ -873,7 +873,7 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="manual_sync">Şimdi senkronize et</string>
     <string name="mark_read">Okundu olarak işaretle</string>
     <string name="mark_unread">Okunmadı olarak işaretle</string>
-    <string name="marketSdkVersion">3.2.5</string>
+    <string name="marketSdkVersion">3.2.22</string>
     <string name="material_slider_range_end">Aralık sonu,</string>
     <string name="material_slider_range_start">Aralık başlangıcı,</string>
     <string name="me_object_pronun">ben</string>
