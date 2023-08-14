@@ -405,6 +405,10 @@ Bu kodu gönderin"</string>
     <string name="dialog_open_internet_btn">Ağa bağlan</string>
     <string name="dialog_privacy_change_info">Sunduğumuz hizmetlerdeki düzenlemelerden dolayı videolar gizlilik politikasını güncelledik. Bir kullanıcı olarak tüm haklarınızı ayrıca verilerinizi kullanma yöntemlerimizi anlamak için uygulamayı kullanmadan önce %1$s Kullanıcı sözleşmesi ve %2$s Gizlilik politikamızı okuyun ve kabul edin</string>
     <string name="dialog_privacy_change_title">Gizlilik politikası güncellemesi</string>
+    <string name="dialog_privacy_info">"Videolara hoş geldiniz! Bu uygulama aşağıdaki hizmetleri sağlar:
+- Çevrimiçi akış
+- Yerel bir video oynatıcı
+Videolar uygulamasının size temel hizmetleri sağlamak için gerekli kişisel bilgileri toplaması gerekir. Topladığımız bilgileri nasıl ele aldığımızı Gizlilik politikamızda öğrenebilirsiniz. İlgili ayarları Profil > Ayarlar'dan değiştirebilirsiniz"</string>
     <string name="dialog_privacy_info_new4">Videolar uygulamasına hoş geldiniz. Bu uygulama aşağıdaki hizmetleri sunmaktadır: - Çevrimiçi yayın hizmetleri. - Yerel video oynatıcı temel hizmetleri size sağlayabilmesi için videoların gerekli kişisel bilgileri toplaması gerekmektedir. Topladığımız bilgileri nasıl kullandığımızı Gizlilik politikamızdan öğrenebilirsiniz. İlgili ayarları Ayarlar > Şifreler ve güvenlik menüsünden değiştirebilirsiniz. Videolar uygulamasını kullanmadan önce %1$s Kullanıcı sözleşmesi ve %2$s Gizlilik politikasını okuyun ve kabul edin</string>
     <string name="dialog_privacy_info_new5">Videolar uygulamasına hoş geldiniz. Bu uygulama aşağıdaki hizmetleri sunmaktadır: - Çevrimiçi yayın hizmetleri. - Yerel video oynatıcı temel hizmetleri sağlamak için bu uygulamanın gerekli kişisel bilgileri toplaması gerekir. Ayrıntılar için Gizlilik politikamıza bakın. Ayarlarınızı istediğiniz zaman Profil > Ayarlardan değiştirebilirsiniz. Videoları kullanmadan önce %1$s Kullanıcı sözleşmemizi ve %2$s Gizlilik politikamızı okuyun ve kabul edin</string>
     <string name="dialog_privacy_revoke_cancel">İptal et</string>
@@ -1519,18 +1523,11 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="photoPickerNotFoundText">Kullanılabilir fotoğraf yok</string>
     <string name="pip">Resim içinde resim</string>
     <string name="pip_not_supported_toast">Resim içinde resim kullanabilmek için MIUI sürümünü güncelleyin</string>
-    <string name="play_list_delete_title">Bu çalma listesi silinsin mi?</string>
-    <string name="play_list_detial_add">Video ekle</string>
-    <string name="play_list_detial_delete">Sil</string>
-    <string name="play_list_detial_play">Oynat</string>
-    <string name="play_list_detial_rename">Yeniden adlandır</string>
     <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
     <string name="play_list_save_dialog_create">Oynatma listesi oluştur</string>
     <string name="play_list_save_dialog_title">Çalma listesine ekle</string>
     <string name="play_list_sign_in_dialog_message">Tüm çalma listelerinizi görüntülemek için Google hesabınız ile oturum açın</string>
     <string name="play_list_skeleton_file">mnc_live_tv_list_skeleton.json</string>
-    <string name="play_list_user_local">Yerel</string>
-    <string name="play_list_user_online">Çevrimiçi</string>
     <string name="playlist_create">Oluştur</string>
     <string name="playlist_detail_recomm_title">Önerilen çalma listeleri</string>
     <string name="playlist_finish">Bitti</string>
@@ -2047,7 +2044,6 @@ Hiçbir şey göstermiyor"</string>
     <string name="v_save">Kaydet</string>
     <string name="v_search">Ara</string>
     <string name="v_set_password">Şifre oluştur</string>
-    <string name="v_txt_login">Favorilerinizi senkronize etmek için oturum açın</string>
     <string name="version_update_install_apk_fail">Yükleme başarısız oldu</string>
     <string name="video_already_download_tip">Bu ögeyi zaten indirdiniz</string>
     <string name="video_download_btn">İndir</string>
