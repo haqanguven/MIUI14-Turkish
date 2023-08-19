@@ -214,7 +214,14 @@
     <string name="autologin_bar_text">Olarak oturum aç</string>
     <string name="back">Geri</string>
     <string name="back_description">Geri</string>
-    <string name="back_home">Ana sayfa için sürüm</string>
+    <string name="back_dialog_antivirus_primary_btn">Tara</string>
+    <string name="back_dialog_health_check_primary_btn">Optimize et</string>
+    <string name="back_dialog_storage_content">"Cihazınızın depolama alanının %1$s'si dolu. Şimdi boşaltılsın mı?"</string>
+    <string name="back_dialog_storage_primary_btn">Temizle</string>
+    <string name="back_dialog_title_antivirus">Güvenlik taraması</string>
+    <string name="back_dialog_title_health_check">Cihazı optimize et</string>
+    <string name="back_dialog_title_storage">Depolamayı yönet</string>
+    <string name="back_home">Ana sayfa için yayın</string>
     <string name="batch_download">İndir</string>
     <string name="batch_download_tip">Aynı zamanda çoklu ögeler indiriliyor gibi görünüyor. Bu indirmeler engellensin?</string>
     <string name="bba">e6135d289c1ff651b514fd4559850c19</string>
@@ -264,6 +271,7 @@ Senkronizasyonu durdurmak için kapatın"</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Yarıya kadar genişlet</string>
     <string name="branch_app_suggestion">Önerilen</string>
+    <string name="branch_app_title">Uygulama ara</string>
     <string name="branch_apps">Uygulamalar</string>
     <string name="branch_contacts">Kişiler</string>
     <string name="branch_give_relevant_permissions">Tarayıcıya ayarlarda ilgili izinleri verin</string>
@@ -561,6 +569,7 @@ Senkronizasyonu durdurmak için kapatın"</string>
     <string name="continue_reading">Okumaya devam et</string>
     <string name="continue_watch_video">İzlemeye devam et</string>
     <string name="copy">Kopyala</string>
+    <string name="copy_success">Kopyalandı</string>
     <string name="copy_toast_msg">Bağlantı panoya kopyalandı</string>
     <string name="copy_url">Bağlantıyı kopyala</string>
     <string name="core_functions_of_browser">Temel özellikler parmaklarınızın ucunda</string>
@@ -622,9 +631,20 @@ Görüntülemiş olduğunuz internet siteleri geçmişinizde görüntülenmeyece
     <string name="diagnosis_log_sent_format">"Kayıtlar başarıyla gönderildi
 Kimlik:%s
 Bu kodu yöneticiye gönderin"</string>
+    <string name="dialog_ad_callback_cancel">İptal et</string>
+    <string name="dialog_ad_callback_fraud_info">Dolandırıcılık veya dolandırıcılık</string>
+    <string name="dialog_ad_callback_inavailable_picture">Uygunsuz resimler</string>
+    <string name="dialog_ad_callback_others">Diğer</string>
+    <string name="dialog_ad_callback_title">Bir sorun bildirin</string>
     <string name="dialog_channel_cancel">İptal et</string>
     <string name="dialog_channel_confirm">Tamam</string>
-    <string name="dialog_channel_remove_content">Tüm kanalları kaldırmak içerik akışınıda siler</string>
+    <string name="dialog_channel_remove_content">Tüm kanalların kaldırılması içerik akışının da kaldırılmasına neden olur</string>
+    <string name="dialog_dislike_reason_cancel">İptal et</string>
+    <string name="dialog_dislike_reason_not_interested">İlgilenmiyorum</string>
+    <string name="dialog_dislike_reason_others">Başka bir neden</string>
+    <string name="dialog_dislike_reason_poor_quality">Düşük kalite</string>
+    <string name="dialog_dislike_reason_repetitive">Tekrarlayan</string>
+    <string name="dialog_dislike_title">Bu reklamı neden beğenmediniz?</string>
     <string name="dialog_game_close">İptal et</string>
     <string name="dialog_game_play">Oyna</string>
     <string name="display__quick_entry_of_search">Özellik kısayollarını Bildirim gölgesinde göster</string>
@@ -2229,6 +2249,7 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="readmodelist_bookmarks_to_show">Okuma listesi</string>
     <string name="reboot">Yeniden başlat</string>
     <string name="recent_apk_status_install">Yüklendi</string>
+    <string name="recent_search_hint_text">%s</string>
     <string name="recommend">Önerilen</string>
     <string name="recommend_button">Takip et (%s)</string>
     <string name="recommend_description">Takip etmek isteyebileceğiniz bazı içerik yaratıcılarını seçtik.</string>
@@ -2372,6 +2393,8 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="search_file_type_picture">Fotoğraf</string>
     <string name="search_file_type_video">Video</string>
     <string name="search_for_anything">Herhangi bir şey arayın</string>
+    <string name="search_for_anything_test_1">İnternette veya cihazınızda arama yapın</string>
+    <string name="search_for_anything_test_2">Uygulamaları ve daha fazlasını arayın</string>
     <string name="search_google">Google</string>
     <string name="search_hint">Ara</string>
     <string name="search_label">Tarayıcı</string>

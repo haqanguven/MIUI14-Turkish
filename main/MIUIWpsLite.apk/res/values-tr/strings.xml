@@ -54,6 +54,7 @@
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="aboard_mail_body_content">Uygulama küçük boyutlu ve sürekli olarak ücretsiz şekilde birden fazla dosya biçimiyle uyumludur. Buradan edinin:</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">pdf-android-tools</string>
     <string name="app_unknownError">Bilinmeyen hata sebebiyle kapatıldı</string>
     <string name="chart_NotSupportedPic_bmw">Bu resim şu anda görüntülenemiyor</string>
@@ -69,6 +70,7 @@
     <string name="chart_series_bmw">Dizi</string>
     <string name="chart_unsupport_bmw">Bu grafik çizilemiyor</string>
     <string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
+    <string name="crash_upload_url">https://mo-dump.wps.cn/errorReport/up</string>
     <string name="doc_scan_save_to_album">Galeriye kaydedildi</string>
     <string name="documentmanager_addPic_failed">Resim yerleştirilemedi</string>
     <string name="documentmanager_checkUpdate">Güncellemeleri kontrol et</string>
@@ -135,6 +137,7 @@
     <string name="et_sorter_expand_selection">Seçimin yanında veri bulunduğu algılandı. Hangi verileri sıralamak istiyorsunuz?</string>
     <string name="et_sorter_expand_selection_cancel">Mevcut seçim</string>
     <string name="et_sorter_expand_selection_ok">Diğer alanları görmek için genişlet</string>
+    <string name="exception_report">wpsoffice_exception_report@kingsoft.com</string>
     <string name="exception_report_cn">wpsoffice_exception_report_cn@kingsoft.com</string>
     <string name="feedback_display_subject">Ekran hatası</string>
     <string name="feedback_display_subject_jp">Ekran hatası</string>
@@ -166,6 +169,7 @@
     <string name="feedback_suggestion_subject_zh">Özellik önerileri</string>
     <string name="file_format_error">Bu belge formatı işlemleri desteklemiyor</string>
     <string name="filter">Filtre</string>
+    <string name="find_path">com.netease.mail.fileprovider#netease/Mail/;com.netease.mobimail.fileprovider#netease/163mail/;com.tencent.wework.external.fileprovider#tencent/WeixinWork/filecache;com.baidu.searchbox.fileprovider#baidu/searchbox/downloads/;com.yearsdiary.tenyear.mis.fileprovider#/Android/data/com.yearsdiary.tenyear/files/wwwroot;com.android.fileexplorer.myprovider#/documents;im.yixin.fileprovider#/Android/data/im.yixin/files/Yixin/file;com.baidu.wenku.fileProvider#BaiduWenku/download/original;com.android.providers.downloads.documents#/document;com.android.chrome.FileProvider#/downloads;com.tencent.mm.external.fileprovider#/tencent/MicroMsg/Download;999@com.tencent.mm.external.fileprovider#/tencent/MicroMsg/Download;com.synology.dsfile.fileprovider#DSfile/;com.tencent.weworklocal.fileprovider#Tencent/WeixinWork/filecache/;com.synology.dsdrive.external#DSfile/;im.yixin.qiye.fileprovider#Android/data/im.yixin/files/Yixin/file/;com.microsoft.emmx.FileProvider#Android/data/com.microsoft.emmx/files/Download/;</string>
     <string name="func_extract_sheet">Ayıkla</string>
     <string name="func_output_as_pic">Fotoğraf</string>
     <string name="func_pdf_to_word">Word</string>
@@ -176,9 +180,10 @@
     <string name="highlight">Vurgula</string>
     <string name="kslite_sign_url" />
     <string name="kslite_sign_url_test" />
+    <string name="kslite_sign_url_v2" />
     <string name="online_security_error_code_no_operation_permission">Bu işlemi gerçekleştirmek için yeterli izin yok</string>
     <string name="oppo_app_packageName">OPPO belge görüntüleyici (WPS özelleştirme)</string>
-    <string name="oppo_scre_dialog_message" formatted="false">"<Data>WPS belge görüntüleyiciyi normal kullanmak için dosya depolama izinleri sağlamanızı gerektiren kullanıcının ofis belgelerini görüntülemeye yönelik bir yazılımdır. Ürün deneyimini daha iyi hale getirmek için WPS Office işlev kullanım bilgilerini toplayacak ve &lt;a href=\"%s\">'yi kesinlikle izleyecektir. Bilgilerinizi korumak için nihai kullanıcı lisans sözleşmesi &lt;/a>ve&lt;a href=\"%s\"> gizlilik politikasını &lt;/a> okuyarak kabul edin</Data>"</string>
+    <string name="oppo_scre_dialog_message" formatted="false">"WPS belge görüntüleyiciyi normal kullanmak için dosya depolama izinleri sağlamanızı gerektiren kullanıcının ofis belgelerini görüntülemeye yönelik bir yazılımdır. Ürün deneyimini daha iyi hale getirmek için WPS Office işlev kullanım bilgilerini toplayacak ve %s'yi kesinlikle izleyecektir. Bilgilerinizi korumak için nihai kullanıcı lisans sözleşmesi ve %s gizlilik politikasını okuyarak kabul edin"</string>
     <string name="oppo_scre_dialog_smallTip">Kabul et seçeneğini tıklayarak yukarıdakileri kabul etmiş olursunuz</string>
     <string name="oppo_scre_dialog_title">WPS belge görüntüleyici bildirimi</string>
     <string name="oppo_search_next">Sonraki</string>
@@ -220,7 +225,10 @@
     <string name="ppt_video_extracting_video_file">Video dosyası çıkartılıyor</string>
     <string name="ppt_video_install_videoplayer_tip">Bir video oynatıcı yükleyin</string>
     <string name="ppt_volume_is_too_low_tip">Lütfen kulaklığınızı takın veya ses seviyesini artırın</string>
+    <string name="privacy_mobile">https://www.wps.com/privacy/mobile/</string>
+    <string name="privacy_protecte">https://www.wps.com/privacy/privacyprotect/</string>
     <string name="projection_fail">Yayınlanamadı. Harici monitörünüzü kontrol edin ve tekrar deneyin</string>
+    <string name="public_ack">Biliyorum</string>
     <string name="public_amazon_autosave_finished">Belge otomatik olarak kaydedildi</string>
     <string name="public_app_language">2052</string>
     <string name="public_bad_doc_to_process">Geçersiz belge. İşlem tamamlanamıyor</string>
@@ -294,6 +302,7 @@
     <string name="public_lite_update_right_now">Şimdi güncelle</string>
     <string name="public_lite_use_right_now">Şimdi kullan</string>
     <string name="public_loadDocumentError">Dosya mevcut değil veya açılamıyor</string>
+    <string name="public_loadDocumentFileUnsupportedEncryptionError">Dosya desteklenmeyen bir şifreleme yöntemi içeriyor ve açılamıyor</string>
     <string name="public_loadDocumentFormatError">Dosya biçimi hatası. Dosya açılamıyor</string>
     <string name="public_loadDocumentLackOfStorageError">Yetersiz depolama alanı. Dosya açılamıyor</string>
     <string name="public_loadDocumentOutOfMemoryError">Yetersiz depolama alanı. Dosya açılamıyor</string>
@@ -310,6 +319,9 @@
     <string name="public_no_format">Biçimlendirme yok</string>
     <string name="public_not_support_in_multiwindow">Bu özellik ekran ayrıştırma ile kullanımı desteklemiyor</string>
     <string name="public_ok">Tamam</string>
+    <string name="public_onlineSecurityDialogConfirm">WPS ile aç</string>
+    <string name="public_onlineSecurityDialogMsg">Bu dosya yalnızca güvenli belgeleri destekleyen bir WPS istemcisi tarafından açılabilen ve WPS tarafından oluşturulmuş güvenli bir dosyadır. Lütfen erişmek için WPS istemcisini kullanın</string>
+    <string name="public_onlineSecurityDialogTitle">Dosya açılamıyor</string>
     <string name="public_online_security_no_network">WPS çevrimiçi güvenli belge biçimini kullanmak için lütfen önce ağa bağlanın</string>
     <string name="public_online_security_permission_denied">Belge WPS çevrimiçi güvenlik formatı kullanılarak şifrelenmiş olarak kaydedilir. Bu işlem gerçekleştirilemiyor çünkü hesap izinleriniz yetersiz</string>
     <string name="public_online_security_permission_denied_need_login">Belge WPS çevrimiçi güvenlik formatı kullanılarak şifrelenmiş olarak kaydedilir. Lütfen izin verilen bir WPS hesabıyla giriş yapın ve açın</string>
@@ -427,6 +439,8 @@
     <string name="reader_writer_table_edit_add_column">Sütun ekle</string>
     <string name="reader_writer_table_edit_add_row">Satır ekle</string>
     <string name="search_menu_title">Ara</string>
+    <string name="secret_internation_policy_url">https://www.wps.com/privacy-policy/</string>
+    <string name="secret_internation_service_url">https://www.wps.com/eula</string>
     <string name="ss_card_mode_filter_title_text">Görüntülenecek veri öğesini seçin</string>
     <string name="ss_card_view_mode">Kart görünümü</string>
     <string name="ss_grid_view_mode">Tablo görünümü</string>

@@ -54,6 +54,18 @@
         <item quantity="other">Bir sonraki video %d saniye içinde oynatılacak</item>
         <item quantity="one">Bir sonraki video %d saniye içinde oynatılacak</item>
     </plurals>
+    <plurals name="back_dialog_antivirus_content_des">
+        <item quantity="other">Cihazınızı %d gündür taramadınız. Şimdi taramak ister misiniz?</item>
+        <item quantity="one">Cihazınızı %d gündür taramadınız. Şimdi taramak ister misiniz?</item>
+    </plurals>
+    <plurals name="back_dialog_day">
+        <item quantity="other">gün</item>
+        <item quantity="one">gün</item>
+    </plurals>
+    <plurals name="back_dialog_health_check_content_des">
+        <item quantity="other">Cihazınızı %d gündür optimize etmediniz. Şimdi optimize edilsin mi?</item>
+        <item quantity="one">Cihazınızı %d gündür optimize etmediniz. Şimdi optimize edilsin mi?</item>
+    </plurals>
     <plurals name="count_likes">
         <item quantity="other">%s beğeni</item>
         <item quantity="one">%s beğeni</item>
