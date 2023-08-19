@@ -2941,6 +2941,8 @@ manzara moduna geçin"</string>
     <string name="install_sucess">%s başarıyla yüklendi</string>
     <string name="install_text">Yükle</string>
     <string name="install_title">USB üzerinden yükle</string>
+    <string name="install_tvm_component_desc">İşlemlerinizin güvenliğini sağlamak için telefon tuşu bileşeni eklentisini yükleyiniz</string>
+    <string name="install_tvm_component_title">Telefon tuşu bileşeni eklentisini kurun</string>
     <string name="install_type_instant">Hazır uygulama</string>
     <string name="installing">Yükleniyor</string>
     <string name="intercept_dimension_ratio">612:380</string>
@@ -4707,7 +4709,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="privacy_input_model_guide_choose">Çevrimdışı ses girişini indirin</string>
     <string name="privacy_input_model_guide_text">Bu özellik siz metin girerken gizliliğinizi korur. Bu özellik açıkken bazı ağ tabanlı işlevler kullanılamaz (Örneğin: Kişiselleştirme seçenekleri, emoji veya tahmine dayalı yazma)</string>
     <string name="privacy_input_model_tips">Güvenli giriş açık. Klavyeniz açılır pencereleri görüntüleyemez veya kişilere, konum bilgilerine ve arama geçmişine erişemez</string>
-    <string name="privacy_lab_empty">No features here yet</string>
+    <string name="privacy_lab_empty">Burada henüz özellik yok</string>
     <string name="privacy_location_info_summary">Konumunuza erişimi yönetin</string>
     <string name="privacy_location_info_title">Konum bilgisi</string>
     <string name="privacy_look_all_permission_status">Tüm izinler</string>
@@ -6300,6 +6302,9 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="tuesday_short">Sal</string>
     <string name="tuesday_shortest">Sal</string>
     <string name="turn_off_auto_correction">Otomatik senkronizasyonu kapat</string>
+    <string name="tvm_install_failed">Eklenti yüklenemedi</string>
+    <string name="tvm_install_successed">Eklenti başarıyla yüklendi</string>
+    <string name="tvm_version_too_low">Önce telefon tuşu bileşeni eklentisini güncelleyin</string>
     <string name="two_address_choose_hint">%1$s ve %2$s</string>
     <string name="txv_dnd_end_time_title">Bitiş zamanı</string>
     <string name="txv_dnd_start_time">0:00</string>
@@ -6333,6 +6338,8 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="untrust_app_perm_oaid">Sanal kimliğinize erişmesine izin ver</string>
     <string name="untrust_app_perm_title">Bilinmeyen bir kaynaktan uygulama</string>
     <string name="untrust_app_perm_warn">Bu uygulama bilinmeyen bir kaynaktan geliyor ve güvenlik riskleri oluşturabilir. Gizliliğinizden ödün vermek için aşağıda listelenen izinleri kullanabilir. Dikkatli bir değerlendirmeden sonra bu izinleri verin</string>
+    <string name="upgrade_tvm_component_desc">İşlemlerinizin güvenliğini sağlamak için telefon tuşu bileşeni eklentisini güncelleyin</string>
+    <string name="upgrade_tvm_component_title">Telefon tuşu bileşeni eklentisini güncelleyin</string>
     <string name="usage_sorted_activity_lable">Veri kullanımı</string>
     <string name="usage_sorted_empty_text">Boş</string>
     <string name="usage_sorted_loading_text">Yükleniyor</string>
@@ -6477,6 +6484,7 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="virus_app_type_uninstalled">Apk</string>
     <string name="virus_app_verison_text">Sürüm: %s</string>
     <string name="virus_auto_update_engine">Otomatik güncellemeler: %s</string>
+    <string name="virus_auto_update_engine_1">Tanımları otomatik olarak güncelle</string>
     <string name="virus_clear_dialog_title">Kötü amaçlı uygulamaları temizle</string>
     <string name="virus_detail_app">Virüs içerir</string>
     <string name="virus_detail_split_line_text"> | </string>

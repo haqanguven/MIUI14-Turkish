@@ -295,6 +295,7 @@
     <string name="common_home_search_delete_confirm">Kaldır</string>
     <string name="common_home_search_delete_content">Ana ekran arama çubuğunu kaldırdıktan sonra ana ekranda öğeleri arayamazsınız. Yine de kaldırılsın mı?</string>
     <string name="confirm_btn_label">Tamam</string>
+    <string name="content_center">İçerik merkezi</string>
     <string name="content_description_button_add">Mevcut uygulamalara eklemek için dokunun</string>
     <string name="content_description_button_disable">Daha fazla mevcut uygulama eklenemiyor</string>
     <string name="content_description_button_remove">Mevcut uygulamalardan kaldırmak için dokunun</string>
@@ -508,7 +509,12 @@
     <string name="icon_style">Stiller</string>
     <string name="in_app_result_by">Uygulama içi sonuçlar</string>
     <string name="install">Yükle</string>
-    <string name="intelligent_exposed_button_summary_text">Uygulamaları büyütülmüş klasörlerde vurgulamak için uygulama kullanımınıza dayalı akıllı önerileri kullanın</string>
+    <string name="intelligent_exposed_button_summary_text">Büyütülmüş klasörlerde uygulamaları önermek için uygulama kullanımınıza dayanan akıllı önerileri kullanın</string>
+    <string name="international_home_pull_down_content">Bu cihazda ve internette aramak için ana ekranda aşağı kaydırın</string>
+    <string name="international_home_pull_down_sub_content">Bu hareketi bunun yerine Ayarlar > Ana ekran > Ana ekranda aşağı kaydır menüsünde kontrol merkezini açmak için değiştirebilirsiniz</string>
+    <string name="international_home_pull_down_up_btn_get">Tamam</string>
+    <string name="international_home_pull_up_content">İçerik merkezini açmak için ana ekranda yukarı doğru kaydırın</string>
+    <string name="international_home_pull_up_sub_content">Aramayı açmak için ana ekranınızın ortasından aşağı kaydırın</string>
     <string name="item_view_role_description">Sekme</string>
     <string name="jeejen_description">"Daha büyük arayüz öğeleri
 Daha erişilebilir arama

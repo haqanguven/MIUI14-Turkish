@@ -2787,6 +2787,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="picker_title_specify_format">%d fotoğraf seç</string>
     <string name="picker_title_specify_format_one">%d fotoğraf seç</string>
     <string name="picker_title_unlimit">Fotoğraf seçin</string>
+    <string name="picture_not_support_privacy_watermark">Filigran eklenemiyor. Bu resim çok küçük</string>
     <string name="places_album_empty_title">Fotoğraflar konuma göre sıralanabilir</string>
     <string name="play_gif_desc">GIF oynat</string>
     <string name="play_video_desc">Video oynat</string>
@@ -3070,6 +3071,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="search_clear_histories">Temizle</string>
     <string name="search_connection_error">Ağa bağlanılamadı</string>
     <string name="search_connection_error_and_set">Ağ ayarlarını kontrol etmek için dokunun</string>
+    <string name="search_domestic_edit_hint">Fotoğraf ve video arayın</string>
     <string name="search_edit_hint">Dosya veya albüm arayın</string>
     <string name="search_empty_title">Galerinizdeki belirli kişiler, yerler ve nesnelerle fotoğraf bulun</string>
     <string name="search_error">Bir hata oluştu</string>
@@ -3747,6 +3749,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="title_dynamicfeature_story_7350">Feature_story_7350</string>
     <string name="title_dynamicfeature_story_8450">Feature_story_8450</string>
     <string name="title_dynamicfeature_story_8550">Feature_story_8550</string>
+    <string name="title_dynamicfeature_story_8650">Feature_story_8650</string>
     <string name="title_dynamicfeature_story_basefeature">Feature_story_basefeature</string>
     <string name="title_dynamicfeature_story_default">Feature_story_default</string>
     <string name="title_dynamicfeature_story_mtk">Feature_story_mtk</string>
