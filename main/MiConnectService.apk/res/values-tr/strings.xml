@@ -302,8 +302,6 @@ aynı wifi ağına bağlayın ve tekrar deneyin"</string>
     <string name="notification_scanning">Yakındaki cihazlar aranıyor</string>
     <string name="ok">Tamam</string>
     <string name="pm">ÖS</string>
-    <string name="rationale_ask">Bu uygulama istenen izinler olmadan düzgün çalışmayabilir</string>
-    <string name="rationale_ask_again">Bu uygulama istenen izinler olmadan düzgün çalışmayabilir. Uygulama izinlerini değiştirmek için uygulama ayarları ekranını açın</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>
@@ -399,7 +397,6 @@ aynı wifi ağına bağlayın ve tekrar deneyin"</string>
     <string name="time_picker_dialog_title">Saati ayarla</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
-    <string name="title_settings_dialog">İzinler gerekli</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>
     <string name="tuesday">Salı</string>

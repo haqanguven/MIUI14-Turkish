@@ -60,14 +60,17 @@
     <string name="ad_download_pause">Duraklat</string>
     <string name="ad_download_pending">Beklemede</string>
     <string name="ad_download_resume">Devam et</string>
+    <string name="ad_download_resume">Devam et</string>
     <string name="ad_downloading_tip">Bu öğe indiriliyor. İlerlemeyi bildirim çubuğunda görüntüleyebilirsiniz</string>
     <string name="ad_experience_now">Aç</string>
 	<string name="ad_in_downloading">İndiriliyor</string>
 	<string name="ad_in_installing">Yükleniyor</string>
 	<string name="ad_sub_textview_ad">Görüntü</string>
 	<string name="ad_sub_textview_divider">m</string>
+    <string name="ad_sub_textview_introduction">Tanıtım</string>
 	<string name="ad_sub_textview_permission">İzinler</string>
 	<string name="ad_sub_textview_privacy">Öncelik</string>
+    <string name="ad_sub_textview_version_with_colon">Sürüm:</string>
     <string name="ad_tag_text_1">Popüler</string>
     <string name="ad_tag_text_2">Moda</string>
     <string name="add">Ekle</string>

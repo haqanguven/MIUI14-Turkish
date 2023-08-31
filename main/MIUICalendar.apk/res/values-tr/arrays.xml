@@ -44,10 +44,10 @@
     </array>
     <string-array name="account_sync_frequency">
         <item>El ile</item>
-        <item>15 dakikada bir</item>
+        <item>Her %d dakikada bir</item>
         <item>Her saat</item>
-        <item>4 saatte bir</item>
-        <item>12 saatte bir</item>
+        <item>Her %d saatte bir</item>
+        <item>Her %d saatte bir</item>
     </string-array>
     <integer-array name="account_sync_frequency_value">
         <item>-1</item>
@@ -469,16 +469,6 @@
     <string-array name="libra_info">
         <item>libra</item>
         <item>Terazi</item>
-    </string-array>
-    <string-array name="locale_calendar_array">
-		<item>Yok</item>
-		<item>Geleneksel Çin takvimi</item>
-		<item>İslami takvim</item>
-		<item>İbrani takvimi</item>
-		<item>Japon takvimi</item>
-		<item>İran takvimi</item>
-		<item>Hint takvimi</item>
-		<item>Budist takvimi</item>
     </string-array>
     <string-array name="months">
         <item>@string/month_january</item>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Ayarlar</string>
+    <string name="app_name">Adım sağlayıcı</string>
+    <string name="booster_config_version">Güncel CC sürümü:</string>
+    <string name="cc_version">Mevcut bulut yapılandırma sürümü:</string>
+    <string name="connect_wifi">Kullanılabilir wifi bağlantısı yok</string>
+	<string name="end_title">Oyun bitti</string>
+    <string name="foreground_text">Önceliği artırmak için ön büro servisini kullanın</string>
+    <string name="foreground_title">Ön büro hizmeti</string>
+    <string name="hello_world">Selam dünya</string>
+    <string name="joyose_name">Joyose</string>
+    <string name="lab_switch_server">Sunucu değiştir</string>
+    <string name="not_resurge_title">Canlanıyor</string>
+    <string name="open_cta">Lütfen Güvenlik uygulamasını açın ve ayar bölümünde internet bağlantısına izin verin</string>
+    <string name="permstep_description">Bu uygulamanın adım sayınıza erişmesine izin verin</string>
+    <string name="permstep_label">Adım sayacı erişimi</string>
+    <string name="restart_later">Daha sonra</string>
+    <string name="restart_now">Şimdi yeniden başlat</string>
+    <string name="resurged_content">Hadi</string>
+    <string name="resurged_title">Yeniden canlandı</string>
+    <string name="stop_sync">Otomatik senkronizasyon yapma</string>
+    <string name="switch_international">Yurtdışı sunucusuna geç</string>
+    <string name="switch_to_official">Resmi sunucuya geç</string>
+    <string name="switch_to_russia">Rusya sunucusuna geç</string>
+    <string name="switch_to_staging">Test sunucusuna geç</string>
+    <string name="unknown_error">Bilinmeyen hata</string>
+    <string name="update_success">Başarıyla güncellendi</string>
+</resources>

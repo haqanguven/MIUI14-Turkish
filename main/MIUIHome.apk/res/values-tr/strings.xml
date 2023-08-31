@@ -957,6 +957,7 @@ Arttırılmış güvenlik"</string>
     <string name="switch_personal_assistant_app_vault">MIUI</string>
     <string name="switch_personal_assistant_google">Google</string>
     <string name="switch_personal_assistant_none">Hiçbiri</string>
+    <string name="switch_personal_assistant_summary">Google keşfeti açmak için Ana ekranda sağa kaydırın</string>
     <string name="switch_screen_button_order">Tuşları ters çevir</string>
     <string name="switch_screen_button_order_desc">Geri ve menü tuşlarının yerini değiştir</string>
     <string name="system_shortcuts_edit">Düzenle</string>
@@ -1039,7 +1040,7 @@ Arttırılmış güvenlik"</string>
     <string name="uninstall_xspace_dialog_message">Çift uygulamayı kaldırmak uygulama verilerin tamamını silecektir</string>
     <string name="uninstall_xspace_dialog_title_format">Çift %s uygulaması kaldırılsın mı?</string>
     <string name="unnamed_folder_name">Klasör</string>
-    <string name="unstable_dialog_message">"Bu cihaz Android 13 geliştirici önizleme programına kayıtlıdır. Program Android geliştiricilerinin ve meraklılarının Android 13'ün yayın öncesi sürümlerini denemelerine olanak tanır. Bu yayın öncesi sürüm cihazınızın normal çalışmasını etkileyebilecek hatalar ve kusurlar içerebilir"</string>
+    <string name="unstable_dialog_message">"Bu cihaz Android 14 geliştirici önizleme programına kayıtlıdır. Program Android geliştiricilerinin ve meraklılarının Android 13'ün yayın öncesi sürümlerini denemelerine olanak tanır. Bu yayın öncesi sürüm cihazınızın normal çalışmasını etkileyebilecek hatalar ve kusurlar içerebilir"</string>
     <string name="unstable_dialog_title">Android geliştirici önizleme programı</string>
     <string name="upgrade_remove_small_window_in_recents">Uygulamaları kayan pencerelerde açmak için kenar çubuğunu kullanabilirsiniz</string>
     <string name="v7_preference_off">Kapalı</string>

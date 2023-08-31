@@ -38,6 +38,8 @@
     <string name="act_find_city_hint">Konum girin</string>
     <string name="act_find_city_hot_attractions_title">Popüler konular</string>
     <string name="act_find_city_hot_city_title">Popüler şehirler</string>
+    <string name="act_find_city_location_button_text">Mevcut konumu al</string>
+    <string name="act_find_city_location_title">Mevcut konum</string>
     <string name="act_location_error_to_find_city">Konum bilgisi alınamadı. Manuel olarak şehir ekleyebilirsiniz</string>
     <string name="act_set_city_find_side">Konumlandırılıyor</string>
     <string name="act_set_city_find_side_error">Cihaz konumlandırılamadı</string>
@@ -133,6 +135,7 @@
     <string name="button_settings_confirm_to_revoke_msg">Yetkilendirmeyi iptal ettikten sonra hava durumunu kullanamazsınız</string>
     <string name="button_settings_confirm_to_revoke_title">Yetkilendirmeyi iptal etmek istiyor musunuz?</string>
     <string name="button_sure_abandon">Değişiklikler yoksayılsın mı?</string>
+    <string name="card_item_ad_introduction_text_view">Tanıtım</string>
     <string name="card_item_ad_permission_text_view">Yetki</string>
     <string name="card_item_ad_policy_text_view">Gizlilik</string>
     <string name="card_item_ad_popular">Popüler</string>
@@ -413,19 +416,15 @@ Devam etmeden önce %2$s'nin yeni sürümünü okuyun ve kabul edin"</string>
     <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
     <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
-    <string name="hourly_forecast_detail_chart_view_bubble_info_format">%1$s %2$s %3$s°</string>
     <string name="hourly_forecast_detail_chart_view_max_temperature_text">Yüksek</string>
     <string name="hourly_forecast_detail_chart_view_min_temperature_text">Düşük</string>
     <string name="hourly_forecast_detail_current_day_max_min_temperature_text">Yüksek %1$s° | Düşük %2$s°</string>
-    <string name="hourly_forecast_detail_current_day_real_temperature_text">%1$s°</string>
-    <string name="hourly_forecast_detail_temperature_axis_text">%1$s°</string>
-    <string name="hourly_forecast_detail_time_input_pattern">HH</string>
-    <string name="hourly_forecast_detail_time_output_pattern">HH:mm</string>
     <string name="hourly_forecast_title_24_hours_desc">24 saatlik hava tahmini</string>
     <string name="hourly_forecast_title_hourly_desc">saatlik hava tahmini</string>
     <string name="incognito_mode_dialog_confirm_text">Kapat</string>
     <string name="incognito_mode_dialog_summary">Gizlisin. Konum servisleri şu anda kullanılamıyor</string>
     <string name="incognito_mode_dialog_title">Gizlisin</string>
+    <string name="index_item_download_cancel">İndirmeyi iptal et</string>
     <string name="index_item_download_pause">İndirmeye devam et</string>
     <string name="index_item_download_pause_type_e">"İndirmeye
 devam et"</string>
@@ -836,7 +835,7 @@ aç"</string>
     <string name="v7_preference_on">Açık</string>
     <string name="video_dialog_no_play" />
     <string name="video_dialog_play" />
-    <string name="video_dialog_subtitle" />
+    <string name="video_dialog_subtitle">Mobil veri kullanıyorsunuz. Yine de video oynatılsın mı?</string>
     <string name="video_dialog_title" />
     <string name="view_forecast_item_yesterday">Dün</string>
     <string name="view_indexes_item_day_after_tommorrow">2 gun içinde</string>

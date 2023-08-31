@@ -68,10 +68,12 @@
     <string name="action_label">Geri dön</string>
     <string name="action_text_card_manager">İptal et</string>
     <string name="actionbar_button_up_description">Geri</string>
+    <string name="ad_card_appIntroduction">| Giriş</string>
     <string name="ad_card_appPermission">| Yetki</string>
     <string name="ad_card_appPrivacy">| Gizlilik</string>
     <string name="ad_card_appVersion">Sürüm: %1$s</string>
     <string name="ad_card_app_size_text">%dM</string>
+    <string name="ad_card_cancel_install">İndirmeyi iptal et</string>
     <string name="ad_card_down">Şimdi indir</string>
     <string name="ad_card_download_count">%1$d kişi indirdi</string>
     <string name="ad_card_download_count_million">%1$d milyon indirdi</string>
@@ -101,6 +103,7 @@
     <string name="agenda_not_today_empty_hint">Burada henüz etkinlik yok. Bir tane oluşturmak için dokunun</string>
     <string name="agenda_tomorrow">Yarın, %1$s</string>
     <string name="agenda_view">Etkinlikler</string>
+    <string name="alarm_close_reminder">Alarm hatırlatıcıyı kapat</string>
     <string name="alarm_label">Tamam</string>
     <string name="alarm_open_reminder">Alarm ayarla</string>
     <string name="alarm_reminder_already">Alarm başarıyla kuruldu</string>
@@ -343,15 +346,15 @@
     <string name="date_today">" (Bugün)"</string>
     <string name="date_view">Tarih</string>
     <string name="day_view_new_event_hint">+ Yeni etkinlik</string>
-	<string name="default_reminder_labels_day">%d gün önce</string>
-	<string name="default_reminder_labels_days">%d gün önce</string>
-	<string name="default_reminder_labels_hour">%d saat önce</string>
-	<string name="default_reminder_labels_ minutes">%d dakika önce</string>
-	<string name="default_reminder_labels_start">Etkinlik zamanında</string>
-	<string name="default_reminder_labels_week">%d hafta önce</string>
+    <string name="default_reminder_labels_day">%d gün önce</string>
+    <string name="default_reminder_labels_days">%d gün önce</string>
+    <string name="default_reminder_labels_hour">%d saat önce</string>
+    <string name="default_reminder_labels_minutes">%d dakika önce</string>
+    <string name="default_reminder_labels_start">Etkinlik zamanında</string>
+    <string name="default_reminder_labels_week">%d hafta önce</string>
     <string name="default_reminder_later_time">Daha sonra hatırlatma aralığı</string>
-	<string name="default_reminder_later_time_hours">Her %d saatte bir</string>
-	<string name="default_reminder_later_time_ minutes">Her %d dakikada bir</string>
+    <string name="default_reminder_later_time_hours">Her %d saatte bir</string>
+    <string name="default_reminder_later_time_minutes">Her %d dakikada bir</string>
     <string name="default_reminder_mode">Hatırlatıcılar</string>
     <string name="define_cert4android" />
     <string name="define_ical4android" />
@@ -364,7 +367,7 @@
     <string name="description_calendar_huangli" />
     <string name="description_calendar_subscribe_group" />
     <string name="di_zhi">Yer desteği</string>
-    <string name="dialog_ding_allow">İzin ver</string>
+    <string name="dialog_ding_allow">Tamam</string>
     <string name="dialog_ding_cancel">İptal et</string>
     <string name="dialog_ding_title">Takvimden çıkmak üzeresiniz</string>
     <string name="dialog_share_agree">Kabul et</string>
@@ -588,9 +591,6 @@
     <string name="gas_detail_title">Doğal gaz ödemesi</string>
     <string name="gas_event_delete_successfully">Doğal gaz ödeme etkinliği başarıyla silindi</string>
     <string name="gas_interval_label">Fatura dönemi</string>
-    <string name="global_festival_for_chinese">Çin tatilleri</string>
-    <string name="global_festival_list_added">Eklendi</string>
-    <string name="global_festival_list_not_added">Mevcut</string>
     <string name="go_open">Ayarlar</string>
     <string name="go_to_set">Ayarlar</string>
     <string name="google_application_id" />
@@ -958,7 +958,6 @@
 Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="no_network_btn">Yeniden deneyin</string>
     <string name="no_network_tips">İnternet yok</string>
-    <string name="no_schedule_today">No events today</string>
     <string name="no_title_label">(Başlık yok)</string>
     <string name="no_visiable_calendar_message">Bir takvim hesabı eklemeniz gerekmektedir. Devam etmek için hesap ekle seçeneğine dokunun</string>
     <string name="no_visiable_calendar_message_only_for_xiaomi_account">Bir takvim hesabı eklemeniz gerekiyor. Devam etmek için hesap ekle seçeneğine dokunun</string>
@@ -1351,16 +1350,13 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="setting_daysoff_update_success">Başarıyla güncellendi</string>
     <string name="setting_desc_import_todo">Zamanlanmış görevleri notlardan alın</string>
     <string name="setting_features_title">Özellik ayarları</string>
-    <string name="setting_global_festival">Dünya tatilleri</string>
     <string name="setting_holiday_display_desc">Tatil kartlarınız ana sayfada ajandanızın altında görüntülenir</string>
     <string name="setting_holiday_reminder">Tatil hatırlatıcı</string>
     <string name="setting_import_events">Etkinlikleri içe aktar</string>
-    <string name="setting_other_calendar_title">Diğer takvimler</string>
     <string name="setting_others">Ek</string>
     <string name="setting_recommend">Özellik önerisi</string>
     <string name="setting_recommend_summary">Ev aboneliği öneri portalı</string>
     <string name="setting_show_reject_agenda">Reddedilen etkinlikleri göster</string>
-    <string name="setting_show_week_number">Hafta numarasını göster</string>
     <string name="setting_sms_import">Mesaj etkinliklerini içe aktar</string>
     <string name="setting_title_about">Hakkında</string>
     <string name="setting_title_ai_time_parser">Program zamanının akıllıca çıkarılması</string>
@@ -1506,8 +1502,6 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="sunday_shortest">P</string>
     <string name="swipe_up_guide_hint_text">Daha fazlasını keşfetmek için yukarı kaydırın</string>
     <string name="switch_orientation_desc">Ekran yönü</string>
-    <string name="tab_month_view">Ay görünümü</string>
-    <string name="tab_three_day_view">Üç günlük görünüm</string>
     <string name="tab_title_agenda">Etkinlikler</string>
     <string name="tab_title_day">Gün</string>
     <string name="tab_title_month">Ay</string>
@@ -1516,8 +1510,6 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="tab_view_month">Ay</string>
     <string name="tab_view_week">Hafta</string>
     <string name="tab_view_year">Yıl</string>
-    <string name="tab_week_view">Hafta görünümü</string>
-    <string name="tab_year_view">Yıl görünümü</string>
     <string name="tag_action_bar_in_feed">action_bar_in_feed</string>
     <string name="tag_feed_list_container">feed_list_container</string>
     <string name="taishen">Fetal tanrı</string>
