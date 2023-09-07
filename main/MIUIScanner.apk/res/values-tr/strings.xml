@@ -242,6 +242,7 @@
     <string name="crop_title_translation">Tercüme edilecek metni seçin</string>
     <string name="cropping">Kırpılıyor</string>
     <string name="current_word_is_locked">Mevcut kelime kilitlendi</string>
+    <string name="customer_service_call">Müşteri hizmetleri yardım hattı</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -897,6 +898,8 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="required_permissions">android.permission.x;</string>
     <string name="reshoot">Yeniden çek</string>
     <string name="result_of_identifying_text_is_empty">Metin tanınamadı</string>
+    <string name="satisfaction_research">Memnuniyet anketi</string>
+    <string name="satisfaction_research_questionnaire">Xiaoai görsel kullanıcı memnuniyeti anketi anketi: &lt;br>&lt;font color=\"#0D84FF\">%s&lt;/font>&lt;br></string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>

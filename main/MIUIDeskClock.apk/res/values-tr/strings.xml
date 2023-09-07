@@ -32,6 +32,7 @@
     <string name="add_clock">Saat ekle</string>
     <string name="add_timer">Sık zamanlayıcı</string>
     <string name="afternoon">Öğleden sonra</string>
+    <string name="alarm_alert">Alarm çalıyor</string>
     <string name="alarm_alert_close_entrance">Kapat</string>
     <string name="alarm_alert_now">%s alarm</string>
     <string name="alarm_alert_snooze_button">Ertele</string>
@@ -339,17 +340,17 @@
     <string name="miui_digital_clock_dot">:</string>
     <string name="miui_lock_screen_date">dd MMM EEE</string>
     <string name="miui_lock_screen_date_12">dd MMM EEE</string>
-    <string name="miui_lock_screen_date_two_lines">"dd MMM\u000d
+    <string name="miui_lock_screen_date_two_lines">"dd MMM
 EEE"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"dd MMM\u000d
+    <string name="miui_lock_screen_date_two_lines_12">"dd MMM
 EEE"</string>
-    <string name="miui_lock_screen_large_date">"d/M\u000d
+    <string name="miui_lock_screen_large_date">"d/M
 EEE"</string>
-    <string name="miui_lock_screen_large_date_12">"d/M\u000d
+    <string name="miui_lock_screen_large_date_12">"d/M
 EEE"</string>
-    <string name="miui_vertical_time_format_12">"hh\u000d
+    <string name="miui_vertical_time_format_12">"hh
 mm"</string>
-    <string name="miui_vertical_time_format_24">"HH\u000d
+    <string name="miui_vertical_time_format_24">"HH
 mm"</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
@@ -552,6 +553,7 @@ mm"</string>
     <string name="sleep_time">Uyuyakalma</string>
     <string name="sleep_wake_time">%1$s-%2$s</string>
     <string name="slider_text_new">Durdurmak için yukarı kaydırın</string>
+    <string name="snooze_alarm_alert">%s tarihine kadar ertelendi</string>
     <string name="snooze_duration">Ertele</string>
     <string name="snooze_duration_title">Ertele</string>
     <string name="snooze_duration_value">Aralık (Dakika)</string>
@@ -656,6 +658,8 @@ mm"</string>
     <string name="timer_alert_mute_off">Zamanlayıcı durduğunda alarm çalar</string>
     <string name="timer_alert_mute_on">Zamanlayıcı durduğunda alarm çalmaz</string>
     <string name="timer_alert_mute_switch">Zamanlayıcı alarmlarını susturmak için etkinleştirin</string>
+    <string name="timer_alert_pause">Zamanlayıcı duraklatıldı</string>
+    <string name="timer_alert_running">Zamanlayıcı çalışıyor</string>
     <string name="timer_can_continue_in_timer">Devam etmek için zamanlayıcıyı açın</string>
     <string name="timer_cancel_hint">Durdur</string>
     <string name="timer_cancel_timer">Zamanlayıcıyı iptal et</string>
