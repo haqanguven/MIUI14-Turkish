@@ -1408,6 +1408,7 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="selected_resource_file_invalid">Seçilen kaynak dosyası kullanılamıyor</string>
     <string name="send">Gönder</string>
     <string name="server_internal_error">Bir sunucu hatası oluştu. Bir iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="server_message">Müşteri hizmetleri yardım hattı: 400–100–5678</string>
     <string name="set_as_colorring">Özel zil sesi olarak ayarla</string>
     <string name="set_calling">Ayarla</string>
     <string name="set_color_ring_back_tone">Özel zil sesi ayarla</string>

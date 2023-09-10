@@ -491,7 +491,7 @@
     <string name="home_gesture_content_center">İçerik merkezi</string>
     <string name="home_gesture_global_search">Ara</string>
     <string name="home_gesture_no_action">Yok</string>
-    <string name="home_gesture_notification_and_control_center">Notification shade and Control center</string>
+    <string name="home_gesture_notification_and_control_center">Bildirim gölgesi ve kontrol merkezi</string>
     <string name="home_gesture_notification_bar">Bildirimler</string>
     <string name="home_indicator">bottom_point</string>
 	<string name="home_pull_down_content">Bu cihazda ve çevrimiçi olarak öğe aramak için ana ekranda aşağı kaydırın</string>

@@ -84,6 +84,10 @@
         <item quantity="other">%d video</item>
         <item quantity="one">%d video</item>
     </plurals>
+    <plurals name="local_longpress_speed_chenge_tip">
+        <item quantity="other">%sX hızında oynatılıyor. Normal hızda oynatmak için bırakın</item>
+        <item quantity="one">%sX hızında oynatılıyor. Normal hızda oynatmak için bırakın</item>
+    </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d klasör</item>
         <item quantity="one">%d klasör</item>

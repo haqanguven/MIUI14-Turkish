@@ -314,11 +314,6 @@
         <item>Mi hesap yardımı ve desteği alın</item>
         <item>Xiaomi;Hesap;Mi hesabı;Yardım;Destek;Görünüm</item>
     </string-array>
-    <string-array name="settings_search_login_2_step_verify">
-        <item>2 adımlı doğrulama</item>
-        <item>Mi hesabınız için 2 adımlı doğrulamayı ayarlayın</item>
-        <item>Giriş yapın;Giriş yapın;2 adımlı;doğrulama;Xiaomi;Hesap;Mi hesabı;Ayarlar</item>
-    </string-array>
     <string-array name="settings_search_login_and_security">
         <item>Oturum açma ve güvenlik</item>
         <item>Kurtarma telefonu, e-postas ve şifre yönetimi</item>

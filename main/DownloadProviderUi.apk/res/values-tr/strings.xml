@@ -296,6 +296,7 @@
     <string name="install">Yükle</string>
     <string name="installing">Yükleniyor</string>
     <string name="insufficient_space">Yeterli depolama alanı yok</string>
+    <string name="introduction">Tanıtım</string>
     <string name="invalid_address">Girmiş olduğunuz dosya konumu geçersiz</string>
     <string name="jump_rank_hint">Bugünün indirme derecelerine göz atın ></string>
     <string name="jump_rank_hint2">En çok indirilenleri görüntüle</string>

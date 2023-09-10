@@ -120,6 +120,9 @@
     <string name="auth_fail_warning">Oturumun süresi doldu. Tekrar oturum açın</string>
     <string name="auto_play_next_off">Otomatik oynatma kapalı</string>
     <string name="auto_play_next_on">Otomatik oynatma açık</string>
+    <string name="back_recommend_exchange">Görüntüle</string>
+    <string name="back_recommend_exit">Çıkış</string>
+    <string name="back_recommend_title">Daha popüler videolara göz atın</string>
     <string name="back_to_mainpage">Keşfet</string>
     <string name="background_playback_enabled">Arka planda oynatma açık</string>
     <string name="before_yestoday_new">%d gün önce</string>
@@ -815,6 +818,7 @@ Bu işlem galeri resimlerinizi etkilemez"</string>
     <string name="hidden_channels">Aşağıdaki kanallar ana ekranda görüntülenmeyecek</string>
     <string name="hide">Gizle</string>
     <string name="hide_bottom_view_on_scroll_behavior">android.support.design.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="hide_video_toast">Bu öğe gizlendi. Gizli öğeleri Yerel > Klasörler > Gizli öğeler bölümünde bulabilir ve yönetebilirsiniz</string>
     <string name="hint_icon_ad_title">Önerilen</string>
     <string name="hint_in_mivideo">Ek özellikler için yan paneli şimdi kontrol edebilirsiniz</string>
     <string name="history">Geçmiş</string>
@@ -928,6 +932,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="local_hide_folder_dialog_title">Gizli videolar</string>
     <string name="local_hide_folder_setting_goto">Ayarlar</string>
     <string name="local_hide_folder_setting_tip">Gizli videoları Profil > Ayarlar > Gizli videoları yönet menüsünden yönetebilirsiniz.</string>
+    <string name="local_new_user_speed_guide">Oynatma hızını ayarlamak için basılı tutun ve kaydırın</string>
     <string name="local_play_end_camera_title">Daha fazla video görüntüle</string>
     <string name="local_play_end_close_tip">Öneriler bugün tekrar gösterilmeyecek</string>
     <string name="local_play_end_download_drag_up_guide">İndirmek için dokunun veya kaydırın</string>
@@ -938,6 +943,14 @@ tercih ettiğiniz dili seçin"</string>
     <string name="local_push_setting_power_tag">Yerel videolar hakkında bildirimler</string>
     <string name="local_push_title">Bugünün popülerleri</string>
     <string name="local_push_video_title">Yeni yerel videoları tara</string>
+<string name="local_reset_confirm">Tekrar girin</string>
+     <string name="local_reset_error_dif_info">Yeni Pin eskisiyle aynı olamaz</string>
+     <string name="local_reset_error_wrong_info">"Pin'ler eşleşmiyor. Tekrar deneyin"</string>
+     <string name="local_reset_new_password">"Yeni Pin'i girin"</string>
+     <string name="local_reset_old_password">"Geçerli Pin'i girin"</string>
+     <string name="local_reset_password_done">Pin başarıyla değiştirildi</string>
+     <string name="local_reset_password_title">"Pin'i değiştir"</string>
+     <string name="local_reset_tips">"%d basamaklı Pin'i girin"</string>
     <string name="local_stretch_zoom_mode">Resim uzatıldı</string>
     <string name="local_subtitle_choose_language_text">Dil</string>
     <string name="local_subtitle_exemption_hint">opensubtitle.org üzerinden altyazı arayın</string>
@@ -1106,6 +1119,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="material_timepicker_text_input_mode_description">Zaman girişi için metin girişi moduna geçin.</string>
     <string name="mediation_ad">Reklam</string>
     <string name="mediation_ad_can_not_share">Bu video paylaşılamıyor</string>
+    <string name="mediation_russian_ad">Reklam</string>
     <string name="member">VIP</string>
     <string name="message_notify">Yeni mesaj bildirimi</string>
     <string name="mgmi_ad_mid_wait">Mola verin. Daha sonra devam edin</string>
@@ -1319,6 +1333,9 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="music_new_user_dialog_tip">Videolara hoş geldiniz. Bu uygulama yerel bir video oynatıcı ve çevrim içi müzik ve video akışı hizmetleri sunar</string>
     <string name="my_favorite_channels">Favori kanallarım</string>
     <string name="my_feedback_title">Geri bildirimim</string>
+    <string name="native_body">Vücut</string>
+    <string name="native_headline">Başlık</string>
+    <string name="native_media_view">Medya görünümü</string>
     <string name="need_update_app">Tüm özelliklerinden faydanalanabilmek için videolar uygulamasını güncelleyin</string>
     <string name="network_connect_info">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
 	<string name="network_error_and_retry_tip">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
@@ -1779,6 +1796,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="sign_in_mi_account">Mi hesabı ile oturum açın</string>
     <string name="sign_in_progress">Oturum açılıyor</string>
     <string name="sign_in_title">Mi hesabında oturum aç</string>
+    <string name="skip_ad">Atla</string>
     <string name="slid_fail_message">Video kaydedilemedi</string>
     <string name="slide_save_message">Video oluşturuluyor</string>
     <string name="small_video_load_more_hint">Daha fazla video oynatmak için yukarı kaydırın</string>
@@ -2087,6 +2105,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="vp_replay">Yeniden oynat</string>
     <string name="vp_upcoming_auto_play">Otomatik oynatma</string>
     <string name="vp_upcoming_title">Sıradaki</string>
+    <string name="watermark_label_prefix">"AdMob - "</string>
     <string name="website_button_add_bookmarks">Yer imi ekle</string>
     <string name="wechat_application_id" />
     <string name="wechat_scope" />
