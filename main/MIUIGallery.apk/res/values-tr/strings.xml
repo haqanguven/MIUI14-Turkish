@@ -1133,6 +1133,7 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="creativity_title">Yaratıcılık</string>
     <string name="crop_label">Kesilen fotoğraflar</string>
     <string name="cta_agreement_declare">Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl kullandığımızı tam olarak anlamak için bu uygulamayı kullanmadan önce <a href="%1$s">Kullanıcı sözleşmemizi</a> ve <a href="%2$s">Gizlilik politikamızı</a> okuyun ve kabul edin</string>
+    <string name="cta_hybrid_feedback_network_declare">En sık karşılaşılan sorunların çözümlerini görüntülemek için önce bu uygulamanın ağa bağlanmasına izin verin</string>
     <string name="cta_network_declare">Fotoğrafları ve videoları Xiaomi bulut ile senkronize etmek için bu uygulamanın internete bağlanması gerekiyor</string>
     <string name="cta_screenthrow_declare">Bu cihazın ekranını harici monitörlere aktarabilmek için bu uygulamanın internete bağlanması gerekiyor</string>
     <string name="custom_select_title_deselect_all">Seçimi kaldır</string>
