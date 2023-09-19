@@ -463,10 +463,6 @@ Bu tür izinleri vermeyi kabul etmezseniz Xiaomi bağlantı hizmetlerini kullana
     <string name="other_settings_ad_disable_summary">Reklamları kişiselleştirmek için aç</string>
     <string name="other_settings_ad_enable">Kişiselleştirilmiş reklam tavsiyesi</string>
     <string name="other_settings_ad_enable_summary">Davranış verilerinize dayalı kişiselleştirilmiş reklamlar önerin</string>
-	<string name="other_settings_alarm_assistance">Acil durum konumu</string>
-	<string name="other_settings_alarm_assistance_privacy">Gizlilik Politikası</string>
-	<string name="other_settings_alarm_assistance_summary">"110, 120, 119 veya 122'yi ararken konum bilginizi mesaj veya mobil veri kullanarak otomatik olarak polise gönderebilirsiniz. Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik politikamızı&lt;/a> okuyun ve kabul edin"</string>
-	<string name="other_settings_alarm_assistance_user">Kullanıcı sözleşmesi</string>
     <string name="other_settings_auto_update">Otomatik olarak yükle</string>
     <string name="other_settings_auto_update_summary">MIUI güncellemeleri yüklemek için en iyi zamanı seçer</string>
     <string name="other_settings_auto_update_summary_v1">"MIUI'nin güncellemeleri indirmek ve yüklemek için en iyi zamanı seçmesine izin verin. Değişiklikleri uygulamak için cihazınız otomatik olarak yeniden başlatılacaktır"</string>

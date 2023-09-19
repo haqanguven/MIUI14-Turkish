@@ -690,7 +690,6 @@
     <string name="more">Daha fazla</string>
     <string name="morning">ÖÖ</string>
     <string name="night">ÖS</string>
-    <string name="no_network">Ağa bağlanılamıyor</string>
     <string name="no_sim">Sim kart bulunamadı</string>
     <string name="noon">ÖS</string>
     <string name="not_set">Ayarlanmadı</string>
@@ -1072,6 +1071,8 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir"</string>
     <string name="web_sso_login_fail">Yeniden oturum açmanız gerekiyor</string>
     <string name="web_sso_login_message">Oturum açılıyor</string>
     <string name="webview_reload">Tekrar deneyin</string>
+    <string name="web_view_reload_description_text">"Ağa bağlanılamadı
+Ağ ayarlarınızı kontrol edip tekrar deneyin"</string>
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
