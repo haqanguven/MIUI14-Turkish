@@ -331,6 +331,7 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="backup_automatically_title">Otomatik yedekle</string>
     <string name="backup_battery_low_desc">Öğeleri yine de yedeklemeyi seçebilirsiniz</string>
     <string name="backup_battery_low_title">Yedekleme düşük pil seviyesi nedeniyle duraklatıldı</string>
+    <string name="backup_category_title">Yedek</string>
     <string name="backup_close">Yedeklemeyi kapat</string>
     <string name="backup_cloud_space_low_btn_text">Daha fazla alan edin</string>
     <string name="backup_cloud_space_low_desc">%1$s Xiaomi bulut alanı | %2$s kullanılabilir</string>
@@ -346,7 +347,10 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="backup_dirty_num">Toplam: %s</string>
     <string name="backup_dirty_tip">Yedeklenmiş fotoğraf veya video yok</string>
     <string name="backup_disable_message">Bulutla eşitlemeyi kapattığınız için galerinin uygulama önbelleğini temizlemesi gerekiyor</string>
+    <string name="backup_display">Depolama hatırlatıcıları</string>
     <string name="backup_file_over_size_desc">"%1$s'den büyük boyutlu fotoğraflar ve %2$s'den büyük boyutlu videolar yedeklenemez"</string>
+    <string name="backup_google_description">Fotoğraflarınızı Google hesabınıza yedekleyerek güvende tutun</string>
+    <string name="backup_google_name">Google fotoğraflar</string>
     <string name="backup_immediately">Yedekle</string>
     <string name="backup_need_sync_desc">Yedeklemeye devam etmek için dokunun</string>
     <string name="backup_need_sync_title">Yedekleme işlemi durduruldu</string>
@@ -356,7 +360,11 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="backup_no_wifi_btn_text">Mobil veri kullan</string>
     <string name="backup_no_wifi_desc">Öğeleri mobil veri kullanarak da yedekleyebilirsiniz</string>
     <string name="backup_no_wifi_title">Wifi ağına bağlanmak için dokunun</string>
-    <string name="backup_only_in_wifi">Fotoğraf ve videoları sadece wifi ile yedekle</string>
+    <string name="backup_off_des">Fotoğrafları ve videoları otomatik olarak yedeklemek için bulutla senkronizasyonu açın</string>
+    <string name="backup_onedrive_description">Fotoğraflarınızı bulutta koruyun ve onlara herhangi bir cihazdan erişin</string>
+    <string name="backup_onedrive_name">Microsoft OneDrive</string>
+    <string name="backup_onedrive_single_name">OneDrive</string>
+    <string name="backup_only_in_wifi">Fotoğrafları ve videoları senkronize etmek için yalnızca wifi ağını kullanın</string>
     <string name="backup_only_in_wifi_summary">Fotoğraf veya videoları yedeklemek için hiçbir zaman mobil veriyi kullanmaz</string>
     <string name="backup_only_wifi_dialog_message">Fotoğrafları ve videoları yedeklemek için mobil veri kullanıyor musunuz?</string>
     <string name="backup_pause">Yedeklemeyi duraklat</string>

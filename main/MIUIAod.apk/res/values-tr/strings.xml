@@ -530,6 +530,8 @@ EE"</string>
     <string name="signature">İmza</string>
     <string name="signature_default_content">"Daima harika bir şeyin
 olacağına inan"</string>
+						    <string name="smart_style">Akıllı</string>
+    <string name="smart_style_summary">Cihazınızın cebinizde olduğu, ortam ışığının uzun süre düşük olduğu veya cihazınıza bakmadığınız durumlar dışında öğeleri her zaman görüntüleyin</string>
     <string name="solar_term_autumn_begins">Sonbahar başlıyor</string>
     <string name="solar_term_autumn_equinox">Sonbahar ekinoksu</string>
     <string name="solar_term_clear_and_bright">Açık ve parlak</string>

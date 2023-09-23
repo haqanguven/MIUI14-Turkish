@@ -64,6 +64,7 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="ad_close">Kapat</string>
     <string name="ad_data_exception">Reklam veri hatası</string>
+    <string name="ad_flag_text">Reklam</string>
     <string name="ad_recommend">Önerilenler</string>
     <string name="ad_setting">Ek ayarlar</string>
     <string name="add">Ekle</string>
@@ -701,8 +702,9 @@
     <string name="gcm_defaultSenderId">948829309969</string>
     <string name="gcm_fallback_notification_channel_label">Çeşitli</string>
     <string name="get_more_favorite_content_after_login">Daha fazla şarkı ve videoyu keşfetmek için oturum açın</string>
-    <string name="get_one_day_vip">%d-günlük VIP üyelik aldınız</string>
-    <string name="get_one_hour_vip">%d-saatlik VIP üyelik aldınız</string>
+    <string name="get_one_day_vip">%d günlük VIP üyelik aldınız</string>
+    <string name="get_one_hour_vip">%d saatlik VIP üyelik aldınız</string>
+    <string name="get_one_minute_vip">%d dakikalık VIP üyelik kazandınız</string>
     <string name="get_vip">VIP üyelik al</string>
     <string name="go_agree">Tamam</string>
     <string name="google_account_login">Google ile giriş yap</string>
@@ -1179,8 +1181,9 @@
     <string name="offline_opt_in_message">Size reklamverenin sitesine bir bağlantının olduğu bildirim göndereceğiz</string>
     <string name="offline_opt_in_title">İnternete tekrar bağlandığınızda reklamı açın.</string>
     <string name="ok">Tamam</string>
-    <string name="one_day_vip">%d-günlük VIP</string>
-    <string name="one_hour_vip">%d-saatlik VIP</string>
+    <string name="one_day_vip">%d günlük VIP</string>
+    <string name="one_hour_vip">%d saatlik VIP</string>
+    <string name="one_minute_vip">%d dakikalık VIP</string>
     <string name="online_apk_acquired">Yüklendi: %%%d</string>
     <string name="online_apk_acquiring">Yükleniyor: %%%d</string>
     <string name="online_apk_download_error_no_enough_space">Yetersiz depolama alanı nedeniyle indirilemedi</string>
@@ -1503,6 +1506,7 @@ mutlu ol"</string>
     <string name="retry_after_network_available">Ağa bağlanamıyor. Veri bağlantınızı kontrol edin ve tekrar deneyin</string>
     <string name="retry_download">Tekrar dene</string>
     <string name="revoke_upload_playlist_to_hungama_toast">Çevrimiçi şarkılar Hungama ile senkronize edilmeyecek</string>
+    <string name="reward_received">VIP üyelik kazandınız</string>
     <string name="ringtone_editing">Zil sesi düzenleyici</string>
     <string name="ringtone_not_support">Bu şarkının formatı desteklenmiyor</string>
     <string name="ringtone_selected">Seçildi</string>
@@ -1596,6 +1600,7 @@ mutlu ol"</string>
     <string name="similar_songs">Benzer şarkılar</string>
     <string name="similar_videos">Benzer videolar</string>
     <string name="skip">Atla</string>
+    <string name="skip_ad">Atla</string>
     <string name="sleep_mode">Uyku modu</string>
     <string name="sleep_mode_canceled">Uyku modu kapatıldı</string>
     <string name="sleep_mode_summary">Ayarlanan süre bitince oynatıcı durdurulur</string>
@@ -1834,6 +1839,7 @@ mutlu ol"</string>
     <string name="v7_preference_on">Açık</string>
     <string name="version_info">Sürüm</string>
     <string name="vhigh_sound_quality">HD</string>
+    <string name="video_loading_fail">Video yüklenemedi</string>
     <string name="video_play_cellular">Cihazınız wifi ağına bağlı değil. Mobil veri kullanılsın mı?</string>
     <string name="video_replay_btn">Tekrar oynat</string>
     <string name="video_retry_btn">Yeniden dene</string>
@@ -1842,6 +1848,8 @@ mutlu ol"</string>
     <string name="vip_required_with_song">Ayrıcalıklı şarkı paketindeki %s sizin olsun. Şimdi bu şarkı atlandı</string>
     <string name="voice_search_first_hint">Sesli aramayı deneyin</string>
     <string name="watch_video">Video izle</string>
+    <string name="web_reward_dialog_cancle">İptal et</string>
+    <string name="web_reward_dialog_ok">Çıkış</string>
     <string name="wechat_application_id" />
     <string name="wechat_scope" />
     <string name="wechat_state" />
@@ -1867,16 +1875,6 @@ mutlu ol"</string>
 Daha sonraki bir zamanda wifi ağına bağlanırsanız %s dokunarak indirebilirsiniz"</string>
     <string name="wifi_required_title">Şebeke ağı için çok büyük indirme</string>
     <string name="xiaomi_privacy_policy_url">https://privacy.mi.com/all/</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">İndirme yöneticisine bağlanma başarısız oldu. Lütfen ıygulama yönetimindeki indirme yöneticisi durumunu kontrol edin</string>
-    <string name="xiaomi_update_sdk_dialog_message">"Tanıtımı sürümü: %1$s
-Boyut: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">"Tanıtımı sürümü: %1$s
-Delta güncelleme boyutu: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_title">%1$s güncelleme</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Depolama kullanılamıyor. Lütfen SD kartı kontrol edin</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="yandex_ads_context">yandex:ads:context</string>
     <string name="yandex_ads_context_allow_parsing">allow-parsing</string>
     <string name="yandex_ads_context_do_not_parse">do-not-parse</string>
@@ -1929,5 +1927,6 @@ Delta güncelleme boyutu: %2$s"</string>
     <string name="youtube_tab_explore">Keşfet</string>
     <string name="youtube_tab_playlist">Oynatma listeleri</string>
     <string name="youtube_tab_radar">Radar</string>
-    <string name="youtube_tab_trend">Trend</string>
+    <string name="youtube_tab_shorts">Kısalar</string>
+    <string name="youtube_tab_trend">Trendler</string>
 </resources>
