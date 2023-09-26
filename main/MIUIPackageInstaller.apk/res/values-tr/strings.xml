@@ -305,6 +305,7 @@
     <string name="face_verify_retry_tips">Lütfen tıklayın ve tekrar deneyin</string>
     <string name="facebook_application_id" />
     <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
+    <string name="features_introduce">&lt;u>Özellikler&lt;u/></string>
     <string name="fingerprint_authrioze_done">Doğrulama tamamlandı</string>
     <string name="fingerprint_authrioze_retry">Lütfen tekrar deneyin</string>
     <string name="fingerprint_authrioze_tips">Lütfen parmak izinizi sensöre yerleştirin</string>
@@ -434,7 +435,7 @@
     <string name="m3_sys_motion_easing_standard_decelerate">cubic-bezier(0.0, 0.0, 0.0, 1.0)</string>
     <string name="manage_device_administrators">Cihaz yöneticilerini yönet</string>
     <string name="manage_users">Kullanıcıları yönet</string>
-    <string name="marketSdkVersion">3.2.22</string>
+    <string name="marketSdkVersion">3.2.26</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">ÖÖ veya ÖS seçin</string>
     <string name="material_hour_selection">Saat seçin</string>

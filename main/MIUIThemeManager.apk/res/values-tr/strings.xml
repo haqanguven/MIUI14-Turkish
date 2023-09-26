@@ -65,6 +65,7 @@
     <string name="ad_experience_now">Aç</string>
 	<string name="ad_in_downloading">İndiriliyor</string>
 	<string name="ad_in_installing">Yükleniyor</string>
+    <string name="ad_installing">Yükleniyor</string>
 	<string name="ad_sub_textview_ad">Görüntü</string>
 	<string name="ad_sub_textview_divider">m</string>
     <string name="ad_sub_textview_introduction">Tanıtım</string>
