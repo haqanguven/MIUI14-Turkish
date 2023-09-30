@@ -46,8 +46,12 @@
     <string name="add_timing">Zamanlayıcı</string>
     <string name="add_to_block_by_number">"%s engellenenler
 listesine eklendi"</string>
+    <string name="add_to_block_by_number_failed">"%s engellenenler listesine eklenemedi
+Tekrar deneyin"</string>
     <string name="add_to_block_by_tag">"%s içeren mesajlar
 engellenenler listesine eklendi"</string>
+    <string name="add_to_block_by_tag_failed">"%s içeren mesajlar engelleme listesine eklenemedi
+Tekrar deneyin"</string>
     <string name="add_to_browser_favorite_failed">Eklenemedi</string>
     <string name="add_to_browser_favorite_success">Başarıyla eklendi</string>
     <string name="add_video">Video ekle</string>
@@ -197,6 +201,7 @@ engellenenler listesine eklendi"</string>
     <string name="click_to_update">Güncellemeleri kontrol etmek için dokunun</string>
     <string name="click_to_view">Görüntülemek için dokunun</string>
     <string name="close">Kapat</string>
+    <string name="cloud_space_not_enough">Bulut depolama alanı dolu. En son öğeleri senkronize etmek için üyeliğinizi yükseltin</string>
     <string name="cloud_state_disabled">Xiaomi bulut ile senkronizasyon kapalı</string>
     <string name="cm_privacy_dialog_allow">Kabul et</string>
     <string name="cm_privacy_dialog_cancel">İptal et</string>
@@ -250,6 +255,8 @@ engellenenler listesine eklendi"</string>
     <string name="converting_to_text_message">Metin mesajına dönüştürülüyor</string>
     <string name="converting_vcard_failed">Kişi dönüştürülemedi</string>
     <string name="copy">Kopyala</string>
+    <string name="copy_message">Kopyala</string>
+    <string name="copy_message_success">Kopyalandı</string>
     <string name="copy_message_text">Kopyala</string>
     <string name="copy_message_text_success">Kopyalandı</string>
     <string name="copy_to_sdcard">Eklentiyi kaydet</string>
@@ -747,6 +754,7 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="pref_collapse_sp_messages_summary">Mesaj bildirimlerini otomatik olarak gruplar</string>
     <string name="pref_delivery_ringtone">Teslim bildirim sesi</string>
     <string name="pref_edit_smsc_address">Kısa mesaj servis merkezi numarası</string>
+    <string name="pref_feedback_title">Geri bildirim</string>
     <string name="pref_forward_title">İlet</string>
     <string name="pref_hide_verification_code_summary">Güvenli kilit ekranında mesaj bildirimlerinde gelen tek seferlik şifreleri otomatik olarak gizle</string>
     <string name="pref_messages_to_save">Kaydedilecek mesaj sayısını belirleyin</string>
@@ -1122,6 +1130,7 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="search_menu_title">Ara</string>
     <string name="search_setting_description">Metin</string>
     <string name="search_show_more_results">Daha fazla göster</string>
+    <string name="search_sms">Mesajlarda ara</string>
     <string name="second_mms_introduction">İkinci alana git</string>
     <string name="second_mms_switch">Değiştir</string>
     <string name="secs">saniye</string>
@@ -1353,6 +1362,7 @@ Bu tür izinleri kabul etmeyi veya kişisel bilgilerinizi paylaşmayı veya yük
     <string name="title_show_photo_word">Kişilere fotoğraf ekle</string>
     <string name="title_show_sms_template">Akıllı mesajlar</string>
     <string name="title_timed_message_dialog">Zaman ayarlı mesaj ayarlayın</string>
+    <string name="title_timed_remind_message_dialog">Hatırlatma zamanını ayarla</string>
     <string name="title_use_gsm_alphabet">GSM alfabesi</string>
     <string name="to_address_label">"Kime: "</string>
     <string name="to_send_wrapper">%s tarihinde gönderilecek</string>
