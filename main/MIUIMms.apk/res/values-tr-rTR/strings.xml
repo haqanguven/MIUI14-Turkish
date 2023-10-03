@@ -356,6 +356,7 @@ Tekrar deneyin"</string>
     <string name="expire_on">Sona erme tarihi: %s</string>
     <string name="exporting_progress_private_message">Dışa aktarılıyor</string>
     <string name="fail_to_add_attachment">Eklenti eklenemedi</string>
+    <string name="fail_to_add_image">Kopyalanan öğelere erişilemedi</string>
     <string name="fail_to_view_attachment">Eklenti mevcut değil</string>
     <string name="failed_to_add_media">Bu %1$s ögesini mesajınıza ekleyemezsiniz</string>
     <string name="failed_to_resize_image">Resim boyutlandırılamadı</string>

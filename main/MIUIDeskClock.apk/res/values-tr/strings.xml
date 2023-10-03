@@ -46,6 +46,7 @@
     <string name="alarm_notify_snooze_label">%s erteleme</string>
     <string name="alarm_permanent_alert">Çalıyor</string>
     <string name="alarm_repeat">Tekrar</string>
+    <string name="alarm_repeat_self_define_button">Özelleştir</string>
     <string name="alarm_ringtone_picker">Alarmlar</string>
     <string name="alarm_set_new">Alarm %d dakikadan daha kısa sürede çalacak</string>
     <string name="alert">Zil sesi</string>
@@ -333,6 +334,7 @@
     <string name="life_post_weather_invalid">Hava durumu bilgileri alınamadı. Yeniden denemek için dokunun</string>
     <string name="life_post_weather_no_network">Hava durumu bilgilerini güncellemek için ağa bağlanın</string>
     <string name="listen_news_privacy">Saat kişiselleştirilmiş hizmetleri sunmak ve alarmlarınıza sabah haberlerini eklemek için internete bağlanmalıdır. Saat uygulamasını kullanmadan önce <a href="">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> anlaşmalarımızı okuyup kabul etmelisiniz. Kabul ediyor musunuz?</string>
+    <string name="look_sleep_data">Uyku verilerini görüntüle</string>
     <string name="midnight">Gece</string>
     <string name="miui_clock_city_name_local">Yerel</string>
     <string name="miui_clock_city_name_second">ikinci saat</string>
@@ -471,6 +473,10 @@ mm"</string>
     <string name="notification_adv_time_entries4">%d saat önceden</string>
     <string name="notification_adv_time_entries5">Hiçbiri</string>
     <string name="notification_permission_desc">Bildirim izinleri vermezseniz çaldıklarında alarmları kapatamazsınız. Şimdi izin verilsin mi?</string>
+    <string name="notification_permission_dialog_content">Alarm bildirimlerini almak için bu uygulamanın bildirim göndermesine izin verin. Bu izni ayarlardan ayarlayabilirsiniz</string>
+    <string name="notification_permission_dialog_not_open">Şimdi değil</string>
+    <string name="notification_permission_dialog_open">Ayarlar</string>
+    <string name="notification_permission_dialog_title">İzinler gerekli</string>
     <string name="oneshot_alarm">Kapandıktan sonra sil</string>
     <string name="open_keep_screen">Ekran devam edecek</string>
     <string name="open_notification_permission_remind">Alarmları kapatabilmek için bildirimlere izin verin</string>
@@ -693,6 +699,7 @@ mm"</string>
     <string name="tv_world_clock_edit_title2">Diğer kaydedilen konumlar</string>
     <string name="upcoming_alarm">Yaklaşan alarm: %s</string>
     <string name="upcoming_alarm_hint">Alarmı zamanından önce kapatabilirsiniz</string>
+    <string name="upcoming_alarm_new">Yaklaşan alarm: %s</string>
     <string name="update_health_app_desc_new">"Uyku izleme işlevi Mi Fitness tarafından sağlanmaktadır. İlgili özelliklere erişmek için Mi Fitness'ı en son sürümüne güncelleyin"</string>
     <string name="update_health_app_new">"Mi Fitness'ı güncelle"</string>
     <string name="update_it">Güncelle</string>
