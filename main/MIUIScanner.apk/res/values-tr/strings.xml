@@ -506,6 +506,7 @@
     <string name="language_entry_german">Almanca</string>
     <string name="language_entry_japanese">Japonca</string>
     <string name="language_entry_korean">Korece</string>
+    <string name="language_entry_russian">Rusça</string>
     <string name="language_entry_spanish">İspanyolca</string>
     <string name="language_translate_entry_auto">Otomatik</string>
     <string name="language_translate_entry_chinese_cn">ZH</string>
@@ -555,6 +556,7 @@
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimi kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -995,6 +997,7 @@ Bunun yerine başka bir şey tarayın"</string>
     <string name="share_as_picture">Resim olarak paylaş</string>
     <string name="share_error">Paylaşılamadı</string>
     <string name="share_format">Paylaşım formatı</string>
+    <string name="share_utils_title">Paylaş</string>
     <string name="shop_price_high">Yüksekten düşüğe</string>
     <string name="shop_price_low">Düşükten yükseğe</string>
     <string name="shopping_searching">Aranıyor</string>
