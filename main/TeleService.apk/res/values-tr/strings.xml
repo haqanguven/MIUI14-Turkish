@@ -884,7 +884,7 @@ Yine de eSim etkinleştirin mi?"</string>
     <string name="fiveg_network_mode_nsa">NSA</string>
     <string name="fiveg_network_mode_sa_nsa">SA+NSA</string>
     <string name="fiveg_network_mode_title">5G ağ modunu seç</string>
-    <string name="fiveg_network_title">5G ağları</string>
+    <string name="fiveg_network_title">5G ağlar</string>
     <string name="fiveg_nrca_switch_summary">Daha iyi bağlantı için 5G operatör toplamasını kullanın</string>
     <string name="fiveg_nrca_switch_title">5G taşıyıcı toplama</string>
     <string name="fiveg_plmn_info_list1">PLMN bilgi listesi:</string>
@@ -902,7 +902,7 @@ Yine de eSim etkinleştirin mi?"</string>
     <string name="fiveg_switch_per_slot_summary">Mobil veri bağlantı hızını artırmak için 5G kullanın</string>
     <string name="fiveg_switch_per_slot_title">5G</string>
     <string name="fiveg_switch_status1">5G anahtar durumu:</string>
-    <string name="fiveg_switch_title">5G ağı</string>
+    <string name="fiveg_switch_title">5G</string>
     <string name="fiveg_upperlayer_indication1">Üst katman gösterge furumu:</string>
     <string name="flash_when_ring_summary">Gelen aramalar için flaşı yakıp söndürür</string>
     <string name="flash_when_ring_title">Telefon çaldığında yakıp söndür</string>
@@ -2298,7 +2298,7 @@ Bu tabletin bir kulaklığı yok. Eller serbest moduna geçebilir veya arama yap
     <string name="volte_switch_title_ct">VoLTE</string>
     <string name="volte_tips_when_turn_on">Çin telekom VoLTE hizmetleri sadece LTE şebekesi kapsama alanlarında sağlanmaktadır</string>
     <string name="vonr_switch_summary">Sesli aramaların kalitesini artırmak için VoNR kullanın</string>
-    <string name="vonr_switch_title">VoNR kullan</string>
+    <string name="vonr_switch_title">VoNR</string>
     <string name="vowifi_emergency_notification_content">Mobil şebeke kapsama alanı olan alanlarda acil aramalar yapılabilir</string>
     <string name="vowifi_emergency_notification_title">Vodafone wifi aranıyor</string>
     <string name="vowifi_emergency_warning_check">Tekrar gösterme</string>
@@ -2348,7 +2348,7 @@ Mobil şebekeleri tercih etmeyi seçerseniz telefon görüşmeleri yapmak için 
     <string name="wifi_calling">Wifi arama</string>
     <string name="wifi_calling_settings_title">Wifi üzerinden aranıyor</string>
     <string name="wificall_switch_summary">Bağlantı zayıf olduğu zamanlarda cihazınız Wifi ve VoLTE arasında geçiş yapabilir</string>
-    <string name="wificall_switch_title">Wifi üzerinden ara</string>
+    <string name="wificall_switch_title">VoWifi</string>
     <string name="wild_prompt_str">Joker karakteri şununla değiştir</string>
     <string name="wrong_password">Girdiğiniz şifre doğru değil</string>
     <string name="xcap_setting_summary">Arama engelleme, sesli mesaj &amp; arama yönlendirme ve arama bekletme</string>

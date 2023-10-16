@@ -6041,7 +6041,7 @@ Cihazınızı yeniden başlatın ve tekrar deneyin"</string>
     <string name="multi_window_cvw_summary">Yüzer pencereye geçmek için köşeden sürükleyin ve boyutunu ayarlayın</string>
     <string name="multi_window_cvw_summary_global">Yüzer bir pencereye geçmek ve boyutunu ayarlamak için köşeye sürükleyin</string>
     <string name="multi_window_cvw_title">Yüzer pencere</string>
-    <string name="multifunction_keyboard">Çok fonksiyonlu</string>
+    <string name="multifunction_keyboard">Ek düğme</string>
     <string name="multiple_users_main_switch_title">Birden çok kullanıcı kullan</string>
     <string name="music_equalizer">Ekolayzır</string>
     <string name="music_playback_control_cross_device_flow">Cihazlar arasında ses çalmasını aktarın</string>
