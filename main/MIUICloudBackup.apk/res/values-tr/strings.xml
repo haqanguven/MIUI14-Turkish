@@ -31,6 +31,7 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Öğleden sonra</string>
     <string name="am">ÖÖ</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_is_running">Uygulama çalışıyor</string>
     <string name="app_name">Yedekleme</string>
     <string name="arrange_restore_order">Uygulamalar yeniden ayarlanıyor</string>
@@ -44,7 +45,6 @@
     <string name="backup_action_buy_cloud_space">Daha fazla depolama alanı edinin</string>
     <string name="backup_action_check_network">Ağ ayarlarını kontrol edin</string>
     <string name="backup_action_clean_disk_space">Yer açın</string>
-    <string name="backup_action_long_time_not_auto_backup_title">Öğelerinizi yedekleyin</string>
     <string name="backup_action_long_time_not_backup_action">Yedekle</string>
     <string name="backup_action_long_time_not_backup_title">Yakın zamanda yedekleme yok</string>
     <string name="backup_action_no_space_with_wechat_off_content">Bu cihazdaki öğeleri yedeklemek için yeterli bulut depolama alanı yok. Kullanabileceğiniz bulut depolama seçeneklerini görüntülemek için dokunun</string>
@@ -56,6 +56,7 @@
     <string name="backup_failed_reason_app_usage_denied">Öğeleri yedeklemek için gerekli izinleri verin</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Xiaomi bulutda yeterli depolama alanı yok. Planınızı yükseltin veya depolama alanını boşaltın</string>
     <string name="backup_failed_reason_disk_space_not_enough">Yeterli depolama alanı yok. İlk önce depolama alanını boşaltın</string>
+    <string name="backup_failed_reason_get_installed_apps_denied">Öğeleri yedeklemek için ayarlarda gerekli izinleri verin</string>
     <string name="backup_failed_reason_network_error">Ağ hatası. Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="backup_finished_notification_content">Yedeklenen ana ekran uygulamaları ve sistem ayarları</string>
     <string name="backup_now">Şimdi yedekle</string>

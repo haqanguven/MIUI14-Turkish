@@ -53,6 +53,7 @@
     <string name="already_ocr_result">Otomatik olarak seçilen öğeler</string>
     <string name="always">Her zaman</string>
     <string name="am">ÖÖ</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_description_content">Barkod okuyucu QR kodlarını, dökümanları, iş kartlarını ve daha fazlasını taramanıza olanak sağlar. Uygulamayı silmeden önce uygulamaya ihtiyacınız olmadığından emin olun</string>
     <string name="app_description_title">Barkod okuyucu hakkında</string>
     <string name="app_details">Uygulama:</string>
@@ -506,7 +507,6 @@
     <string name="language_entry_german">Almanca</string>
     <string name="language_entry_japanese">Japonca</string>
     <string name="language_entry_korean">Korece</string>
-    <string name="language_entry_russian">Rusça</string>
     <string name="language_entry_spanish">İspanyolca</string>
     <string name="language_translate_entry_auto">Otomatik</string>
     <string name="language_translate_entry_chinese_cn">ZH</string>

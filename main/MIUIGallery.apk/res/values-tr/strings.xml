@@ -331,7 +331,6 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="backup_automatically_title">Otomatik yedekle</string>
     <string name="backup_battery_low_desc">Öğeleri yine de yedeklemeyi seçebilirsiniz</string>
     <string name="backup_battery_low_title">Yedekleme düşük pil seviyesi nedeniyle duraklatıldı</string>
-    <string name="backup_category_title">Yedek</string>
     <string name="backup_close">Yedeklemeyi kapat</string>
     <string name="backup_cloud_space_low_btn_text">Daha fazla alan edin</string>
     <string name="backup_cloud_space_low_desc">%1$s Xiaomi bulut alanı | %2$s kullanılabilir</string>
@@ -347,10 +346,7 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="backup_dirty_num">Toplam: %s</string>
     <string name="backup_dirty_tip">Yedeklenmiş fotoğraf veya video yok</string>
     <string name="backup_disable_message">Bulutla eşitlemeyi kapattığınız için galerinin uygulama önbelleğini temizlemesi gerekiyor</string>
-    <string name="backup_display">Depolama hatırlatıcıları</string>
     <string name="backup_file_over_size_desc">"%1$s'den büyük boyutlu fotoğraflar ve %2$s'den büyük boyutlu videolar yedeklenemez"</string>
-    <string name="backup_google_description">Fotoğraflarınızı Google hesabınıza yedekleyerek güvende tutun</string>
-    <string name="backup_google_name">Google fotoğraflar</string>
     <string name="backup_immediately">Yedekle</string>
     <string name="backup_need_sync_desc">Yedeklemeye devam etmek için dokunun</string>
     <string name="backup_need_sync_title">Yedekleme işlemi durduruldu</string>
@@ -360,11 +356,7 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="backup_no_wifi_btn_text">Mobil veri kullan</string>
     <string name="backup_no_wifi_desc">Öğeleri mobil veri kullanarak da yedekleyebilirsiniz</string>
     <string name="backup_no_wifi_title">Wifi ağına bağlanmak için dokunun</string>
-    <string name="backup_off_des">Fotoğrafları ve videoları otomatik olarak yedeklemek için bulutla senkronizasyonu açın</string>
-    <string name="backup_onedrive_description">Fotoğraflarınızı bulutta koruyun ve onlara herhangi bir cihazdan erişin</string>
-    <string name="backup_onedrive_name">Microsoft OneDrive</string>
-    <string name="backup_onedrive_single_name">OneDrive</string>
-    <string name="backup_only_in_wifi">Fotoğrafları ve videoları senkronize etmek için yalnızca wifi ağını kullanın</string>
+    <string name="backup_only_in_wifi">Fotoğrafları ve videoları senkronize etmek için sadece wifi ağını kullanın</string>
     <string name="backup_only_in_wifi_summary">Fotoğraf veya videoları yedeklemek için hiçbir zaman mobil veriyi kullanmaz</string>
     <string name="backup_only_wifi_dialog_message">Fotoğrafları ve videoları yedeklemek için mobil veri kullanıyor musunuz?</string>
     <string name="backup_pause">Yedeklemeyi duraklat</string>
@@ -1114,6 +1106,7 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="confirm_recommandation_multiple_faces_are">&lt;Data> Bu kişilerin &lt;font color=#323232>&lt;b>%1$s olduğuna emin misiniz? Bu kişiler %2$s albümüne taşınacaktır&lt;/Data></string>
     <string name="confirm_recommandation_multiple_faces_not">&lt;Data> Bu kişilerin &lt;font color=#323232>&lt;b>%1$s olmadığına emin misiniz?&lt;/Data></string>
     <string name="contact_tip">Kişi</string>
+    <string name="content_preview_ratio">1:1</string>
     <string name="context_menu_add_contact">Kişilere ekle</string>
     <string name="context_menu_copy">Kopyala</string>
     <string name="context_menu_copy_notice">Panoya kopyalandı</string>
@@ -1757,6 +1750,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="help">Cihaz bulamıyor musunuz?</string>
     <string name="help_content">İhtiyacınız olan cihazı bulamıyorsanız diğer kişiden Mi paylaşımı açmasını isteyin</string>
     <string name="hidden_album_display_name">Gizli albüm</string>
+    <string name="hide_bottom_view_on_scroll_behavior">miuix.android.miracle.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hide_nearby_photos">Yakındaki fotoğrafları ve videoları gizle</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
@@ -2160,6 +2154,10 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
     <string name="miuix_indexer_collect">Koleksiyonlar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
+    <string name="miuix_item_view_role_description">Sekme</string>
+    <string name="miuix_navigator_content_switch_description">Kenar çubuğunu göster</string>
+    <string name="miuix_navigator_multiple_choice">Seç</string>
+    <string name="miuix_navigator_navigator_switch_description">Kenar çubuğunu gizle</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -3149,7 +3147,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="secret_album_password_update_dialog_title">Şifreyi güncelle</string>
     <string name="secret_album_password_update_first_user_dialog_msg">Gizlilik koruma şifresi uygulamalar, fotoğraflar, notlar, gizli klasörler vb. için çalışır</string>
     <string name="secret_album_password_update_first_user_dialog_title">Şifreyi güncelle</string>
-	<string name="secret_album_password_update_with_sms_dialog_msg">Gizlilik koruma şifresi mesajlar, fotoğraflar, notlar ve gizli klasörler için çalışır</string>
+    <string name="secret_album_password_update_with_sms_dialog_msg">Gizlilik koruma şifresi mesajlar, fotoğraflar, notlar ve gizli klasörler için çalışır</string>
     <string name="secret_album_set_pc_password_dialog_msg">Gizlilik koruma şifresi kullanılacaktır. Şifre fotoğraflar, notlar, gizli notlar vb. için çalışır</string>
     <string name="secret_album_set_pc_password_dialog_ok">Yeni şifre oluştur</string>
     <string name="secret_album_set_pc_password_dialog_title">Şifre oluşturun</string>
@@ -3164,6 +3162,18 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="security_share_subtitle_no_hide">Konum bilgisi içerir</string>
     <string name="see_ignore_faces">Yok saydığınız kişiler</string>
     <string name="see_more_settings">Ek ayarlar</string>
+    <string name="segment_change_background">Arka planı değiştir</string>
+    <string name="segment_copy">Kopyala</string>
+    <string name="segment_copy_fail">Kopyalanamadı</string>
+    <string name="segment_copy_processing">Kopyalanıyor</string>
+    <string name="segment_copy_success">Başarıyla kopyalandı</string>
+    <string name="segment_no_result">Bu fotoğrafın konusu tespit edilemedi</string>
+    <string name="segment_save">Kaydet</string>
+    <string name="segment_save_fail">Kaydedilemedi</string>
+    <string name="segment_save_processing">Kaydediliyor</string>
+    <string name="segment_save_success">Galeriye kaydedildi</string>
+    <string name="segment_send">Gönder</string>
+    <string name="segment_send_processing">Göndermeye hazırlanıyor</string>
     <string name="select_all">Tümünü seç</string>
     <string name="select_image_operation">Fotoğraf ekleniyor</string>
     <string name="select_item_face">Bu %s adlı kişi mi?</string>
@@ -3665,6 +3675,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="text_item_type_talkback_spot_yiheyuan">Yaz sarayı</string>
     <string name="text_item_type_talkback_spot_zhangjiajie">Zhang aşılama</string>
     <string name="text_recognition">Metni tanı</string>
+    <string name="text_segment">Fotoğraf kesme</string>
     <string name="text_tab_bubble">Balon</string>
     <string name="text_tab_city">Şehir</string>
     <string name="text_tab_festival">Tatil</string>
@@ -3974,7 +3985,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="video_editor_filter_blue">Mavi</string>
     <string name="video_editor_filter_cloud">Soğuk</string>
     <string name="video_editor_filter_gothic">Yeşil</string>
-    <string name="video_editor_filter_heibai">B&amp;W</string>
+    <string name="video_editor_filter_heibai">S&amp;B</string>
     <string name="video_editor_filter_jiaopian">Film</string>
     <string name="video_editor_filter_jingmi">Sakin</string>
     <string name="video_editor_filter_moon">Ay</string>

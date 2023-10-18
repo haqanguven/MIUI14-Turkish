@@ -67,6 +67,7 @@ Tekrar deneyin"</string>
     <string name="allow_network_hint">Bilgileri otomatik olarak güncelle özelliğini açın veya ağ bağlantınızı kontrol edin</string>
     <string name="already_updated">Güncel</string>
     <string name="am">ÖÖ</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_label">Mesajlar</string>
     <string name="app_name">Mesajlar</string>
     <string name="application_list_title">Mini uygulamalar</string>
@@ -232,6 +233,7 @@ Tekrar deneyin"</string>
     <string name="confirm_send_mms">Alıcılarınızdan biri bir e-posta adresi içeriyor. Bu mesaj öperatörünüz tarafından ilave ücretlendirmeye neden olabilecek olan multimedya mesajı olarak gönderilecektir</string>
     <string name="contact_card_unknown_contact">Bilinmeyen kişi</string>
     <string name="contact_not_exists">Bu kişi bağlantılarınızda yok</string>
+    <string name="content_preview_ratio">1:1</string>
     <string name="context_menu_add_calendar">Takvime ekle</string>
     <string name="context_menu_add_contact">Kişilere ekle</string>
     <string name="context_menu_add_to_browser_favorite">Tarayıcı favorilerine ekle</string>
@@ -463,6 +465,7 @@ Tekrar deneyin"</string>
     <string name="heavenly_stems_yi">2</string>
     <string name="heduohao_sub_sim_card">Sub</string>
     <string name="hidden_sender_address">Gizli gönderen adresi</string>
+    <string name="hide_bottom_view_on_scroll_behavior">miuix.android.miracle.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hold_to_talk">Konuşmak için basılı tutun</string>
     <string name="home_tab_ad">Reklam</string>
     <string name="home_tab_common">Normal</string>
@@ -566,6 +569,10 @@ Sim kartınızı kontrol edin"</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
     <string name="miuix_indexer_collect">Koleksiyonlar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
+    <string name="miuix_item_view_role_description">Sekme</string>
+    <string name="miuix_navigator_content_switch_description">Kenar çubuğunu göster</string>
+    <string name="miuix_navigator_multiple_choice">Seç</string>
+    <string name="miuix_navigator_navigator_switch_description">Kenar çubuğunu gizle</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
