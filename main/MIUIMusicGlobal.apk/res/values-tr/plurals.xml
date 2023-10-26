@@ -158,6 +158,10 @@ Not: Dosya cihazdan da silinecektir"</item>
         <item quantity="other">%d kişi talip ediyor</item>
         <item quantity="one">%d kişi talip ediyor</item>
     </plurals>
+    <plurals name="media_store_new_songs_add">
+        <item quantity="other">%d yeni şarkı</item>
+        <item quantity="one">%d yeni şarkı</item>
+    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d öğe seçildi</item>
         <item quantity="one">%d öğe seçildi</item>

@@ -126,6 +126,8 @@ Orijinal ödeme yöntemi yoluyla geri ödeme alacaksınız"</string>
     <string name="alipay_account_name_input_error">Alipay hesabı bir telefon numarası veya e-posta adresi olmalıdır</string>
     <string name="all_record">Geçmiş</string>
     <string name="allow">İzin ver</string>
+    <string name="allow_location_permission">Konum iznini aç</string>
+    <string name="allow_location_permission_message">Konum bilgisi alınamıyor. Lütfen konum iznini etkinleştirin</string>
     <string name="am">ÖÖ</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Akıllı kart internet uzantısı</string>
@@ -831,6 +833,7 @@ Bilgileri kaydetmek için kartı telefonunuzun NFC okuyucusuna yaklaştırın"</
     <string name="loading_cards_alert_title">Yükleme sonlandırılsın mı?</string>
     <string name="loading_cards_confirm_close">Çık</string>
     <string name="loading_cards_continue">Devam et</string>
+    <string name="locate_permission_description_prompt">Konum</string>
     <string name="location_permission_apply">Konum iznine erişme</string>
     <string name="location_permission_apply_for_desc">%1$s Konum bilgisine erişime izin verilsin mi?</string>
     <string name="location_permission_apply_for_title">Konum bilgisi</string>
@@ -923,6 +926,7 @@ Bilgileri kaydetmek için kartı telefonunuzun NFC okuyucusuna yaklaştırın"</
     <string name="nextpay_scan_code_union_pay_verify_order_error">Sipariş doğrulaması başarısız oldu. Lütfen yeniden ödeme yapın</string>
     <string name="nextpay_tag_not_support">NFC etiketi desteklenmiyor</string>
     <string name="nextpay_tag_union_pay">UnionPay etiket ödemesi</string>
+    <string name="nextpay_web_url_not_supported">Ziyaret ettiğiniz sayfa bulunamadı. Lütfen bu sayfaya girmek için tekrar geri dönün</string>
     <string name="nfc_off_hint">NFC kapalı. Kartlar kullanılamıyor</string>
     <string name="nfc_read_card_add_btn_title">Ekle</string>
     <string name="nfc_read_card_add_card_title">Bu cihaza kart ekle</string>
@@ -1172,6 +1176,7 @@ Bilgileri kaydetmek için kartı telefonunuzun NFC okuyucusuna yaklaştırın"</
     <string name="swiping_settings_intelligent_pick_card_summary">Kart okuyucuya ve konuma göre kaydırılacak kartı akıllıca seçin</string>
     <string name="swiping_settings_intelligent_pick_card_tips_bus">Lütfen 1 veri yolu kartı seçin</string>
     <string name="swiping_settings_intelligent_pick_card_tips_mifare">Lütfen en az 1 kapı kartı kaydırma konumunu ayarlayın</string>
+    <string name="swiping_settings_intelligent_pick_card_tips_mifare">Kartlara konum ata</string>
     <string name="swiping_settings_landscape_swipe_card_function_guide_msg">Kablosuz okuyucular yatay yüzeylere yerleştirildiğinde veya cihazınızı yatay yönde tuttuğunuzda bu özelliği kullanın</string>
     <string name="swiping_settings_landscape_swipe_card_function_guide_title">Bu özelliği açtıktan sonra cihazınız yatay konumdayken kullanılacak varsayılan kartı ayarlayabileceksiniz. Önceden ayarlanmış varsayılan kart cihazınız yatay konumdayken kullanılacak dikey yönlendirme</string>
     <string name="swiping_settings_landscape_swipe_card_function_summary">Varsayılan kartı yatay yönde ayarla (%1$s)</string>
@@ -1258,6 +1263,7 @@ Bilgileri kaydetmek için kartı telefonunuzun NFC okuyucusuna yaklaştırın"</
     <string name="tips_for_user">NFC özellikleri</string>
     <string name="to_add_fingerprint">Ekle</string>
     <string name="to_add_fingerprint_timeout_positive_text">Eklemek için</string>
+    <string name="to_allow_it">Açmak için</string>
     <string name="today">Bugün</string>
     <string name="token2_fast_bind_bank_card">Banka kartınızı hızlı bir şekilde bağlayın</string>
     <string name="token2_fast_bind_bank_card_title">Hızlı bağlama</string>

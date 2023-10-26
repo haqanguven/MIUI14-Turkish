@@ -216,7 +216,6 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="always_bcc_myself">Her zaman bilgi kısmına beni ekle</string>
     <string name="am">ÖÖ</string>
     <string name="androidx_startup">androidx.startup</string>
-    <string name="app_loading">Yükleniyor</string>
     <string name="app_name">E-posta</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="application_mime_type">application/email-ls</string>
@@ -268,6 +267,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="authority_email_provider">com.android.email.provider</string>
     <string name="auto_login_fail">Otomatik olarak oturum açılamadı</string>
     <string name="auto_login_fail_to_retry">Otomatik olarak oturum açılamadı. Tekrar deneyin</string>
+    <string name="auto_start_open_prompt">E-postalarınızı senkronize edebilmek için uygulamanın otomatik olarak başlatılmasına izin verin. Bu izni ayarlardan verebilirsiniz</string>
     <string name="bContact_list_search_hint">Engellenen kişileri ara</string>
     <string name="b_contacts">Engellenenler listesi</string>
     <string name="b_contacts_remove">Engellenenler listesinden kaldır</string>
@@ -283,17 +283,12 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="bottom_bar_more_pdf">"PDF'ye aktar"</string>
     <string name="bottom_bar_more_pdf_exporting">Aktarılıyor</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
-    <string name="broker_helper_manifest">AndroidManifest.xml için amaç filtresi</string>
-    <string name="broker_helper_package">Uygulamayı kaydederken girilecek paket adı</string>
-    <string name="broker_helper_redirect">Yapılandırma json dosyası için bağlantıyı yeniden yönlendir</string>
-    <string name="broker_helper_signature">Uygulamayı kaydederken girilecek imza</string>
-    <string name="broker_helper_title">MSAL yönlendirme bağlantı Bilgisi</string>
-    <string name="broker_processing">Broker işleniyor</string>
     <string name="bytes">%s B</string>
     <string name="calendar_remind_dialog_title">Daha sonra hatırlat</string>
     <string name="calendar_remind_gridview_pick_date">Tarih seçin</string>
     <string name="cancel">İptal et</string>
     <string name="cancel_action">İptal et</string>
+    <string name="cancel_edit">Düzenlemeyi durdur</string>
     <string name="cc">Bilgi</string>
     <string name="cc_attribution">Bilgi: %1$s&lt;br></string>
     <string name="cc_bcc">Bilgi veya kopya</string>
@@ -519,6 +514,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="drive_card_code">Çıkarma kodu</string>
     <string name="drive_card_tips">%s tarafından paylaşılan bağlantı bulundu</string>
     <string name="drive_card_title">Disk bağlantısı</string>
+    <string name="drop_sign_operation">Şimdi düzenleme durdurulup tüm değişiklikler silinsin mi?</string>
     <string name="dtend">Uçlar</string>
     <string name="dtstart">Başlar</string>
     <string name="early_morning">ÖÖ</string>
@@ -572,6 +568,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="empty" />
     <string name="empty_account_tip">Hesap bulunamadı</string>
     <string name="empty_email_tip">Boş mesaj gönderilemiyor</string>
+    <string name="encrypt_app_aes_key">cRCaZZvSn73In2mMPjjFHeE0sEcfyB6h</string>
     <string name="enumeration_delimiter">" | "</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
@@ -769,12 +766,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
     <string name="hierarchical_folder_top">%1$s∕</string>
     <string name="how_to_login_icloud">iCloud hesabında nasıl oturum açılır</string>
-    <string name="http_auth_dialog_cancel">İptal et</string>
-    <string name="http_auth_dialog_login">Oturum aç</string>
-    <string name="http_auth_dialog_password">Şifre</string>
-    <string name="http_auth_dialog_title">Kimlik bilgilerinizi girin</string>
-    <string name="http_auth_dialog_username">Kullanıcı adı</string>
-    <string name="icloud_login_tips">iCloud postanızla kullanmak için burada bir parola oluşturabilirsiniz: iCloud.com</string>
+    <string name="icloud_login_tips">YiCloud postanızla kullanmak için buradan bir şifre oluşturabilirsiniz: iCloud.com</string>
     <string name="icloud_login_tips_url_part">iCloud.com</string>
     <string name="icloud_official_url">https://appleid.apple.com/</string>
     <string name="icon_content_description">İletişim simgesi</string>
@@ -902,6 +894,7 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="message_all_body">Tam metin</string>
     <string name="message_body_load_set_description">Mobil veri kullanıyorken e-posta yükle</string>
     <string name="message_discarded">Taslak kaydedilmedi</string>
+    <string name="message_forward_has_signature_pdf">İmzalı PDF ekleriyle mi iletiyorsunuz?</string>
     <string name="message_invite_accept">Evet</string>
     <string name="message_invite_calendar_download_prompt">Bu özelliği kullanabilmek için takvim uygulamasını indirin</string>
     <string name="message_invite_calendar_view">Takvimde görüntüle</string>
@@ -926,6 +919,7 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -941,11 +935,6 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yükleniyor</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
-    <string name="miuix_search_action_mode_cancel">İptal et</string>
-    <string name="miuix_search_history_clear">Arama geçmişini temizle</string>
-    <string name="miuix_search_history_default_title">Arama geçmişi</string>
-    <string name="miuix_search_recommendation_default_title">Bunlar ilginizi çekebilir</string>
-    <string name="miuix_search_recommendation_item_del_des">Sil</string>
     <string name="monday">Pazartesi</string>
     <string name="monday_short">Pazartesi</string>
     <string name="monday_shortest">P</string>
@@ -1099,6 +1088,7 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="open_pdf_error">PDF dosyası açılamadı. Lütfen diğer PDF açma araçlarını indirin ve daha sonra tekrar deneyin</string>
     <string name="operation_settging">Eylemler</string>
     <string name="optimization_suggestion">Optimizasyon önerisi</string>
+    <string name="other_pdf_open">Bununla aç</string>
     <string name="others_mail">Diğer</string>
     <string name="outbox_alert_button_no_resend">Gönderilemedi</string>
     <string name="outbox_alert_button_resend">Tekrar gönder</string>
@@ -1139,6 +1129,7 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="pdf_has_signature_prompt_confirm">Kopyala</string>
     <string name="pdf_has_signature_prompt_message">Bu ekin imzalı bir kopyası tespit edildi. Açık ya da değil mi?</string>
     <string name="pdf_save_error">Gövde çok büyük. PDF dosyası olarak dışa aktarılamaz</string>
+    <string name="pdf_save_local">"Cihaza başarıyla kaydedildi: "</string>
     <string name="pdf_save_no_body">Metnin başarıyla yüklenmesini bekleyin ve tekrar deneyin</string>
     <string name="pdf_save_to">Kaydedildi</string>
     <string name="pdf_signature_add">Yeni bir imza ekle</string>
@@ -1147,11 +1138,10 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="pdf_signature_manager_max_count">Maksimum imza sayısı. Lütfen mevcut imzayı silin ve tekrar deneyin</string>
     <string name="pdf_signature_manager_title">İmza yöneticisi</string>
     <string name="pdf_signature_select">İmza seçin</string>
-    <string name="pdf_viewer_actionbar_more_other">Başka bir uygulama tarafından aç</string>
-    <string name="pdf_viewer_actionbar_more_wps">WPS ile aç</string>
-    <string name="pdf_viewer_file_damage_toast">PDF dosyası bozuk. Lütfen dosyayı kontrol edin ve tekrar deneyin</string>
+   <string name="pdf_viewer_file_damage_toast">PDF dosyası bozuk. Lütfen dosyayı kontrol edin ve tekrar deneyin</string>
     <string name="pdf_viewer_new_email">Yeni e-posta</string>
-    <string name="pdf_viewer_reply">Bu dosya ile yanıtla</string>
+    <string name="pdf_viewer_reply">Yanıtla</string>
+    <string name="pdf_viewer_reply_all">Herkese bu dosyayla yanıt ver</string>
     <string name="pdf_viewer_save_signature">İmzayı kaydet</string>
     <string name="pdf_viewer_sign_file_damage_toast">Dosya mevcut değil</string>
     <string name="pdf_viewer_signature">PDF imzası</string>
@@ -1178,6 +1168,7 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="personal_data_collection_summary">Anahtar açıldığında kişisel verilerinizi toplayabileceğimizi kabul edersiniz. İstediğiniz zaman kapatmayı değiştirebilir, yetkilendirmenizi iptal edebilir ve verilerinizi sunucularımızdan silebilirsiniz</string>
     <string name="personal_data_collection_title">Kişisel verilerin toplanması</string>
     <string name="pl_select_age">Lütfen yaş seçiniz</string>
+    <string name="please_save_sign_first">Önce imzayı kaydet</string>
     <string name="pm">ÖS</string>
     <string name="pop3_name">POP3</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
@@ -1253,6 +1244,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="reply_subject_label">Konu:</string>
     <string name="request_copy_db_to_disk">Mail veri tabanınızı bir dosyaya kopyalamayı istiyor</string>
     <string name="request_entity_large">Dosya çok büyük</string>
+    <string name="required_permissions">android.permission.POST_NOTIFICATIONS</string>
     <string name="respond_inline_text">Orijinal e-postayı düzenle</string>
     <string name="restart_detail_conversation_options1">1 dakika</string>
     <string name="restart_detail_conversation_options2">5 dakika</string>
@@ -1265,6 +1257,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>
     <string name="save_draft_failed">Taslak kaydı başarısız</string>
+    <string name="save_sign_pdf">Cihaza kaydet</string>
     <string name="search_bar_text">İleti ve kişileri arayın</string>
     <string name="search_menu_title">Ara</string>
     <string name="search_remote_again">Ağ kullanılamıyor. Yeniden deneyi tıklayın</string>
@@ -1358,6 +1351,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="sign_in_dialog_office365">Ofis 365</string>
     <string name="sign_in_dialog_outlook_enterprise">İş (Takvimsiz)</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (Takvimsiz)</string>
+    <string name="sign_in_dialog_title">Giriş yöntemini seçin</string>
     <string name="sign_in_no_useful_provider_error">"Microsoft'tan protokol yapılandırmaları alınamıyor. Farklı bir protokol kullanın veya protokolü Microsoft'tan güncelleyin"</string>
     <string name="signature">"
 
